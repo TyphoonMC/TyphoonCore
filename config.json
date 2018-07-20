@@ -1,0 +1,14 @@
+{
+  "listen_address": ":25565",
+  "max_players": 100,
+  "motd": "Typhoon server",
+  "restricted": false,
+  "logs": true,
+  "enable_compression": false,
+  "compression_threshold": 256,
+  "buffer_config":  {
+    "handshake_address": 300,
+    "player_name": 16,
+    "chat_message": 32767
+  }
+}
