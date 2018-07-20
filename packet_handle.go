@@ -7,10 +7,10 @@ import (
 )
 
 type PacketHandshake struct {
-	protocol Protocol
-	address  string
-	port     uint16
-	state    State
+	Protocol Protocol
+	Address  string
+	Port     uint16
+	State    State
 }
 
 func (packet *PacketHandshake) Read(player *Player, length int) (err error) {
@@ -19,13 +19,13 @@ func (packet *PacketHandshake) Read(player *Player, length int) (err error) {
 		log.Print(err)
 		return
 	}
-	packet.protocol = Protocol(protocol)
-	packet.address, err = player.ReadStringLimited(config.BufferConfig.HandshakeAddress)
+	packet.Protocol = Protocol(protocol)
+	packet.Address, err = player.ReadStringLimited(config.BufferConfig.HandshakeAddress)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	packet.port, err = player.ReadUInt16()
+	packet.Port, err = player.ReadUInt16()
 	if err != nil {
 		log.Print(err)
 		return
@@ -35,17 +35,17 @@ func (packet *PacketHandshake) Read(player *Player, length int) (err error) {
 		log.Print(err)
 		return
 	}
-	packet.state = State(state)
+	packet.State = State(state)
 	return
 }
 func (packet *PacketHandshake) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketHandshake) Handle(player *Player) {
-	player.state = packet.state
-	player.protocol = packet.protocol
-	player.inaddr.address = packet.address
-	player.inaddr.port = packet.port
+	player.state = packet.State
+	player.protocol = packet.Protocol
+	player.inaddr.address = packet.Address
+	player.inaddr.port = packet.Port
 }
 func (packet *PacketHandshake) Id() int {
 	return 0x00
@@ -68,12 +68,12 @@ func (packet *PacketStatusRequest) Handle(player *Player) {
 	max_players := config.MaxPlayers
 	motd := config.Motd
 
-	if max_players < players_count && !config.Restricted {
-		max_players = players_count
+	if max_players < playersCount && !config.Restricted {
+		max_players = playersCount
 	}
 
 	response := PacketStatusResponse{
-		response: fmt.Sprintf(`{"version":{"name":"Typhoon","protocol":%d},"players":{"max":%d,"online":%d,"sample":[]},"description":{"text":"%s"},"favicon":"%s","modinfo":{"type":"FML","modList":[]}}`, protocol, max_players, players_count, JsonEscape(motd), JsonEscape(favicon)),
+		Response: fmt.Sprintf(`{"version":{"name":"Typhoon","protocol":%d},"players":{"max":%d,"online":%d,"sample":[]},"description":{"text":"%s"},"favicon":"%s","modinfo":{"type":"FML","modList":[]}}`, protocol, max_players, playersCount, JsonEscape(motd), JsonEscape(favicon)),
 	}
 	player.WritePacket(&response)
 }
@@ -82,14 +82,14 @@ func (packet *PacketStatusRequest) Id() int {
 }
 
 type PacketStatusResponse struct {
-	response string
+	Response string
 }
 
 func (packet *PacketStatusResponse) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketStatusResponse) Write(player *Player) (err error) {
-	err = player.WriteString(packet.response)
+	err = player.WriteString(packet.Response)
 	if err != nil {
 		log.Print(err)
 		return
@@ -102,11 +102,11 @@ func (packet *PacketStatusResponse) Id() int {
 }
 
 type PacketStatusPing struct {
-	time uint64
+	Time uint64
 }
 
 func (packet *PacketStatusPing) Read(player *Player, length int) (err error) {
-	packet.time, err = player.ReadUInt64()
+	packet.Time, err = player.ReadUInt64()
 	if err != nil {
 		log.Print(err)
 		return
@@ -114,7 +114,7 @@ func (packet *PacketStatusPing) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketStatusPing) Write(player *Player) (err error) {
-	err = player.WriteUInt64(packet.time)
+	err = player.WriteUInt64(packet.Time)
 	if err != nil {
 		log.Print(err)
 		return
@@ -129,11 +129,11 @@ func (packet *PacketStatusPing) Id() int {
 }
 
 type PacketLoginStart struct {
-	username string
+	Username string
 }
 
 func (packet *PacketLoginStart) Read(player *Player, length int) (err error) {
-	packet.username, err = player.ReadStringLimited(config.BufferConfig.PlayerName)
+	packet.Username, err = player.ReadStringLimited(config.BufferConfig.PlayerName)
 	if err != nil {
 		log.Print(err)
 		return
@@ -146,13 +146,13 @@ func (packet *PacketLoginStart) Write(player *Player) (err error) {
 
 var (
 	join_game = PacketPlayJoinGame{
-		entity_id:     0,
-		gamemode:      SPECTATOR,
-		dimension:     END,
-		difficulty:    NORMAL,
-		level_type:    DEFAULT,
-		max_players:   0xFF,
-		reduced_debug: false,
+		EntityId:     0,
+		Gamemode:     SPECTATOR,
+		Dimension:    END,
+		Difficulty:   NORMAL,
+		LevelType:    DEFAULT,
+		MaxPlayers:   0xFF,
+		ReducedDebug: false,
 	}
 	position_look = PacketPlayerPositionLook{}
 )
@@ -165,11 +165,11 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 
 	max_players := config.MaxPlayers
 
-	if max_players <= players_count && config.Restricted {
+	if max_players <= playersCount && config.Restricted {
 		player.LoginKick("Server is full")
 	}
 
-	player.name = packet.username
+	player.name = packet.Username
 
 	if config.Compression && player.protocol >= V1_8 {
 		setCompression := PacketSetCompression{config.Threshold}
@@ -178,8 +178,8 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 	}
 
 	success := PacketLoginSuccess{
-		uuid:     player.uuid,
-		username: player.name,
+		UUID:     player.uuid,
+		Username: player.name,
 	}
 	player.WritePacket(&success)
 	player.state = PLAY
@@ -188,29 +188,23 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 	player.WritePacket(&join_game)
 	player.WritePacket(&position_look)
 
-	if &join_message != nil {
-		player.WritePacket(&join_message)
-	}
-	if &bossbar_create != nil {
-		player.WritePacket(&bossbar_create)
-	}
-	if &playerlist_hf != nil {
-		player.WritePacket(&playerlist_hf)
-	}
+	player.core.CallEvent(&PlayerJoinEvent{
+		player,
+	})
 }
 func (packet *PacketLoginStart) Id() int {
 	return 0x00
 }
 
 type PacketLoginDisconnect struct {
-	component string
+	Component string
 }
 
 func (packet *PacketLoginDisconnect) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketLoginDisconnect) Write(player *Player) (err error) {
-	err = player.WriteString(packet.component)
+	err = player.WriteString(packet.Component)
 	if err != nil {
 		log.Print(err)
 		return
@@ -223,20 +217,20 @@ func (packet *PacketLoginDisconnect) Id() int {
 }
 
 type PacketLoginSuccess struct {
-	uuid     string
-	username string
+	UUID     string
+	Username string
 }
 
 func (packet *PacketLoginSuccess) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketLoginSuccess) Write(player *Player) (err error) {
-	err = player.WriteString(packet.uuid)
+	err = player.WriteString(packet.UUID)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteString(packet.username)
+	err = player.WriteString(packet.Username)
 	if err != nil {
 		log.Print(err)
 		return
@@ -249,14 +243,14 @@ func (packet *PacketLoginSuccess) Id() int {
 }
 
 type PacketSetCompression struct {
-	threshold int
+	Threshold int
 }
 
 func (packet *PacketSetCompression) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketSetCompression) Write(player *Player) (err error) {
-	err = player.WriteVarInt(packet.threshold)
+	err = player.WriteVarInt(packet.Threshold)
 	if err != nil {
 		log.Print(err)
 		return
@@ -269,11 +263,11 @@ func (packet *PacketSetCompression) Id() int {
 }
 
 type PacketPlayChat struct {
-	message string
+	Message string
 }
 
 func (packet *PacketPlayChat) Read(player *Player, length int) (err error) {
-	packet.message, err = player.ReadStringLimited(config.BufferConfig.ChatMessage)
+	packet.Message, err = player.ReadStringLimited(config.BufferConfig.ChatMessage)
 	if err != nil {
 		log.Print(err)
 		return
@@ -284,11 +278,15 @@ func (packet *PacketPlayChat) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayChat) Handle(player *Player) {
-	if len(packet.message) > 0 && packet.message[0] != '/' {
-		player.WritePacket(&PacketPlayMessage{
-			component: fmt.Sprintf(`{"text":"<%s> %s"}`, player.name, JsonEscape(packet.message)),
-			position:  CHAT_BOX,
-		})
+	if len(packet.Message) > 0 {
+		if packet.Message[0] != '/' {
+			player.core.CallEvent(&PlayerChatEvent{
+				player,
+				packet.Message,
+			})
+		} else {
+			//TODO handle commands
+		}
 	}
 }
 func (packet *PacketPlayChat) Id() int {
@@ -296,21 +294,21 @@ func (packet *PacketPlayChat) Id() int {
 }
 
 type PacketPlayMessage struct {
-	component string
-	position  ChatPosition
+	Component string
+	Position  ChatPosition
 }
 
 func (packet *PacketPlayMessage) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketPlayMessage) Write(player *Player) (err error) {
-	err = player.WriteString(packet.component)
+	err = player.WriteString(packet.Component)
 	if err != nil {
 		log.Print(err)
 		return
 	}
 	if player.protocol > V1_7_6 {
-		err = player.WriteUInt8(uint8(packet.position))
+		err = player.WriteUInt8(uint8(packet.Position))
 		if err != nil {
 			log.Print(err)
 			return
@@ -324,57 +322,57 @@ func (packet *PacketPlayMessage) Id() int {
 }
 
 type PacketBossBar struct {
-	uuid     uuid.UUID
-	action   BossBarAction
-	title    string
-	health   float32
-	color    BossBarColor
-	division BossBarDivision
-	flags    uint8
+	UUID     uuid.UUID
+	Action   BossBarAction
+	Title    string
+	Health   float32
+	Color    BossBarColor
+	Division BossBarDivision
+	Flags    uint8
 }
 
 func (packet *PacketBossBar) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketBossBar) Write(player *Player) (err error) {
-	err = player.WriteUUID(packet.uuid)
+	err = player.WriteUUID(packet.UUID)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteVarInt(int(packet.action))
+	err = player.WriteVarInt(int(packet.Action))
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	if packet.action == BOSSBAR_UPDATE_TITLE || packet.action == BOSSBAR_ADD {
-		err = player.WriteString(packet.title)
+	if packet.Action == BOSSBAR_UPDATE_TITLE || packet.Action == BOSSBAR_ADD {
+		err = player.WriteString(packet.Title)
 		if err != nil {
 			log.Print(err)
 			return
 		}
 	}
-	if packet.action == BOSSBAR_UPDATE_HEALTH || packet.action == BOSSBAR_ADD {
-		err = player.WriteFloat32(packet.health)
+	if packet.Action == BOSSBAR_UPDATE_HEALTH || packet.Action == BOSSBAR_ADD {
+		err = player.WriteFloat32(packet.Health)
 		if err != nil {
 			log.Print(err)
 			return
 		}
 	}
-	if packet.action == BOSSBAR_UPDATE_STYLE || packet.action == BOSSBAR_ADD {
-		err = player.WriteVarInt(int(packet.color))
+	if packet.Action == BOSSBAR_UPDATE_STYLE || packet.Action == BOSSBAR_ADD {
+		err = player.WriteVarInt(int(packet.Color))
 		if err != nil {
 			log.Print(err)
 			return
 		}
-		err = player.WriteVarInt(int(packet.division))
+		err = player.WriteVarInt(int(packet.Division))
 		if err != nil {
 			log.Print(err)
 			return
 		}
 	}
-	if packet.action == BOSSBAR_UPDATE_STYLE || packet.action == BOSSBAR_ADD {
-		err = player.WriteUInt8(packet.flags)
+	if packet.Action == BOSSBAR_UPDATE_STYLE || packet.Action == BOSSBAR_ADD {
+		err = player.WriteUInt8(packet.Flags)
 		if err != nil {
 			log.Print(err)
 			return
@@ -388,13 +386,13 @@ func (packet *PacketBossBar) Id() int {
 }
 
 type PacketPlayPluginMessage struct {
-	channel string
-	data    []byte
+	Channel string
+	Data    []byte
 }
 
 func (packet *PacketPlayPluginMessage) Read(player *Player, length int) (err error) {
 	var read int
-	packet.channel, read, err = player.ReadNStringLimited(20)
+	packet.Channel, read, err = player.ReadNStringLimited(20)
 	if err != nil {
 		log.Print(err)
 		return
@@ -410,7 +408,7 @@ func (packet *PacketPlayPluginMessage) Read(player *Player, length int) (err err
 		dataLength = int(sread)
 	}
 
-	packet.data, err = player.ReadByteArray(dataLength)
+	packet.Data, err = player.ReadByteArray(dataLength)
 	if err != nil {
 		log.Print(err)
 		return
@@ -418,19 +416,19 @@ func (packet *PacketPlayPluginMessage) Read(player *Player, length int) (err err
 	return
 }
 func (packet *PacketPlayPluginMessage) Write(player *Player) (err error) {
-	err = player.WriteString(packet.channel)
+	err = player.WriteString(packet.Channel)
 	if err != nil {
 		log.Print(err)
 		return
 	}
 	if player.protocol < V1_8 {
-		err = player.WriteUInt16(uint16(len(packet.data)))
+		err = player.WriteUInt16(uint16(len(packet.Data)))
 		if err != nil {
 			log.Print(err)
 			return err
 		}
 	}
-	err = player.WriteByteArray(packet.data)
+	err = player.WriteByteArray(packet.Data)
 	if err != nil {
 		log.Print(err)
 		return
@@ -438,11 +436,11 @@ func (packet *PacketPlayPluginMessage) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayPluginMessage) Handle(player *Player) {
-	if packet.channel == "MC|Brand" || packet.channel == "minecraft:brand" {
-		log.Printf("%s is using %s client", player.name, string(packet.data))
+	if packet.Channel == "MC|Brand" || packet.Channel == "minecraft:brand" {
+		log.Printf("%s is using %s client", player.name, string(packet.Data))
 		player.WritePacket(&PacketPlayPluginMessage{
-			packet.channel,
-			[]byte("typhoonlimbo"),
+			packet.Channel,
+			[]byte(player.core.brand),
 		})
 	}
 }
@@ -451,14 +449,14 @@ func (packet *PacketPlayPluginMessage) Id() int {
 }
 
 type PacketPlayDisconnect struct {
-	component string
+	Component string
 }
 
 func (packet *PacketPlayDisconnect) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketPlayDisconnect) Write(player *Player) (err error) {
-	err = player.WriteString(packet.component)
+	err = player.WriteString(packet.Component)
 	if err != nil {
 		log.Print(err)
 		return
@@ -471,20 +469,20 @@ func (packet *PacketPlayDisconnect) Id() int {
 }
 
 type PacketPlayKeepAlive struct {
-	id int
+	Identifier int
 }
 
 func (packet *PacketPlayKeepAlive) Read(player *Player, length int) (err error) {
 	if player.protocol >= V1_12_2 {
 		id, stt := player.ReadUInt64()
-		packet.id = int(id)
+		packet.Identifier = int(id)
 		err = stt
 	} else if player.protocol <= V1_7_6 {
 		id, stt := player.ReadUInt32()
-		packet.id = int(id)
+		packet.Identifier = int(id)
 		err = stt
 	} else {
-		packet.id, err = player.ReadVarInt()
+		packet.Identifier, err = player.ReadVarInt()
 	}
 	if err != nil {
 		log.Print(err)
@@ -494,11 +492,11 @@ func (packet *PacketPlayKeepAlive) Read(player *Player, length int) (err error) 
 }
 func (packet *PacketPlayKeepAlive) Write(player *Player) (err error) {
 	if player.protocol >= V1_12_2 {
-		err = player.WriteUInt64(uint64(packet.id))
+		err = player.WriteUInt64(uint64(packet.Identifier))
 	} else if player.protocol <= V1_7_6 {
-		err = player.WriteUInt32(uint32(packet.id))
+		err = player.WriteUInt32(uint32(packet.Identifier))
 	} else {
-		err = player.WriteVarInt(packet.id)
+		err = player.WriteVarInt(packet.Identifier)
 	}
 	if err != nil {
 		log.Print(err)
@@ -508,11 +506,11 @@ func (packet *PacketPlayKeepAlive) Write(player *Player) (err error) {
 }
 func (packet *PacketPlayKeepAlive) Handle(player *Player) {
 	if player.protocol > V1_8 {
-		if player.keepalive != packet.id {
+		if player.keepalive != packet.Identifier {
 			player.Kick("Invalid keepalive")
 		}
 	} else {
-		player.keepalive = packet.id
+		player.keepalive = packet.Identifier
 	}
 	player.keepalive = 0
 }
@@ -521,13 +519,13 @@ func (packet *PacketPlayKeepAlive) Id() int {
 }
 
 type PacketPlayJoinGame struct {
-	entity_id     uint32
-	gamemode      Gamemode
-	dimension     Dimension
-	difficulty    Difficulty
-	max_players   uint8
-	level_type    LevelType
-	reduced_debug bool
+	EntityId     uint32
+	Gamemode     Gamemode
+	Dimension    Dimension
+	Difficulty   Difficulty
+	MaxPlayers   uint8
+	LevelType    LevelType
+	ReducedDebug bool
 }
 
 func (packet *PacketPlayJoinGame) Read(player *Player, length int) (err error) {
@@ -535,41 +533,41 @@ func (packet *PacketPlayJoinGame) Read(player *Player, length int) (err error) {
 }
 func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 	if player.protocol <= V1_9 {
-		err = player.WriteUInt8(uint8(packet.entity_id))
+		err = player.WriteUInt8(uint8(packet.EntityId))
 	} else {
-		err = player.WriteUInt32(packet.entity_id)
+		err = player.WriteUInt32(packet.EntityId)
 	}
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteUInt8(uint8(packet.gamemode))
+	err = player.WriteUInt8(uint8(packet.Gamemode))
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteUInt32(uint32(packet.dimension))
+	err = player.WriteUInt32(uint32(packet.Dimension))
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteUInt8(uint8(packet.difficulty))
+	err = player.WriteUInt8(uint8(packet.Difficulty))
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteUInt8(packet.max_players)
+	err = player.WriteUInt8(packet.MaxPlayers)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteString(string(packet.level_type))
+	err = player.WriteString(string(packet.LevelType))
 	if err != nil {
 		log.Print(err)
 		return
 	}
 	if player.protocol > V1_7_6 {
-		err = player.WriteBool(packet.reduced_debug)
+		err = player.WriteBool(packet.ReducedDebug)
 		if err != nil {
 			log.Print(err)
 			return
@@ -583,51 +581,51 @@ func (packet *PacketPlayJoinGame) Id() int {
 }
 
 type PacketPlayerPositionLook struct {
-	x           float64
-	y           float64
-	z           float64
-	yaw         float32
-	pitch       float32
-	flags       uint8
-	teleport_id int
+	X          float64
+	Y          float64
+	Z          float64
+	Yaw        float32
+	Pitch      float32
+	Flags      uint8
+	TeleportId int
 }
 
 func (packet *PacketPlayerPositionLook) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketPlayerPositionLook) Write(player *Player) (err error) {
-	err = player.WriteFloat64(packet.x)
+	err = player.WriteFloat64(packet.X)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteFloat64(packet.y)
+	err = player.WriteFloat64(packet.Y)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteFloat64(packet.z)
+	err = player.WriteFloat64(packet.Z)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteFloat32(packet.yaw)
+	err = player.WriteFloat32(packet.Yaw)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteFloat32(packet.pitch)
+	err = player.WriteFloat32(packet.Pitch)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	err = player.WriteUInt8(packet.flags)
+	err = player.WriteUInt8(packet.Flags)
 	if err != nil {
 		log.Print(err)
 		return
 	}
 	if player.protocol > V1_8 {
-		err = player.WriteVarInt(packet.teleport_id)
+		err = player.WriteVarInt(packet.TeleportId)
 		if err != nil {
 			log.Print(err)
 			return
@@ -641,8 +639,8 @@ func (packet *PacketPlayerPositionLook) Id() int {
 }
 
 type PacketPlayerListHeaderFooter struct {
-	header *string
-	footer *string
+	Header *string
+	Footer *string
 }
 
 func (packet *PacketPlayerListHeaderFooter) Read(player *Player, length int) (err error) {
@@ -650,20 +648,20 @@ func (packet *PacketPlayerListHeaderFooter) Read(player *Player, length int) (er
 }
 func (packet *PacketPlayerListHeaderFooter) Write(player *Player) (err error) {
 	var str string
-	if packet.header == nil {
+	if packet.Header == nil {
 		str = `{"translate":""}`
 	} else {
-		str = *packet.header
+		str = *packet.Header
 	}
 	err = player.WriteString(str)
 	if err != nil {
 		log.Print(err)
 		return
 	}
-	if packet.footer == nil {
+	if packet.Footer == nil {
 		str = `{"translate":""}`
 	} else {
-		str = *packet.footer
+		str = *packet.Footer
 	}
 	err = player.WriteString(str)
 	if err != nil {

@@ -37,7 +37,7 @@ var (
 	serverbound = make(map[Protocol]map[int]int)
 )
 
-func InitHacks() {
+func initHacks() {
 	// Hack 1.8
 	clientbound[V1_8] = make(map[int]int)
 	clientbound[V1_8][0x00] = 0x0E

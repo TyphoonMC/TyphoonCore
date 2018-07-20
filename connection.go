@@ -154,6 +154,7 @@ type InAddr struct {
 }
 
 type Player struct {
+	core        *Core
 	id          int
 	conn        net.Conn
 	io          *ConnReadWrite
@@ -164,6 +165,14 @@ type Player struct {
 	uuid        string
 	keepalive   int
 	compression bool
+}
+
+func (player *Player) GetName() string {
+	return player.name
+}
+
+func (player *Player) GetUUID() string {
+	return player.uuid
 }
 
 func (player *Player) ReadPacket() (packet Packet, err error) {

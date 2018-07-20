@@ -8,43 +8,49 @@ import (
 	"time"
 )
 
-var (
-	connCounter = 0
-)
-
-type Typhoon struct {
-	//TODO
+type Core struct {
+	connCounter   int
+	eventHandlers map[string][]interface{}
+	brand         string
 }
 
-func Init() *Typhoon {
-	InitConfig()
-	InitPackets()
-	InitHacks()
-	return &Typhoon{}
+func Init() *Core {
+	initConfig()
+	initPackets()
+	initHacks()
+	return &Core{
+		0,
+		make(map[string][]interface{}),
+		"typhoon",
+	}
 }
 
-func (*Typhoon) Start() {
+func (c *Core) Start() {
 	ln, err := net.Listen("tcp", config.ListenAddress)
 	if err != nil {
 		log.Fatal(err)
 	}
 	log.Println("Server launched on port", config.ListenAddress)
-	go KeepAlive()
+	go c.keepAlive()
 	for {
 		conn, err := ln.Accept()
 		if err != nil {
 			log.Print(err)
 		} else {
-			connCounter += 1
-			go HandleConnection(conn, connCounter)
+			c.connCounter += 1
+			go c.handleConnection(conn, c.connCounter)
 		}
 	}
 }
 
-func KeepAlive() {
+func (c *Core) SetBrand(brand string) {
+	c.brand = brand
+}
+
+func (c *Core) keepAlive() {
 	r := rand.New(rand.NewSource(15768735131534))
 	keepalive := &PacketPlayKeepAlive{
-		id: 0,
+		Identifier: 0,
 	}
 	for {
 		playersMutex.Lock()
@@ -55,7 +61,7 @@ func KeepAlive() {
 				}
 
 				id := int(r.Int31())
-				keepalive.id = id
+				keepalive.Identifier = id
 				player.keepalive = id
 				player.WritePacket(keepalive)
 			}
@@ -65,10 +71,11 @@ func KeepAlive() {
 	}
 }
 
-func HandleConnection(conn net.Conn, id int) {
+func (c *Core) handleConnection(conn net.Conn, id int) {
 	log.Printf("%s(#%d) connected.", conn.RemoteAddr().String(), id)
 
 	player := &Player{
+		core:     c,
 		id:       id,
 		conn:     conn,
 		state:    HANDSHAKING,

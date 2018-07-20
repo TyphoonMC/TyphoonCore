@@ -20,7 +20,7 @@ func PacketTypeHash(state State, id int) int64 {
 	return int64(id) ^ (int64(state) << 32)
 }
 
-func InitPackets() {
+func initPackets() {
 	packets[PacketTypeHash(HANDSHAKING, 0x00)] = reflect.TypeOf((*PacketHandshake)(nil)).Elem()
 	packets[PacketTypeHash(STATUS, 0x00)] = reflect.TypeOf((*PacketStatusRequest)(nil)).Elem()
 	packets[PacketTypeHash(STATUS, 0x01)] = reflect.TypeOf((*PacketStatusPing)(nil)).Elem()
