@@ -34,7 +34,7 @@ You can generate a protocol-map module with the [fetcher](https://github.com/Typ
 go get github.com/TyphoonMC/go.uuid
 ```
 
-## Example
+#### Example
 ```go
 package main
 
