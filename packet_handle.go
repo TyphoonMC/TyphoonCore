@@ -443,6 +443,10 @@ func (packet *PacketPlayPluginMessage) Handle(player *Player) {
 			[]byte(player.core.brand),
 		})
 	}
+	player.core.CallEvent(&PluginMessageEvent{
+		packet.Channel,
+		packet.Data,
+	})
 }
 func (packet *PacketPlayPluginMessage) Id() int {
 	return 0x18
