@@ -48,10 +48,12 @@ func main() {
 	core.SetBrand("exampleserver")
 
 	core.On(func(e *typhoon.PlayerJoinEvent) {
-		e.Player.WritePacket(&typhoon.PacketPlayMessage{
-			Component: fmt.Sprintf(`{"text":"Welcome %s !"}`, e.Player.GetName()),
-			Position:  typhoon.CHAT_BOX,
+		msg := t.ChatMessage("Welcome ")
+		msg.SetExtra([]t.IChatComponent{
+			t.ChatMessage(e.Player.GetName()),
+			t.ChatMessage(" !"),
 		})
+		e.Player.SendMessage(msg)
 	})
 
 	core.Start()
