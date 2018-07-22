@@ -6,11 +6,12 @@ import (
 	"math/rand"
 	"net"
 	"time"
+	"reflect"
 )
 
 type Core struct {
 	connCounter   int
-	eventHandlers map[string][]interface{}
+	eventHandlers map[reflect.Type][]interface{}
 	brand         string
 }
 
@@ -20,7 +21,7 @@ func Init() *Core {
 	initHacks()
 	return &Core{
 		0,
-		make(map[string][]interface{}),
+		make(map[reflect.Type][]interface{}),
 		"typhoon",
 	}
 }
