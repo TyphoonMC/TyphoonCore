@@ -6,9 +6,10 @@ import (
 )
 
 type ChatColor struct {
-	id byte
+	id   byte
 	name string
 }
+
 func (color *ChatColor) GetId() byte {
 	return color.id
 }
@@ -17,44 +18,45 @@ func (color *ChatColor) GetName() string {
 }
 
 var (
-	ChatColorBlack = ChatColor{0, "black"}
-	ChatColorDarkBlue = ChatColor{1, "dark_blue"}
-	ChatColorDarkGreen = ChatColor{2, "dark_green"}
-	ChatColorDarkAqua = ChatColor{3, "dark_aqua"}
-	ChatColorDarkRed = ChatColor{4, "dark_red"}
+	ChatColorBlack      = ChatColor{0, "black"}
+	ChatColorDarkBlue   = ChatColor{1, "dark_blue"}
+	ChatColorDarkGreen  = ChatColor{2, "dark_green"}
+	ChatColorDarkAqua   = ChatColor{3, "dark_aqua"}
+	ChatColorDarkRed    = ChatColor{4, "dark_red"}
 	ChatColorDarkPurple = ChatColor{5, "dark_purple"}
-	ChatColorGold = ChatColor{6, "gold"}
-	ChatColorGray = ChatColor{7, "gray"}
-	ChatColorDarkGray = ChatColor{8, "dark_gray"}
-	ChatColorIndigo = ChatColor{9, "blue"}
-	ChatColorGreen = ChatColor{10, "green"}
-	ChatColorAqua = ChatColor{11, "aqua"}
-	ChatColorRed = ChatColor{12, "red"}
-	ChatColorPink = ChatColor{13, "light_purple"}
-	ChatColorYellow = ChatColor{14, "yellow"}
-	ChatColorWhite = ChatColor{15, "white"}
+	ChatColorGold       = ChatColor{6, "gold"}
+	ChatColorGray       = ChatColor{7, "gray"}
+	ChatColorDarkGray   = ChatColor{8, "dark_gray"}
+	ChatColorIndigo     = ChatColor{9, "blue"}
+	ChatColorGreen      = ChatColor{10, "green"}
+	ChatColorAqua       = ChatColor{11, "aqua"}
+	ChatColorRed        = ChatColor{12, "red"}
+	ChatColorPink       = ChatColor{13, "light_purple"}
+	ChatColorYellow     = ChatColor{14, "yellow"}
+	ChatColorWhite      = ChatColor{15, "white"}
 )
 
 type ChatAction struct {
 	Action string `json:"action"`
-	Value string `json:"value"`
+	Value  string `json:"value"`
 }
 
 type IChatComponent interface {
 	JSON() (string, error)
 }
 type ChatComponent struct {
-	Bold bool `json:"bold,omitempty"`
-	Italic bool `json:"italic,omitempty"`
-	Underlined bool `json:"underlined,omitempty"`
-	StrikeThrough bool `json:"strikethrough,omitempty"`
-	Obfuscated bool `json:"obfuscated,omitempty"`
-	Color *string `json:"color,omitempty"`
-	Insertion *string `json:"insertion,omitempty"`
-	ClickEvent *ChatAction `json:"clickEvent,omitempty"`
-	HoverEvent *ChatAction `json:"hoverEvent,omitempty"`
-	Extra []IChatComponent `json:"extra,omitempty"`
+	Bold          bool             `json:"bold,omitempty"`
+	Italic        bool             `json:"italic,omitempty"`
+	Underlined    bool             `json:"underlined,omitempty"`
+	StrikeThrough bool             `json:"strikethrough,omitempty"`
+	Obfuscated    bool             `json:"obfuscated,omitempty"`
+	Color         *string          `json:"color,omitempty"`
+	Insertion     *string          `json:"insertion,omitempty"`
+	ClickEvent    *ChatAction      `json:"clickEvent,omitempty"`
+	HoverEvent    *ChatAction      `json:"hoverEvent,omitempty"`
+	Extra         []IChatComponent `json:"extra,omitempty"`
 }
+
 func (component *ChatComponent) SetBold(bold bool) {
 	component.Bold = bold
 }
@@ -97,6 +99,7 @@ type StringChatComponent struct {
 	Text string `json:"text"`
 	*ChatComponent
 }
+
 func (component *StringChatComponent) SetText(text string) {
 	component.Text = text
 }
