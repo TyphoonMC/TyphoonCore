@@ -34,7 +34,7 @@ You can generate a protocol-map module with the [fetcher](https://github.com/Typ
 go get github.com/TyphoonMC/go.uuid
 ```
 
-### Example
+#### Example
 ```go
 package main
 
@@ -57,3 +57,16 @@ func main() {
 	core.Start()
 }
 ```
+
+### Roadmap
+
+- [ ] User friendly API
+- [ ] World loading
+- [ ] Multiworld
+- [ ] Entities
+- [ ] Physics
+- [ ] Biomes
+- [ ] Redstone
+- [ ] Pistons
+
+
