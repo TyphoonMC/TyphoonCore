@@ -102,6 +102,7 @@ func (c *Core) handleConnection(conn net.Conn, id int) {
 		}
 	}
 
+	player.core.CallEvent(&PlayerQuitEvent{player})
 	player.unregister()
 	conn.Close()
 	log.Printf("%s(#%d) disconnected.", conn.RemoteAddr().String(), id)

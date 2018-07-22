@@ -276,6 +276,12 @@ func (player *Player) WriteUUID(uid uuid.UUID) (err error) {
 }
 
 func (player *Player) Kick(s string) {
+	if player.state == LOGIN {
+		player.loginKick(s)
+		return
+	}
+
+	player.core.CallEvent(&PlayerKickEvent{player, s})
 	msg := fmt.Sprintf(`{"text": "%s"}`, s)
 	disconnect := PacketPlayDisconnect{
 		Component: msg,
@@ -284,7 +290,7 @@ func (player *Player) Kick(s string) {
 	player.conn.Close()
 }
 
-func (player *Player) LoginKick(s string) {
+func (player *Player) loginKick(s string) {
 	msg := fmt.Sprintf(`{"text": "%s"}`, s)
 	disconnect := PacketLoginDisconnect{
 		Component: msg,

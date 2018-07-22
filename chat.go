@@ -1,8 +1,11 @@
 package typhoon
 
 import (
+	"bytes"
 	"encoding/json"
+	"fmt"
 	"log"
+	"strconv"
 )
 
 type ChatColor struct {
@@ -13,27 +16,43 @@ type ChatColor struct {
 func (color *ChatColor) GetId() byte {
 	return color.id
 }
+func (color *ChatColor) ChatFormat() string {
+	return "&" + strconv.Itoa(int(color.id))
+}
 func (color *ChatColor) GetName() string {
 	return color.name
 }
 
+type ChatStyle struct {
+	*ChatColor
+}
+
+func (color *ChatStyle) ChatFormat() string {
+	return "&" + fmt.Sprintf("%c", color.id)
+}
+
 var (
-	ChatColorBlack      = ChatColor{0, "black"}
-	ChatColorDarkBlue   = ChatColor{1, "dark_blue"}
-	ChatColorDarkGreen  = ChatColor{2, "dark_green"}
-	ChatColorDarkAqua   = ChatColor{3, "dark_aqua"}
-	ChatColorDarkRed    = ChatColor{4, "dark_red"}
-	ChatColorDarkPurple = ChatColor{5, "dark_purple"}
-	ChatColorGold       = ChatColor{6, "gold"}
-	ChatColorGray       = ChatColor{7, "gray"}
-	ChatColorDarkGray   = ChatColor{8, "dark_gray"}
-	ChatColorIndigo     = ChatColor{9, "blue"}
-	ChatColorGreen      = ChatColor{10, "green"}
-	ChatColorAqua       = ChatColor{11, "aqua"}
-	ChatColorRed        = ChatColor{12, "red"}
-	ChatColorPink       = ChatColor{13, "light_purple"}
-	ChatColorYellow     = ChatColor{14, "yellow"}
-	ChatColorWhite      = ChatColor{15, "white"}
+	ChatColorBlack         = ChatColor{0, "black"}
+	ChatColorDarkBlue      = ChatColor{1, "dark_blue"}
+	ChatColorDarkGreen     = ChatColor{2, "dark_green"}
+	ChatColorDarkAqua      = ChatColor{3, "dark_aqua"}
+	ChatColorDarkRed       = ChatColor{4, "dark_red"}
+	ChatColorDarkPurple    = ChatColor{5, "dark_purple"}
+	ChatColorGold          = ChatColor{6, "gold"}
+	ChatColorGray          = ChatColor{7, "gray"}
+	ChatColorDarkGray      = ChatColor{8, "dark_gray"}
+	ChatColorIndigo        = ChatColor{9, "blue"}
+	ChatColorGreen         = ChatColor{10, "green"}
+	ChatColorAqua          = ChatColor{11, "aqua"}
+	ChatColorRed           = ChatColor{12, "red"}
+	ChatColorPink          = ChatColor{13, "light_purple"}
+	ChatColorYellow        = ChatColor{14, "yellow"}
+	ChatColorWhite         = ChatColor{15, "white"}
+	ChatStyleObfuscated    = ChatStyle{&ChatColor{'k', "obfuscated"}}
+	ChatStyleBold          = ChatStyle{&ChatColor{'l', "bold"}}
+	ChatStyleStrikeThrough = ChatStyle{&ChatColor{'m', "strikethrough"}}
+	ChatStyleUnderlined    = ChatStyle{&ChatColor{'n', "underlined"}}
+	ChatStyleItalic        = ChatStyle{&ChatColor{'o', "italic"}}
 )
 
 type ChatAction struct {
@@ -45,11 +64,11 @@ type IChatComponent interface {
 	JSON() (string, error)
 }
 type ChatComponent struct {
-	Bold          bool             `json:"bold,omitempty"`
-	Italic        bool             `json:"italic,omitempty"`
-	Underlined    bool             `json:"underlined,omitempty"`
-	StrikeThrough bool             `json:"strikethrough,omitempty"`
-	Obfuscated    bool             `json:"obfuscated,omitempty"`
+	Bold          bool             `json:"bold"`
+	Italic        bool             `json:"italic"`
+	Underlined    bool             `json:"underlined"`
+	StrikeThrough bool             `json:"strikethrough"`
+	Obfuscated    bool             `json:"obfuscated"`
 	Color         *string          `json:"color,omitempty"`
 	Insertion     *string          `json:"insertion,omitempty"`
 	ClickEvent    *ChatAction      `json:"clickEvent,omitempty"`
@@ -125,8 +144,93 @@ func ChatMessage(text string) *StringChatComponent {
 		}}
 }
 
+func BukkitMessageConvert(message string) IChatComponent {
+	base := ChatMessage("")
+
+	current := base
+	buff := bytes.NewBufferString("")
+	for i := 0; i < len(message); i++ {
+		if message[i] == '&' && len(message) > i+1 {
+			if (message[i+1] >= '0' && message[i+1] <= '9') ||
+				(message[i+1] >= 'a' && message[i+1] <= 'f') ||
+				message[i+1] == 'r' {
+				// Create new node
+				current.Text = buff.String()
+				n := ChatMessage("")
+				current.AddExtra(n)
+				current = n
+				buff.Reset()
+			}
+
+			switch message[i+1] {
+			case '0':
+				current.SetColor(&ChatColorBlack)
+			case '1':
+				current.SetColor(&ChatColorDarkBlue)
+			case '2':
+				current.SetColor(&ChatColorDarkGreen)
+			case '3':
+				current.SetColor(&ChatColorDarkAqua)
+			case '4':
+				current.SetColor(&ChatColorDarkRed)
+			case '5':
+				current.SetColor(&ChatColorDarkPurple)
+			case '6':
+				current.SetColor(&ChatColorGold)
+			case '7':
+				current.SetColor(&ChatColorGray)
+			case '8':
+				current.SetColor(&ChatColorDarkGray)
+			case '9':
+				current.SetColor(&ChatColorIndigo)
+			case 'a':
+				current.SetColor(&ChatColorGreen)
+			case 'b':
+				current.SetColor(&ChatColorAqua)
+			case 'c':
+				current.SetColor(&ChatColorRed)
+			case 'd':
+				current.SetColor(&ChatColorPink)
+			case 'e':
+				current.SetColor(&ChatColorYellow)
+			case 'f':
+				current.SetColor(&ChatColorWhite)
+			case 'k':
+				current.SetObfuscated(true)
+			case 'l':
+				current.SetBold(true)
+			case 'm':
+				current.SetStrikeThrough(true)
+			case 'n':
+				current.SetUnderlined(true)
+			case 'o':
+				current.SetItalic(true)
+			case 'r':
+				current.SetColor(&ChatColorWhite)
+			}
+			i += 1
+		} else {
+			buff.WriteByte(message[i])
+		}
+	}
+
+	return base
+}
+
 func (p *Player) SendMessage(message IChatComponent) {
 	msg, err := message.JSON()
+	if err != nil {
+		log.Fatal(err)
+		return
+	}
+	p.WritePacket(&PacketPlayMessage{
+		msg,
+		CHAT_BOX,
+	})
+}
+
+func (p *Player) SendBukkitMessage(message string) {
+	msg, err := BukkitMessageConvert(message).JSON()
 	if err != nil {
 		log.Fatal(err)
 		return

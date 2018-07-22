@@ -159,14 +159,14 @@ var (
 
 func (packet *PacketLoginStart) Handle(player *Player) {
 	if !IsCompatible(player.protocol) {
-		player.LoginKick("Incompatible version")
+		player.Kick("Incompatible version")
 		return
 	}
 
 	max_players := config.MaxPlayers
 
 	if max_players <= playersCount && config.Restricted {
-		player.LoginKick("Server is full")
+		player.Kick("Server is full")
 	}
 
 	player.name = packet.Username

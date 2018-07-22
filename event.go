@@ -14,6 +14,15 @@ type PlayerJoinEvent struct {
 	Player *Player
 }
 
+type PlayerQuitEvent struct {
+	Player *Player
+}
+
+type PlayerKickEvent struct {
+	Player *Player
+	Reason string
+}
+
 type PlayerChatEvent struct {
 	Player  *Player
 	Message string
