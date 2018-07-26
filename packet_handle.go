@@ -293,6 +293,78 @@ func (packet *PacketPlayChat) Id() int {
 	return 0x02
 }
 
+type PacketPlayTabComplete struct {
+	Matches []string
+}
+
+func (packet *PacketPlayTabComplete) Read(player *Player, length int) (err error) {
+	return
+}
+func (packet *PacketPlayTabComplete) Write(player *Player) (err error) {
+	err = player.WriteVarInt(len(packet.Matches))
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	for _, s := range packet.Matches {
+		err = player.WriteString(s)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	return
+}
+func (packet *PacketPlayTabComplete) Handle(player *Player) {}
+func (packet *PacketPlayTabComplete) Id() int {
+	return 0x0E
+}
+
+type PacketPlayTabCompleteServerbound struct {
+	Text          string
+	AssumeCommand bool
+	Position      Position
+}
+
+func (packet *PacketPlayTabCompleteServerbound) Read(player *Player, length int) (err error) {
+	packet.Text, err = player.ReadStringLimited(config.BufferConfig.ChatMessage)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	packet.AssumeCommand, err = player.ReadBool()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	hasPosition, err := player.ReadBool()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	if hasPosition {
+		packet.Position, err = player.ReadPosition()
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	return
+}
+func (packet *PacketPlayTabCompleteServerbound) Write(player *Player) (err error) {
+	return
+}
+func (packet *PacketPlayTabCompleteServerbound) Handle(player *Player) {
+	if len(packet.Text) > 0 {
+		if packet.Text[0] == '/' {
+			player.core.onTabCommand(player, packet.Text[1:len(packet.Text)])
+		}
+	}
+}
+func (packet *PacketPlayTabCompleteServerbound) Id() int {
+	return 0x01
+}
+
 type PacketPlayMessage struct {
 	Component string
 	Position  ChatPosition

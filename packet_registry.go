@@ -25,6 +25,7 @@ func initPackets() {
 	packets[PacketTypeHash(STATUS, 0x00)] = reflect.TypeOf((*PacketStatusRequest)(nil)).Elem()
 	packets[PacketTypeHash(STATUS, 0x01)] = reflect.TypeOf((*PacketStatusPing)(nil)).Elem()
 	packets[PacketTypeHash(LOGIN, 0x00)] = reflect.TypeOf((*PacketLoginStart)(nil)).Elem()
+	packets[PacketTypeHash(PLAY, 0x01)] = reflect.TypeOf((*PacketPlayTabCompleteServerbound)(nil)).Elem()
 	packets[PacketTypeHash(PLAY, 0x02)] = reflect.TypeOf((*PacketPlayChat)(nil)).Elem()
 	packets[PacketTypeHash(PLAY, 0x09)] = reflect.TypeOf((*PacketPlayPluginMessage)(nil)).Elem()
 	packets[PacketTypeHash(PLAY, 0x0B)] = reflect.TypeOf((*PacketPlayKeepAlive)(nil)).Elem()

@@ -105,6 +105,12 @@ const (
 
 type Protocol uint16
 
+type Position struct {
+	X int
+	Y int
+	Z int
+}
+
 const (
 	V1_7_2  Protocol = 4
 	V1_7_6  Protocol = 5

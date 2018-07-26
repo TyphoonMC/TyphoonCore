@@ -145,6 +145,27 @@ func (player *Player) WriteUInt64(i uint64) (err error) {
 	return
 }
 
+func (player *Player) ReadPosition() (i Position, err error) {
+	buff := player.io.buffer[:8]
+	_, err = io.ReadFull(player.io.rdr, buff)
+	if err != nil {
+		return Position{}, err
+	}
+	val := binary.BigEndian.Uint64(buff)
+	pos := Position{}
+	pos.X = int(val >> 38)
+	pos.Y = int((val >> 26) & 0xFFF)
+	pos.Z = int(val << 38 >> 38)
+	return pos, nil
+}
+
+func (player *Player) WritePosition(i Position) (err error) {
+	return player.WriteUInt64(
+		((uint64(i.X) & 0x3FFFFFF) << 38) |
+			((uint64(i.Y) & 0xFFF) << 26) |
+			(uint64(i.Z) & 0x3FFFFFF))
+}
+
 func (player *Player) ReadFloat32() (i float32, err error) {
 	buff := player.io.buffer[:4]
 	_, err = io.ReadFull(player.io.rdr, buff)

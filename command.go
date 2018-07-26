@@ -27,6 +27,7 @@ type CommandParser interface {
 	IsMultiple() bool
 	IsValid(string) bool
 	IsArrayValid([]string) bool
+	Complete(string) []string
 }
 
 type CommandNode struct {
@@ -81,6 +82,16 @@ func (c *CommandParserBool) IsValid(arg string) bool {
 func (c *CommandParserBool) IsArrayValid(arg []string) bool {
 	return false
 }
+func (c *CommandParserBool) Complete(arg string) []string {
+	ans := make([]string, 0)
+	if strings.HasPrefix("true", arg) {
+		ans = append(ans, "true")
+	}
+	if strings.HasPrefix("false", arg) {
+		ans = append(ans, "false")
+	}
+	return ans
+}
 
 func (c *Core) DeclareCommand(graph *CommandNode) {
 	c.rootCommand.Children = append(c.rootCommand.Children, graph)
@@ -123,4 +134,48 @@ func (c *Core) analyseCommand(player *Player, args []string, node *CommandNode, 
 		return true
 	}
 	return false
+}
+
+func (c *Core) onTabCommand(player *Player, command string) {
+	args := strings.Split(command, " ")
+
+	node := &c.rootCommand
+	player.WritePacket(&PacketPlayTabComplete{
+		c.analyseTabCommand(player, args, node, 0),
+	})
+}
+
+func commandJoin(args []string, attr string) string {
+	str := attr
+	if len(args) == 0 {
+		str = "/" + str
+	}
+	return str
+}
+
+func (c *Core) analyseTabCommand(player *Player, args []string, node *CommandNode, step int) []string {
+	strs := make([]string, 0)
+	if len(args) > step {
+		for _, child := range node.Children {
+			switch child.Type {
+			case CommandNodeTypeLiteral:
+				if len(args)-1 == step && strings.HasPrefix(child.Name, args[step]) {
+					strs = append(strs, commandJoin(args[:len(args)-1], child.Name))
+				} else {
+					if child.Name == args[step] {
+						strs = append(strs, c.analyseTabCommand(player, args, child, step+1)...)
+					}
+				}
+			case CommandNodeTypeArgument:
+				if child.Parser.IsMultiple() {
+					if child.Parser.IsArrayValid(args[step:]) {
+						strs = append(strs, strings.Join(args, " "))
+					}
+				} else {
+					strs = append(strs, child.Parser.Complete(args[step])...)
+				}
+			}
+		}
+	}
+	return strs
 }
