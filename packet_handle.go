@@ -285,7 +285,7 @@ func (packet *PacketPlayChat) Handle(player *Player) {
 				packet.Message,
 			})
 		} else {
-			//TODO handle commands
+			player.core.onCommand(player, packet.Message[1:len(packet.Message)])
 		}
 	}
 }

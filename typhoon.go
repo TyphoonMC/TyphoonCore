@@ -13,6 +13,7 @@ type Core struct {
 	connCounter   int
 	eventHandlers map[reflect.Type][]EventCallback
 	brand         string
+	rootCommand   CommandNode
 }
 
 func Init() *Core {
@@ -23,6 +24,14 @@ func Init() *Core {
 		0,
 		make(map[reflect.Type][]EventCallback),
 		"typhoon",
+		CommandNode{
+			commandNodeTypeRoot,
+			nil,
+			nil,
+			nil,
+			"",
+			nil,
+		},
 	}
 }
 
