@@ -53,6 +53,24 @@ var (
 	ChatStyleStrikeThrough = ChatStyle{&ChatColor{'m', "strikethrough"}}
 	ChatStyleUnderlined    = ChatStyle{&ChatColor{'n', "underlined"}}
 	ChatStyleItalic        = ChatStyle{&ChatColor{'o', "italic"}}
+	chatColorIds           = []ChatColor{
+		ChatColorBlack,
+		ChatColorDarkBlue,
+		ChatColorDarkGreen,
+		ChatColorDarkAqua,
+		ChatColorDarkRed,
+		ChatColorDarkPurple,
+		ChatColorGold,
+		ChatColorGray,
+		ChatColorDarkGray,
+		ChatColorIndigo,
+		ChatColorGreen,
+		ChatColorAqua,
+		ChatColorRed,
+		ChatColorPink,
+		ChatColorYellow,
+		ChatColorWhite,
+	}
 )
 
 type ChatAction struct {
@@ -162,51 +180,25 @@ func BukkitMessageConvert(message string) IChatComponent {
 				buff.Reset()
 			}
 
-			switch message[i+1] {
-			case '0':
-				current.SetColor(&ChatColorBlack)
-			case '1':
-				current.SetColor(&ChatColorDarkBlue)
-			case '2':
-				current.SetColor(&ChatColorDarkGreen)
-			case '3':
-				current.SetColor(&ChatColorDarkAqua)
-			case '4':
-				current.SetColor(&ChatColorDarkRed)
-			case '5':
-				current.SetColor(&ChatColorDarkPurple)
-			case '6':
-				current.SetColor(&ChatColorGold)
-			case '7':
-				current.SetColor(&ChatColorGray)
-			case '8':
-				current.SetColor(&ChatColorDarkGray)
-			case '9':
-				current.SetColor(&ChatColorIndigo)
-			case 'a':
-				current.SetColor(&ChatColorGreen)
-			case 'b':
-				current.SetColor(&ChatColorAqua)
-			case 'c':
-				current.SetColor(&ChatColorRed)
-			case 'd':
-				current.SetColor(&ChatColorPink)
-			case 'e':
-				current.SetColor(&ChatColorYellow)
-			case 'f':
-				current.SetColor(&ChatColorWhite)
-			case 'k':
-				current.SetObfuscated(true)
-			case 'l':
-				current.SetBold(true)
-			case 'm':
-				current.SetStrikeThrough(true)
-			case 'n':
-				current.SetUnderlined(true)
-			case 'o':
-				current.SetItalic(true)
-			case 'r':
-				current.SetColor(&ChatColorWhite)
+			if message[i+1] >= '0' && message[i+1] <= '9' {
+				current.SetColor(&chatColorIds[message[i+1]-'0'])
+			} else if message[i+1] >= 'a' && message[i+1] <= 'f' {
+				current.SetColor(&chatColorIds[message[i+1]-'a'+10])
+			} else {
+				switch message[i+1] {
+				case 'k':
+					current.SetObfuscated(true)
+				case 'l':
+					current.SetBold(true)
+				case 'm':
+					current.SetStrikeThrough(true)
+				case 'n':
+					current.SetUnderlined(true)
+				case 'o':
+					current.SetItalic(true)
+				case 'r':
+					current.SetColor(&ChatColorWhite)
+				}
 			}
 			i += 1
 		} else {
