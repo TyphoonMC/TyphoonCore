@@ -1,9 +1,9 @@
 package typhoon
 
 import (
+	"fmt"
 	"github.com/TyphoonMC/go.uuid"
 	"log"
-	"fmt"
 )
 
 type PacketHandshake struct {
@@ -465,7 +465,7 @@ func (packet *PacketBossBar) Id() (int, Protocol) {
 }
 
 type PacketPlayDeclareCommands struct {
-	Nodes []commandNode
+	Nodes     []commandNode
 	RootIndex int
 }
 

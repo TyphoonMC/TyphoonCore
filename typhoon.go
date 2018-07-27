@@ -10,10 +10,10 @@ import (
 )
 
 type Core struct {
-	connCounter   int
-	eventHandlers map[reflect.Type][]EventCallback
-	brand         string
-	rootCommand   CommandNode
+	connCounter      int
+	eventHandlers    map[reflect.Type][]EventCallback
+	brand            string
+	rootCommand      CommandNode
 	compiledCommands []commandNode
 }
 
