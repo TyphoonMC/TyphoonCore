@@ -2,6 +2,7 @@ package typhoon
 
 import (
 	"strings"
+	"log"
 )
 
 type CommandNodeType uint8
@@ -27,7 +28,9 @@ type CommandParser interface {
 	IsMultiple() bool
 	IsValid(string) bool
 	IsArrayValid([]string) bool
+	GetSuggestion() CommandSuggestionType
 	Complete(string) []string
+	writeProperties(*Player) error
 }
 
 type CommandNode struct {
@@ -92,9 +95,16 @@ func (c *CommandParserBool) Complete(arg string) []string {
 	}
 	return ans
 }
+func (c *CommandParserBool) GetSuggestion() CommandSuggestionType {
+	return CommandSuggestionNone
+}
+func (c *CommandParserBool) writeProperties(player *Player) (err error) {
+	return
+}
 
 func (c *Core) DeclareCommand(graph *CommandNode) {
 	c.rootCommand.Children = append(c.rootCommand.Children, graph)
+	c.compileCommands()
 }
 
 func (c *Core) onCommand(player *Player, command string) {
@@ -178,4 +188,126 @@ func (c *Core) analyseTabCommand(player *Player, args []string, node *CommandNod
 		}
 	}
 	return strs
+}
+
+type commandNode struct {
+	Type         CommandNodeType
+	Execute      bool
+	Children     []int
+	RedirectNode int
+	Name         string
+	Parser       CommandParser
+}
+
+func countNodes(node *CommandNode) int {
+	i := 1
+	for _, n := range node.Children {
+		i += countNodes(n)
+	}
+	return i
+}
+
+func nodeRefs(refs map[*CommandNode]int, node *CommandNode, index int) int {
+	refs[node] = index
+	i := 1
+	for _, n := range node.Children {
+		i += nodeRefs(refs, n, index+i)
+	}
+	return i
+}
+
+func compileNode(compile []commandNode, refs map[*CommandNode]int, node *CommandNode) {
+	children := make([]int, len(node.Children))
+	for i, n := range node.Children {
+		compileNode(compile, refs, n)
+		children[i] = refs[n]
+	}
+
+	redirect := -1
+	if node.RedirectNode != nil {
+		redirect = refs[node.RedirectNode]
+	}
+
+	compile[refs[node]] = commandNode{
+		node.Type,
+		node.Execute != nil,
+		children,
+		redirect,
+		node.Name,
+		node.Parser,
+	}
+}
+
+func (c *Core) compileCommands() {
+	count := countNodes(&c.rootCommand)
+	commands := make([]commandNode, count)
+	refs := make(map[*CommandNode]int, count)
+	nodeRefs(refs, &c.rootCommand, 0)
+	compileNode(commands, refs, &c.rootCommand)
+	c.compiledCommands = commands
+}
+
+func (node *commandNode) flags() uint8 {
+	flags := uint8(node.Type)
+	if node.Execute {
+		flags |= 0x04
+	}
+	if node.RedirectNode != -1 {
+		flags |= 0x08
+	}
+	if node.Parser != nil && node.Parser.GetSuggestion() != CommandSuggestionNone {
+		flags |= 0x10
+	}
+	return flags
+}
+
+func (node *commandNode) writeTo(player *Player) (err error) {
+	err = player.WriteUInt8(node.flags())
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteVarInt(len(node.Children))
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	for _, child := range node.Children {
+		err = player.WriteVarInt(child)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	if node.RedirectNode != 1 {
+		err = player.WriteVarInt(node.RedirectNode)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	if node.Type == CommandNodeTypeArgument ||
+		node.Type == CommandNodeTypeLiteral {
+		err = player.WriteString(node.Name)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	if node.Type == CommandNodeTypeArgument {
+		err = player.WriteString(node.Parser.GetId())
+		if err != nil {
+			log.Print(err)
+			return
+		}
+		node.Parser.writeProperties(player)
+	}
+	if node.Parser != nil && node.Parser.GetSuggestion() != CommandSuggestionNone {
+		err = player.WriteString(string(node.Parser.GetSuggestion()))
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	return
 }

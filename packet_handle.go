@@ -188,6 +188,13 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 	player.WritePacket(&join_game)
 	player.WritePacket(&position_look)
 
+	if player.protocol >= V1_13 {
+		player.WritePacket(&PacketPlayDeclareCommands{
+			player.core.compiledCommands,
+			0,
+		})
+	}
+
 	player.core.CallEvent(&PlayerJoinEvent{
 		player,
 	})
@@ -455,6 +462,39 @@ func (packet *PacketBossBar) Write(player *Player) (err error) {
 func (packet *PacketBossBar) Handle(player *Player) {}
 func (packet *PacketBossBar) Id() int {
 	return 0x0C
+}
+
+type PacketPlayDeclareCommands struct {
+	Nodes []commandNode
+	RootIndex int
+}
+
+func (packet *PacketPlayDeclareCommands) Read(player *Player, length int) (err error) {
+	return
+}
+func (packet *PacketPlayDeclareCommands) Write(player *Player) (err error) {
+	err = player.WriteVarInt(len(packet.Nodes))
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	for _, n := range packet.Nodes {
+		err = (&n).writeTo(player)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	err = player.WriteVarInt(packet.RootIndex)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	return
+}
+func (packet *PacketPlayDeclareCommands) Handle(player *Player) {}
+func (packet *PacketPlayDeclareCommands) Id() int {
+	return 0x11
 }
 
 type PacketPlayPluginMessage struct {

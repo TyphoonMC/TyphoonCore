@@ -14,13 +14,14 @@ type Core struct {
 	eventHandlers map[reflect.Type][]EventCallback
 	brand         string
 	rootCommand   CommandNode
+	compiledCommands []commandNode
 }
 
 func Init() *Core {
 	initConfig()
 	initPackets()
 	initHacks()
-	return &Core{
+	c := &Core{
 		0,
 		make(map[reflect.Type][]EventCallback),
 		"typhoon",
@@ -32,7 +33,10 @@ func Init() *Core {
 			"",
 			nil,
 		},
+		nil,
 	}
+	c.compileCommands()
+	return c
 }
 
 func (c *Core) Start() {
