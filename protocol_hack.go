@@ -341,7 +341,11 @@ func (player *Player) HackServerbound(id int) int {
 	return id
 }
 
-func (player *Player) HackClientbound(id int) int {
+func (player *Player) HackClientbound(id int, protocol Protocol) int {
+	//TODO refactor protocol hack
+	if protocol != V1_10 {
+		return id
+	}
 	_, ok := clientbound[player.protocol]
 	if ok {
 		if val, ok := clientbound[player.protocol][id]; ok {

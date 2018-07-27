@@ -307,9 +307,9 @@ func (player *Player) WritePacketWithoutCompression(packet Packet) (err error) {
 		wtr: buff,
 	}
 
-	id := packet.Id()
+	id, proto := packet.Id()
 	if player.state == PLAY {
-		id = player.HackClientbound(id)
+		id = player.HackClientbound(id, proto)
 	}
 	if id == -1 {
 		return
@@ -338,9 +338,9 @@ func (player *Player) WritePacketWithCompression(packet Packet) (err error) {
 		wtr: buff,
 	}
 
-	id := packet.Id()
+	id, proto := packet.Id()
 	if player.state == PLAY {
-		id = player.HackClientbound(id)
+		id = player.HackClientbound(id, proto)
 	}
 	if id == -1 {
 		return

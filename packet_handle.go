@@ -1,9 +1,9 @@
 package typhoon
 
 import (
-	"fmt"
 	"github.com/TyphoonMC/go.uuid"
 	"log"
+	"fmt"
 )
 
 type PacketHandshake struct {
@@ -47,8 +47,8 @@ func (packet *PacketHandshake) Handle(player *Player) {
 	player.inaddr.address = packet.Address
 	player.inaddr.port = packet.Port
 }
-func (packet *PacketHandshake) Id() int {
-	return 0x00
+func (packet *PacketHandshake) Id() (int, Protocol) {
+	return 0x00, V1_10
 }
 
 type PacketStatusRequest struct{}
@@ -77,8 +77,8 @@ func (packet *PacketStatusRequest) Handle(player *Player) {
 	}
 	player.WritePacket(&response)
 }
-func (packet *PacketStatusRequest) Id() int {
-	return 0x00
+func (packet *PacketStatusRequest) Id() (int, Protocol) {
+	return 0x00, V1_10
 }
 
 type PacketStatusResponse struct {
@@ -97,8 +97,8 @@ func (packet *PacketStatusResponse) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketStatusResponse) Handle(player *Player) {}
-func (packet *PacketStatusResponse) Id() int {
-	return 0x00
+func (packet *PacketStatusResponse) Id() (int, Protocol) {
+	return 0x00, V1_10
 }
 
 type PacketStatusPing struct {
@@ -124,8 +124,8 @@ func (packet *PacketStatusPing) Write(player *Player) (err error) {
 func (packet *PacketStatusPing) Handle(player *Player) {
 	player.WritePacket(packet)
 }
-func (packet *PacketStatusPing) Id() int {
-	return 0x01
+func (packet *PacketStatusPing) Id() (int, Protocol) {
+	return 0x01, V1_10
 }
 
 type PacketLoginStart struct {
@@ -199,8 +199,8 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 		player,
 	})
 }
-func (packet *PacketLoginStart) Id() int {
-	return 0x00
+func (packet *PacketLoginStart) Id() (int, Protocol) {
+	return 0x00, V1_10
 }
 
 type PacketLoginDisconnect struct {
@@ -219,8 +219,8 @@ func (packet *PacketLoginDisconnect) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketLoginDisconnect) Handle(player *Player) {}
-func (packet *PacketLoginDisconnect) Id() int {
-	return 0x00
+func (packet *PacketLoginDisconnect) Id() (int, Protocol) {
+	return 0x00, V1_10
 }
 
 type PacketLoginSuccess struct {
@@ -245,8 +245,8 @@ func (packet *PacketLoginSuccess) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketLoginSuccess) Handle(player *Player) {}
-func (packet *PacketLoginSuccess) Id() int {
-	return 0x02
+func (packet *PacketLoginSuccess) Id() (int, Protocol) {
+	return 0x02, V1_10
 }
 
 type PacketSetCompression struct {
@@ -265,8 +265,8 @@ func (packet *PacketSetCompression) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketSetCompression) Handle(player *Player) {}
-func (packet *PacketSetCompression) Id() int {
-	return 0x03
+func (packet *PacketSetCompression) Id() (int, Protocol) {
+	return 0x03, V1_10
 }
 
 type PacketPlayChat struct {
@@ -296,8 +296,8 @@ func (packet *PacketPlayChat) Handle(player *Player) {
 		}
 	}
 }
-func (packet *PacketPlayChat) Id() int {
-	return 0x02
+func (packet *PacketPlayChat) Id() (int, Protocol) {
+	return 0x02, V1_10
 }
 
 type PacketPlayTabComplete struct {
@@ -323,8 +323,8 @@ func (packet *PacketPlayTabComplete) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayTabComplete) Handle(player *Player) {}
-func (packet *PacketPlayTabComplete) Id() int {
-	return 0x0E
+func (packet *PacketPlayTabComplete) Id() (int, Protocol) {
+	return 0x0E, V1_10
 }
 
 type PacketPlayTabCompleteServerbound struct {
@@ -368,8 +368,8 @@ func (packet *PacketPlayTabCompleteServerbound) Handle(player *Player) {
 		}
 	}
 }
-func (packet *PacketPlayTabCompleteServerbound) Id() int {
-	return 0x01
+func (packet *PacketPlayTabCompleteServerbound) Id() (int, Protocol) {
+	return 0x01, V1_10
 }
 
 type PacketPlayMessage struct {
@@ -396,8 +396,8 @@ func (packet *PacketPlayMessage) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayMessage) Handle(player *Player) {}
-func (packet *PacketPlayMessage) Id() int {
-	return 0x0F
+func (packet *PacketPlayMessage) Id() (int, Protocol) {
+	return 0x0F, V1_10
 }
 
 type PacketBossBar struct {
@@ -460,8 +460,8 @@ func (packet *PacketBossBar) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketBossBar) Handle(player *Player) {}
-func (packet *PacketBossBar) Id() int {
-	return 0x0C
+func (packet *PacketBossBar) Id() (int, Protocol) {
+	return 0x0C, V1_10
 }
 
 type PacketPlayDeclareCommands struct {
@@ -493,8 +493,8 @@ func (packet *PacketPlayDeclareCommands) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayDeclareCommands) Handle(player *Player) {}
-func (packet *PacketPlayDeclareCommands) Id() int {
-	return 0x11
+func (packet *PacketPlayDeclareCommands) Id() (int, Protocol) {
+	return 0x11, V1_13
 }
 
 type PacketPlayPluginMessage struct {
@@ -560,8 +560,8 @@ func (packet *PacketPlayPluginMessage) Handle(player *Player) {
 		packet.Data,
 	})
 }
-func (packet *PacketPlayPluginMessage) Id() int {
-	return 0x18
+func (packet *PacketPlayPluginMessage) Id() (int, Protocol) {
+	return 0x18, V1_10
 }
 
 type PacketPlayDisconnect struct {
@@ -580,8 +580,8 @@ func (packet *PacketPlayDisconnect) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayDisconnect) Handle(player *Player) {}
-func (packet *PacketPlayDisconnect) Id() int {
-	return 0x1A
+func (packet *PacketPlayDisconnect) Id() (int, Protocol) {
+	return 0x1A, V1_10
 }
 
 type PacketPlayKeepAlive struct {
@@ -630,8 +630,8 @@ func (packet *PacketPlayKeepAlive) Handle(player *Player) {
 	}
 	player.keepalive = 0
 }
-func (packet *PacketPlayKeepAlive) Id() int {
-	return 0x1F
+func (packet *PacketPlayKeepAlive) Id() (int, Protocol) {
+	return 0x1F, V1_10
 }
 
 type PacketPlayJoinGame struct {
@@ -692,8 +692,8 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayJoinGame) Handle(player *Player) {}
-func (packet *PacketPlayJoinGame) Id() int {
-	return 0x23
+func (packet *PacketPlayJoinGame) Id() (int, Protocol) {
+	return 0x23, V1_10
 }
 
 type PacketPlayerPositionLook struct {
@@ -750,8 +750,8 @@ func (packet *PacketPlayerPositionLook) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayerPositionLook) Handle(player *Player) {}
-func (packet *PacketPlayerPositionLook) Id() int {
-	return 0x2E
+func (packet *PacketPlayerPositionLook) Id() (int, Protocol) {
+	return 0x2E, V1_10
 }
 
 type PacketPlayerListHeaderFooter struct {
@@ -787,6 +787,6 @@ func (packet *PacketPlayerListHeaderFooter) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayerListHeaderFooter) Handle(player *Player) {}
-func (packet *PacketPlayerListHeaderFooter) Id() int {
-	return 0x47
+func (packet *PacketPlayerListHeaderFooter) Id() (int, Protocol) {
+	return 0x47, V1_10
 }

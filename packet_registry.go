@@ -13,7 +13,7 @@ type Packet interface {
 	Write(*Player) error
 	Read(*Player, int) error
 	Handle(*Player)
-	Id() int
+	Id() (int, Protocol)
 }
 
 func PacketTypeHash(state State, id int) int64 {

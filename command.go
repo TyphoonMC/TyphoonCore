@@ -279,7 +279,7 @@ func (node *commandNode) writeTo(player *Player) (err error) {
 			return
 		}
 	}
-	if node.RedirectNode != 1 {
+	if node.RedirectNode != -1 {
 		err = player.WriteVarInt(node.RedirectNode)
 		if err != nil {
 			log.Print(err)
