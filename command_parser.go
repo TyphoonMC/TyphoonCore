@@ -213,3 +213,42 @@ func (c *CommandParserInteger) writeProperties(player *Player) (err error) {
 	}
 	return
 }
+
+type CommandParserStringFormat int
+
+const (
+	CommandParserStringFormatSingleWord     CommandParserStringFormat = iota
+	commandParserStringFormatQuotablePhrase                           //TODO
+	CommandParserStringFormatGreedyPhrase
+)
+
+type CommandParserString struct {
+	Format CommandParserStringFormat
+}
+
+func (c *CommandParserString) GetId() string {
+	return "brigadier:string"
+}
+func (c *CommandParserString) IsMultiple() bool {
+	return c.Format != CommandParserStringFormatSingleWord
+}
+func (c *CommandParserString) IsValid(arg string) bool {
+	return true
+}
+func (c *CommandParserString) IsArrayValid(arg []string) bool {
+	return true
+}
+func (c *CommandParserString) Complete(arg string) []string {
+	return []string{arg}
+}
+func (c *CommandParserString) GetSuggestion() CommandSuggestionType {
+	return CommandSuggestionNone
+}
+func (c *CommandParserString) writeProperties(player *Player) (err error) {
+	err = player.WriteVarInt(int(c.Format))
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	return
+}
