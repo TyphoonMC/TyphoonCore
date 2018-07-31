@@ -74,8 +74,45 @@ var (
 )
 
 type ChatAction struct {
-	Action string `json:"action"`
-	Value  string `json:"value"`
+	Action string      `json:"action"`
+	Value  interface{} `json:"value"`
+}
+
+const (
+	chatClickTypeOpenUrl        = "open_url"
+	chatClickTypeRunCommand     = "run_command"
+	chatClickTypeSuggestCommand = "suggest_command"
+	chatClickTypeChangePage     = "change_page"
+	chatHoverTypeShowText       = "show_text"
+	chatHoverTypeShowItem       = "show_item"
+	chatHoverTypeShowEntity     = "show_entity"
+)
+
+func ChatClickRunCommand(command string) *ChatAction {
+	return &ChatAction{
+		chatClickTypeRunCommand,
+		command,
+	}
+}
+
+func ChatHoverText(component string) *ChatAction {
+	return &ChatAction{
+		chatHoverTypeShowText,
+		component,
+	}
+}
+func ChatHoverMessage(components []IChatComponent) *ChatAction {
+	messages := make([]interface{}, 0)
+	for _, c := range components {
+		j, err := c.JSON()
+		if err == nil {
+			messages = append(messages, json.RawMessage(j))
+		}
+	}
+	return &ChatAction{
+		chatHoverTypeShowText,
+		messages,
+	}
 }
 
 type IChatComponent interface {

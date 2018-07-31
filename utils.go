@@ -2,6 +2,7 @@ package typhoon
 
 import (
 	"encoding/binary"
+	"encoding/json"
 	"fmt"
 	"github.com/TyphoonMC/go.uuid"
 	"io"
@@ -323,4 +324,8 @@ func (player *Player) loginKick(s string) {
 func JsonEscape(s string) string {
 	str := strings.Replace(s, `\`, `\\`, -1)
 	return strings.Replace(str, `"`, `\"`, -1)
+}
+
+func JsonMessage(s string) json.RawMessage {
+	return json.RawMessage(`"` + JsonEscape(s) + `"`)
 }

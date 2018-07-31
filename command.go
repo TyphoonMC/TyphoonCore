@@ -109,7 +109,7 @@ func (c *Core) analyseCommand(player *Player, args []string, node *CommandNode, 
 		}
 	}
 	if node.Execute != nil {
-		node.Execute(player, args[:step])
+		node.Execute(player, args)
 		return true
 	}
 	return false
