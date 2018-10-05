@@ -42,14 +42,14 @@ package main
 
 import (
 	"fmt"
-	"github.com/TyphoonMC/TyphoonCore"
+	t "github.com/TyphoonMC/TyphoonCore"
 )
 
 func main() {
-	core := typhoon.Init()
+	core := t.Init()
 	core.SetBrand("exampleserver")
 
-	core.On(func(e *typhoon.PlayerJoinEvent) {
+	core.On(func(e *t.PlayerJoinEvent) {
 		msg := t.ChatMessage("Welcome ")
 		msg.SetExtra([]t.IChatComponent{
 			t.ChatMessage(e.Player.GetName()),
