@@ -58,7 +58,9 @@ func (c *Core) Start() {
 }
 
 func (c *Core) SetBrand(brand string) {
-	c.brand = brand
+	br := make([]byte, len(brand)+1)
+	copy(br[:len(brand)], []byte(brand))
+	c.brand = string(br)
 }
 
 func (c *Core) keepAlive() {

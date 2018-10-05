@@ -126,6 +126,7 @@ const (
 	V1_12_1 Protocol = 338
 	V1_12_2 Protocol = 340
 	V1_13   Protocol = 393
+	V1_13_1 Protocol = 401
 )
 
 var (
@@ -138,6 +139,7 @@ var (
 		V1_12, V1_12_1,
 		V1_12_2,
 		V1_13,
+		V1_13_1,
 	}
 )
 

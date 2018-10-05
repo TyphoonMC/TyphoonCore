@@ -22,6 +22,7 @@
 | 1.12.1            | 338              | true      |
 | 1.12.2            | 340              | true      |
 | 1.13              | 393              | true      |
+| 1.13.1            | 401              | true      |                                                     |
 
 #### Snapshot support
 TyphoonCore is able to load [TyphoonDep protocol-map modules](https://github.com/TyphoonMC/TyphoonDep/tree/master/protocol-map) to add a partial snapshots support.
