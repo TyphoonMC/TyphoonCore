@@ -64,8 +64,17 @@ func (c *CommandParserDouble) IsMultiple() bool {
 	return false
 }
 func (c *CommandParserDouble) IsValid(arg string) bool {
-	_, err := strconv.ParseFloat(arg, 64)
-	return err == nil
+	nb, err := strconv.ParseFloat(arg, 64)
+	if err != nil {
+		return false
+	}
+	if c.Min.Used && c.Min.Value > nb {
+		return false
+	}
+	if c.Max.Used && c.Max.Value < nb {
+		return false
+	}
+	return true
 }
 func (c *CommandParserDouble) IsArrayValid(arg []string) bool {
 	return false
@@ -118,8 +127,17 @@ func (c *CommandParserFloat) IsMultiple() bool {
 	return false
 }
 func (c *CommandParserFloat) IsValid(arg string) bool {
-	_, err := strconv.ParseFloat(arg, 32)
-	return err == nil
+	nb, err := strconv.ParseFloat(arg, 32)
+	if err != nil {
+		return false
+	}
+	if c.Min.Used && c.Min.Value > float32(nb) {
+		return false
+	}
+	if c.Max.Used && c.Max.Value < float32(nb) {
+		return false
+	}
+	return true
 }
 func (c *CommandParserFloat) IsArrayValid(arg []string) bool {
 	return false
@@ -172,8 +190,17 @@ func (c *CommandParserInteger) IsMultiple() bool {
 	return false
 }
 func (c *CommandParserInteger) IsValid(arg string) bool {
-	_, err := strconv.ParseInt(arg, 10, 32)
-	return err == nil
+	nb, err := strconv.ParseInt(arg, 10, 32)
+	if err != nil {
+		return false
+	}
+	if c.Min.Used && c.Min.Value > int32(nb) {
+		return false
+	}
+	if c.Max.Used && c.Max.Value < int32(nb) {
+		return false
+	}
+	return true
 }
 func (c *CommandParserInteger) IsArrayValid(arg []string) bool {
 	return false
