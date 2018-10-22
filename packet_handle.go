@@ -754,11 +754,42 @@ func (packet *PacketPlayerPositionLook) Id() (int, Protocol) {
 	return 0x2E, V1_10
 }
 
+type PacketUpdateHealth struct {
+	Health float32
+	Food int
+	FoodSaturation float32
+}
+
+func (packet *PacketUpdateHealth) Read(player *Player, length int) (err error) {
+	return
+}
+func (packet *PacketUpdateHealth) Write(player *Player) (err error) {
+	err = player.WriteFloat32(packet.Health)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteVarInt(packet.Food)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.FoodSaturation)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	return
+}
+func (packet *PacketUpdateHealth) Handle(player *Player) {}
+func (packet *PacketUpdateHealth) Id() (int, Protocol) {
+	return 0x3E, V1_10
+}
+
 type PacketPlayerListHeaderFooter struct {
 	Header *string
 	Footer *string
 }
-
 func (packet *PacketPlayerListHeaderFooter) Read(player *Player, length int) (err error) {
 	return
 }
