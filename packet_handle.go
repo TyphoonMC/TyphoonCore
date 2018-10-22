@@ -755,8 +755,8 @@ func (packet *PacketPlayerPositionLook) Id() (int, Protocol) {
 }
 
 type PacketUpdateHealth struct {
-	Health float32
-	Food int
+	Health         float32
+	Food           int
 	FoodSaturation float32
 }
 
@@ -790,6 +790,7 @@ type PacketPlayerListHeaderFooter struct {
 	Header *string
 	Footer *string
 }
+
 func (packet *PacketPlayerListHeaderFooter) Read(player *Player, length int) (err error) {
 	return
 }
