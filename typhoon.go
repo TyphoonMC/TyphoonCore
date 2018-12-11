@@ -65,6 +65,10 @@ func (c *Core) SetBrand(brand string) {
 	c.brand = string(br)
 }
 
+func (c *Core) GetPlayerRegistry() *PlayerRegistry {
+	return c.playerRegistry
+}
+
 func (c *Core) keepAlive() {
 	r := rand.New(rand.NewSource(15768735131534))
 	keepalive := &PacketPlayKeepAlive{
