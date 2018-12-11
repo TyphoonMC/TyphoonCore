@@ -28,6 +28,18 @@ type PlayerChatEvent struct {
 	Message string
 }
 
+type PlayerClickType byte
+
+const (
+	PlayerRightClick PlayerClickType = iota
+	PlayerLeftClick
+)
+
+type PlayerInteractEvent struct {
+	Player    *Player
+	ClickType PlayerClickType
+}
+
 type PluginMessageEvent struct {
 	Channel string
 	Data    []byte

@@ -68,12 +68,13 @@ func (packet *PacketStatusRequest) Handle(player *Player) {
 	max_players := config.MaxPlayers
 	motd := config.Motd
 
-	if max_players < playersCount && !config.Restricted {
-		max_players = playersCount
+	count := player.core.playerRegistry.GetPlayerCount()
+	if max_players < count && !config.Restricted {
+		max_players = count
 	}
 
 	response := PacketStatusResponse{
-		Response: fmt.Sprintf(`{"version":{"name":"Typhoon","protocol":%d},"players":{"max":%d,"online":%d,"sample":[]},"description":{"text":"%s"},"favicon":"%s","modinfo":{"type":"FML","modList":[]}}`, protocol, max_players, playersCount, JsonEscape(motd), JsonEscape(favicon)),
+		Response: fmt.Sprintf(`{"version":{"name":"Typhoon","protocol":%d},"players":{"max":%d,"online":%d,"sample":[]},"description":{"text":"%s"},"favicon":"%s","modinfo":{"type":"FML","modList":[]}}`, protocol, max_players, count, JsonEscape(motd), JsonEscape(favicon)),
 	}
 	player.WritePacket(&response)
 }
@@ -165,7 +166,8 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 
 	max_players := config.MaxPlayers
 
-	if max_players <= playersCount && config.Restricted {
+	count := player.core.playerRegistry.GetPlayerCount()
+	if max_players <= count && config.Restricted {
 		player.Kick("Server is full")
 	}
 

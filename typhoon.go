@@ -15,6 +15,7 @@ type Core struct {
 	brand            string
 	rootCommand      CommandNode
 	compiledCommands []commandNode
+	playerRegistry   *PlayerRegistry
 }
 
 func Init() *Core {
@@ -34,6 +35,7 @@ func Init() *Core {
 			nil,
 		},
 		nil,
+		newPlayerRegistry(),
 	}
 	c.compileCommands()
 	return c
@@ -69,8 +71,7 @@ func (c *Core) keepAlive() {
 		Identifier: 0,
 	}
 	for {
-		playersMutex.Lock()
-		for _, player := range players {
+		c.playerRegistry.ForEachPlayer(func(player *Player) {
 			if player.state == PLAY {
 				if player.keepalive != 0 {
 					player.Kick("Timed out")
@@ -81,8 +82,7 @@ func (c *Core) keepAlive() {
 				player.keepalive = id
 				player.WritePacket(keepalive)
 			}
-		}
-		playersMutex.Unlock()
+		})
 		time.Sleep(5000000000)
 	}
 }
