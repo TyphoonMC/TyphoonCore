@@ -64,6 +64,12 @@ func main() {
 }
 ```
 
+Other examples :
+
+- [TyphoonBlog](https://github.com/TyphoonMC/TyphoonBlog)
+- [TyphoonLimbo](https://github.com/TyphoonMC/TyphoonLimbo)
+
+
 ### Roadmap
 
 - [ ] User friendly API
