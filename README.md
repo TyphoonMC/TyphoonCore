@@ -35,7 +35,7 @@ You can generate a protocol-map module with the [fetcher](https://github.com/Typ
 
 ### How to use
 ```shell
-go get github.com/TyphoonMC/go.uuid
+go get github.com/TyphoonMC/TyphoonCore
 ```
 
 #### Example
