@@ -375,6 +375,29 @@ func (packet *PacketPlayTabCompleteServerbound) Id() (int, Protocol) {
 	return 0x01, V1_10
 }
 
+type PacketPlayClientStatus struct {
+	Action ClientStatusAction
+}
+
+func (packet *PacketPlayClientStatus) Read(player *Player, length int) (err error) {
+	act, err := player.ReadVarInt()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	packet.Action = ClientStatusAction(act)
+	return
+}
+func (packet *PacketPlayClientStatus) Write(player *Player) (err error) {
+	return
+}
+func (packet *PacketPlayClientStatus) Handle(player *Player) {
+	return
+}
+func (packet *PacketPlayClientStatus) Id() (int, Protocol) {
+	return 0x03, V1_10
+}
+
 type PacketPlayMessage struct {
 	Component string
 	Position  ChatPosition

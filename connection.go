@@ -103,6 +103,14 @@ const (
 	DEFAULT_1_1  LevelType = "default_1_1"
 )
 
+type ClientStatusAction uint8
+
+const (
+	PERFORM_RESPAWN ClientStatusAction = iota
+	REQUEST_STATS
+	OPEN_INVENTORY
+)
+
 type Protocol uint16
 
 type Position struct {
@@ -128,6 +136,7 @@ const (
 	V1_13   Protocol = 393
 	V1_13_1 Protocol = 401
 	V1_13_2 Protocol = 404
+	V1_14 Protocol = 473
 )
 
 var (
@@ -142,6 +151,7 @@ var (
 		V1_13,
 		V1_13_1,
 		V1_13_2,
+		V1_14,
 	}
 )
 
