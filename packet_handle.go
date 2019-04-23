@@ -696,10 +696,12 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		log.Print(err)
 		return
 	}
-	err = player.WriteUInt8(uint8(packet.Difficulty))
-	if err != nil {
-		log.Print(err)
-		return
+	if player.protocol < V1_14 {
+		err = player.WriteUInt8(uint8(packet.Difficulty))
+		if err != nil {
+			log.Print(err)
+			return
+		}
 	}
 	err = player.WriteUInt8(packet.MaxPlayers)
 	if err != nil {
@@ -710,6 +712,13 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 	if err != nil {
 		log.Print(err)
 		return
+	}
+	if player.protocol >= V1_14 {
+		err = player.WriteVarInt(32)
+		if err != nil {
+			log.Print(err)
+			return
+		}
 	}
 	if player.protocol > V1_7_6 {
 		err = player.WriteBool(packet.ReducedDebug)

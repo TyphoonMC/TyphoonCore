@@ -136,7 +136,7 @@ const (
 	V1_13   Protocol = 393
 	V1_13_1 Protocol = 401
 	V1_13_2 Protocol = 404
-	V1_14 Protocol = 473
+	V1_14 Protocol = 477
 )
 
 var (
