@@ -25,6 +25,7 @@
 | 1.13.1            | 401              | true      |
 | 1.13.2            | 404              | true      |
 | 1.14              | 477              | true      |
+| 1.14.1            | 480              | true      |
 
 
 #### Snapshot support
