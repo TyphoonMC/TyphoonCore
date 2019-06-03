@@ -350,6 +350,10 @@ func initHacks() {
 	clientbound[V1_14_1] = clientbound[V1_14]
 	serverbound[V1_14_1] = serverbound[V1_14]
 
+	// Hack 1.14.2
+	clientbound[V1_14_2] = clientbound[V1_14_1]
+	serverbound[V1_14_2] = serverbound[V1_14_1]
+
 	initHackModules()
 }
 
