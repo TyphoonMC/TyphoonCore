@@ -1,4 +1,4 @@
-module TyphoonCore
+module github.com/TyphoonMC/TyphoonCore
 
 go 1.12
 
