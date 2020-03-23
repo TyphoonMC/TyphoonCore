@@ -362,6 +362,104 @@ func initHacks() {
 	clientbound[V1_14_4] = clientbound[V1_14_3]
 	serverbound[V1_14_4] = serverbound[V1_14_3]
 
+	// Hack 1.15
+	clientbound[V1_15] = copyHack(clientbound[V1_14_4])
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x08)] = 0x09
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x09)] = 0x0A
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x0A)] = 0x0B
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x0B)] = 0x0C
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x0C)] = 0x0D
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x0D)] = 0x0E
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x0E)] = 0x0F
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x0F)] = 0x10
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x10)] = 0x11
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x11)] = 0x12
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x12)] = 0x13
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x13)] = 0x14
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x14)] = 0x15
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x15)] = 0x16
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x16)] = 0x17
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x17)] = 0x18
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x18)] = 0x19
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x19)] = 0x1A
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x1A)] = 0x1B
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x1B)] = 0x1C
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x1C)] = 0x1D
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x1D)] = 0x1E
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x1E)] = 0x1F
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x1F)] = 0x20
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x20)] = 0x21
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x21)] = 0x22
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x22)] = 0x23
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x23)] = 0x24
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x24)] = 0x25
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x25)] = 0x26
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x26)] = 0x27
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x27)] = 0x28
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x28)] = 0x29
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x29)] = 0x2A
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x2A)] = 0x2B
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x2B)] = 0x2C
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x2C)] = 0x2D
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x2D)] = 0x2E
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x2E)] = 0x2F
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x2F)] = 0x30
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x30)] = 0x31
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x31)] = 0x32
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x32)] = 0x33
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x33)] = 0x34
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x34)] = 0x35
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x35)] = 0x36
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x36)] = 0x37
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x37)] = 0x38
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x38)] = 0x39
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x39)] = 0x3A
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x3A)] = 0x3B
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x3B)] = 0x3C
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x3C)] = 0x3D
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x3D)] = 0x3E
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x3E)] = 0x3F
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x3F)] = 0x40
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x40)] = 0x41
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x41)] = 0x42
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x42)] = 0x43
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x43)] = 0x44
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x44)] = 0x45
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x45)] = 0x46
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x46)] = 0x47
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x47)] = 0x48
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x48)] = 0x49
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x49)] = 0x4A
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x4A)] = 0x4B
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x4B)] = 0x4C
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x4C)] = 0x4D
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x4D)] = 0x4E
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x4E)] = 0x4F
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x4F)] = 0x50
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x50)] = 0x51
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x51)] = 0x52
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x52)] = 0x53
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x53)] = 0x54
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x54)] = 0x55
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x55)] = 0x56
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x56)] = 0x57
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x57)] = 0x58
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x58)] = 0x59
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x59)] = 0x5A
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x5A)] = 0x5B
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x5B)] = 0x5C
+	clientbound[V1_15][lastClientbound(V1_14_4, 0x5C)] = 0x08
+
+	serverbound[V1_15] = copyHack(serverbound[V1_14_4])
+
+	// Hack 1.15.1
+	clientbound[V1_15_1] = clientbound[V1_15]
+	serverbound[V1_15_1] = serverbound[V1_15]
+
+	// Hack 1.15.2
+	clientbound[V1_15_2] = clientbound[V1_15_1]
+	serverbound[V1_15_2] = serverbound[V1_15_1]
+
 	initHackModules()
 }
 

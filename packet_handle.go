@@ -148,13 +148,15 @@ func (packet *PacketLoginStart) Write(player *Player) (err error) {
 
 var (
 	join_game = PacketPlayJoinGame{
-		EntityId:     0,
-		Gamemode:     SPECTATOR,
-		Dimension:    END,
-		Difficulty:   NORMAL,
-		LevelType:    DEFAULT,
-		MaxPlayers:   0xFF,
-		ReducedDebug: false,
+		EntityId:            0,
+		Gamemode:            SPECTATOR,
+		Dimension:           END,
+		HashedSeed:          0,
+		Difficulty:          NORMAL,
+		LevelType:           DEFAULT,
+		MaxPlayers:          0xFF,
+		ReducedDebug:        false,
+		EnableRespawnScreen: true,
 	}
 	position_look = PacketPlayerPositionLook{}
 )
@@ -664,13 +666,15 @@ func (packet *PacketPlayKeepAlive) Id() (int, Protocol) {
 }
 
 type PacketPlayJoinGame struct {
-	EntityId     uint32
-	Gamemode     Gamemode
-	Dimension    Dimension
-	Difficulty   Difficulty
-	MaxPlayers   uint8
-	LevelType    LevelType
-	ReducedDebug bool
+	EntityId            uint32
+	Gamemode            Gamemode
+	Dimension           Dimension
+	HashedSeed          uint64
+	Difficulty          Difficulty
+	MaxPlayers          uint8
+	LevelType           LevelType
+	ReducedDebug        bool
+	EnableRespawnScreen bool
 }
 
 func (packet *PacketPlayJoinGame) Read(player *Player, length int) (err error) {
@@ -703,6 +707,13 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 			return
 		}
 	}
+	if player.protocol >= V1_15 {
+		err = player.WriteUInt64(packet.HashedSeed)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
 	err = player.WriteUInt8(packet.MaxPlayers)
 	if err != nil {
 		log.Print(err)
@@ -722,6 +733,13 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 	}
 	if player.protocol > V1_7_6 {
 		err = player.WriteBool(packet.ReducedDebug)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	if player.protocol >= V1_15 {
+		err = player.WriteBool(packet.EnableRespawnScreen)
 		if err != nil {
 			log.Print(err)
 			return
