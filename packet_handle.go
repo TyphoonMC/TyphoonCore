@@ -4,7 +4,9 @@ import (
 	"encoding/binary"
 	"fmt"
 	"github.com/TyphoonMC/go.uuid"
+	"github.com/seebs/nbt"
 	"log"
+	"math"
 )
 
 type PacketHandshake struct {
@@ -146,21 +148,6 @@ func (packet *PacketLoginStart) Write(player *Player) (err error) {
 	return
 }
 
-var (
-	join_game = PacketPlayJoinGame{
-		EntityId:            0,
-		Gamemode:            SPECTATOR,
-		Dimension:           END,
-		HashedSeed:          0,
-		Difficulty:          NORMAL,
-		LevelType:           DEFAULT,
-		MaxPlayers:          0xFF,
-		ReducedDebug:        false,
-		EnableRespawnScreen: true,
-	}
-	position_look = PacketPlayerPositionLook{}
-)
-
 func (packet *PacketLoginStart) Handle(player *Player) {
 	if !IsCompatible(player.protocol) {
 		player.Kick("Incompatible version")
@@ -190,8 +177,50 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 	player.state = PLAY
 	player.register()
 
-	player.WritePacket(&join_game)
-	player.WritePacket(&position_look)
+	player.WritePacket(&PacketPlayJoinGame{
+		EntityId:            1,
+		Gamemode:            player.core.gamemode,
+		Dimension:           player.core.world.Dimension,
+		HashedSeed:          0,
+		Difficulty:          player.core.difficulty,
+		LevelType:           DEFAULT,
+		MaxPlayers:          0xFF,
+		ReducedDebug:        false,
+		EnableRespawnScreen: true,
+	})
+
+	player.WritePacket(&PacketPlayServerDifficulty{
+		player.core.difficulty,
+	})
+
+	player.WritePacket(&PacketPlaySpawnPosition{
+		Position{0, 0, 0},
+	})
+
+	player.WritePacket(&PacketPlayPlayerAbilities{
+		true,
+		true,
+		true,
+		false,
+		1.0,
+		0.1,
+	})
+
+	player.core.CallEvent(&PlayerPreJoinEvent{
+		player,
+	})
+
+	player.WritePacket(&PacketPlayerPositionLook{
+		0,
+		0,
+		0,
+		0,
+		0,
+		0xFF,
+		0,
+	})
+
+	player.core.world.SendChunks(player)
 
 	if player.protocol >= V1_13 {
 		player.WritePacket(&PacketPlayDeclareCommands{
@@ -492,6 +521,26 @@ func (packet *PacketBossBar) Id() (int, Protocol) {
 	return 0x0C, V1_10
 }
 
+type PacketPlayServerDifficulty struct {
+	Difficulty Difficulty
+}
+
+func (packet *PacketPlayServerDifficulty) Read(player *Player, length int) (err error) {
+	return
+}
+func (packet *PacketPlayServerDifficulty) Write(player *Player) (err error) {
+	err = player.WriteUInt8(uint8(packet.Difficulty))
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	return
+}
+func (packet *PacketPlayServerDifficulty) Handle(player *Player) {}
+func (packet *PacketPlayServerDifficulty) Id() (int, Protocol) {
+	return 0x0D, V1_10
+}
+
 type PacketPlayDeclareCommands struct {
 	Nodes     []commandNode
 	RootIndex int
@@ -665,6 +714,210 @@ func (packet *PacketPlayKeepAlive) Id() (int, Protocol) {
 	return 0x1F, V1_10
 }
 
+type PacketPlayChunkData struct {
+	X int32
+	Z int32
+	Dimension Dimension
+	GroundUp bool
+	Sections []*ChunkSection
+	Biomes *[]byte
+	BlockEntities []nbt.Compound
+}
+
+func (packet *PacketPlayChunkData) Read(player *Player, length int) (err error) {
+	return
+}
+func (packet *PacketPlayChunkData) Write(player *Player) (err error) {
+	player.WriteUInt32(uint32(packet.X))
+	player.WriteUInt32(uint32(packet.Z))
+	player.WriteBool(packet.GroundUp)
+
+	println(packet.X, packet.Z)
+
+	var bitmask uint16 = 0
+	for i, s := range packet.Sections {
+		if s != nil &&
+			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air" ) {
+			bitmask |= 1 << i
+		}
+	}
+	player.WriteVarInt(int(bitmask))
+
+	buff := newVarBuffer(16*16*16*16)
+	tmp := player.io
+	player.io = &ConnReadWrite{
+		rdr: tmp.rdr,
+		wtr: buff,
+	}
+
+	for i, s := range packet.Sections {
+		// Check chunk used
+		if (bitmask & (1 << i)) == 0 {
+			continue
+		}
+
+		// Calculate block bits size
+		var bitsPerBlock uint8 = 4
+		for s.Palette.GetSize() > 2^int(bitsPerBlock) {
+			bitsPerBlock += 1
+		}
+		if bitsPerBlock > 8 {
+			bitsPerBlock = 13
+		}
+		player.WriteUInt8(bitsPerBlock)
+
+		maxEntryValue := 2^uint64(bitsPerBlock) - 1
+
+		// Send block palette
+		if bitsPerBlock == 13 {
+			player.WriteVarInt(0)
+		} else {
+			player.WriteVarInt(s.Palette.GetSize())
+
+			for _, uid := range s.Palette.GetContent() {
+				bId := BLOCK_REGISTRY.GetBlockId(uid, player.protocol)
+				player.WriteVarInt(bId)
+			}
+		}
+
+		// Content length
+		length := int(math.Ceil(4096 * float64(bitsPerBlock) / 64.0))
+		player.WriteVarInt(length)
+
+		// Calculate blocks
+		data := make([]uint64, length)
+		for index, block := range s.Blocks {
+			var value int
+			if bitsPerBlock == 13 {
+				//TODO handle global palette
+				value = 0
+			} else {
+				value = block
+			}
+
+			bitIndex := index * int(bitsPerBlock)
+			startIndex := bitIndex / 64
+			endIndex := ((index + 1) * int(bitsPerBlock) - 1) / 64
+			startBitSubIndex := bitIndex % 64
+
+			data[startIndex] = data[startIndex] & ^(maxEntryValue << startBitSubIndex) | (uint64(value) & maxEntryValue) << startBitSubIndex
+			if startIndex != endIndex {
+				endBitSubIndex := uint64(64 - startBitSubIndex)
+				data[endIndex] = data[endIndex]>>endBitSubIndex<<endBitSubIndex | (uint64(value)&maxEntryValue)>>endBitSubIndex
+			}
+		}
+
+		// Write blocks
+		for _, d := range data {
+			player.WriteUInt64(d)
+		}
+
+		// Write lights
+		lights := make([]byte, 16*16*16 / 2)
+		player.WriteByteArray(lights)
+		if packet.Dimension == OVERWORLD {
+			// Overworld sky light
+			player.WriteByteArray(lights)
+		}
+	}
+
+	// Add biomes
+	if packet.GroundUp {
+		biomes := make([]byte, 256)
+		player.WriteByteArray(biomes)
+	}
+
+	// Send sections
+	player.io = tmp
+	player.WriteVarInt(buff.Len())
+	player.WriteByteArray(buff.Bytes())
+
+	// No entity
+	player.WriteVarInt(0)
+
+	return
+}
+func (packet *PacketPlayChunkData) Handle(player *Player) {
+}
+func (packet *PacketPlayChunkData) Id() (int, Protocol) {
+	return 0x20, V1_10
+}
+
+type PacketPlayParticle struct {
+	Type int
+	LongDistance bool
+	X float32
+	Y float32
+	Z float32
+	OffsetX float32
+	OffsetY float32
+	OffsetZ float32
+	ParticleData float32
+	Count int
+	Data []int
+}
+
+func (packet *PacketPlayParticle) Read(player *Player, length int) (err error) {
+	return
+}
+func (packet *PacketPlayParticle) Write(player *Player) (err error) {
+	err = player.WriteUInt32(uint32(packet.Type))
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteBool(packet.LongDistance)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.X)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.Y)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.Z)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.OffsetX)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.OffsetY)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.OffsetZ)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.ParticleData)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteUInt32(uint32(packet.Count))
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	return
+}
+func (packet *PacketPlayParticle) Handle(player *Player) {}
+func (packet *PacketPlayParticle) Id() (int, Protocol) {
+	return 0x22, V1_10
+}
+
 type PacketPlayJoinGame struct {
 	EntityId            uint32
 	Gamemode            Gamemode
@@ -750,6 +1003,55 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 func (packet *PacketPlayJoinGame) Handle(player *Player) {}
 func (packet *PacketPlayJoinGame) Id() (int, Protocol) {
 	return 0x23, V1_10
+}
+
+type PacketPlayPlayerAbilities struct {
+	Invulnerable bool
+	Fly bool
+	CanFly bool
+	Creative bool
+	FlyingSpeed float32
+	FieldOfView float32
+}
+
+func (packet *PacketPlayPlayerAbilities) Read(player *Player, length int) (err error) {
+	return
+}
+func (packet *PacketPlayPlayerAbilities) Write(player *Player) (err error) {
+	var flags uint8 = 0
+	if packet.Invulnerable {
+		flags |= 0x01
+	}
+	if packet.Fly {
+		flags |= 0x02
+	}
+	if packet.CanFly {
+		flags |= 0x04
+	}
+	if packet.Creative {
+		flags |= 0x08
+	}
+
+	err = player.WriteUInt8(flags)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.FlyingSpeed)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	err = player.WriteFloat32(packet.FieldOfView)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	return
+}
+func (packet *PacketPlayPlayerAbilities) Handle(player *Player) {}
+func (packet *PacketPlayPlayerAbilities) Id() (int, Protocol) {
+	return 0x2B, V1_10
 }
 
 type PacketPlayerPositionLook struct {
@@ -840,6 +1142,26 @@ func (packet *PacketUpdateHealth) Write(player *Player) (err error) {
 func (packet *PacketUpdateHealth) Handle(player *Player) {}
 func (packet *PacketUpdateHealth) Id() (int, Protocol) {
 	return 0x3E, V1_10
+}
+
+type PacketPlaySpawnPosition struct {
+	Position Position
+}
+
+func (packet *PacketPlaySpawnPosition) Read(player *Player, length int) (err error) {
+	return
+}
+func (packet *PacketPlaySpawnPosition) Write(player *Player) (err error) {
+	err = player.WritePosition(packet.Position)
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	return
+}
+func (packet *PacketPlaySpawnPosition) Handle(player *Player) {}
+func (packet *PacketPlaySpawnPosition) Id() (int, Protocol) {
+	return 0x43, V1_10
 }
 
 type PacketPlayerListHeaderFooter struct {

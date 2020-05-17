@@ -16,6 +16,9 @@ type Core struct {
 	rootCommand      CommandNode
 	compiledCommands []commandNode
 	playerRegistry   *PlayerRegistry
+	world *Map
+	gamemode Gamemode
+	difficulty Difficulty
 }
 
 func Init() *Core {
@@ -36,6 +39,12 @@ func Init() *Core {
 		},
 		nil,
 		newPlayerRegistry(),
+		&Map{
+			END,
+			[]*Chunk{},
+		},
+		SPECTATOR,
+		PEACEFUL,
 	}
 	c.compileCommands()
 	return c
@@ -59,6 +68,14 @@ func (c *Core) Start() {
 	}
 }
 
+func (c *Core) SetMap(world *Map) {
+	c.world = world
+}
+
+func (c *Core) SetGamemode(gamemode Gamemode) {
+	c.gamemode = gamemode
+}
+
 func (c *Core) SetBrand(brand string) {
 	br := make([]byte, len(brand)+1)
 	copy(br[:len(brand)], []byte(brand))
@@ -74,6 +91,19 @@ func (c *Core) keepAlive() {
 	keepalive := &PacketPlayKeepAlive{
 		Identifier: 0,
 	}
+	particle := &PacketPlayParticle{
+		3,
+		true,
+		10,
+		70,
+		10,
+		0,
+		0,
+		0,
+		0,
+		1,
+		nil,
+	}
 	for {
 		c.playerRegistry.ForEachPlayer(func(player *Player) {
 			if player.state == PLAY {
@@ -85,6 +115,7 @@ func (c *Core) keepAlive() {
 				keepalive.Identifier = id
 				player.keepalive = id
 				player.WritePacket(keepalive)
+				player.WritePacket(particle)
 			}
 		})
 		time.Sleep(5000000000)

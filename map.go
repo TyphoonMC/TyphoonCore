@@ -1,0 +1,117 @@
+package typhoon
+
+import "github.com/seebs/nbt"
+
+type BlockPalette interface {
+	GetId(name string) int
+	RecoverName(id int) string
+	GetSize() int
+	GetContent() []string
+}
+
+type ChunkBlockPalette struct {
+	Map []string
+}
+
+type ChunkSection struct {
+	Palette BlockPalette
+	Blocks [16*16*16]int
+}
+
+type Chunk struct {
+	ChunkX int32
+	ChunkZ int32
+	Sections [16]*ChunkSection
+}
+
+type Map struct {
+	Dimension Dimension
+	Chunks []*Chunk
+}
+
+func (m *Map) SetBlock(x, y, z int, typ string) {
+	chunk := m.GetChunk(int32(x) / 16, int32(z) / 16)
+	chunkSection := chunk.GetSection(y / 16)
+	chunkSection.SetBlock(x%16, y%16, z%16, typ)
+}
+
+func (m *Map) GetChunk(x int32, z int32) *Chunk {
+	for _, c := range m.Chunks {
+		if c.ChunkX == x && c.ChunkZ == z {
+			return c
+		}
+	}
+
+	c := &Chunk{
+		ChunkX: x,
+		ChunkZ: z,
+	}
+	for i := 0; i < 16; i++ {
+		c.Sections[i] = &ChunkSection{
+			Palette: &ChunkBlockPalette{
+				[]string{"minecraft:air"},
+			},
+		}
+	}
+	m.Chunks = append(m.Chunks, c)
+	return c
+}
+
+func (chunk *Chunk) GetSection(y int) *ChunkSection {
+	if chunk.Sections[y] != nil {
+		return chunk.Sections[y]
+	}
+
+	c := &ChunkSection{
+		Palette: &ChunkBlockPalette{
+			[]string{"minecraft:air"},
+		},
+	}
+	chunk.Sections[y] = c
+	return c
+}
+
+func (palette *ChunkBlockPalette) GetId(name string) int {
+	for i, v := range palette.Map {
+		if v == name {
+			return i
+		}
+	}
+	palette.Map = append(palette.Map, name)
+	return len(palette.Map)-1
+}
+
+func (palette *ChunkBlockPalette) RecoverName(id int) string {
+	if id < 0 || id >= len(palette.Map) {
+		return "minecraft:air"
+	}
+	return palette.Map[id]
+}
+
+func (palette *ChunkBlockPalette) GetSize() int {
+	return len(palette.Map)
+}
+
+func (palette *ChunkBlockPalette) GetContent() []string {
+	return palette.Map
+}
+
+func (section *ChunkSection) SetBlock(x, y, z int, typ string) {
+	section.Blocks[z << 8 | y << 4 | x] = section.Palette.GetId(typ)
+}
+
+func (m *Map) SendChunks(p *Player) {
+	for _, c := range m.Chunks {
+		biomes := make([]byte, 256)
+		packet := &PacketPlayChunkData{
+			c.ChunkX,
+			c.ChunkZ,
+			m.Dimension,
+			false,
+			c.Sections[:],
+			&biomes,
+			make([]nbt.Compound, 0),
+		}
+		p.WritePacket(packet)
+	}
+}

@@ -10,26 +10,26 @@ import (
 	"strings"
 )
 
-type Map struct {
+type HackMap struct {
 	Clientbound map[string]string `json:"clientbound"`
 	Serverbound map[string]string `json:"serverbound"`
 }
 
-type Content struct {
+type HackContent struct {
 	Name     string   `json:"name"`
 	Protocol Protocol `json:"protocol"`
 	Base     Protocol `json:"base"`
-	Map      Map      `json:"map"`
+	Map      HackMap  `json:"map"`
 }
 
-type Type struct {
+type HackType struct {
 	Name    string `json:"name"`
 	Version int    `json:"version"`
 }
 
-type Module struct {
-	Type    Type    `json:"type"`
-	Content Content `json:"content"`
+type HackModule struct {
+	Type    HackType    `json:"type"`
+	Content HackContent `json:"content"`
 }
 
 var (
@@ -475,7 +475,7 @@ func convUI(i string, v string) (uir int, uvr int, err error) {
 	return int(ui), int(uv), nil
 }
 
-func loadHackModule(module *Module) {
+func loadHackModule(module *HackModule) {
 	if IsCompatible(module.Content.Base) {
 		if clientbound[module.Content.Base] != nil {
 			clientbound[module.Content.Protocol] = copyHack(clientbound[module.Content.Base])
@@ -517,7 +517,7 @@ func loadHackModuleFile(path string) {
 		return
 	}
 
-	var module Module
+	var module HackModule
 	err = json.Unmarshal(raw, &module)
 	if err != nil {
 		return
