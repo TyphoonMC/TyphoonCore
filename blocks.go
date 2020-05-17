@@ -1,21 +1,29 @@
 package typhoon
 
+import "github.com/TyphoonMC/TyphoonCore/blocks"
+
 var(
-	BLOCK_REGISTRY = &BlockRegistry{
-		counter:    0,
-		NameToGuid: make(map[string]uint16),
-		GuidToName: make(map[uint16]string),
-	}
+	BLOCK_REGISTRY = generateRegistry()
 )
-
-type BlockState struct {
-
-}
 
 type BlockRegistry struct {
 	counter uint16
 	NameToGuid map[string]uint16
 	GuidToName map[uint16]string
+}
+
+func generateRegistry() *BlockRegistry {
+	r := &BlockRegistry{
+		counter:    0,
+		NameToGuid: make(map[string]uint16),
+		GuidToName: make(map[uint16]string),
+	}
+
+	for _, v := range blocks.GetLegacyMapping() {
+		r.GetGuid(v)
+	}
+
+	return r
 }
 
 func (registry *BlockRegistry) GetGuid(name string) uint16 {
@@ -39,9 +47,5 @@ func (registry *BlockRegistry) GetName(guid uint16) string {
 }
 
 func (registry *BlockRegistry) GetBlockId(name string, proto Protocol) int {
-	if name == "minecraft:air" {
-		return 0 << 4 | (0 & 0xF)
-	}
-	//return int(registry.GetGuid(name)) << 4 | (0 & 0xF)
-	return 1 << 4 | (0 & 0xF)
+	return blocks.GetLegacyFromName(name)
 }

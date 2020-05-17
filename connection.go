@@ -200,6 +200,7 @@ type Player struct {
 	uuid        string
 	keepalive   int
 	compression bool
+	packetsQueue chan Packet
 }
 
 func (player *Player) GetName() string {
@@ -321,6 +322,11 @@ func (player *Player) ReadPacketWithCompression() (packet Packet, err error) {
 }
 
 func (player *Player) WritePacket(packet Packet) (err error) {
+	player.packetsQueue <- packet
+	return nil
+}
+
+func (player *Player) privateWritePacket(packet Packet) (err error) {
 	if !player.compression {
 		return player.WritePacketWithoutCompression(packet)
 	} else {

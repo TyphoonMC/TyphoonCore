@@ -107,9 +107,10 @@ func (c *Core) keepAlive() {
 	for {
 		c.playerRegistry.ForEachPlayer(func(player *Player) {
 			if player.state == PLAY {
-				if player.keepalive != 0 {
+				//TODO rework keepalive
+				/*if player.keepalive != 0 {
 					player.Kick("Timed out")
-				}
+				}*/
 
 				id := int(r.Int31())
 				keepalive.Identifier = id
@@ -143,7 +144,16 @@ func (c *Core) handleConnection(conn net.Conn, id int) {
 		uuid:        "d979912c-bb24-4f23-a6ac-c32985a1e5d3",
 		keepalive:   0,
 		compression: false,
+		packetsQueue: make(chan Packet),
 	}
+
+	go func(){for {
+		packet := <- player.packetsQueue
+		err := player.privateWritePacket(packet)
+		if err != nil {
+			break
+		}
+	}}()
 
 	for {
 		_, err := player.ReadPacket()

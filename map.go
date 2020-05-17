@@ -97,21 +97,24 @@ func (palette *ChunkBlockPalette) GetContent() []string {
 }
 
 func (section *ChunkSection) SetBlock(x, y, z int, typ string) {
-	section.Blocks[z << 8 | y << 4 | x] = section.Palette.GetId(typ)
+	section.Blocks[y << 8 | z << 4 | x] = section.Palette.GetId(typ)
 }
 
 func (m *Map) SendChunks(p *Player) {
-	for _, c := range m.Chunks {
-		biomes := make([]byte, 256)
-		packet := &PacketPlayChunkData{
-			c.ChunkX,
-			c.ChunkZ,
-			m.Dimension,
-			false,
-			c.Sections[:],
-			&biomes,
-			make([]nbt.Compound, 0),
+	for x := -4; x < 4; x++ {
+		for z := -4; z < 4; z++ {
+			c := m.GetChunk(int32(x), int32(z))
+			biomes := make([]byte, 256)
+			packet := &PacketPlayChunkData{
+				c.ChunkX,
+				c.ChunkZ,
+				m.Dimension,
+				true,
+				c.Sections[:],
+				&biomes,
+				make([]nbt.Compound, 0),
+			}
+			p.WritePacket(packet)
 		}
-		p.WritePacket(packet)
 	}
 }

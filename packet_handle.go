@@ -202,7 +202,7 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 		true,
 		true,
 		false,
-		1.0,
+		0.1,
 		0.1,
 	})
 
@@ -732,8 +732,6 @@ func (packet *PacketPlayChunkData) Write(player *Player) (err error) {
 	player.WriteUInt32(uint32(packet.Z))
 	player.WriteBool(packet.GroundUp)
 
-	println(packet.X, packet.Z)
-
 	var bitmask uint16 = 0
 	for i, s := range packet.Sections {
 		if s != nil &&
@@ -814,6 +812,9 @@ func (packet *PacketPlayChunkData) Write(player *Player) (err error) {
 
 		// Write lights
 		lights := make([]byte, 16*16*16 / 2)
+		for i := range lights {
+			lights[i] = 0xFF
+		}
 		player.WriteByteArray(lights)
 		if packet.Dimension == OVERWORLD {
 			// Overworld sky light
