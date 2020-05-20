@@ -3,6 +3,7 @@ package typhoon
 import (
 	"encoding/binary"
 	"fmt"
+	"github.com/TyphoonMC/TyphoonCore/blocks"
 	"github.com/TyphoonMC/go.uuid"
 	"github.com/seebs/nbt"
 	"log"
@@ -194,7 +195,7 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 	})
 
 	player.WritePacket(&PacketPlaySpawnPosition{
-		Position{0, 0, 0},
+		*player.core.world.Spawn.ToPosition(),
 	})
 
 	player.WritePacket(&PacketPlayPlayerAbilities{
@@ -211,16 +212,16 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 	})
 
 	player.WritePacket(&PacketPlayerPositionLook{
-		0,
-		0,
-		0,
+		player.core.world.Spawn.X,
+		player.core.world.Spawn.Y,
+		player.core.world.Spawn.Z,
 		0,
 		0,
 		0xFF,
 		0,
 	})
 
-	player.core.world.SendChunks(player)
+	player.core.world.SendSpawnChunks(player)
 
 	if player.protocol >= V1_13 {
 		player.WritePacket(&PacketPlayDeclareCommands{
@@ -728,6 +729,12 @@ func (packet *PacketPlayChunkData) Read(player *Player, length int) (err error) 
 	return
 }
 func (packet *PacketPlayChunkData) Write(player *Player) (err error) {
+	if player.protocol >= V1_9 {
+		return packet.WriteV1_9(player)
+	}
+	return packet.WriteV1_8(player)
+}
+func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 	player.WriteUInt32(uint32(packet.X))
 	player.WriteUInt32(uint32(packet.Z))
 	player.WriteBool(packet.GroundUp)
@@ -834,7 +841,92 @@ func (packet *PacketPlayChunkData) Write(player *Player) (err error) {
 	player.WriteByteArray(buff.Bytes())
 
 	// No entity
-	player.WriteVarInt(0)
+	if player.protocol >= V1_9_3 {
+		player.WriteVarInt(0)
+	}
+
+	return
+}
+func (packet *PacketPlayChunkData) WriteV1_8(player *Player) (err error) {
+	player.WriteUInt32(uint32(packet.X))
+	player.WriteUInt32(uint32(packet.Z))
+	player.WriteBool(packet.GroundUp)
+
+	var bitmask uint16 = 0
+	for i, s := range packet.Sections {
+		if s != nil &&
+			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air" ) {
+			bitmask |= 1 << i
+		}
+	}
+	player.WriteUInt16(bitmask)
+
+	buff := newVarBuffer(16*16*16*16)
+	tmp := player.io
+	player.io = &ConnReadWrite{
+		rdr: tmp.rdr,
+		wtr: buff,
+	}
+
+	// Write blocks
+	for i, s := range packet.Sections {
+		// Check chunk used
+		if (bitmask & (1 << i)) == 0 {
+			continue
+		}
+
+		// Calculate blocks
+		for _, block := range s.Blocks {
+			value := uint16(blocks.GetLegacyFromName(s.Palette.RecoverName(block)))
+			player.WriteLittleEndianUInt16(value)
+		}
+	}
+
+	player.WriteVarInt(16)
+	player.WriteVarInt(16*16*16 * 2)
+
+	// Write lights
+	for i, _ := range packet.Sections {
+		// Check chunk used
+		if (bitmask & (1 << i)) == 0 {
+			continue
+		}
+
+		// Write lights
+		lights := make([]byte, 16*16*16 / 2)
+		for i := range lights {
+			lights[i] = 0xFF
+		}
+		player.WriteByteArray(lights)
+	}
+
+	// Write sky lights
+	if packet.Dimension == OVERWORLD {
+		for i, _ := range packet.Sections {
+			// Check chunk used
+			if (bitmask & (1 << i)) == 0 {
+				continue
+			}
+
+			// Write sky lights
+			lights := make([]byte, 16*16*16 / 2)
+			for i := range lights {
+				lights[i] = 0xFF
+			}
+			player.WriteByteArray(lights)
+		}
+	}
+
+	// Write biomes
+	if packet.GroundUp {
+		biomes := make([]byte, 256)
+		player.WriteByteArray(biomes)
+	}
+
+	// Send sections
+	player.io = tmp
+	player.WriteVarInt(buff.Len())
+	player.WriteByteArray(buff.Bytes())
 
 	return
 }

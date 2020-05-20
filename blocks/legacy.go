@@ -2342,9 +2342,9 @@ var legacy = `
 }
 `
 
-var legacyToString, stringToLegacy = generateBlockMapping()
+var legacyToString, stringToLegacy = generateLegacyBlockMapping()
 
-func generateBlockMapping() (map[int]string, map[string]int) {
+func generateLegacyBlockMapping() (map[int]string, map[string]int) {
 	var temp struct {
 		Blocks map[string]string `json:"blocks"`
 	}

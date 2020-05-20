@@ -47,5 +47,8 @@ func (registry *BlockRegistry) GetName(guid uint16) string {
 }
 
 func (registry *BlockRegistry) GetBlockId(name string, proto Protocol) int {
+	if proto >= V1_13 {
+		return blocks.GetV1_13FromName(name)
+	}
 	return blocks.GetLegacyFromName(name)
 }

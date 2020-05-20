@@ -115,9 +115,23 @@ const (
 type Protocol uint16
 
 type Position struct {
-	X int
-	Y int
-	Z int
+	X int `json:"x"`
+	Y int `json:"y"`
+	Z int `json:"z"`
+}
+
+type Location struct {
+	X float64 `json:"x"`
+	Y float64 `json:"y"`
+	Z float64 `json:"z"`
+}
+
+func (loc *Location) ToPosition() *Position {
+	return &Position{
+		int(loc.X),
+		int(loc.Y),
+		int(loc.Z),
+	}
 }
 
 const (

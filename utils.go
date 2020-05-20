@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/TyphoonMC/go.uuid"
+	"github.com/seebs/nbt"
 	"io"
 	"math"
 	"strings"
@@ -70,6 +71,14 @@ func (player *Player) WriteBool(b bool) (err error) {
 	return
 }
 
+func (player *Player) WriteNBTCompound(tag nbt.Compound) (err error) {
+	err = nbt.StoreCompressed(player.io.wtr, tag, "")
+	if err != nil {
+		return err
+	}
+	return
+}
+
 func (player *Player) ReadUInt8() (i uint8, err error) {
 	buff := player.io.buffer[:1]
 	_, err = io.ReadFull(player.io.rdr, buff)
@@ -101,6 +110,16 @@ func (player *Player) ReadUInt16() (i uint16, err error) {
 func (player *Player) WriteUInt16(i uint16) (err error) {
 	buff := player.io.buffer[:2]
 	binary.BigEndian.PutUint16(buff, i)
+	_, err = player.io.wtr.Write(buff)
+	if err != nil {
+		return err
+	}
+	return
+}
+
+func (player *Player) WriteLittleEndianUInt16(i uint16) (err error) {
+	buff := player.io.buffer[:2]
+	binary.LittleEndian.PutUint16(buff, i)
 	_, err = player.io.wtr.Write(buff)
 	if err != nil {
 		return err

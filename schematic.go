@@ -36,12 +36,9 @@ func LoadSchematic(file string) (*Map, error) {
 	length := int(c["Length"].(nbt.Short))
 
 	m := &Map{
+		Location{0, 0, 0},
 		END,
 		make([]*Chunk, 0),
-	}
-
-	for k, v := range blocks2.GetLegacyMapping() {
-		println(k, v)
 	}
 
 	blocks := []int8(c["Blocks"].(nbt.ByteArray))

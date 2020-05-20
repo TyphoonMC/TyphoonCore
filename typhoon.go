@@ -40,6 +40,7 @@ func Init() *Core {
 		nil,
 		newPlayerRegistry(),
 		&Map{
+			Location{0, 0, 0},
 			END,
 			[]*Chunk{},
 		},
@@ -91,19 +92,6 @@ func (c *Core) keepAlive() {
 	keepalive := &PacketPlayKeepAlive{
 		Identifier: 0,
 	}
-	particle := &PacketPlayParticle{
-		3,
-		true,
-		10,
-		70,
-		10,
-		0,
-		0,
-		0,
-		0,
-		1,
-		nil,
-	}
 	for {
 		c.playerRegistry.ForEachPlayer(func(player *Player) {
 			if player.state == PLAY {
@@ -116,7 +104,6 @@ func (c *Core) keepAlive() {
 				keepalive.Identifier = id
 				player.keepalive = id
 				player.WritePacket(keepalive)
-				player.WritePacket(particle)
 			}
 		})
 		time.Sleep(5000000000)

@@ -25,6 +25,7 @@ type Chunk struct {
 }
 
 type Map struct {
+	Spawn Location
 	Dimension Dimension
 	Chunks []*Chunk
 }
@@ -100,10 +101,13 @@ func (section *ChunkSection) SetBlock(x, y, z int, typ string) {
 	section.Blocks[y << 8 | z << 4 | x] = section.Palette.GetId(typ)
 }
 
-func (m *Map) SendChunks(p *Player) {
-	for x := -4; x < 4; x++ {
-		for z := -4; z < 4; z++ {
-			c := m.GetChunk(int32(x), int32(z))
+func (m *Map) SendSpawnChunks(p *Player) {
+	sx := int32(m.Spawn.X)/16
+	sz := int32(m.Spawn.Z)/16
+
+	for x := -8; x < 8; x++ {
+		for z := -8; z < 8; z++ {
+			c := m.GetChunk(int32(x)+sx, int32(z)+sz)
 			biomes := make([]byte, 256)
 			packet := &PacketPlayChunkData{
 				c.ChunkX,

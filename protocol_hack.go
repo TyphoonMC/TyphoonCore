@@ -42,7 +42,7 @@ func initHacks() {
 	clientbound[V1_8] = make(map[int]int)
 	clientbound[V1_8][0x00] = 0x0E
 	clientbound[V1_8][0x01] = 0x11
-	clientbound[V1_8][0x02] = 0x2C
+	//clientbound[V1_8][0x02] = 0x2C
 	clientbound[V1_8][0x03] = 0x0F
 	clientbound[V1_8][0x04] = 0x10
 	clientbound[V1_8][0x05] = 0x0C
