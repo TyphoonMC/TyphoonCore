@@ -48,8 +48,9 @@ func LoadSchematic(file string) (*Map, error) {
 		for y := 0; y < height; y++ {
 			for z := 0; z < length; z++ {
 				index = y * width * length + z * width + x
-				bigId := blocks2.GetLegacyFromTypeData(int(uint8(blocks[index])), int(uint8(data[index])))
-				m.SetBlock(x, y, z, blocks2.GetNameFromLegacy(int(bigId)))
+				bigId := blocks2.GetLegacyBlockState(int(uint8(blocks[index])), int(uint8(data[index])))
+				name := blocks2.GetLegacyFromState(int(bigId)).Name
+				m.SetBlock(x, y, z, name)
 			}
 		}
 	}

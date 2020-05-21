@@ -20,7 +20,7 @@ func generateRegistry() *BlockRegistry {
 	}
 
 	for _, v := range blocks.GetLegacyMapping() {
-		r.GetGuid(v)
+		r.GetGuid(v.Name)
 	}
 
 	return r
@@ -50,5 +50,13 @@ func (registry *BlockRegistry) GetBlockId(name string, proto Protocol) int {
 	if proto >= V1_13 {
 		return blocks.GetV1_13FromName(name)
 	}
-	return blocks.GetLegacyFromName(name)
+	return registry.GetLegacyBlockId(name, proto)
+}
+
+func (registry *BlockRegistry) GetLegacyBlockId(name string, proto Protocol) int {
+	block := blocks.GetLegacyFromName(name)
+	for block.Protocol != 0 && block.Protocol > uint16(proto) && block.Fallback != nil {
+		block = blocks.GetLegacyFromName(*block.Fallback)
+	}
+	return block.GetBlockState()
 }

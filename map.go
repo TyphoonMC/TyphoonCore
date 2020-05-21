@@ -1,6 +1,8 @@
 package typhoon
 
-import "github.com/seebs/nbt"
+import (
+	"github.com/seebs/nbt"
+)
 
 type BlockPalette interface {
 	GetId(name string) int

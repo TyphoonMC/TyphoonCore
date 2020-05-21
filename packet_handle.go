@@ -3,11 +3,9 @@ package typhoon
 import (
 	"encoding/binary"
 	"fmt"
-	"github.com/TyphoonMC/TyphoonCore/blocks"
 	"github.com/TyphoonMC/go.uuid"
 	"github.com/seebs/nbt"
 	"log"
-	"math"
 )
 
 type PacketHandshake struct {
@@ -716,12 +714,12 @@ func (packet *PacketPlayKeepAlive) Id() (int, Protocol) {
 }
 
 type PacketPlayChunkData struct {
-	X int32
-	Z int32
-	Dimension Dimension
-	GroundUp bool
-	Sections []*ChunkSection
-	Biomes *[]byte
+	X             int32
+	Z             int32
+	Dimension     Dimension
+	GroundUp      bool
+	Sections      []*ChunkSection
+	Biomes        *[]byte
 	BlockEntities []nbt.Compound
 }
 
@@ -763,7 +761,7 @@ func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 
 		// Calculate block bits size
 		var bitsPerBlock uint8 = 4
-		for s.Palette.GetSize() > 2^int(bitsPerBlock) {
+		for s.Palette.GetSize() > 1 << int(bitsPerBlock) {
 			bitsPerBlock += 1
 		}
 		if bitsPerBlock > 8 {
@@ -771,7 +769,7 @@ func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 		}
 		player.WriteUInt8(bitsPerBlock)
 
-		maxEntryValue := 2^uint64(bitsPerBlock) - 1
+		individualValueMask := uint64((1 << bitsPerBlock) - 1)
 
 		// Send block palette
 		if bitsPerBlock == 13 {
@@ -786,29 +784,31 @@ func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 		}
 
 		// Content length
-		length := int(math.Ceil(4096 * float64(bitsPerBlock) / 64.0))
+		length := (16*16*16) * int(bitsPerBlock) / 64
 		player.WriteVarInt(length)
 
 		// Calculate blocks
 		data := make([]uint64, length)
 		for index, block := range s.Blocks {
-			var value int
+			var value uint64
 			if bitsPerBlock == 13 {
 				//TODO handle global palette
 				value = 0
 			} else {
-				value = block
+				value = uint64(block)
 			}
 
 			bitIndex := index * int(bitsPerBlock)
-			startIndex := bitIndex / 64
-			endIndex := ((index + 1) * int(bitsPerBlock) - 1) / 64
-			startBitSubIndex := bitIndex % 64
+			startLong := bitIndex / 64
+			startOffset := bitIndex % 64
+			endLong := ((index + 1) * int(bitsPerBlock) - 1) / 64
 
-			data[startIndex] = data[startIndex] & ^(maxEntryValue << startBitSubIndex) | (uint64(value) & maxEntryValue) << startBitSubIndex
-			if startIndex != endIndex {
-				endBitSubIndex := uint64(64 - startBitSubIndex)
-				data[endIndex] = data[endIndex]>>endBitSubIndex<<endBitSubIndex | (uint64(value)&maxEntryValue)>>endBitSubIndex
+			value &= individualValueMask
+
+			data[startLong] |= value << startOffset
+
+			if startLong != endLong {
+				data[endLong] = value >> (64 - startOffset)
 			}
 		}
 
@@ -877,7 +877,7 @@ func (packet *PacketPlayChunkData) WriteV1_8(player *Player) (err error) {
 
 		// Calculate blocks
 		for _, block := range s.Blocks {
-			value := uint16(blocks.GetLegacyFromName(s.Palette.RecoverName(block)))
+			value := uint16(BLOCK_REGISTRY.GetBlockId(s.Palette.RecoverName(block), player.protocol))
 			player.WriteLittleEndianUInt16(value)
 		}
 	}
