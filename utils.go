@@ -72,7 +72,7 @@ func (player *Player) WriteBool(b bool) (err error) {
 }
 
 func (player *Player) WriteNBTCompound(tag nbt.Compound) (err error) {
-	err = nbt.StoreCompressed(player.io.wtr, tag, "")
+	err = nbt.StoreUncompressed(player.io.wtr, tag, "")
 	if err != nil {
 		return err
 	}

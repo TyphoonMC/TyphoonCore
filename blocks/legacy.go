@@ -5891,15 +5891,15 @@ var legacy = []LegacyBlock{
 	},
 	{
 		216, 0, "minecraft:bone_block[axis=y]",
-		0, nil,
+		210, fallback("minecraft:quartz_pillar[axis=y]"),
 	},
 	{
 		216, 4, "minecraft:bone_block[axis=x]",
-		0, nil,
+		210, fallback("minecraft:quartz_pillar[axis=x]"),
 	},
 	{
 		216, 8, "minecraft:bone_block[axis=z]",
-		0, nil,
+		210, fallback("minecraft:quartz_pillar[axis=z]"),
 	},
 	{
 		217, 0, "minecraft:structure_void",

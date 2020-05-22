@@ -60,3 +60,11 @@ func (registry *BlockRegistry) GetLegacyBlockId(name string, proto Protocol) int
 	}
 	return block.GetBlockState()
 }
+
+func (registry *BlockRegistry) GetLegacyBlockTypeData(name string, proto Protocol) (int, int) {
+	block := blocks.GetLegacyFromName(name)
+	for block.Protocol != 0 && block.Protocol > uint16(proto) && block.Fallback != nil {
+		block = blocks.GetLegacyFromName(*block.Fallback)
+	}
+	return block.Id, block.Data
+}

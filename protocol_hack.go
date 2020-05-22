@@ -147,11 +147,14 @@ func initHacks() {
 	serverbound[V1_8][0x08] = 0x1C
 
 	// Hack 1.7.6
-	clientbound[V1_7_6] = clientbound[V1_8]
+	clientbound[V1_7_6] = copyHack(clientbound[V1_8])
+	clientbound[V1_7_6][0x0D] = -1
+
 	serverbound[V1_7_6] = serverbound[V1_8]
 
 	// Hack 1.7.2
-	clientbound[V1_7_2] = clientbound[V1_7_6]
+	clientbound[V1_7_2] = copyHack(clientbound[V1_7_6])
+
 	serverbound[V1_7_2] = serverbound[V1_7_6]
 
 	// Hack 1.12

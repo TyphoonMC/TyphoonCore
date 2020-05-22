@@ -1,8 +1,6 @@
 package typhoon
 
-import (
-	"github.com/seebs/nbt"
-)
+import "github.com/seebs/nbt"
 
 type BlockPalette interface {
 	GetId(name string) int
@@ -107,8 +105,8 @@ func (m *Map) SendSpawnChunks(p *Player) {
 	sx := int32(m.Spawn.X)/16
 	sz := int32(m.Spawn.Z)/16
 
-	for x := -8; x < 8; x++ {
-		for z := -8; z < 8; z++ {
+	for x := -4; x < 4; x++ {
+		for z := -4; z < 4; z++ {
 			c := m.GetChunk(int32(x)+sx, int32(z)+sz)
 			biomes := make([]byte, 256)
 			packet := &PacketPlayChunkData{
