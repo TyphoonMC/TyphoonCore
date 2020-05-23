@@ -19,7 +19,7 @@ func generateRegistry() *BlockRegistry {
 		GuidToName: make(map[uint16]string),
 	}
 
-	for _, v := range blocks.GetLegacyMapping() {
+	for _, v := range blocks.GetGlobalMapping() {
 		r.GetGuid(v.Name)
 	}
 
@@ -47,24 +47,15 @@ func (registry *BlockRegistry) GetName(guid uint16) string {
 }
 
 func (registry *BlockRegistry) GetBlockId(name string, proto Protocol) int {
-	if proto >= V1_13 {
-		return blocks.GetV1_13FromName(name)
+	/*if proto >= V1_13 {
+		return blocks.GetNewBlockFromName(name, uint16(proto))
 	}
-	return registry.GetLegacyBlockId(name, proto)
-}
-
-func (registry *BlockRegistry) GetLegacyBlockId(name string, proto Protocol) int {
-	block := blocks.GetLegacyFromName(name)
-	for block.Protocol != 0 && block.Protocol > uint16(proto) && block.Fallback != nil {
-		block = blocks.GetLegacyFromName(*block.Fallback)
-	}
-	return block.GetBlockState()
+	return registry.GetLegacyBlockId(name, proto)*/
+	return blocks.GetNewBlockFromName(name, uint16(proto))
 }
 
 func (registry *BlockRegistry) GetLegacyBlockTypeData(name string, proto Protocol) (int, int) {
-	block := blocks.GetLegacyFromName(name)
-	for block.Protocol != 0 && block.Protocol > uint16(proto) && block.Fallback != nil {
-		block = blocks.GetLegacyFromName(*block.Fallback)
-	}
-	return block.Id, block.Data
+	bigId := registry.GetBlockId(name, proto)
+	id, data := blocks.GetTypeDataFromLegacy(bigId)
+	return id, data
 }

@@ -932,6 +932,7 @@ func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 
 			for _, uid := range s.Palette.GetContent() {
 				bId := BLOCK_REGISTRY.GetBlockId(uid, player.protocol)
+				fmt.Println(uid, bId)
 				player.WriteVarInt(bId)
 			}
 		}
