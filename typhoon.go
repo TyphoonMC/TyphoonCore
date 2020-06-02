@@ -16,9 +16,9 @@ type Core struct {
 	rootCommand      CommandNode
 	compiledCommands []commandNode
 	playerRegistry   *PlayerRegistry
-	world *Map
-	gamemode Gamemode
-	difficulty Difficulty
+	world            *Map
+	gamemode         Gamemode
+	difficulty       Difficulty
 }
 
 func Init() *Core {
@@ -127,20 +127,22 @@ func (c *Core) handleConnection(conn net.Conn, id int) {
 			"",
 			0,
 		},
-		name:        "",
-		uuid:        "d979912c-bb24-4f23-a6ac-c32985a1e5d3",
-		keepalive:   0,
-		compression: false,
+		name:         "",
+		uuid:         "d979912c-bb24-4f23-a6ac-c32985a1e5d3",
+		keepalive:    0,
+		compression:  false,
 		packetsQueue: make(chan Packet),
 	}
 
-	go func(){for {
-		packet := <- player.packetsQueue
-		err := player.privateWritePacket(packet)
-		if err != nil {
-			break
+	go func() {
+		for {
+			packet := <-player.packetsQueue
+			err := player.privateWritePacket(packet)
+			if err != nil {
+				break
+			}
 		}
-	}}()
+	}()
 
 	for {
 		_, err := player.ReadPacket()

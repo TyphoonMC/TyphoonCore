@@ -752,7 +752,7 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 	var bitmask uint16 = 0
 	for i, s := range packet.Sections {
 		if s != nil &&
-			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air" ) {
+			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air") {
 			bitmask |= 1 << i
 		}
 	}
@@ -763,7 +763,7 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 		player.WriteNBTCompound(nbt.Compound{})
 	}
 
-	buff := newVarBuffer(16*16*16*16)
+	buff := newVarBuffer(16 * 16 * 16 * 16)
 	tmp := player.io
 	player.io = &ConnReadWrite{
 		rdr: tmp.rdr,
@@ -783,7 +783,7 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 
 		// Calculate block bits size
 		var bitsPerBlock uint8 = 4
-		for s.Palette.GetSize() > 1 << int(bitsPerBlock) {
+		for s.Palette.GetSize() > 1<<int(bitsPerBlock) {
 			bitsPerBlock += 1
 		}
 		if bitsPerBlock > 8 {
@@ -806,7 +806,7 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 		}
 
 		// Content length
-		length := (16*16*16) * int(bitsPerBlock) / 64
+		length := (16 * 16 * 16) * int(bitsPerBlock) / 64
 		player.WriteVarInt(length)
 
 		// Calculate blocks
@@ -823,7 +823,7 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 			bitIndex := index * int(bitsPerBlock)
 			startLong := bitIndex / 64
 			startOffset := bitIndex % 64
-			endLong := ((index + 1) * int(bitsPerBlock) - 1) / 64
+			endLong := ((index+1)*int(bitsPerBlock) - 1) / 64
 
 			value &= individualValueMask
 
@@ -841,7 +841,7 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 
 		if player.protocol < V1_14 {
 			// Write lights
-			lights := make([]byte, 16*16*16 / 2)
+			lights := make([]byte, 16*16*16/2)
 			for i := range lights {
 				lights[i] = 0xFF
 			}
@@ -893,13 +893,13 @@ func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 	var bitmask uint16 = 0
 	for i, s := range packet.Sections {
 		if s != nil &&
-			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air" ) {
+			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air") {
 			bitmask |= 1 << i
 		}
 	}
 	player.WriteVarInt(int(bitmask))
 
-	buff := newVarBuffer(16*16*16*16)
+	buff := newVarBuffer(16 * 16 * 16 * 16)
 	tmp := player.io
 	player.io = &ConnReadWrite{
 		rdr: tmp.rdr,
@@ -914,7 +914,7 @@ func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 
 		// Calculate block bits size
 		var bitsPerBlock uint8 = 4
-		for s.Palette.GetSize() > 1 << int(bitsPerBlock) {
+		for s.Palette.GetSize() > 1<<int(bitsPerBlock) {
 			bitsPerBlock += 1
 		}
 		if bitsPerBlock > 8 {
@@ -938,7 +938,7 @@ func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 		}
 
 		// Content length
-		length := (16*16*16) * int(bitsPerBlock) / 64
+		length := (16 * 16 * 16) * int(bitsPerBlock) / 64
 		player.WriteVarInt(length)
 
 		// Calculate blocks
@@ -955,7 +955,7 @@ func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 			bitIndex := index * int(bitsPerBlock)
 			startLong := bitIndex / 64
 			startOffset := bitIndex % 64
-			endLong := ((index + 1) * int(bitsPerBlock) - 1) / 64
+			endLong := ((index+1)*int(bitsPerBlock) - 1) / 64
 
 			value &= individualValueMask
 
@@ -972,7 +972,7 @@ func (packet *PacketPlayChunkData) WriteV1_9(player *Player) (err error) {
 		}
 
 		// Write lights
-		lights := make([]byte, 16*16*16 / 2)
+		lights := make([]byte, 16*16*16/2)
 		for i := range lights {
 			lights[i] = 0xFF
 		}
@@ -1009,13 +1009,13 @@ func (packet *PacketPlayChunkData) WriteV1_8(player *Player) (err error) {
 	var bitmask uint16 = 0
 	for i, s := range packet.Sections {
 		if s != nil &&
-			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air" ) {
+			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air") {
 			bitmask |= 1 << i
 		}
 	}
 	player.WriteUInt16(bitmask)
 
-	buff := newVarBuffer(16*16*16*16)
+	buff := newVarBuffer(16 * 16 * 16 * 16)
 	tmp := player.io
 	player.io = &ConnReadWrite{
 		rdr: tmp.rdr,
@@ -1037,7 +1037,7 @@ func (packet *PacketPlayChunkData) WriteV1_8(player *Player) (err error) {
 	}
 
 	player.WriteVarInt(16)
-	player.WriteVarInt(16*16*16 * 2)
+	player.WriteVarInt(16 * 16 * 16 * 2)
 
 	// Write lights
 	for i, _ := range packet.Sections {
@@ -1047,7 +1047,7 @@ func (packet *PacketPlayChunkData) WriteV1_8(player *Player) (err error) {
 		}
 
 		// Write lights
-		lights := make([]byte, 16*16*16 / 2)
+		lights := make([]byte, 16*16*16/2)
 		for i := range lights {
 			lights[i] = 0xFF
 		}
@@ -1063,7 +1063,7 @@ func (packet *PacketPlayChunkData) WriteV1_8(player *Player) (err error) {
 			}
 
 			// Write sky lights
-			lights := make([]byte, 16*16*16 / 2)
+			lights := make([]byte, 16*16*16/2)
 			for i := range lights {
 				lights[i] = 0xFF
 			}
@@ -1092,7 +1092,7 @@ func (packet *PacketPlayChunkData) WriteV1_7(player *Player) (err error) {
 	var bitmask uint16 = 0
 	for i, s := range packet.Sections {
 		if s != nil &&
-			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air" ) {
+			!(s.Palette.GetSize() == 1 && s.Palette.RecoverName(0) == "minecraft:air") {
 			bitmask |= 1 << i
 		}
 	}
@@ -1101,7 +1101,7 @@ func (packet *PacketPlayChunkData) WriteV1_7(player *Player) (err error) {
 	// Add bitmask ???
 	player.WriteUInt16(0)
 
-	buff := newVarBuffer(16*16*16*16)
+	buff := newVarBuffer(16 * 16 * 16 * 16)
 	zwtr := zlib.NewWriter(buff)
 	tmp := player.io
 	player.io = &ConnReadWrite{
@@ -1131,7 +1131,7 @@ func (packet *PacketPlayChunkData) WriteV1_7(player *Player) (err error) {
 		}
 
 		// Calculate blocks data
-		for i := 0; i < len(s.Blocks); i+= 2 {
+		for i := 0; i < len(s.Blocks); i += 2 {
 			_, data1 := BLOCK_REGISTRY.GetLegacyBlockTypeData(s.Palette.RecoverName(s.Blocks[i]), player.protocol)
 			_, data2 := BLOCK_REGISTRY.GetLegacyBlockTypeData(s.Palette.RecoverName(s.Blocks[i+1]), player.protocol)
 			player.WriteUInt8(uint8(data1) | (uint8(data2) << 4))
@@ -1146,7 +1146,7 @@ func (packet *PacketPlayChunkData) WriteV1_7(player *Player) (err error) {
 		}
 
 		// Write lights
-		lights := make([]byte, 16*16*16 / 2)
+		lights := make([]byte, 16*16*16/2)
 		for i := range lights {
 			lights[i] = 0xFF
 		}
@@ -1191,17 +1191,17 @@ func (packet *PacketPlayChunkData) Id() (int, Protocol) {
 }
 
 type PacketPlayParticle struct {
-	Type int
+	Type         int
 	LongDistance bool
-	X float32
-	Y float32
-	Z float32
-	OffsetX float32
-	OffsetY float32
-	OffsetZ float32
+	X            float32
+	Y            float32
+	Z            float32
+	OffsetX      float32
+	OffsetY      float32
+	OffsetZ      float32
 	ParticleData float32
-	Count int
-	Data []int
+	Count        int
+	Data         []int
 }
 
 func (packet *PacketPlayParticle) Read(player *Player, length int) (err error) {
@@ -1354,11 +1354,11 @@ func (packet *PacketPlayJoinGame) Id() (int, Protocol) {
 
 type PacketPlayPlayerAbilities struct {
 	Invulnerable bool
-	Fly bool
-	CanFly bool
-	Creative bool
-	FlyingSpeed float32
-	FieldOfView float32
+	Fly          bool
+	CanFly       bool
+	Creative     bool
+	FlyingSpeed  float32
+	FieldOfView  float32
 }
 
 func (packet *PacketPlayPlayerAbilities) Read(player *Player, length int) (err error) {

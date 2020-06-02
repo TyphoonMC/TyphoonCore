@@ -15,23 +15,23 @@ type ChunkBlockPalette struct {
 
 type ChunkSection struct {
 	Palette BlockPalette
-	Blocks [16*16*16]int
+	Blocks  [16 * 16 * 16]int
 }
 
 type Chunk struct {
-	ChunkX int32
-	ChunkZ int32
+	ChunkX   int32
+	ChunkZ   int32
 	Sections [16]*ChunkSection
 }
 
 type Map struct {
-	Spawn Location
+	Spawn     Location
 	Dimension Dimension
-	Chunks []*Chunk
+	Chunks    []*Chunk
 }
 
 func (m *Map) SetBlock(x, y, z int, typ string) {
-	chunk := m.GetChunk(int32(x) / 16, int32(z) / 16)
+	chunk := m.GetChunk(int32(x)/16, int32(z)/16)
 	chunkSection := chunk.GetSection(y / 16)
 	chunkSection.SetBlock(x%16, y%16, z%16, typ)
 }
@@ -79,7 +79,7 @@ func (palette *ChunkBlockPalette) GetId(name string) int {
 		}
 	}
 	palette.Map = append(palette.Map, name)
-	return len(palette.Map)-1
+	return len(palette.Map) - 1
 }
 
 func (palette *ChunkBlockPalette) RecoverName(id int) string {
@@ -98,12 +98,12 @@ func (palette *ChunkBlockPalette) GetContent() []string {
 }
 
 func (section *ChunkSection) SetBlock(x, y, z int, typ string) {
-	section.Blocks[y << 8 | z << 4 | x] = section.Palette.GetId(typ)
+	section.Blocks[y<<8|z<<4|x] = section.Palette.GetId(typ)
 }
 
 func (m *Map) SendSpawnChunks(p *Player) {
-	sx := int32(m.Spawn.X)/16
-	sz := int32(m.Spawn.Z)/16
+	sx := int32(m.Spawn.X) / 16
+	sz := int32(m.Spawn.Z) / 16
 
 	for x := -4; x < 4; x++ {
 		for z := -4; z < 4; z++ {

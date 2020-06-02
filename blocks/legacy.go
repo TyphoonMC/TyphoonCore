@@ -1,7 +1,7 @@
 package blocks
 
 func GetLegacyBlockState(id int, data int) int {
-	return id << 4 | (data & 0xF)
+	return id<<4 | (data & 0xF)
 }
 
 func GetTypeDataFromLegacy(legacy int) (int, int) {

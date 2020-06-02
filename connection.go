@@ -203,17 +203,17 @@ type InAddr struct {
 }
 
 type Player struct {
-	core        *Core
-	id          int
-	conn        net.Conn
-	io          *ConnReadWrite
-	state       State
-	protocol    Protocol
-	inaddr      InAddr
-	name        string
-	uuid        string
-	keepalive   int
-	compression bool
+	core         *Core
+	id           int
+	conn         net.Conn
+	io           *ConnReadWrite
+	state        State
+	protocol     Protocol
+	inaddr       InAddr
+	name         string
+	uuid         string
+	keepalive    int
+	compression  bool
 	packetsQueue chan Packet
 }
 

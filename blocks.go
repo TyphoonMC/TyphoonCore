@@ -2,12 +2,12 @@ package typhoon
 
 import "github.com/TyphoonMC/TyphoonCore/blocks"
 
-var(
+var (
 	BLOCK_REGISTRY = generateRegistry()
 )
 
 type BlockRegistry struct {
-	counter uint16
+	counter    uint16
 	NameToGuid map[string]uint16
 	GuidToName map[uint16]string
 }

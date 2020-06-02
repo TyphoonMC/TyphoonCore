@@ -3,12 +3,12 @@ package blocks
 type NewMapping map[uint16]int
 
 type NewBlock struct {
-	Name string
+	Name     string
 	Fallback *string
-	Ids NewMapping
+	Ids      NewMapping
 }
 
-var newBlocks = []NewBlock {
+var newBlocks = []NewBlock{
 	{
 		"minecraft:jungle_button[face=wall,facing=west,powered=true]",
 		nil,
@@ -134,7 +134,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cactus[age=6]",
 		nil,
 		NewMapping{
-			4: 1302,
+			4:   1302,
 			393: 3431,
 			404: 3432,
 			477: 3935,
@@ -211,7 +211,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dispenser[facing=south,triggered=true]",
 		nil,
 		NewMapping{
-			4: 379,
+			4:   379,
 			393: 237,
 			404: 237,
 			477: 237,
@@ -225,7 +225,7 @@ var newBlocks = []NewBlock {
 			404: 4619,
 			477: 5122,
 			573: 5122,
-			4: 1874,
+			4:   1874,
 			393: 4618,
 		},
 	},
@@ -233,7 +233,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=east,mode=subtract,powered=true]",
 		nil,
 		NewMapping{
-			4: 2415,
+			4:   2415,
 			393: 5649,
 			404: 5650,
 			477: 6156,
@@ -279,7 +279,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_leaves[distance=2,persistent=false]",
 		nil,
 		NewMapping{
-			4: 296,
+			4:   296,
 			393: 147,
 			404: 147,
 			477: 147,
@@ -342,14 +342,14 @@ var newBlocks = []NewBlock {
 			404: 3438,
 			477: 3941,
 			573: 3941,
-			4: 1308,
+			4:   1308,
 		},
 	},
 	{
 		"minecraft:potatoes[age=5]",
 		nil,
 		NewMapping{
-			4: 2277,
+			4:   2277,
 			393: 5300,
 			404: 5301,
 			477: 5807,
@@ -564,7 +564,7 @@ var newBlocks = []NewBlock {
 		"minecraft:soul_sand",
 		nil,
 		NewMapping{
-			4: 1408,
+			4:   1408,
 			393: 3494,
 			404: 3495,
 			477: 3998,
@@ -615,7 +615,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_shulker_box[facing=west]",
 		nil,
 		NewMapping{
-			4: 3684,
+			4:   3684,
 			393: 8286,
 			404: 8287,
 			477: 8811,
@@ -708,7 +708,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_button[face=ceiling,facing=north,powered=true]",
 		nil,
 		NewMapping{
-			4: 2296,
+			4:   2296,
 			393: 5319,
 			404: 5320,
 			477: 5826,
@@ -777,7 +777,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wall_torch[facing=north,lit=true]",
 		nil,
 		NewMapping{
-			4: 1220,
+			4:   1220,
 			393: 3383,
 			404: 3384,
 			477: 3887,
@@ -792,7 +792,7 @@ var newBlocks = []NewBlock {
 			404: 1091,
 			477: 1391,
 			573: 1391,
-			4: 568,
+			4:   568,
 		},
 	},
 	{
@@ -888,7 +888,7 @@ var newBlocks = []NewBlock {
 		"minecraft:melon_stem[age=4]",
 		nil,
 		NewMapping{
-			4: 1684,
+			4:   1684,
 			393: 4264,
 			404: 4265,
 			477: 4768,
@@ -1057,7 +1057,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sugar_cane[age=8]",
 		nil,
 		NewMapping{
-			4: 1336,
+			4:   1336,
 			393: 3450,
 			404: 3451,
 			477: 3954,
@@ -1150,7 +1150,7 @@ var newBlocks = []NewBlock {
 			404: 8323,
 			477: 8847,
 			573: 8847,
-			4: 3792,
+			4:   3792,
 		},
 	},
 	{
@@ -1159,7 +1159,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 214,
 			573: 214,
-			4: 2581,
+			4:   2581,
 			393: 214,
 			404: 214,
 		},
@@ -1267,7 +1267,7 @@ var newBlocks = []NewBlock {
 			404: 8192,
 			477: 8716,
 			573: 8716,
-			4: 3395,
+			4:   3395,
 		},
 	},
 	{
@@ -1314,7 +1314,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3125,
+			4:   3125,
 			393: 7834,
 			404: 7835,
 			477: 8359,
@@ -1431,7 +1431,7 @@ var newBlocks = []NewBlock {
 			404: 8299,
 			477: 8823,
 			573: 8823,
-			4: 3716,
+			4:   3716,
 		},
 	},
 	{
@@ -1480,14 +1480,14 @@ var newBlocks = []NewBlock {
 			404: 5691,
 			477: 6197,
 			573: 6197,
-			4: 2472,
+			4:   2472,
 		},
 	},
 	{
 		"minecraft:end_rod[facing=down]",
 		nil,
 		NewMapping{
-			4: 3168,
+			4:   3168,
 			393: 8002,
 			404: 8003,
 			477: 8527,
@@ -1661,7 +1661,7 @@ var newBlocks = []NewBlock {
 			404: 1134,
 			477: 1437,
 			573: 1437,
-			4: 802,
+			4:   802,
 		},
 	},
 	{
@@ -1711,7 +1711,7 @@ var newBlocks = []NewBlock {
 			404: 4783,
 			477: 5286,
 			573: 5286,
-			4: 2125,
+			4:   2125,
 			393: 4782,
 		},
 	},
@@ -1719,7 +1719,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_ore[lit=false]",
 		nil,
 		NewMapping{
-			4: 1168,
+			4:   1168,
 			393: 3380,
 			404: 3381,
 			477: 3884,
@@ -1730,7 +1730,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magenta_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3536,
+			4:   3536,
 			393: 8234,
 			404: 8235,
 			477: 8759,
@@ -1787,7 +1787,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2122,
+			4:   2122,
 			393: 4850,
 			404: 4851,
 			477: 5354,
@@ -1798,7 +1798,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wire[east=none,north=none,power=5,south=none,west=none]",
 		nil,
 		NewMapping{
-			4: 885,
+			4:   885,
 			393: 2957,
 			404: 2958,
 			477: 3261,
@@ -1873,7 +1873,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_sapling[stage=1]",
 		nil,
 		NewMapping{
-			4: 109,
+			4:   109,
 			393: 32,
 			404: 32,
 			477: 32,
@@ -1887,7 +1887,7 @@ var newBlocks = []NewBlock {
 			404: 1050,
 			477: 1350,
 			573: 1350,
-			4: 540,
+			4:   540,
 			393: 1050,
 		},
 	},
@@ -1936,7 +1936,7 @@ var newBlocks = []NewBlock {
 			404: 6530,
 			477: 7036,
 			573: 7036,
-			4: 2686,
+			4:   2686,
 			393: 6529,
 		},
 	},
@@ -1947,7 +1947,7 @@ var newBlocks = []NewBlock {
 			404: 3528,
 			477: 4031,
 			573: 4031,
-			4: 1507,
+			4:   1507,
 			393: 3527,
 		},
 	},
@@ -1985,7 +1985,7 @@ var newBlocks = []NewBlock {
 		"minecraft:fire[age=0,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 816,
+			4:   816,
 			393: 1166,
 			404: 1167,
 			477: 1470,
@@ -2099,7 +2099,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6192,
-			4: 2464,
+			4:   2464,
 			393: 5685,
 			404: 5686,
 			477: 6192,
@@ -2248,7 +2248,7 @@ var newBlocks = []NewBlock {
 			404: 8257,
 			477: 8781,
 			573: 8781,
-			4: 3604,
+			4:   3604,
 			393: 8256,
 		},
 	},
@@ -2260,7 +2260,7 @@ var newBlocks = []NewBlock {
 			404: 3578,
 			477: 4081,
 			573: 4081,
-			4: 1520,
+			4:   1520,
 		},
 	},
 	{
@@ -2301,7 +2301,7 @@ var newBlocks = []NewBlock {
 			404: 5578,
 			477: 6084,
 			573: 6084,
-			4: 2329,
+			4:   2329,
 		},
 	},
 	{
@@ -2372,7 +2372,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wire[east=none,north=none,power=6,south=none,west=none]",
 		nil,
 		NewMapping{
-			4: 886,
+			4:   886,
 			393: 2966,
 			404: 2967,
 			477: 3270,
@@ -2434,7 +2434,7 @@ var newBlocks = []NewBlock {
 			404: 6108,
 			477: 6614,
 			573: 6614,
-			4: 2568,
+			4:   2568,
 			393: 6107,
 		},
 	},
@@ -2478,7 +2478,7 @@ var newBlocks = []NewBlock {
 		"minecraft:wall_sign[facing=east,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1093,
+			4:   1093,
 			393: 3276,
 		},
 	},
@@ -2660,7 +2660,7 @@ var newBlocks = []NewBlock {
 			404: 3516,
 			477: 4019,
 			573: 4019,
-			4: 1506,
+			4:   1506,
 			393: 3515,
 		},
 	},
@@ -2718,7 +2718,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_shulker_box[facing=west]",
 		nil,
 		NewMapping{
-			4: 3748,
+			4:   3748,
 			393: 8310,
 			404: 8311,
 			477: 8835,
@@ -2911,7 +2911,7 @@ var newBlocks = []NewBlock {
 		"minecraft:activator_rail[powered=true,shape=ascending_north]",
 		nil,
 		NewMapping{
-			4: 2524,
+			4:   2524,
 			393: 5784,
 			404: 5785,
 			477: 6291,
@@ -2922,7 +2922,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3107,
+			4:   3107,
 			393: 7756,
 			404: 7757,
 			477: 8281,
@@ -2934,7 +2934,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8473,
-			4: 3155,
+			4:   3155,
 			393: 7948,
 			404: 7949,
 			477: 8473,
@@ -2970,7 +2970,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_brick_slab[type=bottom,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 710,
+			4:   710,
 			393: 7332,
 			404: 7333,
 			477: 7851,
@@ -3065,7 +3065,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purpur_slab[type=double,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 3264,
+			4:   3264,
 			393: 7352,
 			404: 7353,
 			477: 7877,
@@ -3163,7 +3163,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5479,
-			4: 2163,
+			4:   2163,
 			393: 4975,
 			404: 4976,
 			477: 5479,
@@ -3289,7 +3289,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 188,
 			573: 188,
-			4: 303,
+			4:   303,
 			393: 188,
 			404: 188,
 		},
@@ -3386,7 +3386,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3654,
 			573: 3654,
-			4: 1079,
+			4:   1079,
 			393: 3190,
 			404: 3191,
 		},
@@ -3436,7 +3436,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4835,
-			4: 1715,
+			4:   1715,
 			393: 4331,
 			404: 4332,
 			477: 4835,
@@ -3522,7 +3522,7 @@ var newBlocks = []NewBlock {
 		"minecraft:heavy_weighted_pressure_plate[power=0]",
 		nil,
 		NewMapping{
-			4: 2368,
+			4:   2368,
 			393: 5619,
 			404: 5620,
 			477: 6126,
@@ -3603,7 +3603,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 0,
 			573: 0,
-			4: 0,
+			4:   0,
 			393: 0,
 			404: 0,
 		},
@@ -3613,7 +3613,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7048,
-			4: 2674,
+			4:   2674,
 			393: 6541,
 			404: 6542,
 			477: 7048,
@@ -3656,7 +3656,7 @@ var newBlocks = []NewBlock {
 			404: 3278,
 			477: 3781,
 			573: 3781,
-			4: 1117,
+			4:   1117,
 			393: 3277,
 		},
 	},
@@ -3702,7 +3702,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_sapling[stage=0]",
 		nil,
 		NewMapping{
-			4: 100,
+			4:   100,
 			393: 29,
 			404: 29,
 			477: 29,
@@ -3923,7 +3923,7 @@ var newBlocks = []NewBlock {
 		"minecraft:heavy_weighted_pressure_plate[power=13]",
 		nil,
 		NewMapping{
-			4: 2381,
+			4:   2381,
 			393: 5632,
 			404: 5633,
 			477: 6139,
@@ -4024,7 +4024,7 @@ var newBlocks = []NewBlock {
 			404: 5683,
 			477: 6189,
 			573: 6189,
-			4: 2431,
+			4:   2431,
 		},
 	},
 	{
@@ -4153,7 +4153,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeating_command_block[conditional=true,facing=north]",
 		nil,
 		NewMapping{
-			4: 3370,
+			4:   3370,
 			393: 8164,
 			404: 8165,
 			477: 8689,
@@ -4228,7 +4228,7 @@ var newBlocks = []NewBlock {
 			404: 4787,
 			477: 5290,
 			573: 5290,
-			4: 2126,
+			4:   2126,
 			393: 4786,
 		},
 	},
@@ -4237,7 +4237,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5954,
-			4: 2304,
+			4:   2304,
 			393: 5451,
 			404: 5452,
 			477: 5954,
@@ -4307,7 +4307,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_concrete",
 		nil,
 		NewMapping{
-			4: 4020,
+			4:   4020,
 			393: 8381,
 			404: 8382,
 			477: 8906,
@@ -4454,7 +4454,7 @@ var newBlocks = []NewBlock {
 			404: 3420,
 			477: 3923,
 			573: 3923,
-			4: 1252,
+			4:   1252,
 		},
 	},
 	{
@@ -4503,7 +4503,7 @@ var newBlocks = []NewBlock {
 			404: 1047,
 			477: 1347,
 			573: 1347,
-			4: 538,
+			4:   538,
 		},
 	},
 	{
@@ -4552,7 +4552,7 @@ var newBlocks = []NewBlock {
 			404: 3431,
 			477: 3934,
 			573: 3934,
-			4: 1301,
+			4:   1301,
 		},
 	},
 	{
@@ -4576,7 +4576,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8719,
-			4: 3440,
+			4:   3440,
 			393: 8194,
 			404: 8195,
 			477: 8719,
@@ -4586,7 +4586,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_bed[facing=south,occupied=false,part=head]",
 		nil,
 		NewMapping{
-			4: 424,
+			4:   424,
 			393: 978,
 			404: 978,
 			477: 1278,
@@ -4653,7 +4653,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=4,facing=south,locked=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1516,
+			4:   1516,
 			393: 3567,
 			404: 3568,
 			477: 4071,
@@ -4704,7 +4704,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_shulker_box[facing=up]",
 		nil,
 		NewMapping{
-			4: 3729,
+			4:   3729,
 			393: 8305,
 			404: 8306,
 			477: 8830,
@@ -4797,7 +4797,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston[extended=false,facing=north]",
 		nil,
 		NewMapping{
-			4: 530,
+			4:   530,
 			393: 1053,
 			404: 1053,
 			477: 1353,
@@ -4808,7 +4808,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3089,
+			4:   3089,
 			393: 7708,
 			404: 7709,
 			477: 8233,
@@ -4819,7 +4819,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1077,
+			4:   1077,
 			393: 3230,
 			404: 3231,
 			477: 3694,
@@ -4880,7 +4880,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_slab[type=top,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 719,
+			4:   719,
 			393: 7336,
 			404: 7337,
 			477: 7855,
@@ -4892,7 +4892,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6325,
-			4: 2558,
+			4:   2558,
 			393: 5818,
 			404: 5819,
 			477: 6325,
@@ -4905,7 +4905,7 @@ var newBlocks = []NewBlock {
 			404: 8595,
 			477: 11252,
 			573: 11268,
-			4: 4080,
+			4:   4080,
 			393: 8578,
 		},
 	},
@@ -4937,7 +4937,7 @@ var newBlocks = []NewBlock {
 			404: 984,
 			477: 1284,
 			573: 1284,
-			4: 431,
+			4:   431,
 		},
 	},
 	{
@@ -4974,7 +4974,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8875,
 			573: 8875,
-			4: 3904,
+			4:   3904,
 			393: 8350,
 			404: 8351,
 		},
@@ -5068,7 +5068,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8848,
-			4: 3793,
+			4:   3793,
 			393: 8323,
 			404: 8324,
 			477: 8848,
@@ -5182,7 +5182,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=ceiling,facing=north,powered=false]",
 		nil,
 		NewMapping{
-			4: 1232,
+			4:   1232,
 			393: 3408,
 			404: 3409,
 			477: 3912,
@@ -5255,7 +5255,7 @@ var newBlocks = []NewBlock {
 			404: 3003,
 			477: 3306,
 			573: 3306,
-			4: 890,
+			4:   890,
 		},
 	},
 	{
@@ -5266,7 +5266,7 @@ var newBlocks = []NewBlock {
 			404: 3186,
 			477: 3649,
 			573: 3649,
-			4: 1062,
+			4:   1062,
 		},
 	},
 	{
@@ -5303,7 +5303,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purple_terracotta",
 		nil,
 		NewMapping{
-			4: 2554,
+			4:   2554,
 			393: 5814,
 			404: 5815,
 			477: 6321,
@@ -5432,7 +5432,7 @@ var newBlocks = []NewBlock {
 			404: 64,
 			477: 64,
 			573: 64,
-			4: 174,
+			4:   174,
 		},
 	},
 	{
@@ -5536,7 +5536,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8872,
-			4: 3889,
+			4:   3889,
 			393: 8347,
 			404: 8348,
 			477: 8872,
@@ -5598,7 +5598,7 @@ var newBlocks = []NewBlock {
 			404: 5634,
 			477: 6140,
 			573: 6140,
-			4: 2382,
+			4:   2382,
 		},
 	},
 	{
@@ -5760,7 +5760,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8804,
-			4: 3667,
+			4:   3667,
 			393: 8279,
 			404: 8280,
 			477: 8804,
@@ -5771,7 +5771,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 239,
-			4: 380,
+			4:   380,
 			393: 239,
 			404: 239,
 			477: 239,
@@ -5845,7 +5845,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_carpet",
 		nil,
 		NewMapping{
-			4: 2743,
+			4:   2743,
 			393: 6830,
 			404: 6831,
 			477: 7337,
@@ -5859,7 +5859,7 @@ var newBlocks = []NewBlock {
 			404: 49,
 			477: 49,
 			573: 49,
-			4: 143,
+			4:   143,
 			393: 49,
 		},
 	},
@@ -5931,7 +5931,7 @@ var newBlocks = []NewBlock {
 			404: 1231,
 			477: 1534,
 			573: 1534,
-			4: 818,
+			4:   818,
 		},
 	},
 	{
@@ -6001,7 +6001,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1073,
+			4:   1073,
 			393: 3240,
 			404: 3241,
 			477: 3704,
@@ -6014,7 +6014,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5639,
 			573: 5639,
-			4: 2192,
+			4:   2192,
 			393: 5135,
 			404: 5136,
 		},
@@ -6053,7 +6053,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_banner[rotation=11]",
 		nil,
 		NewMapping{
-			4: 2827,
+			4:   2827,
 			393: 6865,
 			404: 6866,
 			477: 7372,
@@ -6176,7 +6176,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3782,
-			4: 1109,
+			4:   1109,
 			393: 3278,
 			404: 3279,
 			477: 3782,
@@ -6358,7 +6358,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 82,
 			573: 82,
-			4: 275,
+			4:   275,
 			393: 82,
 			404: 82,
 		},
@@ -6387,7 +6387,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=false,has_bottle_2=true]",
 		nil,
 		NewMapping{
-			4: 1877,
+			4:   1877,
 			393: 4615,
 			404: 4616,
 			477: 5119,
@@ -6686,7 +6686,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3372,
-			4: 978,
+			4:   978,
 			393: 3068,
 			404: 3069,
 			477: 3372,
@@ -6743,7 +6743,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8860,
-			4: 3841,
+			4:   3841,
 			393: 8335,
 			404: 8336,
 			477: 8860,
@@ -6819,7 +6819,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_bed[facing=south,occupied=false,part=foot]",
 		nil,
 		NewMapping{
-			4: 416,
+			4:   416,
 			393: 979,
 			404: 979,
 			477: 1279,
@@ -6866,7 +6866,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_log[axis=y]",
 		nil,
 		NewMapping{
-			4: 273,
+			4:   273,
 			393: 76,
 			404: 76,
 			477: 76,
@@ -6937,7 +6937,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1360,
+			4:   1360,
 			393: 3491,
 			404: 3492,
 			477: 3995,
@@ -7006,7 +7006,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=north,in_wall=false,open=true,powered=true]",
 		nil,
 		NewMapping{
-			4: 2974,
+			4:   2974,
 			393: 7425,
 			404: 7426,
 			477: 7950,
@@ -7061,7 +7061,7 @@ var newBlocks = []NewBlock {
 			404: 5681,
 			477: 6187,
 			573: 6187,
-			4: 2429,
+			4:   2429,
 		},
 	},
 	{
@@ -7108,7 +7108,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cyan_shulker_box[facing=west]",
 		nil,
 		NewMapping{
-			4: 3652,
+			4:   3652,
 			393: 8274,
 			404: 8275,
 			477: 8799,
@@ -7257,7 +7257,7 @@ var newBlocks = []NewBlock {
 		"minecraft:melon",
 		nil,
 		NewMapping{
-			4: 1648,
+			4:   1648,
 			393: 4243,
 			404: 4244,
 			477: 4747,
@@ -7369,7 +7369,7 @@ var newBlocks = []NewBlock {
 			404: 8261,
 			477: 8785,
 			573: 8785,
-			4: 3621,
+			4:   3621,
 			393: 8260,
 		},
 	},
@@ -7377,7 +7377,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=floor,facing=north,powered=true]",
 		nil,
 		NewMapping{
-			4: 1245,
+			4:   1245,
 			393: 3391,
 			404: 3392,
 			477: 3895,
@@ -7520,7 +7520,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sugar_cane[age=15]",
 		nil,
 		NewMapping{
-			4: 1343,
+			4:   1343,
 			393: 3457,
 			404: 3458,
 			477: 3961,
@@ -7572,7 +7572,7 @@ var newBlocks = []NewBlock {
 			404: 4257,
 			477: 4760,
 			573: 4760,
-			4: 1668,
+			4:   1668,
 			393: 4256,
 		},
 	},
@@ -7686,7 +7686,7 @@ var newBlocks = []NewBlock {
 			404: 8380,
 			477: 8904,
 			573: 8904,
-			4: 4018,
+			4:   4018,
 		},
 	},
 	{
@@ -7731,7 +7731,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence_gate[facing=south,in_wall=false,open=true,powered=true]",
 		nil,
 		NewMapping{
-			4: 2988,
+			4:   2988,
 			393: 7497,
 			404: 7498,
 			477: 8022,
@@ -7905,7 +7905,7 @@ var newBlocks = []NewBlock {
 			404: 3443,
 			477: 3946,
 			573: 3946,
-			4: 1328,
+			4:   1328,
 		},
 	},
 	{
@@ -7960,7 +7960,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_glazed_terracotta[facing=west]",
 		nil,
 		NewMapping{
-			4: 3985,
+			4:   3985,
 			393: 8371,
 			404: 8372,
 			477: 8896,
@@ -8029,7 +8029,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_stained_glass",
 		nil,
 		NewMapping{
-			4: 1521,
+			4:   1521,
 			393: 3578,
 			404: 3579,
 			477: 4082,
@@ -8041,7 +8041,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8839,
-			4: 3760,
+			4:   3760,
 			393: 8314,
 			404: 8315,
 			477: 8839,
@@ -8054,7 +8054,7 @@ var newBlocks = []NewBlock {
 			404: 1010,
 			477: 1310,
 			573: 1310,
-			4: 432,
+			4:   432,
 			393: 1010,
 		},
 	},
@@ -8101,7 +8101,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4144,
-			4: 1538,
+			4:   1538,
 			393: 3640,
 			404: 3641,
 			477: 4144,
@@ -8209,7 +8209,7 @@ var newBlocks = []NewBlock {
 		"minecraft:moving_piston[facing=south,type=normal]",
 		nil,
 		NewMapping{
-			4: 579,
+			4:   579,
 			393: 1103,
 			404: 1103,
 			477: 1403,
@@ -8295,7 +8295,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_bricks",
 		nil,
 		NewMapping{
-			4: 1792,
+			4:   1792,
 			393: 4495,
 			404: 4496,
 			477: 4999,
@@ -8309,7 +8309,7 @@ var newBlocks = []NewBlock {
 			404: 24,
 			477: 24,
 			573: 24,
-			4: 105,
+			4:   105,
 			393: 24,
 		},
 	},
@@ -8353,7 +8353,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_sandstone_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2886,
+			4:   2886,
 			393: 7198,
 			404: 7199,
 			477: 7705,
@@ -8432,7 +8432,7 @@ var newBlocks = []NewBlock {
 		"minecraft:smooth_stone",
 		nil,
 		NewMapping{
-			4: 696,
+			4:   696,
 			393: 7353,
 			404: 7354,
 			477: 7878,
@@ -8545,7 +8545,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lava[level=6]",
 		nil,
 		NewMapping{
-			4: 166,
+			4:   166,
 			393: 56,
 			404: 56,
 			477: 56,
@@ -8733,7 +8733,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3351,
 			573: 3351,
-			4: 895,
+			4:   895,
 			393: 3047,
 			404: 3048,
 		},
@@ -8808,7 +8808,7 @@ var newBlocks = []NewBlock {
 		"minecraft:powered_rail[powered=false,shape=ascending_west]",
 		nil,
 		NewMapping{
-			4: 435,
+			4:   435,
 			393: 1013,
 			404: 1013,
 			477: 1313,
@@ -9109,7 +9109,7 @@ var newBlocks = []NewBlock {
 		"minecraft:wheat[age=4]",
 		nil,
 		NewMapping{
-			4: 948,
+			4:   948,
 			393: 3055,
 			404: 3056,
 			477: 3359,
@@ -9161,7 +9161,7 @@ var newBlocks = []NewBlock {
 			404: 7803,
 			477: 8327,
 			573: 8327,
-			4: 3108,
+			4:   3108,
 			393: 7802,
 		},
 	},
@@ -9396,7 +9396,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dispenser[facing=west,triggered=false]",
 		nil,
 		NewMapping{
-			4: 372,
+			4:   372,
 			393: 240,
 			404: 240,
 			477: 240,
@@ -9455,7 +9455,7 @@ var newBlocks = []NewBlock {
 			404: 7452,
 			477: 7976,
 			573: 7976,
-			4: 2971,
+			4:   2971,
 		},
 	},
 	{
@@ -9464,7 +9464,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4551,
 			573: 4551,
-			4: 1588,
+			4:   1588,
 			393: 4047,
 			404: 4048,
 		},
@@ -9474,7 +9474,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3949,
-			4: 1331,
+			4:   1331,
 			393: 3445,
 			404: 3446,
 			477: 3949,
@@ -9534,14 +9534,14 @@ var newBlocks = []NewBlock {
 			404: 73,
 			477: 73,
 			573: 73,
-			4: 272,
+			4:   272,
 		},
 	},
 	{
 		"minecraft:sugar_cane[age=10]",
 		nil,
 		NewMapping{
-			4: 1338,
+			4:   1338,
 			393: 3452,
 			404: 3453,
 			477: 3956,
@@ -9686,7 +9686,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sugar_cane[age=4]",
 		nil,
 		NewMapping{
-			4: 1332,
+			4:   1332,
 			393: 3446,
 			404: 3447,
 			477: 3950,
@@ -9697,7 +9697,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=2,facing=south,locked=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1508,
+			4:   1508,
 			393: 3535,
 			404: 3536,
 			477: 4039,
@@ -9871,7 +9871,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6870,
-			4: 2610,
+			4:   2610,
 			393: 6363,
 			404: 6364,
 			477: 6870,
@@ -9937,7 +9937,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=2,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1010,
+			4:   1010,
 			393: 3080,
 		},
 	},
@@ -9948,7 +9948,7 @@ var newBlocks = []NewBlock {
 			404: 3383,
 			477: 3886,
 			573: 3886,
-			4: 1205,
+			4:   1205,
 			393: 3382,
 		},
 	},
@@ -10077,7 +10077,7 @@ var newBlocks = []NewBlock {
 			404: 6865,
 			477: 7371,
 			573: 7371,
-			4: 2826,
+			4:   2826,
 			393: 6864,
 		},
 	},
@@ -10086,7 +10086,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6079,
-			4: 2324,
+			4:   2324,
 			393: 5572,
 			404: 5573,
 			477: 6079,
@@ -10152,7 +10152,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_shulker_box[facing=west]",
 		nil,
 		NewMapping{
-			4: 3524,
+			4:   3524,
 			393: 8226,
 			404: 8227,
 			477: 8751,
@@ -10227,7 +10227,7 @@ var newBlocks = []NewBlock {
 		"minecraft:trapped_chest[facing=west,type=single,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2340,
+			4:   2340,
 			393: 5592,
 			404: 5593,
 			477: 6099,
@@ -10309,7 +10309,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3955,
-			4: 1337,
+			4:   1337,
 			393: 3451,
 			404: 3452,
 			477: 3955,
@@ -10389,7 +10389,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3364,
 			573: 3364,
-			4: 961,
+			4:   961,
 			393: 3060,
 			404: 3061,
 		},
@@ -10400,7 +10400,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5350,
 			573: 5350,
-			4: 2121,
+			4:   2121,
 			393: 4846,
 			404: 4847,
 		},
@@ -10497,7 +10497,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 1140,
+			4:   1140,
 			393: 3364,
 			404: 3365,
 			477: 3868,
@@ -10626,7 +10626,7 @@ var newBlocks = []NewBlock {
 			404: 3621,
 			477: 4124,
 			573: 4124,
-			4: 1541,
+			4:   1541,
 		},
 	},
 	{
@@ -10635,7 +10635,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1390,
 			573: 1390,
-			4: 567,
+			4:   567,
 			393: 1090,
 			404: 1090,
 		},
@@ -10742,7 +10742,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chorus_flower[age=4]",
 		nil,
 		NewMapping{
-			4: 3204,
+			4:   3204,
 			393: 8071,
 			404: 8072,
 			477: 8596,
@@ -10754,7 +10754,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1436,
-			4: 803,
+			4:   803,
 			393: 1132,
 			404: 1133,
 			477: 1436,
@@ -10879,7 +10879,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6074,
-			4: 2322,
+			4:   2322,
 			393: 5567,
 			404: 5568,
 			477: 6074,
@@ -10935,7 +10935,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3586,
 			573: 3586,
-			4: 1027,
+			4:   1027,
 			393: 3122,
 			404: 3123,
 		},
@@ -11074,14 +11074,14 @@ var newBlocks = []NewBlock {
 			404: 8303,
 			477: 8827,
 			573: 8827,
-			4: 3733,
+			4:   3733,
 		},
 	},
 	{
 		"minecraft:lime_glazed_terracotta[facing=north]",
 		nil,
 		NewMapping{
-			4: 3842,
+			4:   3842,
 			393: 8333,
 			404: 8334,
 			477: 8858,
@@ -11278,7 +11278,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 3184,
+			4:   3184,
 			393: 8066,
 			404: 8067,
 			477: 8591,
@@ -11358,7 +11358,7 @@ var newBlocks = []NewBlock {
 			404: 5635,
 			477: 6141,
 			573: 6141,
-			4: 2383,
+			4:   2383,
 			393: 5634,
 		},
 	},
@@ -11468,7 +11468,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_stained_glass",
 		nil,
 		NewMapping{
-			4: 1524,
+			4:   1524,
 			393: 3581,
 			404: 3582,
 			477: 4085,
@@ -11651,7 +11651,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence_gate[facing=west,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2933,
+			4:   2933,
 			393: 7378,
 			404: 7379,
 			477: 7903,
@@ -11718,7 +11718,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1035,
+			4:   1035,
 			393: 3161,
 			404: 3162,
 			477: 3625,
@@ -11729,7 +11729,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dropper[facing=east,triggered=true]",
 		nil,
 		NewMapping{
-			4: 2541,
+			4:   2541,
 			393: 5794,
 			404: 5795,
 			477: 6301,
@@ -11781,7 +11781,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8861,
-			4: 3843,
+			4:   3843,
 			393: 8336,
 			404: 8337,
 			477: 8861,
@@ -11909,7 +11909,7 @@ var newBlocks = []NewBlock {
 		"minecraft:hopper[enabled=true,facing=north]",
 		nil,
 		NewMapping{
-			4: 2466,
+			4:   2466,
 			393: 5686,
 			404: 5687,
 			477: 6193,
@@ -12026,7 +12026,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magenta_stained_glass",
 		nil,
 		NewMapping{
-			4: 1522,
+			4:   1522,
 			393: 3579,
 			404: 3580,
 			477: 4083,
@@ -12037,7 +12037,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3097,
+			4:   3097,
 			393: 7732,
 			404: 7733,
 			477: 8257,
@@ -12050,7 +12050,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 174,
 			573: 174,
-			4: 302,
+			4:   302,
 			393: 174,
 			404: 174,
 		},
@@ -12221,7 +12221,7 @@ var newBlocks = []NewBlock {
 			404: 6867,
 			477: 7373,
 			573: 7373,
-			4: 2828,
+			4:   2828,
 			393: 6866,
 		},
 	},
@@ -12349,7 +12349,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dropper[facing=south,triggered=true]",
 		nil,
 		NewMapping{
-			4: 2539,
+			4:   2539,
 			393: 5796,
 			404: 5797,
 			477: 6303,
@@ -12361,7 +12361,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1790,
-			4: 826,
+			4:   826,
 			393: 1486,
 			404: 1487,
 			477: 1790,
@@ -12409,7 +12409,7 @@ var newBlocks = []NewBlock {
 		"minecraft:green_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2573,
+			4:   2573,
 			393: 6267,
 			404: 6268,
 			477: 6774,
@@ -12494,7 +12494,7 @@ var newBlocks = []NewBlock {
 			404: 4627,
 			477: 5130,
 			573: 5130,
-			4: 1926,
+			4:   1926,
 		},
 	},
 	{
@@ -12504,7 +12504,7 @@ var newBlocks = []NewBlock {
 			404: 1093,
 			477: 1393,
 			573: 1393,
-			4: 570,
+			4:   570,
 			393: 1093,
 		},
 	},
@@ -12714,7 +12714,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=wall,facing=south,powered=false]",
 		nil,
 		NewMapping{
-			4: 1235,
+			4:   1235,
 			393: 3402,
 			404: 3403,
 			477: 3906,
@@ -12726,7 +12726,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8688,
-			4: 3344,
+			4:   3344,
 			393: 8163,
 			404: 8164,
 			477: 8688,
@@ -12739,7 +12739,7 @@ var newBlocks = []NewBlock {
 			404: 8317,
 			477: 8841,
 			573: 8841,
-			4: 3763,
+			4:   3763,
 			393: 8316,
 		},
 	},
@@ -12750,7 +12750,7 @@ var newBlocks = []NewBlock {
 			404: 6514,
 			477: 7020,
 			573: 7020,
-			4: 2685,
+			4:   2685,
 			393: 6513,
 		},
 	},
@@ -12868,7 +12868,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5809,
 			573: 5809,
-			4: 2279,
+			4:   2279,
 			393: 5302,
 			404: 5303,
 		},
@@ -12915,7 +12915,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_mushroom_block[down=true,east=true,north=true,south=true,up=true,west=true]",
 		nil,
 		NewMapping{
-			4: 1598,
+			4:   1598,
 			393: 3987,
 			404: 3988,
 			477: 4491,
@@ -13064,7 +13064,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1735,
+			4:   1735,
 			393: 4333,
 			404: 4334,
 			477: 4837,
@@ -13212,7 +13212,7 @@ var newBlocks = []NewBlock {
 			404: 5637,
 			477: 6143,
 			573: 6143,
-			4: 2402,
+			4:   2402,
 		},
 	},
 	{
@@ -13223,7 +13223,7 @@ var newBlocks = []NewBlock {
 			404: 4260,
 			477: 4763,
 			573: 4763,
-			4: 1671,
+			4:   1671,
 		},
 	},
 	{
@@ -13268,7 +13268,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dropper[facing=west,triggered=true]",
 		nil,
 		NewMapping{
-			4: 2540,
+			4:   2540,
 			393: 5798,
 			404: 5799,
 			477: 6305,
@@ -13363,7 +13363,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chorus_flower[age=3]",
 		nil,
 		NewMapping{
-			4: 3203,
+			4:   3203,
 			393: 8070,
 			404: 8071,
 			477: 8595,
@@ -13378,7 +13378,7 @@ var newBlocks = []NewBlock {
 			404: 3057,
 			477: 3360,
 			573: 3360,
-			4: 949,
+			4:   949,
 		},
 	},
 	{
@@ -13411,7 +13411,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_mushroom_block[down=false,east=false,north=false,south=false,up=true,west=false]",
 		nil,
 		NewMapping{
-			4: 1605,
+			4:   1605,
 			393: 4112,
 			404: 4113,
 			477: 4616,
@@ -13450,7 +13450,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_tulip",
 		nil,
 		NewMapping{
-			4: 615,
+			4:   615,
 			393: 1119,
 			404: 1119,
 			477: 1419,
@@ -13520,14 +13520,14 @@ var newBlocks = []NewBlock {
 			404: 4614,
 			477: 5117,
 			573: 5117,
-			4: 1879,
+			4:   1879,
 		},
 	},
 	{
 		"minecraft:observer[facing=up,powered=true]",
 		nil,
 		NewMapping{
-			4: 3497,
+			4:   3497,
 			393: 8207,
 			404: 8208,
 			477: 8732,
@@ -13572,7 +13572,7 @@ var newBlocks = []NewBlock {
 			404: 8258,
 			477: 8782,
 			573: 8782,
-			4: 3601,
+			4:   3601,
 		},
 	},
 	{
@@ -13617,7 +13617,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dropper[facing=up,triggered=true]",
 		nil,
 		NewMapping{
-			4: 2537,
+			4:   2537,
 			393: 5800,
 			404: 5801,
 			477: 6307,
@@ -13685,7 +13685,7 @@ var newBlocks = []NewBlock {
 		"minecraft:hopper[enabled=true,facing=west]",
 		nil,
 		NewMapping{
-			4: 2468,
+			4:   2468,
 			393: 5688,
 			404: 5689,
 			477: 6195,
@@ -13699,7 +13699,7 @@ var newBlocks = []NewBlock {
 			404: 1040,
 			477: 1340,
 			573: 1340,
-			4: 480,
+			4:   480,
 			393: 1040,
 		},
 	},
@@ -13775,7 +13775,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6082,
 			573: 6082,
-			4: 2330,
+			4:   2330,
 			393: 5575,
 			404: 5576,
 		},
@@ -14059,14 +14059,14 @@ var newBlocks = []NewBlock {
 			404: 5682,
 			477: 6188,
 			573: 6188,
-			4: 2430,
+			4:   2430,
 		},
 	},
 	{
 		"minecraft:end_portal_frame[eye=false,facing=north]",
 		nil,
 		NewMapping{
-			4: 1922,
+			4:   1922,
 			393: 4630,
 			404: 4631,
 			477: 5134,
@@ -14281,7 +14281,7 @@ var newBlocks = []NewBlock {
 		"minecraft:fire[age=6,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 822,
+			4:   822,
 			393: 1358,
 			404: 1359,
 			477: 1662,
@@ -14450,7 +14450,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cactus[age=3]",
 		nil,
 		NewMapping{
-			4: 1299,
+			4:   1299,
 			393: 3428,
 			404: 3429,
 			477: 3932,
@@ -14464,7 +14464,7 @@ var newBlocks = []NewBlock {
 			404: 1730,
 			477: 2033,
 			573: 2033,
-			4: 866,
+			4:   866,
 			393: 1729,
 		},
 	},
@@ -14472,7 +14472,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_glazed_terracotta[facing=west]",
 		nil,
 		NewMapping{
-			4: 3761,
+			4:   3761,
 			393: 8315,
 			404: 8316,
 			477: 8840,
@@ -14537,14 +14537,14 @@ var newBlocks = []NewBlock {
 			404: 39,
 			477: 39,
 			573: 39,
-			4: 133,
+			4:   133,
 		},
 	},
 	{
 		"minecraft:lava[level=11]",
 		nil,
 		NewMapping{
-			4: 171,
+			4:   171,
 			393: 61,
 			404: 61,
 			477: 61,
@@ -14559,7 +14559,7 @@ var newBlocks = []NewBlock {
 			404: 4600,
 			477: 5103,
 			573: 5103,
-			4: 1824,
+			4:   1824,
 		},
 	},
 	{
@@ -14672,7 +14672,7 @@ var newBlocks = []NewBlock {
 			404: 1519,
 			477: 1822,
 			573: 1822,
-			4: 827,
+			4:   827,
 		},
 	},
 	{
@@ -14729,7 +14729,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3159,
+			4:   3159,
 			393: 7946,
 			404: 7947,
 			477: 8471,
@@ -14744,7 +14744,7 @@ var newBlocks = []NewBlock {
 			404: 3592,
 			477: 4095,
 			573: 4095,
-			4: 1534,
+			4:   1534,
 		},
 	},
 	{
@@ -14830,7 +14830,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3789,
-			4: 1116,
+			4:   1116,
 			393: 3285,
 			404: 3286,
 			477: 3789,
@@ -14878,7 +14878,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2611,
+			4:   2611,
 			393: 6343,
 			404: 6344,
 			477: 6850,
@@ -14995,7 +14995,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_button[face=ceiling,facing=north,powered=false]",
 		nil,
 		NewMapping{
-			4: 2288,
+			4:   2288,
 			393: 5320,
 			404: 5321,
 			477: 5827,
@@ -15006,7 +15006,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=15,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1023,
+			4:   1023,
 			393: 3106,
 		},
 	},
@@ -15102,7 +15102,7 @@ var newBlocks = []NewBlock {
 			404: 8288,
 			477: 8812,
 			573: 8812,
-			4: 3681,
+			4:   3681,
 			393: 8287,
 		},
 	},
@@ -15246,7 +15246,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_mushroom_block[down=false,east=false,north=false,south=false,up=true,west=true]",
 		nil,
 		NewMapping{
-			4: 1604,
+			4:   1604,
 			393: 4111,
 			404: 4112,
 			477: 4615,
@@ -15261,7 +15261,7 @@ var newBlocks = []NewBlock {
 			404: 3517,
 			477: 4020,
 			573: 4020,
-			4: 1490,
+			4:   1490,
 		},
 	},
 	{
@@ -15306,7 +15306,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sponge",
 		nil,
 		NewMapping{
-			4: 304,
+			4:   304,
 			393: 228,
 			404: 228,
 			477: 228,
@@ -15515,7 +15515,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1136,
+			4:   1136,
 			393: 3366,
 			404: 3367,
 			477: 3870,
@@ -15576,7 +15576,7 @@ var newBlocks = []NewBlock {
 			404: 8204,
 			477: 8728,
 			573: 8728,
-			4: 3499,
+			4:   3499,
 		},
 	},
 	{
@@ -15654,7 +15654,7 @@ var newBlocks = []NewBlock {
 			404: 3436,
 			477: 3939,
 			573: 3939,
-			4: 1306,
+			4:   1306,
 			393: 3435,
 		},
 	},
@@ -15860,7 +15860,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tall_grass[half=lower]",
 		nil,
 		NewMapping{
-			4: 2802,
+			4:   2802,
 			393: 6851,
 			404: 6852,
 			477: 7358,
@@ -15872,7 +15872,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3367,
-			4: 964,
+			4:   964,
 			393: 3063,
 			404: 3064,
 			477: 3367,
@@ -15938,7 +15938,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dispenser[facing=east,triggered=false]",
 		nil,
 		NewMapping{
-			4: 373,
+			4:   373,
 			393: 236,
 			404: 236,
 			477: 236,
@@ -15949,7 +15949,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=2,facing=east,locked=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1511,
+			4:   1511,
 			393: 3543,
 			404: 3544,
 			477: 4047,
@@ -16014,7 +16014,7 @@ var newBlocks = []NewBlock {
 			404: 4640,
 			477: 5143,
 			573: 5143,
-			4: 2032,
+			4:   2032,
 		},
 	},
 	{
@@ -16024,7 +16024,7 @@ var newBlocks = []NewBlock {
 			404: 3065,
 			477: 3368,
 			573: 3368,
-			4: 965,
+			4:   965,
 			393: 3064,
 		},
 	},
@@ -16032,7 +16032,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sticky_piston[extended=true,facing=up]",
 		nil,
 		NewMapping{
-			4: 473,
+			4:   473,
 			393: 1032,
 			404: 1032,
 			477: 1332,
@@ -16097,7 +16097,7 @@ var newBlocks = []NewBlock {
 			404: 3442,
 			477: 3945,
 			573: 3945,
-			4: 1312,
+			4:   1312,
 		},
 	},
 	{
@@ -16105,7 +16105,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1304,
-			4: 440,
+			4:   440,
 			393: 1004,
 			404: 1004,
 			477: 1304,
@@ -16115,7 +16115,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_banner[rotation=0]",
 		nil,
 		NewMapping{
-			4: 2816,
+			4:   2816,
 			393: 6854,
 			404: 6855,
 			477: 7361,
@@ -16208,7 +16208,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cake[bites=1]",
 		nil,
 		NewMapping{
-			4: 1473,
+			4:   1473,
 			393: 3507,
 			404: 3508,
 			477: 4011,
@@ -16219,7 +16219,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1827,
+			4:   1827,
 			393: 4539,
 			404: 4540,
 			477: 5043,
@@ -16260,7 +16260,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire_hook[attached=false,facing=west,powered=true]",
 		nil,
 		NewMapping{
-			4: 2105,
+			4:   2105,
 			393: 4751,
 			404: 4752,
 			477: 5255,
@@ -16271,7 +16271,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chiseled_sandstone",
 		nil,
 		NewMapping{
-			4: 385,
+			4:   385,
 			393: 246,
 			404: 246,
 			477: 246,
@@ -16300,7 +16300,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4761,
 			573: 4761,
-			4: 1669,
+			4:   1669,
 			393: 4257,
 			404: 4258,
 		},
@@ -16311,7 +16311,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1357,
 			573: 1357,
-			4: 529,
+			4:   529,
 			393: 1057,
 			404: 1057,
 		},
@@ -16422,7 +16422,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=1]",
 		nil,
 		NewMapping{
-			4: 145,
+			4:   145,
 			393: 35,
 			404: 35,
 			477: 35,
@@ -16497,7 +16497,7 @@ var newBlocks = []NewBlock {
 			404: 36,
 			477: 36,
 			573: 36,
-			4: 130,
+			4:   130,
 		},
 	},
 	{
@@ -16546,7 +16546,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 62,
 			573: 62,
-			4: 188,
+			4:   188,
 			393: 62,
 			404: 62,
 		},
@@ -16776,7 +16776,7 @@ var newBlocks = []NewBlock {
 			404: 159,
 			477: 159,
 			573: 159,
-			4: 289,
+			4:   289,
 			393: 159,
 		},
 	},
@@ -16786,7 +16786,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1412,
 			573: 1412,
-			4: 608,
+			4:   608,
 			393: 1112,
 			404: 1112,
 		},
@@ -16795,7 +16795,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_slab[type=double,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2004,
+			4:   2004,
 			393: 7286,
 			404: 7287,
 			477: 7793,
@@ -16856,7 +16856,7 @@ var newBlocks = []NewBlock {
 		"minecraft:fire[age=15,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 831,
+			4:   831,
 			393: 1646,
 			404: 1647,
 			477: 1950,
@@ -16867,7 +16867,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence_gate[facing=north,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2978,
+			4:   2978,
 			393: 7492,
 			404: 7493,
 			477: 8017,
@@ -16960,7 +16960,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1307,
 			573: 1307,
-			4: 443,
+			4:   443,
 			393: 1007,
 			404: 1007,
 		},
@@ -16970,7 +16970,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8445,
-			4: 3144,
+			4:   3144,
 			393: 7920,
 			404: 7921,
 			477: 8445,
@@ -17083,7 +17083,7 @@ var newBlocks = []NewBlock {
 			404: 7362,
 			477: 7886,
 			573: 7886,
-			4: 2942,
+			4:   2942,
 			393: 7361,
 		},
 	},
@@ -17143,7 +17143,7 @@ var newBlocks = []NewBlock {
 			404: 84,
 			477: 84,
 			573: 84,
-			4: 2596,
+			4:   2596,
 		},
 	},
 	{
@@ -17188,7 +17188,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_mushroom_block[down=false,east=false,north=true,south=false,up=true,west=true]",
 		nil,
 		NewMapping{
-			4: 1585,
+			4:   1585,
 			393: 4039,
 			404: 4040,
 			477: 4543,
@@ -17199,7 +17199,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_button[face=wall,facing=south,powered=true]",
 		nil,
 		NewMapping{
-			4: 2299,
+			4:   2299,
 			393: 5313,
 			404: 5314,
 			477: 5820,
@@ -17277,7 +17277,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8707,
-			4: 3378,
+			4:   3378,
 			393: 8182,
 			404: 8183,
 			477: 8707,
@@ -17353,7 +17353,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3154,
+			4:   3154,
 			393: 7980,
 			404: 7981,
 			477: 8505,
@@ -17550,7 +17550,7 @@ var newBlocks = []NewBlock {
 			404: 7279,
 			477: 7785,
 			573: 7785,
-			4: 2019,
+			4:   2019,
 			393: 7278,
 		},
 	},
@@ -17599,7 +17599,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6880,
-			4: 2613,
+			4:   2613,
 			393: 6373,
 			404: 6374,
 			477: 6880,
@@ -17638,7 +17638,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8524,
-			4: 3171,
+			4:   3171,
 			393: 7999,
 			404: 8000,
 			477: 8524,
@@ -17648,7 +17648,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lime_shulker_box[facing=east]",
 		nil,
 		NewMapping{
-			4: 3589,
+			4:   3589,
 			393: 8248,
 			404: 8249,
 			477: 8773,
@@ -17685,7 +17685,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_fence_gate[facing=north,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2994,
+			4:   2994,
 			393: 7460,
 			404: 7461,
 			477: 7985,
@@ -17698,7 +17698,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8869,
 			573: 8869,
-			4: 3875,
+			4:   3875,
 			393: 8344,
 			404: 8345,
 		},
@@ -17889,7 +17889,7 @@ var newBlocks = []NewBlock {
 		"minecraft:end_stone",
 		nil,
 		NewMapping{
-			4: 1936,
+			4:   1936,
 			393: 4634,
 			404: 4635,
 			477: 5138,
@@ -17969,7 +17969,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8914,
-			4: 4028,
+			4:   4028,
 			393: 8389,
 			404: 8390,
 			477: 8914,
@@ -18109,7 +18109,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_brick_slab[type=top,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 718,
+			4:   718,
 			393: 7330,
 			404: 7331,
 			477: 7849,
@@ -18123,7 +18123,7 @@ var newBlocks = []NewBlock {
 			404: 5614,
 			477: 6120,
 			573: 6120,
-			4: 2362,
+			4:   2362,
 			393: 5613,
 		},
 	},
@@ -18131,7 +18131,7 @@ var newBlocks = []NewBlock {
 		"minecraft:command_block[conditional=true,facing=south]",
 		nil,
 		NewMapping{
-			4: 2203,
+			4:   2203,
 			393: 5126,
 			404: 5127,
 			477: 5630,
@@ -18192,7 +18192,7 @@ var newBlocks = []NewBlock {
 		"minecraft:wall_sign[facing=north,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1090,
+			4:   1090,
 			393: 3270,
 		},
 	},
@@ -18240,7 +18240,7 @@ var newBlocks = []NewBlock {
 		"minecraft:moving_piston[facing=down,type=normal]",
 		nil,
 		NewMapping{
-			4: 576,
+			4:   576,
 			393: 1109,
 			404: 1109,
 			477: 1409,
@@ -18269,7 +18269,7 @@ var newBlocks = []NewBlock {
 		"minecraft:hopper[enabled=false,facing=east]",
 		nil,
 		NewMapping{
-			4: 2477,
+			4:   2477,
 			393: 5694,
 			404: 5695,
 			477: 6201,
@@ -18310,7 +18310,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2166,
+			4:   2166,
 			393: 4985,
 			404: 4986,
 			477: 5489,
@@ -18380,7 +18380,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3790,
-			4: 1108,
+			4:   1108,
 			393: 3286,
 			404: 3287,
 			477: 3790,
@@ -18518,7 +18518,7 @@ var newBlocks = []NewBlock {
 			404: 3533,
 			477: 4036,
 			573: 4036,
-			4: 1494,
+			4:   1494,
 		},
 	},
 	{
@@ -18596,7 +18596,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8730,
-			4: 3500,
+			4:   3500,
 			393: 8205,
 			404: 8206,
 			477: 8730,
@@ -18706,7 +18706,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_blue_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3554,
+			4:   3554,
 			393: 8235,
 			404: 8236,
 			477: 8760,
@@ -18717,7 +18717,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_sandstone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2883,
+			4:   2883,
 			393: 7188,
 			404: 7189,
 			477: 7695,
@@ -18862,7 +18862,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7682,
 			573: 7682,
-			4: 2865,
+			4:   2865,
 			393: 7175,
 			404: 7176,
 		},
@@ -19008,7 +19008,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_concrete_powder",
 		nil,
 		NewMapping{
-			4: 4039,
+			4:   4039,
 			393: 8400,
 			404: 8401,
 			477: 8925,
@@ -19019,7 +19019,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cobblestone_slab[type=double,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 691,
+			4:   691,
 			393: 7316,
 			404: 7317,
 			477: 7835,
@@ -19138,7 +19138,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8598,
-			4: 3216,
+			4:   3216,
 			393: 8073,
 			404: 8074,
 			477: 8598,
@@ -19253,7 +19253,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4028,
-			4: 1489,
+			4:   1489,
 			393: 3524,
 			404: 3525,
 			477: 4028,
@@ -19263,7 +19263,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=10]",
 		nil,
 		NewMapping{
-			4: 138,
+			4:   138,
 			393: 44,
 			404: 44,
 			477: 44,
@@ -19275,7 +19275,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 83,
-			4: 283,
+			4:   283,
 			393: 83,
 			404: 83,
 			477: 83,
@@ -19353,7 +19353,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6358,
 			573: 6358,
-			4: 2560,
+			4:   2560,
 			393: 5851,
 			404: 5852,
 		},
@@ -19363,7 +19363,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 189,
-			4: 299,
+			4:   299,
 			393: 189,
 			404: 189,
 			477: 189,
@@ -19373,7 +19373,7 @@ var newBlocks = []NewBlock {
 		"minecraft:allium",
 		nil,
 		NewMapping{
-			4: 610,
+			4:   610,
 			393: 1114,
 			404: 1114,
 			477: 1414,
@@ -19562,7 +19562,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3570,
+			4:   3570,
 			393: 8241,
 			404: 8242,
 			477: 8766,
@@ -19574,7 +19574,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8757,
-			4: 3540,
+			4:   3540,
 			393: 8232,
 			404: 8233,
 			477: 8757,
@@ -19620,7 +19620,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=false,power=1]",
 		nil,
 		NewMapping{
-			4: 2417,
+			4:   2417,
 			393: 5668,
 			404: 5669,
 			477: 6175,
@@ -19671,7 +19671,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_mushroom_block[down=false,east=true,north=true,south=false,up=true,west=false]",
 		nil,
 		NewMapping{
-			4: 1587,
+			4:   1587,
 			393: 4024,
 			404: 4025,
 			477: 4528,
@@ -19718,7 +19718,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeating_command_block[conditional=true,facing=up]",
 		nil,
 		NewMapping{
-			4: 3369,
+			4:   3369,
 			393: 8168,
 			404: 8169,
 			477: 8693,
@@ -19729,7 +19729,7 @@ var newBlocks = []NewBlock {
 		"minecraft:powered_rail[powered=true,shape=ascending_north]",
 		nil,
 		NewMapping{
-			4: 444,
+			4:   444,
 			393: 1008,
 			404: 1008,
 			477: 1308,
@@ -19772,7 +19772,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4600,
 			573: 4600,
-			4: 1606,
+			4:   1606,
 			393: 4096,
 			404: 4097,
 		},
@@ -19867,7 +19867,7 @@ var newBlocks = []NewBlock {
 			404: 8232,
 			477: 8756,
 			573: 8756,
-			4: 3539,
+			4:   3539,
 		},
 	},
 	{
@@ -19913,7 +19913,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3714,
-			4: 1076,
+			4:   1076,
 			393: 3250,
 			404: 3251,
 			477: 3714,
@@ -19923,7 +19923,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_concrete",
 		nil,
 		NewMapping{
-			4: 4016,
+			4:   4016,
 			393: 8377,
 			404: 8378,
 			477: 8902,
@@ -19961,7 +19961,7 @@ var newBlocks = []NewBlock {
 			404: 5636,
 			477: 6142,
 			573: 6142,
-			4: 2410,
+			4:   2410,
 			393: 5635,
 		},
 	},
@@ -20056,7 +20056,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8889,
-			4: 3955,
+			4:   3955,
 			393: 8364,
 			404: 8365,
 			477: 8889,
@@ -20172,14 +20172,14 @@ var newBlocks = []NewBlock {
 			404: 7965,
 			477: 8489,
 			573: 8489,
-			4: 3153,
+			4:   3153,
 		},
 	},
 	{
 		"minecraft:rail[shape=south_west]",
 		nil,
 		NewMapping{
-			4: 1063,
+			4:   1063,
 			393: 3186,
 			404: 3187,
 			477: 3650,
@@ -20271,7 +20271,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_glazed_terracotta[facing=north]",
 		nil,
 		NewMapping{
-			4: 3762,
+			4:   3762,
 			393: 8313,
 			404: 8314,
 			477: 8838,
@@ -20454,7 +20454,7 @@ var newBlocks = []NewBlock {
 		"minecraft:vine[east=true,north=false,south=true,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1705,
+			4:   1705,
 			393: 4279,
 			404: 4280,
 			477: 4783,
@@ -20506,7 +20506,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3376,
-			4: 980,
+			4:   980,
 			393: 3072,
 			404: 3073,
 			477: 3376,
@@ -20516,7 +20516,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston_head[facing=south,short=false,type=normal]",
 		nil,
 		NewMapping{
-			4: 547,
+			4:   547,
 			393: 1069,
 			404: 1069,
 			477: 1369,
@@ -20557,7 +20557,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4795,
 			573: 4795,
-			4: 1700,
+			4:   1700,
 			393: 4291,
 			404: 4292,
 		},
@@ -20614,7 +20614,7 @@ var newBlocks = []NewBlock {
 			404: 3021,
 			477: 3324,
 			573: 3324,
-			4: 892,
+			4:   892,
 		},
 	},
 	{
@@ -20667,7 +20667,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8375,
-			4: 3126,
+			4:   3126,
 			393: 7850,
 			404: 7851,
 			477: 8375,
@@ -20745,7 +20745,7 @@ var newBlocks = []NewBlock {
 			404: 8075,
 			477: 8599,
 			573: 8599,
-			4: 3236,
+			4:   3236,
 		},
 	},
 	{
@@ -20802,7 +20802,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lime_shulker_box[facing=up]",
 		nil,
 		NewMapping{
-			4: 3585,
+			4:   3585,
 			393: 8251,
 			404: 8252,
 			477: 8776,
@@ -20913,7 +20913,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magma_block",
 		nil,
 		NewMapping{
-			4: 3408,
+			4:   3408,
 			393: 8192,
 			404: 8193,
 			477: 8717,
@@ -20979,7 +20979,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=false,power=10]",
 		nil,
 		NewMapping{
-			4: 2426,
+			4:   2426,
 			393: 5677,
 			404: 5678,
 			477: 6184,
@@ -20990,7 +20990,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2624,
+			4:   2624,
 			393: 6483,
 			404: 6484,
 			477: 6990,
@@ -21055,7 +21055,7 @@ var newBlocks = []NewBlock {
 		"minecraft:vine[east=true,north=true,south=true,up=false,west=true]",
 		nil,
 		NewMapping{
-			4: 1711,
+			4:   1711,
 			393: 4270,
 			404: 4271,
 			477: 4774,
@@ -21067,7 +21067,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3940,
-			4: 1307,
+			4:   1307,
 			393: 3436,
 			404: 3437,
 			477: 3940,
@@ -21077,7 +21077,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_glazed_terracotta[facing=west]",
 		nil,
 		NewMapping{
-			4: 3953,
+			4:   3953,
 			393: 8363,
 			404: 8364,
 			477: 8888,
@@ -21158,7 +21158,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8874,
 			573: 8874,
-			4: 3906,
+			4:   3906,
 			393: 8349,
 			404: 8350,
 		},
@@ -21216,7 +21216,7 @@ var newBlocks = []NewBlock {
 			404: 1039,
 			477: 1339,
 			573: 1339,
-			4: 464,
+			4:   464,
 			393: 1039,
 		},
 	},
@@ -21537,7 +21537,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 18,
-			4: 83,
+			4:   83,
 			393: 18,
 			404: 18,
 			477: 18,
@@ -21548,7 +21548,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8725,
-			4: 3490,
+			4:   3490,
 			393: 8200,
 			404: 8201,
 			477: 8725,
@@ -21694,7 +21694,7 @@ var newBlocks = []NewBlock {
 		"minecraft:wheat[age=7]",
 		nil,
 		NewMapping{
-			4: 951,
+			4:   951,
 			393: 3058,
 			404: 3059,
 			477: 3362,
@@ -21705,7 +21705,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3094,
+			4:   3094,
 			393: 7722,
 			404: 7723,
 			477: 8247,
@@ -21888,7 +21888,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1829,
+			4:   1829,
 			393: 4569,
 			404: 4570,
 			477: 5073,
@@ -22010,7 +22010,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_gray_glazed_terracotta[facing=east]",
 		nil,
 		NewMapping{
-			4: 3891,
+			4:   3891,
 			393: 8348,
 			404: 8349,
 			477: 8873,
@@ -22083,7 +22083,7 @@ var newBlocks = []NewBlock {
 			404: 42,
 			477: 42,
 			573: 42,
-			4: 136,
+			4:   136,
 		},
 	},
 	{
@@ -22094,7 +22094,7 @@ var newBlocks = []NewBlock {
 			404: 4264,
 			477: 4767,
 			573: 4767,
-			4: 1683,
+			4:   1683,
 		},
 	},
 	{
@@ -22104,7 +22104,7 @@ var newBlocks = []NewBlock {
 			404: 5742,
 			477: 6248,
 			573: 6248,
-			4: 2501,
+			4:   2501,
 			393: 5741,
 		},
 	},
@@ -22358,7 +22358,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3792,
-			4: 1107,
+			4:   1107,
 			393: 3288,
 			404: 3289,
 			477: 3792,
@@ -22369,7 +22369,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1317,
-			4: 457,
+			4:   457,
 			393: 1017,
 			404: 1017,
 			477: 1317,
@@ -22568,7 +22568,7 @@ var newBlocks = []NewBlock {
 			404: 1030,
 			477: 1330,
 			573: 1330,
-			4: 475,
+			4:   475,
 			393: 1030,
 		},
 	},
@@ -22576,7 +22576,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_slab[type=top,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2024,
+			4:   2024,
 			393: 7258,
 			404: 7259,
 			477: 7765,
@@ -22695,7 +22695,7 @@ var newBlocks = []NewBlock {
 			404: 7997,
 			477: 8521,
 			573: 8521,
-			4: 3152,
+			4:   3152,
 		},
 	},
 	{
@@ -22772,7 +22772,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wire[east=none,north=none,power=4,south=none,west=none]",
 		nil,
 		NewMapping{
-			4: 884,
+			4:   884,
 			393: 2948,
 			404: 2949,
 			477: 3252,
@@ -22784,7 +22784,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1433,
-			4: 784,
+			4:   784,
 			393: 1129,
 			404: 1130,
 			477: 1433,
@@ -22795,7 +22795,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4063,
-			4: 1515,
+			4:   1515,
 			393: 3559,
 			404: 3560,
 			477: 4063,
@@ -22805,7 +22805,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=0,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1008,
+			4:   1008,
 			393: 3076,
 		},
 	},
@@ -22971,7 +22971,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8907,
-			4: 4021,
+			4:   4021,
 			393: 8382,
 			404: 8383,
 			477: 8907,
@@ -23049,7 +23049,7 @@ var newBlocks = []NewBlock {
 		"minecraft:anvil[facing=west]",
 		nil,
 		NewMapping{
-			4: 2321,
+			4:   2321,
 			393: 5569,
 			404: 5570,
 			477: 6076,
@@ -23060,7 +23060,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_bed[facing=north,occupied=false,part=head]",
 		nil,
 		NewMapping{
-			4: 426,
+			4:   426,
 			393: 974,
 			404: 974,
 			477: 1274,
@@ -23155,7 +23155,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3724,
 			573: 3724,
-			4: 1072,
+			4:   1072,
 			393: 3260,
 			404: 3261,
 		},
@@ -23246,7 +23246,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purpur_pillar[axis=y]",
 		nil,
 		NewMapping{
-			4: 3232,
+			4:   3232,
 			393: 8075,
 			404: 8076,
 			477: 8600,
@@ -23459,7 +23459,7 @@ var newBlocks = []NewBlock {
 			404: 8250,
 			477: 8774,
 			573: 8774,
-			4: 3587,
+			4:   3587,
 		},
 	},
 	{
@@ -23514,7 +23514,7 @@ var newBlocks = []NewBlock {
 		"minecraft:hay_block[axis=x]",
 		nil,
 		NewMapping{
-			4: 2724,
+			4:   2724,
 			393: 6820,
 			404: 6821,
 			477: 7327,
@@ -23581,7 +23581,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_shulker_box[facing=east]",
 		nil,
 		NewMapping{
-			4: 3605,
+			4:   3605,
 			393: 8254,
 			404: 8255,
 			477: 8779,
@@ -23648,7 +23648,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wire[east=none,north=none,power=0,south=none,west=none]",
 		nil,
 		NewMapping{
-			4: 880,
+			4:   880,
 			393: 2912,
 			404: 2913,
 			477: 3216,
@@ -23660,7 +23660,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3872,
-			4: 1152,
+			4:   1152,
 			393: 3368,
 			404: 3369,
 			477: 3872,
@@ -23702,7 +23702,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3922,
 			573: 3922,
-			4: 1251,
+			4:   1251,
 			393: 3418,
 			404: 3419,
 		},
@@ -23831,7 +23831,7 @@ var newBlocks = []NewBlock {
 		"minecraft:prismarine",
 		nil,
 		NewMapping{
-			4: 2688,
+			4:   2688,
 			393: 6558,
 			404: 6559,
 			477: 7065,
@@ -23842,7 +23842,7 @@ var newBlocks = []NewBlock {
 		"minecraft:moving_piston[facing=east,type=sticky]",
 		nil,
 		NewMapping{
-			4: 589,
+			4:   589,
 			393: 1102,
 			404: 1102,
 			477: 1402,
@@ -24095,7 +24095,7 @@ var newBlocks = []NewBlock {
 		"minecraft:fire[age=7,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 823,
+			4:   823,
 			393: 1390,
 			404: 1391,
 			477: 1694,
@@ -24159,7 +24159,7 @@ var newBlocks = []NewBlock {
 			404: 7229,
 			477: 7735,
 			573: 7735,
-			4: 2881,
+			4:   2881,
 			393: 7228,
 		},
 	},
@@ -24412,7 +24412,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2675,
+			4:   2675,
 			393: 6557,
 			404: 6558,
 			477: 7064,
@@ -24486,7 +24486,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purple_concrete",
 		nil,
 		NewMapping{
-			4: 4026,
+			4:   4026,
 			393: 8387,
 			404: 8388,
 			477: 8912,
@@ -24561,7 +24561,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lever[face=wall,facing=west,powered=true]",
 		nil,
 		NewMapping{
-			4: 1114,
+			4:   1114,
 			393: 3289,
 			404: 3290,
 			477: 3793,
@@ -24710,7 +24710,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=south,mode=subtract,powered=true]",
 		nil,
 		NewMapping{
-			4: 2412,
+			4:   2412,
 			393: 5641,
 			404: 5642,
 			477: 6148,
@@ -24722,7 +24722,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5256,
-			4: 2097,
+			4:   2097,
 			393: 4752,
 			404: 4753,
 			477: 5256,
@@ -24798,7 +24798,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_wood[axis=y]",
 		nil,
 		NewMapping{
-			4: 2605,
+			4:   2605,
 			393: 124,
 			404: 124,
 			477: 124,
@@ -24809,7 +24809,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cocoa[age=0,facing=west]",
 		nil,
 		NewMapping{
-			4: 2033,
+			4:   2033,
 			393: 4640,
 			404: 4641,
 			477: 5144,
@@ -25032,7 +25032,7 @@ var newBlocks = []NewBlock {
 			404: 1026,
 			477: 1326,
 			573: 1326,
-			4: 452,
+			4:   452,
 		},
 	},
 	{
@@ -25087,7 +25087,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_prismarine",
 		nil,
 		NewMapping{
-			4: 2690,
+			4:   2690,
 			393: 6560,
 			404: 6561,
 			477: 7067,
@@ -25098,7 +25098,7 @@ var newBlocks = []NewBlock {
 		"minecraft:petrified_oak_slab[type=bottom,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 706,
+			4:   706,
 			393: 7308,
 			404: 7309,
 			477: 7827,
@@ -25209,7 +25209,7 @@ var newBlocks = []NewBlock {
 			404: 7837,
 			477: 8361,
 			573: 8361,
-			4: 3121,
+			4:   3121,
 		},
 	},
 	{
@@ -25308,7 +25308,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=true,power=12]",
 		nil,
 		NewMapping{
-			4: 2860,
+			4:   2860,
 			393: 5663,
 			404: 5664,
 			477: 6170,
@@ -25319,7 +25319,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_shulker_box[facing=south]",
 		nil,
 		NewMapping{
-			4: 3619,
+			4:   3619,
 			393: 8261,
 			404: 8262,
 			477: 8786,
@@ -25330,7 +25330,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purpur_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 3253,
+			4:   3253,
 			393: 8118,
 			404: 8119,
 			477: 8643,
@@ -25359,7 +25359,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wire[east=none,north=none,power=14,south=none,west=none]",
 		nil,
 		NewMapping{
-			4: 894,
+			4:   894,
 			393: 3038,
 			404: 3039,
 			477: 3342,
@@ -25408,7 +25408,7 @@ var newBlocks = []NewBlock {
 		"minecraft:fire[age=1,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 817,
+			4:   817,
 			393: 1198,
 			404: 1199,
 			477: 1502,
@@ -25489,7 +25489,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6970,
 			573: 6970,
-			4: 2625,
+			4:   2625,
 			393: 6463,
 			404: 6464,
 		},
@@ -25538,7 +25538,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cracked_stone_bricks",
 		nil,
 		NewMapping{
-			4: 1570,
+			4:   1570,
 			393: 3985,
 			404: 3986,
 			477: 4483,
@@ -25618,7 +25618,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 2023,
-			4: 848,
+			4:   848,
 			393: 1719,
 			404: 1720,
 			477: 2023,
@@ -25628,7 +25628,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2144,
+			4:   2144,
 			393: 4955,
 			404: 4956,
 			477: 5459,
@@ -25642,7 +25642,7 @@ var newBlocks = []NewBlock {
 			404: 8273,
 			477: 8797,
 			573: 8797,
-			4: 3653,
+			4:   3653,
 			393: 8272,
 		},
 	},
@@ -25822,7 +25822,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_slab[type=double,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2001,
+			4:   2001,
 			393: 7268,
 			404: 7269,
 			477: 7775,
@@ -25833,7 +25833,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_sapling[stage=0]",
 		nil,
 		NewMapping{
-			4: 101,
+			4:   101,
 			393: 31,
 			404: 31,
 			477: 31,
@@ -25846,7 +25846,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1275,
 			573: 1275,
-			4: 418,
+			4:   418,
 			393: 975,
 			404: 975,
 		},
@@ -25855,7 +25855,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_leaves[distance=1,persistent=false]",
 		nil,
 		NewMapping{
-			4: 2576,
+			4:   2576,
 			393: 201,
 			404: 201,
 			477: 201,
@@ -25945,14 +25945,14 @@ var newBlocks = []NewBlock {
 			404: 6332,
 			477: 6838,
 			573: 6838,
-			4: 2575,
+			4:   2575,
 		},
 	},
 	{
 		"minecraft:jukebox[has_record=false]",
 		nil,
 		NewMapping{
-			4: 1344,
+			4:   1344,
 			393: 3459,
 			404: 3460,
 			477: 3963,
@@ -26037,7 +26037,7 @@ var newBlocks = []NewBlock {
 		"minecraft:green_concrete",
 		nil,
 		NewMapping{
-			4: 4029,
+			4:   4029,
 			393: 8390,
 			404: 8391,
 			477: 8915,
@@ -26088,7 +26088,7 @@ var newBlocks = []NewBlock {
 		"minecraft:mossy_cobblestone",
 		nil,
 		NewMapping{
-			4: 768,
+			4:   768,
 			393: 1128,
 			404: 1129,
 			477: 1432,
@@ -26237,7 +26237,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5798,
 			573: 5798,
-			4: 2260,
+			4:   2260,
 			393: 5291,
 			404: 5292,
 		},
@@ -26357,7 +26357,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3943,
-			4: 1310,
+			4:   1310,
 			393: 3439,
 			404: 3440,
 			477: 3943,
@@ -26370,7 +26370,7 @@ var newBlocks = []NewBlock {
 			404: 8327,
 			477: 8851,
 			573: 8851,
-			4: 3808,
+			4:   3808,
 			393: 8326,
 		},
 	},
@@ -26380,7 +26380,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4607,
 			573: 4607,
-			4: 1601,
+			4:   1601,
 			393: 4103,
 			404: 4104,
 		},
@@ -26436,7 +26436,7 @@ var newBlocks = []NewBlock {
 			404: 5116,
 			477: 5619,
 			573: 5619,
-			4: 2176,
+			4:   2176,
 			393: 5115,
 		},
 	},
@@ -26492,7 +26492,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chain_command_block[conditional=true,facing=down]",
 		nil,
 		NewMapping{
-			4: 3384,
+			4:   3384,
 			393: 8181,
 			404: 8182,
 			477: 8706,
@@ -26503,7 +26503,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purple_glazed_terracotta[facing=east]",
 		nil,
 		NewMapping{
-			4: 3923,
+			4:   3923,
 			393: 8356,
 			404: 8357,
 			477: 8881,
@@ -26556,7 +26556,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8721,
 			573: 8721,
-			4: 3456,
+			4:   3456,
 			393: 8196,
 			404: 8197,
 		},
@@ -26712,7 +26712,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_tulip",
 		nil,
 		NewMapping{
-			4: 614,
+			4:   614,
 			393: 1118,
 			404: 1118,
 			477: 1418,
@@ -26761,7 +26761,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dispenser[facing=down,triggered=false]",
 		nil,
 		NewMapping{
-			4: 368,
+			4:   368,
 			393: 244,
 			404: 244,
 			477: 244,
@@ -26772,7 +26772,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1747,
+			4:   1747,
 			393: 4423,
 			404: 4424,
 			477: 4927,
@@ -26845,7 +26845,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1731,
+			4:   1731,
 			393: 4343,
 			404: 4344,
 			477: 4847,
@@ -26909,7 +26909,7 @@ var newBlocks = []NewBlock {
 			404: 1034,
 			477: 1334,
 			573: 1334,
-			4: 466,
+			4:   466,
 			393: 1034,
 		},
 	},
@@ -26973,7 +26973,7 @@ var newBlocks = []NewBlock {
 		"minecraft:infested_mossy_stone_bricks",
 		nil,
 		NewMapping{
-			4: 1555,
+			4:   1555,
 			393: 3980,
 			404: 3981,
 			477: 4488,
@@ -27050,7 +27050,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=east,mode=compare,powered=false]",
 		nil,
 		NewMapping{
-			4: 2403,
+			4:   2403,
 			393: 5648,
 			404: 5649,
 			477: 6155,
@@ -27064,7 +27064,7 @@ var newBlocks = []NewBlock {
 			404: 8263,
 			477: 8787,
 			573: 8787,
-			4: 3620,
+			4:   3620,
 			393: 8262,
 		},
 	},
@@ -27118,7 +27118,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_fence_gate[facing=north,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1714,
+			4:   1714,
 			393: 4307,
 			404: 4308,
 			477: 4811,
@@ -27309,7 +27309,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_shulker_box[facing=south]",
 		nil,
 		NewMapping{
-			4: 3571,
+			4:   3571,
 			393: 8243,
 			404: 8244,
 			477: 8768,
@@ -27539,7 +27539,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1318,
-			4: 458,
+			4:   458,
 			393: 1018,
 			404: 1018,
 			477: 1318,
@@ -27549,7 +27549,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_sandstone_slab[type=bottom,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2912,
+			4:   2912,
 			393: 7344,
 			404: 7345,
 			477: 7863,
@@ -27671,7 +27671,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gold_block",
 		nil,
 		NewMapping{
-			4: 656,
+			4:   656,
 			393: 1123,
 			404: 1123,
 			477: 1426,
@@ -27686,7 +27686,7 @@ var newBlocks = []NewBlock {
 			404: 4672,
 			477: 5175,
 			573: 5175,
-			4: 2054,
+			4:   2054,
 		},
 	},
 	{
@@ -27694,7 +27694,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5093,
-			4: 1828,
+			4:   1828,
 			393: 4589,
 			404: 4590,
 			477: 5093,
@@ -27766,7 +27766,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence_gate[facing=west,in_wall=false,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 2985,
+			4:   2985,
 			393: 7507,
 			404: 7508,
 			477: 8032,
@@ -27939,7 +27939,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3139,
+			4:   3139,
 			393: 7884,
 			404: 7885,
 			477: 8409,
@@ -27951,7 +27951,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7959,
-			4: 2964,
+			4:   2964,
 			393: 7434,
 			404: 7435,
 			477: 7959,
@@ -28043,7 +28043,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_concrete_powder",
 		nil,
 		NewMapping{
-			4: 4046,
+			4:   4046,
 			393: 8407,
 			404: 8408,
 			477: 8932,
@@ -28166,7 +28166,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cobblestone_slab[type=bottom,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 707,
+			4:   707,
 			393: 7314,
 			404: 7315,
 			477: 7833,
@@ -28225,7 +28225,7 @@ var newBlocks = []NewBlock {
 		"minecraft:vine[east=true,north=true,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1708,
+			4:   1708,
 			393: 4275,
 			404: 4276,
 			477: 4779,
@@ -28296,7 +28296,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5139,
 			573: 5139,
-			4: 1952,
+			4:   1952,
 			393: 4635,
 			404: 4636,
 		},
@@ -28309,7 +28309,7 @@ var newBlocks = []NewBlock {
 			404: 3577,
 			477: 4080,
 			573: 4080,
-			4: 1503,
+			4:   1503,
 		},
 	},
 	{
@@ -28516,7 +28516,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8718,
 			573: 8718,
-			4: 3424,
+			4:   3424,
 			393: 8193,
 			404: 8194,
 		},
@@ -28529,7 +28529,7 @@ var newBlocks = []NewBlock {
 			404: 4300,
 			477: 4803,
 			573: 4803,
-			4: 1696,
+			4:   1696,
 		},
 	},
 	{
@@ -28554,7 +28554,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wall_torch[facing=west,lit=false]",
 		nil,
 		NewMapping{
-			4: 1202,
+			4:   1202,
 			393: 3388,
 			404: 3389,
 			477: 3892,
@@ -28657,7 +28657,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_log[axis=z]",
 		nil,
 		NewMapping{
-			4: 2601,
+			4:   2601,
 			393: 89,
 			404: 89,
 			477: 89,
@@ -28671,7 +28671,7 @@ var newBlocks = []NewBlock {
 			404: 53,
 			477: 53,
 			573: 53,
-			4: 179,
+			4:   179,
 			393: 53,
 		},
 	},
@@ -28792,7 +28792,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7781,
-			4: 2002,
+			4:   2002,
 			393: 7274,
 			404: 7275,
 			477: 7781,
@@ -28832,7 +28832,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=true,power=13]",
 		nil,
 		NewMapping{
-			4: 2861,
+			4:   2861,
 			393: 5664,
 			404: 5665,
 			477: 6171,
@@ -28843,7 +28843,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=north,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2966,
+			4:   2966,
 			393: 7426,
 			404: 7427,
 			477: 7951,
@@ -28953,7 +28953,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3822,
-			4: 1139,
+			4:   1139,
 			393: 3318,
 			404: 3319,
 			477: 3822,
@@ -28963,7 +28963,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_stained_glass",
 		nil,
 		NewMapping{
-			4: 1526,
+			4:   1526,
 			393: 3583,
 			404: 3584,
 			477: 4087,
@@ -29170,14 +29170,14 @@ var newBlocks = []NewBlock {
 			404: 1120,
 			477: 1420,
 			573: 1420,
-			4: 616,
+			4:   616,
 		},
 	},
 	{
 		"minecraft:iron_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1146,
+			4:   1146,
 			393: 3353,
 			404: 3354,
 			477: 3857,
@@ -29245,7 +29245,7 @@ var newBlocks = []NewBlock {
 			404: 5131,
 			477: 5634,
 			573: 5634,
-			4: 2194,
+			4:   2194,
 			393: 5130,
 		},
 	},
@@ -29290,7 +29290,7 @@ var newBlocks = []NewBlock {
 		"minecraft:end_stone_bricks",
 		nil,
 		NewMapping{
-			4: 3296,
+			4:   3296,
 			393: 8157,
 			404: 8158,
 			477: 8682,
@@ -29312,7 +29312,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5247,
-			4: 2109,
+			4:   2109,
 			393: 4743,
 			404: 4744,
 			477: 5247,
@@ -29346,7 +29346,7 @@ var newBlocks = []NewBlock {
 		"minecraft:bone_block[axis=x]",
 		nil,
 		NewMapping{
-			4: 3460,
+			4:   3460,
 			393: 8195,
 			404: 8196,
 			477: 8720,
@@ -29410,7 +29410,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_terracotta",
 		nil,
 		NewMapping{
-			4: 2555,
+			4:   2555,
 			393: 5815,
 			404: 5816,
 			477: 6322,
@@ -29424,7 +29424,7 @@ var newBlocks = []NewBlock {
 			404: 4750,
 			477: 5253,
 			573: 5253,
-			4: 2104,
+			4:   2104,
 			393: 4749,
 		},
 	},
@@ -29478,7 +29478,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6093,
-			4: 2339,
+			4:   2339,
 			393: 5586,
 			404: 5587,
 			477: 6093,
@@ -29526,7 +29526,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1544,
+			4:   1544,
 			393: 3600,
 			404: 3601,
 			477: 4104,
@@ -29584,7 +29584,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4826,
-			4: 1721,
+			4:   1721,
 			393: 4322,
 			404: 4323,
 			477: 4826,
@@ -29686,7 +29686,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chorus_flower[age=1]",
 		nil,
 		NewMapping{
-			4: 3201,
+			4:   3201,
 			393: 8068,
 			404: 8069,
 			477: 8593,
@@ -29753,7 +29753,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_tulip",
 		nil,
 		NewMapping{
-			4: 612,
+			4:   612,
 			393: 1116,
 			404: 1116,
 			477: 1416,
@@ -29843,7 +29843,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 20,
-			4: 85,
+			4:   85,
 			393: 20,
 			404: 20,
 			477: 20,
@@ -29893,7 +29893,7 @@ var newBlocks = []NewBlock {
 		"minecraft:activator_rail[powered=false,shape=ascending_south]",
 		nil,
 		NewMapping{
-			4: 2517,
+			4:   2517,
 			393: 5791,
 			404: 5792,
 			477: 6298,
@@ -30034,7 +30034,7 @@ var newBlocks = []NewBlock {
 			404: 7396,
 			477: 7920,
 			573: 7920,
-			4: 2954,
+			4:   2954,
 		},
 	},
 	{
@@ -30197,7 +30197,7 @@ var newBlocks = []NewBlock {
 			404: 5617,
 			477: 6123,
 			573: 6123,
-			4: 2365,
+			4:   2365,
 		},
 	},
 	{
@@ -30321,7 +30321,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4790,
-			4: 1703,
+			4:   1703,
 			393: 4286,
 			404: 4287,
 			477: 4790,
@@ -30331,7 +30331,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_carpet",
 		nil,
 		NewMapping{
-			4: 2736,
+			4:   2736,
 			393: 6823,
 			404: 6824,
 			477: 7330,
@@ -30433,7 +30433,7 @@ var newBlocks = []NewBlock {
 			404: 3507,
 			477: 4010,
 			573: 4010,
-			4: 1472,
+			4:   1472,
 			393: 3506,
 		},
 	},
@@ -30481,7 +30481,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_glazed_terracotta[facing=south]",
 		nil,
 		NewMapping{
-			4: 3952,
+			4:   3952,
 			393: 8362,
 			404: 8363,
 			477: 8887,
@@ -30492,7 +30492,7 @@ var newBlocks = []NewBlock {
 		"minecraft:observer[facing=west,powered=false]",
 		nil,
 		NewMapping{
-			4: 3492,
+			4:   3492,
 			393: 8206,
 			404: 8207,
 			477: 8731,
@@ -30521,7 +30521,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_button[face=wall,facing=east,powered=false]",
 		nil,
 		NewMapping{
-			4: 2289,
+			4:   2289,
 			393: 5318,
 			404: 5319,
 			477: 5825,
@@ -30582,7 +30582,7 @@ var newBlocks = []NewBlock {
 			404: 3984,
 			477: 4481,
 			573: 4481,
-			4: 1568,
+			4:   1568,
 		},
 	},
 	{
@@ -30937,7 +30937,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8794,
 			573: 8794,
-			4: 3633,
+			4:   3633,
 			393: 8269,
 			404: 8270,
 		},
@@ -30946,7 +30946,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2499,
+			4:   2499,
 			393: 5711,
 			404: 5712,
 			477: 6218,
@@ -30975,7 +30975,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8871,
 			573: 8871,
-			4: 3888,
+			4:   3888,
 			393: 8346,
 			404: 8347,
 		},
@@ -31125,7 +31125,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5127,
-			4: 1890,
+			4:   1890,
 			393: 4623,
 			404: 4624,
 			477: 5127,
@@ -31249,7 +31249,7 @@ var newBlocks = []NewBlock {
 		"minecraft:green_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3714,
+			4:   3714,
 			393: 8295,
 			404: 8296,
 			477: 8820,
@@ -31261,7 +31261,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8025,
-			4: 2976,
+			4:   2976,
 			393: 7500,
 			404: 7501,
 			477: 8025,
@@ -31309,7 +31309,7 @@ var newBlocks = []NewBlock {
 		"minecraft:grass_path",
 		nil,
 		NewMapping{
-			4: 3328,
+			4:   3328,
 			393: 8162,
 			404: 8163,
 			477: 8687,
@@ -31362,14 +31362,14 @@ var newBlocks = []NewBlock {
 			404: 4306,
 			477: 4809,
 			573: 4809,
-			4: 1718,
+			4:   1718,
 		},
 	},
 	{
 		"minecraft:potatoes[age=0]",
 		nil,
 		NewMapping{
-			4: 2272,
+			4:   2272,
 			393: 5295,
 			404: 5296,
 			477: 5802,
@@ -31429,7 +31429,7 @@ var newBlocks = []NewBlock {
 			404: 5663,
 			477: 6169,
 			573: 6169,
-			4: 2859,
+			4:   2859,
 			393: 5662,
 		},
 	},
@@ -31471,7 +31471,7 @@ var newBlocks = []NewBlock {
 			404: 5056,
 			477: 5559,
 			573: 5559,
-			4: 2179,
+			4:   2179,
 		},
 	},
 	{
@@ -31499,7 +31499,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6167,
-			4: 2857,
+			4:   2857,
 			393: 5660,
 			404: 5661,
 			477: 6167,
@@ -31509,7 +31509,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2149,
+			4:   2149,
 			393: 4925,
 			404: 4926,
 			477: 5429,
@@ -31548,7 +31548,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=8,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1016,
+			4:   1016,
 			393: 3092,
 		},
 	},
@@ -31628,14 +31628,14 @@ var newBlocks = []NewBlock {
 			404: 8256,
 			477: 8780,
 			573: 8780,
-			4: 3603,
+			4:   3603,
 		},
 	},
 	{
 		"minecraft:green_glazed_terracotta[facing=south]",
 		nil,
 		NewMapping{
-			4: 3968,
+			4:   3968,
 			393: 8366,
 			404: 8367,
 			477: 8891,
@@ -31649,7 +31649,7 @@ var newBlocks = []NewBlock {
 			404: 186,
 			477: 186,
 			573: 186,
-			4: 295,
+			4:   295,
 			393: 186,
 		},
 	},
@@ -31722,7 +31722,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lava[level=9]",
 		nil,
 		NewMapping{
-			4: 169,
+			4:   169,
 			393: 59,
 			404: 59,
 			477: 59,
@@ -31733,7 +31733,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2677,
+			4:   2677,
 			393: 6521,
 			404: 6522,
 			477: 7028,
@@ -31744,7 +31744,7 @@ var newBlocks = []NewBlock {
 		"minecraft:fire[age=9,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 825,
+			4:   825,
 			393: 1454,
 			404: 1455,
 			477: 1758,
@@ -31755,7 +31755,7 @@ var newBlocks = []NewBlock {
 		"minecraft:moving_piston[facing=north,type=normal]",
 		nil,
 		NewMapping{
-			4: 578,
+			4:   578,
 			393: 1099,
 			404: 1099,
 			477: 1399,
@@ -31930,7 +31930,7 @@ var newBlocks = []NewBlock {
 			404: 4329,
 			477: 4832,
 			573: 4832,
-			4: 1727,
+			4:   1727,
 			393: 4328,
 		},
 	},
@@ -31939,7 +31939,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7619,
-			4: 2836,
+			4:   2836,
 			393: 7112,
 			404: 7113,
 			477: 7619,
@@ -31995,7 +31995,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 3146,
+			4:   3146,
 			393: 7919,
 			404: 7920,
 			477: 8444,
@@ -32221,7 +32221,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chain_command_block[conditional=true,facing=east]",
 		nil,
 		NewMapping{
-			4: 3389,
+			4:   3389,
 			393: 8177,
 			404: 8178,
 			477: 8702,
@@ -32309,7 +32309,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7366,
-			4: 2821,
+			4:   2821,
 			393: 6859,
 			404: 6860,
 			477: 7366,
@@ -32464,7 +32464,7 @@ var newBlocks = []NewBlock {
 			404: 1022,
 			477: 1322,
 			573: 1322,
-			4: 448,
+			4:   448,
 			393: 1022,
 		},
 	},
@@ -32531,7 +32531,7 @@ var newBlocks = []NewBlock {
 			404: 5688,
 			477: 6194,
 			573: 6194,
-			4: 2467,
+			4:   2467,
 			393: 5687,
 		},
 	},
@@ -32643,7 +32643,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1728,
+			4:   1728,
 			393: 4403,
 			404: 4404,
 			477: 4907,
@@ -32776,7 +32776,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 3147,
+			4:   3147,
 			393: 7923,
 			404: 7924,
 			477: 8448,
@@ -32791,7 +32791,7 @@ var newBlocks = []NewBlock {
 			404: 7271,
 			477: 7777,
 			573: 7777,
-			4: 2026,
+			4:   2026,
 		},
 	},
 	{
@@ -32900,7 +32900,7 @@ var newBlocks = []NewBlock {
 		"minecraft:damaged_anvil[facing=east]",
 		nil,
 		NewMapping{
-			4: 2331,
+			4:   2331,
 			393: 5578,
 			404: 5579,
 			477: 6085,
@@ -33053,7 +33053,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 245,
-			4: 384,
+			4:   384,
 			393: 245,
 			404: 245,
 			477: 245,
@@ -33097,7 +33097,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dispenser[facing=east,triggered=true]",
 		nil,
 		NewMapping{
-			4: 381,
+			4:   381,
 			393: 235,
 			404: 235,
 			477: 235,
@@ -33212,7 +33212,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_terracotta",
 		nil,
 		NewMapping{
-			4: 2545,
+			4:   2545,
 			393: 5805,
 			404: 5806,
 			477: 6312,
@@ -33271,7 +33271,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeating_command_block[conditional=true,facing=west]",
 		nil,
 		NewMapping{
-			4: 3372,
+			4:   3372,
 			393: 8167,
 			404: 8168,
 			477: 8692,
@@ -33284,7 +33284,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8816,
 			573: 8816,
-			4: 3699,
+			4:   3699,
 			393: 8291,
 			404: 8292,
 		},
@@ -33360,7 +33360,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=5,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1013,
+			4:   1013,
 			393: 3086,
 		},
 	},
@@ -33529,7 +33529,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_concrete_powder",
 		nil,
 		NewMapping{
-			4: 4047,
+			4:   4047,
 			393: 8408,
 			404: 8409,
 			477: 8933,
@@ -33743,7 +33743,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6206,
-			4: 2484,
+			4:   2484,
 			393: 5699,
 			404: 5700,
 			477: 6206,
@@ -33753,7 +33753,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2628,
+			4:   2628,
 			393: 6473,
 			404: 6474,
 			477: 6980,
@@ -33880,7 +33880,7 @@ var newBlocks = []NewBlock {
 			404: 3581,
 			477: 4084,
 			573: 4084,
-			4: 1523,
+			4:   1523,
 		},
 	},
 	{
@@ -33946,7 +33946,7 @@ var newBlocks = []NewBlock {
 			404: 8285,
 			477: 8809,
 			573: 8809,
-			4: 3685,
+			4:   3685,
 			393: 8284,
 		},
 	},
@@ -33954,7 +33954,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_fence_gate[facing=west,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2949,
+			4:   2949,
 			393: 7410,
 			404: 7411,
 			477: 7935,
@@ -34027,7 +34027,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3333,
 			573: 3333,
-			4: 893,
+			4:   893,
 			393: 3029,
 			404: 3030,
 		},
@@ -34092,7 +34092,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3095,
+			4:   3095,
 			393: 7690,
 			404: 7691,
 			477: 8215,
@@ -34234,7 +34234,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_orchid",
 		nil,
 		NewMapping{
-			4: 609,
+			4:   609,
 			393: 1113,
 			404: 1113,
 			477: 1413,
@@ -34293,7 +34293,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 27,
-			4: 99,
+			4:   99,
 			393: 27,
 			404: 27,
 			477: 27,
@@ -34304,7 +34304,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4064,
-			4: 1499,
+			4:   1499,
 			393: 3560,
 			404: 3561,
 			477: 4064,
@@ -34376,7 +34376,7 @@ var newBlocks = []NewBlock {
 		"minecraft:activator_rail[powered=false,shape=north_south]",
 		nil,
 		NewMapping{
-			4: 2512,
+			4:   2512,
 			393: 5786,
 			404: 5787,
 			477: 6293,
@@ -34447,7 +34447,7 @@ var newBlocks = []NewBlock {
 			404: 5290,
 			477: 5796,
 			573: 5796,
-			4: 2258,
+			4:   2258,
 			393: 5289,
 		},
 	},
@@ -34511,7 +34511,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_glazed_terracotta[facing=north]",
 		nil,
 		NewMapping{
-			4: 3986,
+			4:   3986,
 			393: 8369,
 			404: 8370,
 			477: 8894,
@@ -34719,7 +34719,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 3115,
+			4:   3115,
 			393: 7795,
 			404: 7796,
 			477: 8320,
@@ -34854,7 +34854,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2178,
+			4:   2178,
 			393: 5075,
 			404: 5076,
 			477: 5579,
@@ -34865,7 +34865,7 @@ var newBlocks = []NewBlock {
 		"minecraft:frosted_ice[age=0]",
 		nil,
 		NewMapping{
-			4: 3392,
+			4:   3392,
 			393: 8188,
 			404: 8189,
 			477: 8713,
@@ -34914,7 +34914,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=wall,facing=south,powered=true]",
 		nil,
 		NewMapping{
-			4: 1243,
+			4:   1243,
 			393: 3401,
 			404: 3402,
 			477: 3905,
@@ -35256,7 +35256,7 @@ var newBlocks = []NewBlock {
 			404: 5128,
 			477: 5631,
 			573: 5631,
-			4: 2204,
+			4:   2204,
 			393: 5127,
 		},
 	},
@@ -35333,7 +35333,7 @@ var newBlocks = []NewBlock {
 			404: 5732,
 			477: 6238,
 			573: 6238,
-			4: 2498,
+			4:   2498,
 			393: 5731,
 		},
 	},
@@ -35341,7 +35341,7 @@ var newBlocks = []NewBlock {
 		"minecraft:flower_pot",
 		nil,
 		NewMapping{
-			4: 2248,
+			4:   2248,
 			393: 5265,
 			404: 5266,
 			477: 5769,
@@ -35354,7 +35354,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5124,
 			573: 5124,
-			4: 1872,
+			4:   1872,
 			393: 4620,
 			404: 4621,
 		},
@@ -35363,7 +35363,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=14]",
 		nil,
 		NewMapping{
-			4: 2366,
+			4:   2366,
 			393: 5617,
 			404: 5618,
 			477: 6124,
@@ -35377,7 +35377,7 @@ var newBlocks = []NewBlock {
 			404: 7999,
 			477: 8523,
 			573: 8523,
-			4: 3173,
+			4:   3173,
 			393: 7998,
 		},
 	},
@@ -35415,7 +35415,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6198,
 			573: 6198,
-			4: 2474,
+			4:   2474,
 			393: 5691,
 			404: 5692,
 		},
@@ -35512,7 +35512,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_wool",
 		nil,
 		NewMapping{
-			4: 561,
+			4:   561,
 			393: 1084,
 			404: 1084,
 			477: 1384,
@@ -35561,7 +35561,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1746,
+			4:   1746,
 			393: 4443,
 			404: 4444,
 			477: 4947,
@@ -35572,7 +35572,7 @@ var newBlocks = []NewBlock {
 		"minecraft:potatoes[age=2]",
 		nil,
 		NewMapping{
-			4: 2274,
+			4:   2274,
 			393: 5297,
 			404: 5298,
 			477: 5804,
@@ -35583,7 +35583,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cactus[age=2]",
 		nil,
 		NewMapping{
-			4: 1298,
+			4:   1298,
 			393: 3427,
 			404: 3428,
 			477: 3931,
@@ -35616,7 +35616,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3373,
 			573: 3373,
-			4: 995,
+			4:   995,
 			393: 3069,
 			404: 3070,
 		},
@@ -35655,7 +35655,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2999,
+			4:   2999,
 			393: 7482,
 			404: 7483,
 			477: 8007,
@@ -35786,7 +35786,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8814,
 			573: 8814,
-			4: 3698,
+			4:   3698,
 			393: 8289,
 			404: 8290,
 		},
@@ -35796,7 +35796,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 57,
-			4: 167,
+			4:   167,
 			393: 57,
 			404: 57,
 			477: 57,
@@ -36039,7 +36039,7 @@ var newBlocks = []NewBlock {
 		"minecraft:skeleton_wall_skull[facing=south]",
 		nil,
 		NewMapping{
-			4: 2315,
+			4:   2315,
 			393: 5448,
 			404: 5449,
 			477: 5971,
@@ -36050,7 +36050,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=false,south=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2118,
+			4:   2118,
 			393: 4818,
 			404: 4819,
 			477: 5322,
@@ -36093,7 +36093,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4764,
 			573: 4764,
-			4: 1680,
+			4:   1680,
 			393: 4260,
 			404: 4261,
 		},
@@ -36177,7 +36177,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 145,
 			573: 145,
-			4: 288,
+			4:   288,
 			393: 145,
 			404: 145,
 		},
@@ -36188,7 +36188,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5244,
 			573: 5244,
-			4: 2102,
+			4:   2102,
 			393: 4740,
 			404: 4741,
 		},
@@ -36227,7 +36227,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3680,
+			4:   3680,
 			393: 8288,
 			404: 8289,
 			477: 8813,
@@ -36292,7 +36292,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5382,
-			4: 2115,
+			4:   2115,
 			393: 4878,
 			404: 4879,
 			477: 5382,
@@ -36421,7 +36421,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8712,
-			4: 3376,
+			4:   3376,
 			393: 8187,
 			404: 8188,
 			477: 8712,
@@ -36431,7 +36431,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_concrete",
 		nil,
 		NewMapping{
-			4: 4031,
+			4:   4031,
 			393: 8392,
 			404: 8393,
 			477: 8917,
@@ -36486,7 +36486,7 @@ var newBlocks = []NewBlock {
 		"minecraft:damaged_anvil[facing=south]",
 		nil,
 		NewMapping{
-			4: 2328,
+			4:   2328,
 			393: 5576,
 			404: 5577,
 			477: 6083,
@@ -36565,7 +36565,7 @@ var newBlocks = []NewBlock {
 		"minecraft:green_concrete_powder",
 		nil,
 		NewMapping{
-			4: 4045,
+			4:   4045,
 			393: 8406,
 			404: 8407,
 			477: 8931,
@@ -36621,7 +36621,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_blue_carpet",
 		nil,
 		NewMapping{
-			4: 2739,
+			4:   2739,
 			393: 6826,
 			404: 6827,
 			477: 7333,
@@ -36676,7 +36676,7 @@ var newBlocks = []NewBlock {
 			404: 3441,
 			477: 3944,
 			573: 3944,
-			4: 1311,
+			4:   1311,
 		},
 	},
 	{
@@ -36727,7 +36727,7 @@ var newBlocks = []NewBlock {
 			404: 80,
 			477: 80,
 			573: 80,
-			4: 282,
+			4:   282,
 		},
 	},
 	{
@@ -36829,7 +36829,7 @@ var newBlocks = []NewBlock {
 			404: 3180,
 			477: 3643,
 			573: 3643,
-			4: 1056,
+			4:   1056,
 			393: 3179,
 		},
 	},
@@ -36841,7 +36841,7 @@ var newBlocks = []NewBlock {
 			404: 3549,
 			477: 4052,
 			573: 4052,
-			4: 1498,
+			4:   1498,
 		},
 	},
 	{
@@ -36897,7 +36897,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 109,
-			4: 284,
+			4:   284,
 			393: 109,
 			404: 109,
 			477: 109,
@@ -36973,7 +36973,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2928,
+			4:   2928,
 			393: 7372,
 			404: 7373,
 			477: 7897,
@@ -37010,7 +37010,7 @@ var newBlocks = []NewBlock {
 			404: 5581,
 			477: 6087,
 			573: 6087,
-			4: 2338,
+			4:   2338,
 			393: 5580,
 		},
 	},
@@ -37061,7 +37061,7 @@ var newBlocks = []NewBlock {
 			404: 7412,
 			477: 7936,
 			573: 7936,
-			4: 2953,
+			4:   2953,
 			393: 7411,
 		},
 	},
@@ -37069,7 +37069,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_shulker_box[facing=west]",
 		nil,
 		NewMapping{
-			4: 3572,
+			4:   3572,
 			393: 8244,
 			404: 8245,
 			477: 8769,
@@ -37140,14 +37140,14 @@ var newBlocks = []NewBlock {
 			404: 4266,
 			477: 4769,
 			573: 4769,
-			4: 1685,
+			4:   1685,
 		},
 	},
 	{
 		"minecraft:acacia_fence_gate[facing=west,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2993,
+			4:   2993,
 			393: 7476,
 			404: 7477,
 			477: 8001,
@@ -37276,7 +37276,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=3,facing=west,locked=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1497,
+			4:   1497,
 			393: 3556,
 			404: 3557,
 			477: 4060,
@@ -37353,7 +37353,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_glazed_terracotta[facing=north]",
 		nil,
 		NewMapping{
-			4: 3858,
+			4:   3858,
 			393: 8337,
 			404: 8338,
 			477: 8862,
@@ -37364,7 +37364,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_terracotta",
 		nil,
 		NewMapping{
-			4: 2544,
+			4:   2544,
 			393: 5804,
 			404: 5805,
 			477: 6311,
@@ -37416,7 +37416,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7937,
-			4: 2945,
+			4:   2945,
 			393: 7412,
 			404: 7413,
 			477: 7937,
@@ -37443,7 +37443,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_sandstone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2880,
+			4:   2880,
 			393: 7248,
 			404: 7249,
 			477: 7755,
@@ -37560,7 +37560,7 @@ var newBlocks = []NewBlock {
 		"minecraft:activator_rail[powered=true,shape=east_west]",
 		nil,
 		NewMapping{
-			4: 2521,
+			4:   2521,
 			393: 5781,
 			404: 5782,
 			477: 6288,
@@ -37637,7 +37637,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=5]",
 		nil,
 		NewMapping{
-			4: 2357,
+			4:   2357,
 			393: 5608,
 			404: 5609,
 			477: 6115,
@@ -37649,7 +37649,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7934,
-			4: 2957,
+			4:   2957,
 			393: 7409,
 			404: 7410,
 			477: 7934,
@@ -37743,7 +37743,7 @@ var newBlocks = []NewBlock {
 		"minecraft:skeleton_wall_skull[facing=east]",
 		nil,
 		NewMapping{
-			4: 2309,
+			4:   2309,
 			393: 5450,
 			404: 5451,
 			477: 5973,
@@ -37757,7 +37757,7 @@ var newBlocks = []NewBlock {
 			404: 3605,
 			477: 4108,
 			573: 4108,
-			4: 1540,
+			4:   1540,
 			393: 3604,
 		},
 	},
@@ -37859,7 +37859,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3791,
 			573: 3791,
-			4: 1115,
+			4:   1115,
 			393: 3287,
 			404: 3288,
 		},
@@ -37884,7 +37884,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_shulker_box[facing=south]",
 		nil,
 		NewMapping{
-			4: 3523,
+			4:   3523,
 			393: 8225,
 			404: 8226,
 			477: 8750,
@@ -37943,7 +37943,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1397,
 			573: 1397,
-			4: 574,
+			4:   574,
 			393: 1097,
 			404: 1097,
 		},
@@ -38022,7 +38022,7 @@ var newBlocks = []NewBlock {
 			404: 3510,
 			477: 4013,
 			573: 4013,
-			4: 1475,
+			4:   1475,
 		},
 	},
 	{
@@ -38030,7 +38030,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6295,
-			4: 2514,
+			4:   2514,
 			393: 5788,
 			404: 5789,
 			477: 6295,
@@ -38101,7 +38101,7 @@ var newBlocks = []NewBlock {
 			404: 5,
 			477: 5,
 			573: 5,
-			4: 20,
+			4:   20,
 			393: 5,
 		},
 	},
@@ -38204,7 +38204,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 68,
-			4: 208,
+			4:   208,
 			393: 68,
 			404: 68,
 			477: 68,
@@ -38214,7 +38214,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2502,
+			4:   2502,
 			393: 5721,
 			404: 5722,
 			477: 6228,
@@ -38227,7 +38227,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6316,
 			573: 6316,
-			4: 2549,
+			4:   2549,
 			393: 5809,
 			404: 5810,
 		},
@@ -38236,7 +38236,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1616,
+			4:   1616,
 			393: 4210,
 			404: 4211,
 			477: 4714,
@@ -38373,7 +38373,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence_gate[facing=east,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2931,
+			4:   2931,
 			393: 7388,
 			404: 7389,
 			477: 7913,
@@ -38412,7 +38412,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1145,
+			4:   1145,
 			393: 3358,
 			404: 3359,
 			477: 3862,
@@ -38686,7 +38686,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=wall,facing=west,powered=true]",
 		nil,
 		NewMapping{
-			4: 1242,
+			4:   1242,
 			393: 3403,
 			404: 3404,
 			477: 3907,
@@ -38793,7 +38793,7 @@ var newBlocks = []NewBlock {
 		"minecraft:granite",
 		nil,
 		NewMapping{
-			4: 17,
+			4:   17,
 			393: 2,
 			404: 2,
 			477: 2,
@@ -38806,7 +38806,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5140,
 			573: 5140,
-			4: 1984,
+			4:   1984,
 			393: 4636,
 			404: 4637,
 		},
@@ -39127,7 +39127,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_shulker_box[facing=up]",
 		nil,
 		NewMapping{
-			4: 3505,
+			4:   3505,
 			393: 8221,
 			404: 8222,
 			477: 8746,
@@ -39273,7 +39273,7 @@ var newBlocks = []NewBlock {
 			404: 8203,
 			477: 8727,
 			573: 8727,
-			4: 3493,
+			4:   3493,
 		},
 	},
 	{
@@ -39282,7 +39282,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6742,
 			573: 6742,
-			4: 2572,
+			4:   2572,
 			393: 6235,
 			404: 6236,
 		},
@@ -39294,7 +39294,7 @@ var newBlocks = []NewBlock {
 			404: 5572,
 			477: 6078,
 			573: 6078,
-			4: 2326,
+			4:   2326,
 			393: 5571,
 		},
 	},
@@ -39322,7 +39322,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_sandstone_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2884,
+			4:   2884,
 			393: 7238,
 			404: 7239,
 			477: 7745,
@@ -39409,7 +39409,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_wart[age=0]",
 		nil,
 		NewMapping{
-			4: 1840,
+			4:   1840,
 			393: 4608,
 			404: 4609,
 			477: 5112,
@@ -39422,7 +39422,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7910,
 			573: 7910,
-			4: 2943,
+			4:   2943,
 			393: 7385,
 			404: 7386,
 		},
@@ -39441,7 +39441,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4487,
 			573: 4487,
-			4: 1554,
+			4:   1554,
 			393: 3979,
 			404: 3980,
 		},
@@ -39509,7 +39509,7 @@ var newBlocks = []NewBlock {
 			404: 7856,
 			477: 8380,
 			573: 8380,
-			4: 3130,
+			4:   3130,
 		},
 	},
 	{
@@ -39558,14 +39558,14 @@ var newBlocks = []NewBlock {
 			404: 1089,
 			477: 1389,
 			573: 1389,
-			4: 566,
+			4:   566,
 		},
 	},
 	{
 		"minecraft:brown_stained_glass",
 		nil,
 		NewMapping{
-			4: 1532,
+			4:   1532,
 			393: 3589,
 			404: 3590,
 			477: 4093,
@@ -39724,7 +39724,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3371,
 			573: 3371,
-			4: 994,
+			4:   994,
 			393: 3067,
 			404: 3068,
 		},
@@ -39736,7 +39736,7 @@ var newBlocks = []NewBlock {
 			404: 5626,
 			477: 6132,
 			573: 6132,
-			4: 2374,
+			4:   2374,
 			393: 5625,
 		},
 	},
@@ -39745,7 +39745,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8747,
-			4: 3504,
+			4:   3504,
 			393: 8222,
 			404: 8223,
 			477: 8747,
@@ -40076,7 +40076,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1726,
-			4: 824,
+			4:   824,
 			393: 1422,
 			404: 1423,
 			477: 1726,
@@ -40146,7 +40146,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=7]",
 		nil,
 		NewMapping{
-			4: 151,
+			4:   151,
 			393: 41,
 			404: 41,
 			477: 41,
@@ -40350,7 +40350,7 @@ var newBlocks = []NewBlock {
 			404: 6300,
 			477: 6806,
 			573: 6806,
-			4: 2574,
+			4:   2574,
 			393: 6299,
 		},
 	},
@@ -40398,7 +40398,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_slab[type=top,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2029,
+			4:   2029,
 			393: 7288,
 			404: 7289,
 			477: 7795,
@@ -40427,7 +40427,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence_gate[facing=west,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2977,
+			4:   2977,
 			393: 7508,
 			404: 7509,
 			477: 8033,
@@ -40478,7 +40478,7 @@ var newBlocks = []NewBlock {
 		"minecraft:heavy_weighted_pressure_plate[power=12]",
 		nil,
 		NewMapping{
-			4: 2380,
+			4:   2380,
 			393: 5631,
 			404: 5632,
 			477: 6138,
@@ -40579,7 +40579,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=false,power=12]",
 		nil,
 		NewMapping{
-			4: 2428,
+			4:   2428,
 			393: 5679,
 			404: 5680,
 			477: 6186,
@@ -40590,7 +40590,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cocoa[age=2,facing=west]",
 		nil,
 		NewMapping{
-			4: 2041,
+			4:   2041,
 			393: 4648,
 			404: 4649,
 			477: 5152,
@@ -40603,7 +40603,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4015,
 			573: 4015,
-			4: 1477,
+			4:   1477,
 			393: 3511,
 			404: 3512,
 		},
@@ -40620,7 +40620,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire_hook[attached=false,facing=east,powered=true]",
 		nil,
 		NewMapping{
-			4: 2107,
+			4:   2107,
 			393: 4753,
 			404: 4754,
 			477: 5257,
@@ -40687,7 +40687,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=11]",
 		nil,
 		NewMapping{
-			4: 139,
+			4:   139,
 			393: 45,
 			404: 45,
 			477: 45,
@@ -40698,7 +40698,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_shulker_box[facing=up]",
 		nil,
 		NewMapping{
-			4: 3745,
+			4:   3745,
 			393: 8311,
 			404: 8312,
 			477: 8836,
@@ -40933,7 +40933,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jack_o_lantern[facing=east]",
 		nil,
 		NewMapping{
-			4: 1459,
+			4:   1459,
 			393: 3505,
 			404: 3506,
 			477: 4009,
@@ -40946,7 +40946,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8762,
 			573: 8762,
-			4: 3555,
+			4:   3555,
 			393: 8237,
 			404: 8238,
 		},
@@ -41001,7 +41001,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2180,
+			4:   2180,
 			393: 5105,
 			404: 5106,
 			477: 5609,
@@ -41015,7 +41015,7 @@ var newBlocks = []NewBlock {
 			404: 6044,
 			477: 6550,
 			573: 6550,
-			4: 2566,
+			4:   2566,
 			393: 6043,
 		},
 	},
@@ -41184,7 +41184,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_stained_glass",
 		nil,
 		NewMapping{
-			4: 1527,
+			4:   1527,
 			393: 3584,
 			404: 3585,
 			477: 4088,
@@ -41195,7 +41195,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_sandstone_slab[type=top,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2920,
+			4:   2920,
 			393: 7342,
 			404: 7343,
 			477: 7861,
@@ -41300,7 +41300,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_glazed_terracotta[facing=south]",
 		nil,
 		NewMapping{
-			4: 4000,
+			4:   4000,
 			393: 8374,
 			404: 8375,
 			477: 8899,
@@ -41383,7 +41383,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5469,
 			573: 5469,
-			4: 2167,
+			4:   2167,
 			393: 4965,
 			404: 4966,
 		},
@@ -41394,7 +41394,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 173,
 			573: 173,
-			4: 290,
+			4:   290,
 			393: 173,
 			404: 173,
 		},
@@ -41489,7 +41489,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_portal[axis=z]",
 		nil,
 		NewMapping{
-			4: 1442,
+			4:   1442,
 			393: 3497,
 			404: 3498,
 			477: 4001,
@@ -41520,7 +41520,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=wall,facing=east,powered=true]",
 		nil,
 		NewMapping{
-			4: 1241,
+			4:   1241,
 			393: 3405,
 			404: 3406,
 			477: 3909,
@@ -41535,7 +41535,7 @@ var newBlocks = []NewBlock {
 			404: 3072,
 			477: 3375,
 			573: 3375,
-			4: 996,
+			4:   996,
 		},
 	},
 	{
@@ -41544,7 +41544,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8826,
 			573: 8826,
-			4: 3730,
+			4:   3730,
 			393: 8301,
 			404: 8302,
 		},
@@ -41635,7 +41635,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4746,
 			573: 4746,
-			4: 1632,
+			4:   1632,
 			393: 4242,
 			404: 4243,
 		},
@@ -41750,7 +41750,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire_hook[attached=true,facing=east,powered=true]",
 		nil,
 		NewMapping{
-			4: 2111,
+			4:   2111,
 			393: 4745,
 			404: 4746,
 			477: 5249,
@@ -41762,7 +41762,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1431,
-			4: 752,
+			4:   752,
 			393: 1127,
 			404: 1128,
 			477: 1431,
@@ -41896,7 +41896,7 @@ var newBlocks = []NewBlock {
 			404: 3532,
 			477: 4035,
 			573: 4035,
-			4: 1510,
+			4:   1510,
 		},
 	},
 	{
@@ -41959,7 +41959,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cyan_shulker_box[facing=up]",
 		nil,
 		NewMapping{
-			4: 3649,
+			4:   3649,
 			393: 8275,
 			404: 8276,
 			477: 8800,
@@ -42124,7 +42124,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7368,
-			4: 2823,
+			4:   2823,
 			393: 6861,
 			404: 6862,
 			477: 7368,
@@ -42210,7 +42210,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_fence_gate[facing=north,in_wall=false,open=true,powered=true]",
 		nil,
 		NewMapping{
-			4: 3006,
+			4:   3006,
 			393: 7457,
 			404: 7458,
 			477: 7982,
@@ -42224,7 +42224,7 @@ var newBlocks = []NewBlock {
 			404: 4886,
 			477: 5389,
 			573: 5389,
-			4: 2151,
+			4:   2151,
 			393: 4885,
 		},
 	},
@@ -42350,7 +42350,7 @@ var newBlocks = []NewBlock {
 		"minecraft:infested_cracked_stone_bricks",
 		nil,
 		NewMapping{
-			4: 1556,
+			4:   1556,
 			393: 3981,
 			404: 3982,
 			477: 4489,
@@ -42430,7 +42430,7 @@ var newBlocks = []NewBlock {
 			404: 8298,
 			477: 8822,
 			573: 8822,
-			4: 3715,
+			4:   3715,
 			393: 8297,
 		},
 	},
@@ -42442,7 +42442,7 @@ var newBlocks = []NewBlock {
 			404: 8403,
 			477: 8927,
 			573: 8927,
-			4: 4041,
+			4:   4041,
 		},
 	},
 	{
@@ -42575,7 +42575,7 @@ var newBlocks = []NewBlock {
 		"minecraft:activator_rail[powered=true,shape=ascending_west]",
 		nil,
 		NewMapping{
-			4: 2523,
+			4:   2523,
 			393: 5783,
 			404: 5784,
 			477: 6290,
@@ -42699,7 +42699,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6196,
-			4: 2469,
+			4:   2469,
 			393: 5689,
 			404: 5690,
 			477: 6196,
@@ -42709,7 +42709,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3096,
+			4:   3096,
 			393: 7728,
 			404: 7729,
 			477: 8253,
@@ -42757,7 +42757,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 66,
-			4: 192,
+			4:   192,
 			393: 66,
 			404: 66,
 			477: 66,
@@ -42805,7 +42805,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=4,facing=east,locked=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1519,
+			4:   1519,
 			393: 3575,
 			404: 3576,
 			477: 4079,
@@ -42816,7 +42816,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3122,
+			4:   3122,
 			393: 7852,
 			404: 7853,
 			477: 8377,
@@ -42873,7 +42873,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=south,in_wall=false,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 2968,
+			4:   2968,
 			393: 7435,
 			404: 7436,
 			477: 7960,
@@ -42884,7 +42884,7 @@ var newBlocks = []NewBlock {
 		"minecraft:green_wool",
 		nil,
 		NewMapping{
-			4: 573,
+			4:   573,
 			393: 1096,
 			404: 1096,
 			477: 1396,
@@ -42925,7 +42925,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wall_torch[facing=south,lit=true]",
 		nil,
 		NewMapping{
-			4: 1219,
+			4:   1219,
 			393: 3385,
 			404: 3386,
 			477: 3889,
@@ -42936,7 +42936,7 @@ var newBlocks = []NewBlock {
 		"minecraft:polished_granite",
 		nil,
 		NewMapping{
-			4: 18,
+			4:   18,
 			393: 3,
 			404: 3,
 			477: 3,
@@ -43083,14 +43083,14 @@ var newBlocks = []NewBlock {
 			404: 8077,
 			477: 8601,
 			573: 8601,
-			4: 3240,
+			4:   3240,
 		},
 	},
 	{
 		"minecraft:tnt",
 		nil,
 		NewMapping{
-			4: 737,
+			4:   737,
 			393: 1126,
 		},
 	},
@@ -43098,7 +43098,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=4,facing=west,locked=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1501,
+			4:   1501,
 			393: 3572,
 			404: 3573,
 			477: 4076,
@@ -43225,7 +43225,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1734,
+			4:   1734,
 			393: 4353,
 			404: 4354,
 			477: 4857,
@@ -43305,7 +43305,7 @@ var newBlocks = []NewBlock {
 			404: 6870,
 			477: 7376,
 			573: 7376,
-			4: 2831,
+			4:   2831,
 			393: 6869,
 		},
 	},
@@ -43315,7 +43315,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7787,
 			573: 7787,
-			4: 2003,
+			4:   2003,
 			393: 7280,
 			404: 7281,
 		},
@@ -43385,7 +43385,7 @@ var newBlocks = []NewBlock {
 			404: 5294,
 			477: 5800,
 			573: 5800,
-			4: 2262,
+			4:   2262,
 			393: 5293,
 		},
 	},
@@ -43435,7 +43435,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6208,
 			573: 6208,
-			4: 2503,
+			4:   2503,
 			393: 5701,
 			404: 5702,
 		},
@@ -43508,7 +43508,7 @@ var newBlocks = []NewBlock {
 		"minecraft:moving_piston[facing=south,type=sticky]",
 		nil,
 		NewMapping{
-			4: 587,
+			4:   587,
 			393: 1104,
 			404: 1104,
 			477: 1404,
@@ -43523,7 +43523,7 @@ var newBlocks = []NewBlock {
 			404: 3074,
 			477: 3377,
 			573: 3377,
-			4: 997,
+			4:   997,
 		},
 	},
 	{
@@ -43578,7 +43578,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8653,
 			573: 8653,
-			4: 3249,
+			4:   3249,
 			393: 8128,
 			404: 8129,
 		},
@@ -43627,7 +43627,7 @@ var newBlocks = []NewBlock {
 		"minecraft:moving_piston[facing=west,type=normal]",
 		nil,
 		NewMapping{
-			4: 580,
+			4:   580,
 			393: 1105,
 			404: 1105,
 			477: 1405,
@@ -43669,7 +43669,7 @@ var newBlocks = []NewBlock {
 			404: 8356,
 			477: 8880,
 			573: 8880,
-			4: 3921,
+			4:   3921,
 			393: 8355,
 		},
 	},
@@ -43734,7 +43734,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3128,
+			4:   3128,
 			393: 7856,
 			404: 7857,
 			477: 8381,
@@ -43823,7 +43823,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone",
 		nil,
 		NewMapping{
-			4: 16,
+			4:   16,
 			393: 1,
 			404: 1,
 			477: 1,
@@ -43893,7 +43893,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1406,
-			4: 588,
+			4:   588,
 			393: 1106,
 			404: 1106,
 			477: 1406,
@@ -43903,7 +43903,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=north,in_wall=false,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 2970,
+			4:   2970,
 			393: 7427,
 			404: 7428,
 			477: 7952,
@@ -43914,7 +43914,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_fence_gate[facing=south,in_wall=false,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 2952,
+			4:   2952,
 			393: 7403,
 			404: 7404,
 			477: 7928,
@@ -44019,7 +44019,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8801,
 			573: 8801,
-			4: 3648,
+			4:   3648,
 			393: 8276,
 			404: 8277,
 		},
@@ -44064,7 +44064,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_shulker_box[facing=up]",
 		nil,
 		NewMapping{
-			4: 3617,
+			4:   3617,
 			393: 8263,
 			404: 8264,
 			477: 8788,
@@ -44146,7 +44146,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7999,
-			4: 2997,
+			4:   2997,
 			393: 7474,
 			404: 7475,
 			477: 7999,
@@ -44156,7 +44156,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_blue_glazed_terracotta[facing=east]",
 		nil,
 		NewMapping{
-			4: 3811,
+			4:   3811,
 			393: 8328,
 			404: 8329,
 			477: 8853,
@@ -44170,7 +44170,7 @@ var newBlocks = []NewBlock {
 			404: 4291,
 			477: 4794,
 			573: 4794,
-			4: 1702,
+			4:   1702,
 			393: 4290,
 		},
 	},
@@ -44236,7 +44236,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jack_o_lantern[facing=south]",
 		nil,
 		NewMapping{
-			4: 1456,
+			4:   1456,
 			393: 3503,
 			404: 3504,
 			477: 4007,
@@ -44248,7 +44248,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1953,
-			4: 855,
+			4:   855,
 			393: 1649,
 			404: 1650,
 			477: 1953,
@@ -44358,7 +44358,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3794,
 			573: 3794,
-			4: 1106,
+			4:   1106,
 			393: 3290,
 			404: 3291,
 		},
@@ -44367,7 +44367,7 @@ var newBlocks = []NewBlock {
 		"minecraft:command_block[conditional=true,facing=down]",
 		nil,
 		NewMapping{
-			4: 2200,
+			4:   2200,
 			393: 5129,
 			404: 5130,
 			477: 5633,
@@ -44412,7 +44412,7 @@ var newBlocks = []NewBlock {
 			404: 7175,
 			477: 7681,
 			573: 7681,
-			4: 2864,
+			4:   2864,
 		},
 	},
 	{
@@ -44485,7 +44485,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=12]",
 		nil,
 		NewMapping{
-			4: 156,
+			4:   156,
 			393: 46,
 			404: 46,
 			477: 46,
@@ -44498,7 +44498,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3600,
 			573: 3600,
-			4: 1029,
+			4:   1029,
 			393: 3136,
 			404: 3137,
 		},
@@ -44573,7 +44573,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=13]",
 		nil,
 		NewMapping{
-			4: 141,
+			4:   141,
 			393: 47,
 			404: 47,
 			477: 47,
@@ -44678,7 +44678,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 3008,
+			4:   3008,
 			393: 7548,
 			404: 7549,
 			477: 8073,
@@ -44737,7 +44737,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 850,
+			4:   850,
 			393: 1679,
 			404: 1680,
 			477: 1983,
@@ -45039,7 +45039,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3088,
+			4:   3088,
 			393: 7740,
 			404: 7741,
 			477: 8265,
@@ -45136,7 +45136,7 @@ var newBlocks = []NewBlock {
 		"minecraft:farmland[moisture=3]",
 		nil,
 		NewMapping{
-			4: 963,
+			4:   963,
 			393: 3062,
 			404: 3063,
 			477: 3366,
@@ -45147,7 +45147,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_carpet",
 		nil,
 		NewMapping{
-			4: 2740,
+			4:   2740,
 			393: 6827,
 			404: 6828,
 			477: 7334,
@@ -45331,7 +45331,7 @@ var newBlocks = []NewBlock {
 			404: 3588,
 			477: 4091,
 			573: 4091,
-			4: 1530,
+			4:   1530,
 			393: 3587,
 		},
 	},
@@ -45339,7 +45339,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wall_torch[facing=west,lit=true]",
 		nil,
 		NewMapping{
-			4: 1218,
+			4:   1218,
 			393: 3387,
 			404: 3388,
 			477: 3891,
@@ -45430,7 +45430,7 @@ var newBlocks = []NewBlock {
 			404: 5293,
 			477: 5799,
 			573: 5799,
-			4: 2261,
+			4:   2261,
 		},
 	},
 	{
@@ -45438,7 +45438,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8729,
-			4: 3491,
+			4:   3491,
 			393: 8204,
 			404: 8205,
 			477: 8729,
@@ -45554,14 +45554,14 @@ var newBlocks = []NewBlock {
 			404: 8402,
 			477: 8926,
 			573: 8926,
-			4: 4040,
+			4:   4040,
 		},
 	},
 	{
 		"minecraft:acacia_slab[type=top,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2028,
+			4:   2028,
 			393: 7282,
 			404: 7283,
 			477: 7789,
@@ -45628,7 +45628,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3682,
+			4:   3682,
 			393: 8283,
 			404: 8284,
 			477: 8808,
@@ -45890,7 +45890,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_slab[type=bottom,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2020,
+			4:   2020,
 			393: 7284,
 			404: 7285,
 			477: 7791,
@@ -45941,7 +45941,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 3163,
+			4:   3163,
 			393: 7987,
 			404: 7988,
 			477: 8512,
@@ -46054,7 +46054,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5132,
 			573: 5132,
-			4: 1925,
+			4:   1925,
 			393: 4628,
 			404: 4629,
 		},
@@ -46067,7 +46067,7 @@ var newBlocks = []NewBlock {
 			404: 5574,
 			477: 6080,
 			573: 6080,
-			4: 2325,
+			4:   2325,
 		},
 	},
 	{
@@ -46103,7 +46103,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3798,
-			4: 1111,
+			4:   1111,
 			393: 3294,
 			404: 3295,
 			477: 3798,
@@ -46113,7 +46113,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_mushroom_block[down=false,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1613,
+			4:   1613,
 			393: 4114,
 			404: 4115,
 			477: 4618,
@@ -46124,7 +46124,7 @@ var newBlocks = []NewBlock {
 		"minecraft:structure_block[mode=corner]",
 		nil,
 		NewMapping{
-			4: 4082,
+			4:   4082,
 			393: 8580,
 			404: 8597,
 			477: 11254,
@@ -46175,7 +46175,7 @@ var newBlocks = []NewBlock {
 			404: 1038,
 			477: 1338,
 			573: 1338,
-			4: 465,
+			4:   465,
 		},
 	},
 	{
@@ -46225,7 +46225,7 @@ var newBlocks = []NewBlock {
 			404: 1098,
 			477: 1398,
 			573: 1398,
-			4: 575,
+			4:   575,
 			393: 1098,
 		},
 	},
@@ -46271,7 +46271,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4014,
 			573: 4014,
-			4: 1476,
+			4:   1476,
 			393: 3510,
 			404: 3511,
 		},
@@ -46434,7 +46434,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5238,
 			573: 5238,
-			4: 2083,
+			4:   2083,
 			393: 4734,
 			404: 4735,
 		},
@@ -46443,7 +46443,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2561,
+			4:   2561,
 			393: 5883,
 			404: 5884,
 			477: 6390,
@@ -46474,7 +46474,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 203,
 			573: 203,
-			4: 2584,
+			4:   2584,
 			393: 203,
 			404: 203,
 		},
@@ -46643,7 +46643,7 @@ var newBlocks = []NewBlock {
 		"minecraft:end_portal",
 		nil,
 		NewMapping{
-			4: 1904,
+			4:   1904,
 			393: 4625,
 			404: 4626,
 			477: 5129,
@@ -46770,7 +46770,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_fence_gate[facing=east,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2995,
+			4:   2995,
 			393: 7484,
 			404: 7485,
 			477: 8009,
@@ -46781,7 +46781,7 @@ var newBlocks = []NewBlock {
 		"minecraft:detector_rail[powered=true,shape=ascending_west]",
 		nil,
 		NewMapping{
-			4: 459,
+			4:   459,
 			393: 1019,
 			404: 1019,
 			477: 1319,
@@ -46869,7 +46869,7 @@ var newBlocks = []NewBlock {
 			404: 6518,
 			477: 7024,
 			573: 7024,
-			4: 2681,
+			4:   2681,
 			393: 6517,
 		},
 	},
@@ -47017,7 +47017,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=north,mode=subtract,powered=false]",
 		nil,
 		NewMapping{
-			4: 2406,
+			4:   2406,
 			393: 5638,
 			404: 5639,
 			477: 6145,
@@ -47116,7 +47116,7 @@ var newBlocks = []NewBlock {
 		"minecraft:vine[east=false,north=false,south=true,up=false,west=true]",
 		nil,
 		NewMapping{
-			4: 1699,
+			4:   1699,
 			393: 4294,
 			404: 4295,
 			477: 4798,
@@ -47127,7 +47127,7 @@ var newBlocks = []NewBlock {
 		"minecraft:peony[half=lower]",
 		nil,
 		NewMapping{
-			4: 2805,
+			4:   2805,
 			393: 6849,
 			404: 6850,
 			477: 7356,
@@ -47192,7 +47192,7 @@ var newBlocks = []NewBlock {
 		"minecraft:rail[shape=ascending_west]",
 		nil,
 		NewMapping{
-			4: 1059,
+			4:   1059,
 			393: 3182,
 			404: 3183,
 			477: 3646,
@@ -47232,7 +47232,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1434,
-			4: 805,
+			4:   805,
 			393: 1130,
 			404: 1131,
 			477: 1434,
@@ -47272,7 +47272,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7779,
 			573: 7779,
-			4: 2018,
+			4:   2018,
 			393: 7272,
 			404: 7273,
 		},
@@ -47281,7 +47281,7 @@ var newBlocks = []NewBlock {
 		"minecraft:podzol[snowy=false]",
 		nil,
 		NewMapping{
-			4: 50,
+			4:   50,
 			393: 13,
 			404: 13,
 			477: 13,
@@ -47418,7 +47418,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 28,
 			573: 28,
-			4: 107,
+			4:   107,
 			393: 28,
 			404: 28,
 		},
@@ -47427,7 +47427,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_glazed_terracotta[facing=north]",
 		nil,
 		NewMapping{
-			4: 3778,
+			4:   3778,
 			393: 8317,
 			404: 8318,
 			477: 8842,
@@ -47440,7 +47440,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1382,
 			573: 1382,
-			4: 552,
+			4:   552,
 			393: 1082,
 			404: 1082,
 		},
@@ -47450,7 +47450,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 232,
-			4: 352,
+			4:   352,
 			393: 232,
 			404: 232,
 			477: 232,
@@ -47538,7 +47538,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3142,
+			4:   3142,
 			393: 7914,
 			404: 7915,
 			477: 8439,
@@ -47599,7 +47599,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wire[east=none,north=none,power=2,south=none,west=none]",
 		nil,
 		NewMapping{
-			4: 882,
+			4:   882,
 			393: 2930,
 			404: 2931,
 			477: 3234,
@@ -47652,7 +47652,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5409,
 			573: 5409,
-			4: 2150,
+			4:   2150,
 			393: 4905,
 			404: 4906,
 		},
@@ -47787,7 +47787,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3728,
+			4:   3728,
 			393: 8306,
 			404: 8307,
 			477: 8831,
@@ -47904,7 +47904,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=11,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1019,
+			4:   1019,
 			393: 3098,
 		},
 	},
@@ -47954,7 +47954,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7880,
 			573: 7880,
-			4: 703,
+			4:   703,
 			393: 7355,
 			404: 7356,
 		},
@@ -47980,7 +47980,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 55,
-			4: 165,
+			4:   165,
 			393: 55,
 			404: 55,
 			477: 55,
@@ -48049,7 +48049,7 @@ var newBlocks = []NewBlock {
 			404: 7179,
 			477: 7685,
 			573: 7685,
-			4: 2887,
+			4:   2887,
 			393: 7178,
 		},
 	},
@@ -48118,7 +48118,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1323,
-			4: 449,
+			4:   449,
 			393: 1023,
 			404: 1023,
 			477: 1323,
@@ -48212,7 +48212,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 1142,
+			4:   1142,
 			393: 3348,
 			404: 3349,
 			477: 3852,
@@ -48287,7 +48287,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cyan_glazed_terracotta[facing=east]",
 		nil,
 		NewMapping{
-			4: 3907,
+			4:   3907,
 			393: 8352,
 			404: 8353,
 			477: 8877,
@@ -48302,7 +48302,7 @@ var newBlocks = []NewBlock {
 			404: 7381,
 			477: 7905,
 			573: 7905,
-			4: 2929,
+			4:   2929,
 		},
 	},
 	{
@@ -48395,7 +48395,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston_head[facing=down,short=false,type=normal]",
 		nil,
 		NewMapping{
-			4: 544,
+			4:   544,
 			393: 1081,
 			404: 1081,
 			477: 1381,
@@ -48634,7 +48634,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6162,
-			4: 2852,
+			4:   2852,
 			393: 5655,
 			404: 5656,
 			477: 6162,
@@ -48727,7 +48727,7 @@ var newBlocks = []NewBlock {
 		"minecraft:rail[shape=north_west]",
 		nil,
 		NewMapping{
-			4: 1064,
+			4:   1064,
 			393: 3187,
 			404: 3188,
 			477: 3651,
@@ -48768,7 +48768,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7004,
 			573: 7004,
-			4: 2684,
+			4:   2684,
 			393: 6497,
 			404: 6498,
 		},
@@ -48862,7 +48862,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_bed[facing=east,occupied=false,part=head]",
 		nil,
 		NewMapping{
-			4: 427,
+			4:   427,
 			393: 986,
 			404: 986,
 			477: 1286,
@@ -48927,7 +48927,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3600,
+			4:   3600,
 			393: 8258,
 			404: 8259,
 			477: 8783,
@@ -48938,7 +48938,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cocoa[age=0,facing=east]",
 		nil,
 		NewMapping{
-			4: 2035,
+			4:   2035,
 			393: 4641,
 			404: 4642,
 			477: 5145,
@@ -48979,7 +48979,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=west,mode=subtract,powered=false]",
 		nil,
 		NewMapping{
-			4: 2389,
+			4:   2389,
 			393: 5646,
 			404: 5647,
 			477: 6153,
@@ -49129,7 +49129,7 @@ var newBlocks = []NewBlock {
 			404: 3417,
 			477: 3920,
 			573: 3920,
-			4: 1249,
+			4:   1249,
 			393: 3416,
 		},
 	},
@@ -49233,7 +49233,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=true,power=7]",
 		nil,
 		NewMapping{
-			4: 2855,
+			4:   2855,
 			393: 5658,
 			404: 5659,
 			477: 6165,
@@ -49345,7 +49345,7 @@ var newBlocks = []NewBlock {
 			404: 7277,
 			477: 7783,
 			573: 7783,
-			4: 2027,
+			4:   2027,
 		},
 	},
 	{
@@ -49404,7 +49404,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_wall_banner[facing=north]",
 		nil,
 		NewMapping{
-			4: 2834,
+			4:   2834,
 			393: 7110,
 			404: 7111,
 			477: 7617,
@@ -49415,7 +49415,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_glazed_terracotta[facing=east]",
 		nil,
 		NewMapping{
-			4: 3939,
+			4:   3939,
 			393: 8360,
 			404: 8361,
 			477: 8885,
@@ -49454,7 +49454,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chain_command_block[conditional=true,facing=north]",
 		nil,
 		NewMapping{
-			4: 3386,
+			4:   3386,
 			393: 8176,
 			404: 8177,
 			477: 8701,
@@ -49759,7 +49759,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2497,
+			4:   2497,
 			393: 5751,
 			404: 5752,
 			477: 6258,
@@ -49772,7 +49772,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5150,
 			573: 5150,
-			4: 2042,
+			4:   2042,
 			393: 4646,
 			404: 4647,
 		},
@@ -49781,7 +49781,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=true,power=10]",
 		nil,
 		NewMapping{
-			4: 2858,
+			4:   2858,
 			393: 5661,
 			404: 5662,
 			477: 6168,
@@ -49792,7 +49792,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=false,has_bottle_2=false]",
 		nil,
 		NewMapping{
-			4: 1873,
+			4:   1873,
 			393: 4616,
 			404: 4617,
 			477: 5120,
@@ -49910,7 +49910,7 @@ var newBlocks = []NewBlock {
 		"minecraft:end_rod[facing=north]",
 		nil,
 		NewMapping{
-			4: 3170,
+			4:   3170,
 			393: 7997,
 			404: 7998,
 			477: 8522,
@@ -49921,7 +49921,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_planks",
 		nil,
 		NewMapping{
-			4: 84,
+			4:   84,
 			393: 19,
 			404: 19,
 			477: 19,
@@ -50076,7 +50076,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_blue_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2563,
+			4:   2563,
 			393: 5947,
 			404: 5948,
 			477: 6454,
@@ -50087,7 +50087,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_log[axis=y]",
 		nil,
 		NewMapping{
-			4: 2593,
+			4:   2593,
 			393: 88,
 			404: 88,
 			477: 88,
@@ -50098,7 +50098,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 1141,
+			4:   1141,
 			393: 3332,
 			404: 3333,
 			477: 3836,
@@ -50194,7 +50194,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3796,
-			4: 1105,
+			4:   1105,
 			393: 3292,
 			404: 3293,
 			477: 3796,
@@ -50262,7 +50262,7 @@ var newBlocks = []NewBlock {
 		"minecraft:mossy_cobblestone_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2225,
+			4:   2225,
 			393: 5260,
 			404: 5261,
 			477: 5764,
@@ -50277,7 +50277,7 @@ var newBlocks = []NewBlock {
 			404: 5811,
 			477: 6317,
 			573: 6317,
-			4: 2550,
+			4:   2550,
 		},
 	},
 	{
@@ -50390,7 +50390,7 @@ var newBlocks = []NewBlock {
 		"minecraft:carved_pumpkin[facing=north]",
 		nil,
 		NewMapping{
-			4: 1378,
+			4:   1378,
 			393: 3498,
 			404: 3499,
 			477: 4002,
@@ -50403,7 +50403,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1327,
 			573: 1327,
-			4: 453,
+			4:   453,
 			393: 1027,
 			404: 1027,
 		},
@@ -50414,7 +50414,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5818,
 			573: 5818,
-			4: 2300,
+			4:   2300,
 			393: 5311,
 			404: 5312,
 		},
@@ -50443,7 +50443,7 @@ var newBlocks = []NewBlock {
 		"minecraft:moving_piston[facing=up,type=normal]",
 		nil,
 		NewMapping{
-			4: 577,
+			4:   577,
 			393: 1107,
 			404: 1107,
 			477: 1407,
@@ -50454,7 +50454,7 @@ var newBlocks = []NewBlock {
 		"minecraft:wheat[age=6]",
 		nil,
 		NewMapping{
-			4: 950,
+			4:   950,
 			393: 3057,
 			404: 3058,
 			477: 3361,
@@ -50517,7 +50517,7 @@ var newBlocks = []NewBlock {
 		"minecraft:smooth_sandstone",
 		nil,
 		NewMapping{
-			4: 697,
+			4:   697,
 			393: 7354,
 			404: 7355,
 			477: 7879,
@@ -50531,7 +50531,7 @@ var newBlocks = []NewBlock {
 			404: 8099,
 			477: 8623,
 			573: 8623,
-			4: 3254,
+			4:   3254,
 			393: 8098,
 		},
 	},
@@ -50600,7 +50600,7 @@ var newBlocks = []NewBlock {
 			404: 7482,
 			477: 8006,
 			573: 8006,
-			4: 3007,
+			4:   3007,
 			393: 7481,
 		},
 	},
@@ -50676,7 +50676,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_glazed_terracotta[facing=south]",
 		nil,
 		NewMapping{
-			4: 3824,
+			4:   3824,
 			393: 8330,
 			404: 8331,
 			477: 8855,
@@ -50747,7 +50747,7 @@ var newBlocks = []NewBlock {
 			404: 7303,
 			477: 7815,
 			573: 7815,
-			4: 705,
+			4:   705,
 		},
 	},
 	{
@@ -50757,7 +50757,7 @@ var newBlocks = []NewBlock {
 			404: 1615,
 			477: 1918,
 			573: 1918,
-			4: 830,
+			4:   830,
 			393: 1614,
 		},
 	},
@@ -50813,7 +50813,7 @@ var newBlocks = []NewBlock {
 			404: 3455,
 			477: 3958,
 			573: 3958,
-			4: 1340,
+			4:   1340,
 		},
 	},
 	{
@@ -51009,7 +51009,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dead_bush",
 		nil,
 		NewMapping{
-			4: 496,
+			4:   496,
 			393: 1043,
 			404: 1043,
 			477: 1343,
@@ -51040,7 +51040,7 @@ var newBlocks = []NewBlock {
 		"minecraft:green_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3712,
+			4:   3712,
 			393: 8300,
 			404: 8301,
 			477: 8825,
@@ -51054,7 +51054,7 @@ var newBlocks = []NewBlock {
 			404: 161,
 			477: 161,
 			573: 161,
-			4: 297,
+			4:   297,
 			393: 161,
 		},
 	},
@@ -51132,7 +51132,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3093,
+			4:   3093,
 			393: 7706,
 			404: 7707,
 			477: 8231,
@@ -51291,7 +51291,7 @@ var newBlocks = []NewBlock {
 			404: 4307,
 			477: 4810,
 			573: 4810,
-			4: 1722,
+			4:   1722,
 		},
 	},
 	{
@@ -51340,7 +51340,7 @@ var newBlocks = []NewBlock {
 			404: 8598,
 			477: 11255,
 			573: 11271,
-			4: 4083,
+			4:   4083,
 		},
 	},
 	{
@@ -51357,7 +51357,7 @@ var newBlocks = []NewBlock {
 		"minecraft:structure_block[mode=load]",
 		nil,
 		NewMapping{
-			4: 4081,
+			4:   4081,
 			393: 8579,
 			404: 8596,
 			477: 11253,
@@ -51368,7 +51368,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magenta_glazed_terracotta[facing=east]",
 		nil,
 		NewMapping{
-			4: 3795,
+			4:   3795,
 			393: 8324,
 			404: 8325,
 			477: 8849,
@@ -51425,7 +51425,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2935,
+			4:   2935,
 			393: 7386,
 			404: 7387,
 			477: 7911,
@@ -51516,7 +51516,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1401,
 			573: 1401,
-			4: 581,
+			4:   581,
 			393: 1101,
 			404: 1101,
 		},
@@ -51575,7 +51575,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3225,
 			573: 3225,
-			4: 881,
+			4:   881,
 			393: 2921,
 			404: 2922,
 		},
@@ -51720,7 +51720,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=wall,facing=north,powered=false]",
 		nil,
 		NewMapping{
-			4: 1236,
+			4:   1236,
 			393: 3400,
 			404: 3401,
 			477: 3904,
@@ -51731,7 +51731,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 1028,
+			4:   1028,
 			393: 3168,
 			404: 3169,
 			477: 3632,
@@ -51794,7 +51794,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_leaves[distance=1,persistent=true]",
 		nil,
 		NewMapping{
-			4: 293,
+			4:   293,
 			393: 158,
 			404: 158,
 			477: 158,
@@ -51807,7 +51807,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6313,
 			573: 6313,
-			4: 2546,
+			4:   2546,
 			393: 5806,
 			404: 5807,
 		},
@@ -51869,7 +51869,7 @@ var newBlocks = []NewBlock {
 		"minecraft:fire[age=5,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 821,
+			4:   821,
 			393: 1326,
 			404: 1327,
 			477: 1630,
@@ -52055,7 +52055,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=south,mode=compare,powered=true]",
 		nil,
 		NewMapping{
-			4: 2392,
+			4:   2392,
 			393: 5639,
 			404: 5640,
 			477: 6146,
@@ -52066,7 +52066,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_sapling[stage=0]",
 		nil,
 		NewMapping{
-			4: 97,
+			4:   97,
 			393: 23,
 			404: 23,
 			477: 23,
@@ -52077,7 +52077,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1550,
+			4:   1550,
 			393: 3628,
 			404: 3629,
 			477: 4132,
@@ -52108,7 +52108,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3112,
+			4:   3112,
 			393: 7792,
 			404: 7793,
 			477: 8317,
@@ -52226,7 +52226,7 @@ var newBlocks = []NewBlock {
 			404: 4384,
 			477: 4887,
 			573: 4887,
-			4: 1729,
+			4:   1729,
 			393: 4383,
 		},
 	},
@@ -52237,7 +52237,7 @@ var newBlocks = []NewBlock {
 			404: 7516,
 			477: 8040,
 			573: 8040,
-			4: 2987,
+			4:   2987,
 			393: 7515,
 		},
 	},
@@ -52307,7 +52307,7 @@ var newBlocks = []NewBlock {
 			404: 78,
 			477: 78,
 			573: 78,
-			4: 278,
+			4:   278,
 		},
 	},
 	{
@@ -52362,7 +52362,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=1,facing=east,locked=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1491,
+			4:   1491,
 			393: 3528,
 			404: 3529,
 			477: 4032,
@@ -52399,7 +52399,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jack_o_lantern[facing=north]",
 		nil,
 		NewMapping{
-			4: 1458,
+			4:   1458,
 			393: 3502,
 			404: 3503,
 			477: 4006,
@@ -52732,7 +52732,7 @@ var newBlocks = []NewBlock {
 		"minecraft:heavy_weighted_pressure_plate[power=5]",
 		nil,
 		NewMapping{
-			4: 2373,
+			4:   2373,
 			393: 5624,
 			404: 5625,
 			477: 6131,
@@ -52746,7 +52746,7 @@ var newBlocks = []NewBlock {
 			404: 5197,
 			477: 5700,
 			573: 5700,
-			4: 2224,
+			4:   2224,
 			393: 5196,
 		},
 	},
@@ -52795,7 +52795,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8878,
-			4: 3922,
+			4:   3922,
 			393: 8353,
 			404: 8354,
 			477: 8878,
@@ -52809,7 +52809,7 @@ var newBlocks = []NewBlock {
 			404: 8181,
 			477: 8705,
 			573: 8705,
-			4: 3385,
+			4:   3385,
 		},
 	},
 	{
@@ -52817,7 +52817,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1324,
-			4: 450,
+			4:   450,
 			393: 1024,
 			404: 1024,
 			477: 1324,
@@ -52859,7 +52859,7 @@ var newBlocks = []NewBlock {
 			404: 7506,
 			477: 8030,
 			573: 8030,
-			4: 2989,
+			4:   2989,
 			393: 7505,
 		},
 	},
@@ -52979,7 +52979,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8819,
-			4: 3696,
+			4:   3696,
 			393: 8294,
 			404: 8295,
 			477: 8819,
@@ -52990,7 +52990,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4816,
-			4: 1724,
+			4:   1724,
 			393: 4312,
 			404: 4313,
 			477: 4816,
@@ -53078,7 +53078,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2162,
+			4:   2162,
 			393: 4995,
 			404: 4996,
 			477: 5499,
@@ -53091,7 +53091,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7363,
 			573: 7363,
-			4: 2818,
+			4:   2818,
 			393: 6856,
 			404: 6857,
 		},
@@ -53102,7 +53102,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7953,
 			573: 7953,
-			4: 2962,
+			4:   2962,
 			393: 7428,
 			404: 7429,
 		},
@@ -53172,7 +53172,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6203,
-			4: 2481,
+			4:   2481,
 			393: 5696,
 			404: 5697,
 			477: 6203,
@@ -53292,7 +53292,7 @@ var newBlocks = []NewBlock {
 			404: 4755,
 			477: 5258,
 			573: 5258,
-			4: 2099,
+			4:   2099,
 		},
 	},
 	{
@@ -53409,7 +53409,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=true,has_bottle_2=false]",
 		nil,
 		NewMapping{
-			4: 1875,
+			4:   1875,
 			393: 4614,
 			404: 4615,
 			477: 5118,
@@ -53564,7 +53564,7 @@ var newBlocks = []NewBlock {
 			404: 7917,
 			477: 8441,
 			573: 8441,
-			4: 3138,
+			4:   3138,
 			393: 7916,
 		},
 	},
@@ -53623,7 +53623,7 @@ var newBlocks = []NewBlock {
 			404: 3521,
 			477: 4024,
 			573: 4024,
-			4: 1488,
+			4:   1488,
 			393: 3520,
 		},
 	},
@@ -53695,7 +53695,7 @@ var newBlocks = []NewBlock {
 		"minecraft:command_block[conditional=false,facing=west]",
 		nil,
 		NewMapping{
-			4: 2196,
+			4:   2196,
 			393: 5133,
 			404: 5134,
 			477: 5637,
@@ -53858,7 +53858,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_leaves[distance=1,persistent=false]",
 		nil,
 		NewMapping{
-			4: 291,
+			4:   291,
 			393: 187,
 			404: 187,
 			477: 187,
@@ -53871,7 +53871,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6116,
 			573: 6116,
-			4: 2358,
+			4:   2358,
 			393: 5609,
 			404: 5610,
 		},
@@ -53904,7 +53904,7 @@ var newBlocks = []NewBlock {
 			404: 1125,
 			477: 1428,
 			573: 1428,
-			4: 720,
+			4:   720,
 		},
 	},
 	{
@@ -54238,7 +54238,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8882,
-			4: 3938,
+			4:   3938,
 			393: 8357,
 			404: 8358,
 			477: 8882,
@@ -54326,7 +54326,7 @@ var newBlocks = []NewBlock {
 			404: 5288,
 			477: 5794,
 			573: 5794,
-			4: 2256,
+			4:   2256,
 			393: 5287,
 		},
 	},
@@ -54444,7 +54444,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=true,power=15]",
 		nil,
 		NewMapping{
-			4: 2863,
+			4:   2863,
 			393: 5666,
 			404: 5667,
 			477: 6173,
@@ -54455,7 +54455,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_stained_glass",
 		nil,
 		NewMapping{
-			4: 1535,
+			4:   1535,
 			393: 3592,
 			404: 3593,
 			477: 4096,
@@ -54579,7 +54579,7 @@ var newBlocks = []NewBlock {
 			404: 7267,
 			477: 7773,
 			573: 7773,
-			4: 2017,
+			4:   2017,
 			393: 7266,
 		},
 	},
@@ -54656,7 +54656,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6582,
-			4: 2567,
+			4:   2567,
 			393: 6075,
 			404: 6076,
 			477: 6582,
@@ -54752,7 +54752,7 @@ var newBlocks = []NewBlock {
 			404: 6404,
 			477: 6910,
 			573: 6910,
-			4: 2608,
+			4:   2608,
 		},
 	},
 	{
@@ -54813,7 +54813,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lime_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3584,
+			4:   3584,
 			393: 8252,
 			404: 8253,
 			477: 8777,
@@ -54891,7 +54891,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7370,
 			573: 7370,
-			4: 2825,
+			4:   2825,
 			393: 6863,
 			404: 6864,
 		},
@@ -54900,7 +54900,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1137,
+			4:   1137,
 			393: 3334,
 			404: 3335,
 			477: 3838,
@@ -54914,7 +54914,7 @@ var newBlocks = []NewBlock {
 			404: 3494,
 			477: 3997,
 			573: 3997,
-			4: 1392,
+			4:   1392,
 			393: 3493,
 		},
 	},
@@ -55043,7 +55043,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wall_torch[facing=north,lit=false]",
 		nil,
 		NewMapping{
-			4: 1204,
+			4:   1204,
 			393: 3384,
 			404: 3385,
 			477: 3888,
@@ -55057,7 +55057,7 @@ var newBlocks = []NewBlock {
 			404: 146,
 			477: 146,
 			573: 146,
-			4: 300,
+			4:   300,
 			393: 146,
 		},
 	},
@@ -55103,7 +55103,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5151,
-			4: 2040,
+			4:   2040,
 			393: 4647,
 			404: 4648,
 			477: 5151,
@@ -55173,7 +55173,7 @@ var newBlocks = []NewBlock {
 			404: 6334,
 			477: 6840,
 			573: 6840,
-			4: 2615,
+			4:   2615,
 		},
 	},
 	{
@@ -55238,7 +55238,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston[extended=true,facing=up]",
 		nil,
 		NewMapping{
-			4: 537,
+			4:   537,
 			393: 1051,
 			404: 1051,
 			477: 1351,
@@ -55251,7 +55251,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1282,
 			573: 1282,
-			4: 425,
+			4:   425,
 			393: 982,
 			404: 982,
 		},
@@ -55324,7 +55324,7 @@ var newBlocks = []NewBlock {
 			404: 7418,
 			477: 7942,
 			573: 7942,
-			4: 2959,
+			4:   2959,
 		},
 	},
 	{
@@ -55402,7 +55402,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeating_command_block[conditional=false,facing=south]",
 		nil,
 		NewMapping{
-			4: 3363,
+			4:   3363,
 			393: 8172,
 			404: 8173,
 			477: 8697,
@@ -55461,7 +55461,7 @@ var newBlocks = []NewBlock {
 			404: 8190,
 			477: 8714,
 			573: 8714,
-			4: 3393,
+			4:   3393,
 		},
 	},
 	{
@@ -55529,7 +55529,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sandstone_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2052,
+			4:   2052,
 			393: 4711,
 			404: 4712,
 			477: 5215,
@@ -55637,7 +55637,7 @@ var newBlocks = []NewBlock {
 			404: 3587,
 			477: 4090,
 			573: 4090,
-			4: 1529,
+			4:   1529,
 			393: 3586,
 		},
 	},
@@ -55681,7 +55681,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3091,
+			4:   3091,
 			393: 7692,
 			404: 7693,
 			477: 8217,
@@ -55758,7 +55758,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_lamp[lit=false]",
 		nil,
 		NewMapping{
-			4: 1968,
+			4:   1968,
 			393: 4637,
 			404: 4638,
 			477: 5141,
@@ -55863,7 +55863,7 @@ var newBlocks = []NewBlock {
 		"minecraft:skeleton_wall_skull[facing=west]",
 		nil,
 		NewMapping{
-			4: 2316,
+			4:   2316,
 			393: 5449,
 			404: 5450,
 			477: 5972,
@@ -55874,7 +55874,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lever[face=ceiling,facing=north,powered=true]",
 		nil,
 		NewMapping{
-			4: 1119,
+			4:   1119,
 			393: 3293,
 			404: 3294,
 			477: 3797,
@@ -56005,7 +56005,7 @@ var newBlocks = []NewBlock {
 		"minecraft:rail[shape=north_east]",
 		nil,
 		NewMapping{
-			4: 1065,
+			4:   1065,
 			393: 3188,
 			404: 3189,
 			477: 3652,
@@ -56018,7 +56018,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7853,
 			573: 7853,
-			4: 702,
+			4:   702,
 			393: 7334,
 			404: 7335,
 		},
@@ -56028,7 +56028,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 242,
-			4: 369,
+			4:   369,
 			393: 242,
 			404: 242,
 			477: 242,
@@ -56041,7 +56041,7 @@ var newBlocks = []NewBlock {
 			404: 230,
 			477: 230,
 			573: 230,
-			4: 320,
+			4:   320,
 			393: 230,
 		},
 	},
@@ -56138,7 +56138,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_button[face=floor,facing=north,powered=false]",
 		nil,
 		NewMapping{
-			4: 2293,
+			4:   2293,
 			393: 5304,
 			404: 5305,
 			477: 5811,
@@ -56227,7 +56227,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=west,in_wall=false,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 2969,
+			4:   2969,
 			393: 7443,
 			404: 7444,
 			477: 7968,
@@ -56241,7 +56241,7 @@ var newBlocks = []NewBlock {
 			404: 6560,
 			477: 7066,
 			573: 7066,
-			4: 2689,
+			4:   2689,
 			393: 6559,
 		},
 	},
@@ -56421,7 +56421,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4027,
 			573: 4027,
-			4: 1505,
+			4:   1505,
 			393: 3523,
 			404: 3524,
 		},
@@ -56474,7 +56474,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=true,power=14]",
 		nil,
 		NewMapping{
-			4: 2862,
+			4:   2862,
 			393: 5665,
 			404: 5666,
 			477: 6172,
@@ -56485,7 +56485,7 @@ var newBlocks = []NewBlock {
 		"minecraft:emerald_block",
 		nil,
 		NewMapping{
-			4: 2128,
+			4:   2128,
 			393: 4883,
 			404: 4884,
 			477: 5387,
@@ -56602,7 +56602,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1329,
-			4: 477,
+			4:   477,
 			393: 1029,
 			404: 1029,
 			477: 1329,
@@ -56616,7 +56616,7 @@ var newBlocks = []NewBlock {
 			404: 54,
 			477: 54,
 			573: 54,
-			4: 180,
+			4:   180,
 		},
 	},
 	{
@@ -56723,7 +56723,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=ceiling,facing=north,powered=true]",
 		nil,
 		NewMapping{
-			4: 1240,
+			4:   1240,
 			393: 3407,
 			404: 3408,
 			477: 3911,
@@ -56764,7 +56764,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=9,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1017,
+			4:   1017,
 			393: 3094,
 		},
 	},
@@ -56810,7 +56810,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_gray_carpet",
 		nil,
 		NewMapping{
-			4: 2744,
+			4:   2744,
 			393: 6831,
 			404: 6832,
 			477: 7338,
@@ -56841,7 +56841,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=1,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1009,
+			4:   1009,
 			393: 3078,
 		},
 	},
@@ -57067,7 +57067,7 @@ var newBlocks = []NewBlock {
 			404: 1086,
 			477: 1386,
 			573: 1386,
-			4: 563,
+			4:   563,
 		},
 	},
 	{
@@ -57246,7 +57246,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_fence_gate[facing=south,in_wall=false,open=true,powered=true]",
 		nil,
 		NewMapping{
-			4: 2956,
+			4:   2956,
 			393: 7401,
 			404: 7402,
 			477: 7926,
@@ -57306,7 +57306,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3616,
-			4: 1030,
+			4:   1030,
 			393: 3152,
 			404: 3153,
 			477: 3616,
@@ -57352,7 +57352,7 @@ var newBlocks = []NewBlock {
 		"minecraft:hay_block[axis=z]",
 		nil,
 		NewMapping{
-			4: 2728,
+			4:   2728,
 			393: 6822,
 			404: 6823,
 			477: 7329,
@@ -57471,7 +57471,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 1719,
+			4:   1719,
 			393: 4329,
 			404: 4330,
 			477: 4833,
@@ -57482,7 +57482,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=11]",
 		nil,
 		NewMapping{
-			4: 2363,
+			4:   2363,
 			393: 5614,
 			404: 5615,
 			477: 6121,
@@ -57520,7 +57520,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4957,
-			4: 1749,
+			4:   1749,
 			393: 4453,
 			404: 4454,
 			477: 4957,
@@ -57564,14 +57564,14 @@ var newBlocks = []NewBlock {
 			404: 5658,
 			477: 6164,
 			573: 6164,
-			4: 2854,
+			4:   2854,
 		},
 	},
 	{
 		"minecraft:lever[face=floor,facing=west,powered=true]",
 		nil,
 		NewMapping{
-			4: 1118,
+			4:   1118,
 			393: 3281,
 			404: 3282,
 			477: 3785,
@@ -57668,7 +57668,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lilac[half=lower]",
 		nil,
 		NewMapping{
-			4: 2801,
+			4:   2801,
 			393: 6845,
 			404: 6846,
 			477: 7352,
@@ -57711,7 +57711,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=south,in_wall=false,open=true,powered=true]",
 		nil,
 		NewMapping{
-			4: 2972,
+			4:   2972,
 			393: 7433,
 			404: 7434,
 			477: 7958,
@@ -57948,7 +57948,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6147,
-			4: 2384,
+			4:   2384,
 			393: 5640,
 			404: 5641,
 			477: 6147,
@@ -57958,7 +57958,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3522,
+			4:   3522,
 			393: 8223,
 			404: 8224,
 			477: 8748,
@@ -58040,7 +58040,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1335,
-			4: 469,
+			4:   469,
 			393: 1035,
 			404: 1035,
 			477: 1335,
@@ -58054,7 +58054,7 @@ var newBlocks = []NewBlock {
 			404: 8389,
 			477: 8913,
 			573: 8913,
-			4: 4027,
+			4:   4027,
 		},
 	},
 	{
@@ -58091,7 +58091,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_banner[rotation=3]",
 		nil,
 		NewMapping{
-			4: 2819,
+			4:   2819,
 			393: 6857,
 			404: 6858,
 			477: 7364,
@@ -58102,7 +58102,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_carpet",
 		nil,
 		NewMapping{
-			4: 2742,
+			4:   2742,
 			393: 6829,
 			404: 6830,
 			477: 7336,
@@ -58113,7 +58113,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cyan_terracotta",
 		nil,
 		NewMapping{
-			4: 2553,
+			4:   2553,
 			393: 5813,
 			404: 5814,
 			477: 6320,
@@ -58245,7 +58245,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3111,
+			4:   3111,
 			393: 7754,
 			404: 7755,
 			477: 8279,
@@ -58385,7 +58385,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cyan_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3650,
+			4:   3650,
 			393: 8271,
 			404: 8272,
 			477: 8796,
@@ -58444,7 +58444,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magenta_wool",
 		nil,
 		NewMapping{
-			4: 562,
+			4:   562,
 			393: 1085,
 			404: 1085,
 			477: 1385,
@@ -58473,7 +58473,7 @@ var newBlocks = []NewBlock {
 		"minecraft:powered_rail[powered=false,shape=ascending_east]",
 		nil,
 		NewMapping{
-			4: 434,
+			4:   434,
 			393: 1012,
 			404: 1012,
 			477: 1312,
@@ -58669,7 +58669,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6920,
 			573: 6920,
-			4: 2631,
+			4:   2631,
 			393: 6413,
 			404: 6414,
 		},
@@ -58680,7 +58680,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7771,
 			573: 7771,
-			4: 2025,
+			4:   2025,
 			393: 7264,
 			404: 7265,
 		},
@@ -58759,7 +58759,7 @@ var newBlocks = []NewBlock {
 		"minecraft:structure_void",
 		nil,
 		NewMapping{
-			4: 3472,
+			4:   3472,
 			393: 8198,
 			404: 8199,
 			477: 8723,
@@ -58826,7 +58826,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_carpet",
 		nil,
 		NewMapping{
-			4: 2737,
+			4:   2737,
 			393: 6824,
 			404: 6825,
 			477: 7331,
@@ -58897,7 +58897,7 @@ var newBlocks = []NewBlock {
 		"minecraft:coarse_dirt",
 		nil,
 		NewMapping{
-			4: 49,
+			4:   49,
 			393: 11,
 			404: 11,
 			477: 11,
@@ -58909,7 +58909,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7813,
-			4: 713,
+			4:   713,
 			393: 7300,
 			404: 7301,
 			477: 7813,
@@ -58966,7 +58966,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8930,
-			4: 4044,
+			4:   4044,
 			393: 8405,
 			404: 8406,
 			477: 8930,
@@ -59078,7 +59078,7 @@ var newBlocks = []NewBlock {
 			404: 8079,
 			477: 8603,
 			573: 8603,
-			4: 3255,
+			4:   3255,
 		},
 	},
 	{
@@ -59122,7 +59122,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magenta_shulker_box[facing=east]",
 		nil,
 		NewMapping{
-			4: 3541,
+			4:   3541,
 			393: 8230,
 			404: 8231,
 			477: 8755,
@@ -59199,7 +59199,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston_head[facing=south,short=false,type=sticky]",
 		nil,
 		NewMapping{
-			4: 555,
+			4:   555,
 			393: 1070,
 			404: 1070,
 			477: 1370,
@@ -59375,7 +59375,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3645,
-			4: 1058,
+			4:   1058,
 			393: 3181,
 			404: 3182,
 			477: 3645,
@@ -59529,7 +59529,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3896,
-			4: 1237,
+			4:   1237,
 			393: 3392,
 			404: 3393,
 			477: 3896,
@@ -59602,7 +59602,7 @@ var newBlocks = []NewBlock {
 		"minecraft:potatoes[age=6]",
 		nil,
 		NewMapping{
-			4: 2278,
+			4:   2278,
 			393: 5301,
 			404: 5302,
 			477: 5808,
@@ -59670,7 +59670,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=4]",
 		nil,
 		NewMapping{
-			4: 148,
+			4:   148,
 			393: 38,
 			404: 38,
 			477: 38,
@@ -59741,7 +59741,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 14,
 			573: 14,
-			4: 64,
+			4:   64,
 			393: 14,
 			404: 14,
 		},
@@ -59891,7 +59891,7 @@ var newBlocks = []NewBlock {
 			404: 3454,
 			477: 3957,
 			573: 3957,
-			4: 1339,
+			4:   1339,
 			393: 3453,
 		},
 	},
@@ -59935,7 +59935,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1543,
+			4:   1543,
 			393: 3652,
 			404: 3653,
 			477: 4156,
@@ -60146,7 +60146,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=4,facing=north,locked=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1502,
+			4:   1502,
 			393: 3564,
 			404: 3565,
 			477: 4068,
@@ -60201,7 +60201,7 @@ var newBlocks = []NewBlock {
 			404: 8281,
 			477: 8805,
 			573: 8805,
-			4: 3668,
+			4:   3668,
 		},
 	},
 	{
@@ -60356,7 +60356,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 215,
 			573: 215,
-			4: 2577,
+			4:   2577,
 			393: 215,
 			404: 215,
 		},
@@ -60365,7 +60365,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2614,
+			4:   2614,
 			393: 6353,
 			404: 6354,
 			477: 6860,
@@ -60376,7 +60376,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chorus_flower[age=0]",
 		nil,
 		NewMapping{
-			4: 3200,
+			4:   3200,
 			393: 8067,
 			404: 8068,
 			477: 8592,
@@ -60429,7 +60429,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 202,
 			573: 202,
-			4: 2588,
+			4:   2588,
 			393: 202,
 			404: 202,
 		},
@@ -60478,7 +60478,7 @@ var newBlocks = []NewBlock {
 		"minecraft:end_rod[facing=up]",
 		nil,
 		NewMapping{
-			4: 3169,
+			4:   3169,
 			393: 8001,
 			404: 8002,
 			477: 8526,
@@ -60507,7 +60507,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_wool",
 		nil,
 		NewMapping{
-			4: 572,
+			4:   572,
 			393: 1095,
 			404: 1095,
 			477: 1395,
@@ -60591,7 +60591,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sandstone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2048,
+			4:   2048,
 			393: 4721,
 			404: 4722,
 			477: 5225,
@@ -60652,7 +60652,7 @@ var newBlocks = []NewBlock {
 			404: 3496,
 			477: 3999,
 			573: 3999,
-			4: 1424,
+			4:   1424,
 		},
 	},
 	{
@@ -60805,7 +60805,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=false,power=11]",
 		nil,
 		NewMapping{
-			4: 2427,
+			4:   2427,
 			393: 5678,
 			404: 5679,
 			477: 6185,
@@ -60922,14 +60922,14 @@ var newBlocks = []NewBlock {
 			404: 5653,
 			477: 6159,
 			573: 6159,
-			4: 2849,
+			4:   2849,
 		},
 	},
 	{
 		"minecraft:beetroots[age=2]",
 		nil,
 		NewMapping{
-			4: 3314,
+			4:   3314,
 			393: 8160,
 			404: 8161,
 			477: 8685,
@@ -61006,7 +61006,7 @@ var newBlocks = []NewBlock {
 		"minecraft:emerald_ore",
 		nil,
 		NewMapping{
-			4: 2064,
+			4:   2064,
 			393: 4730,
 			404: 4731,
 			477: 5234,
@@ -61067,7 +61067,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3962,
 			573: 3962,
-			4: 1345,
+			4:   1345,
 			393: 3458,
 			404: 3459,
 		},
@@ -61147,7 +61147,7 @@ var newBlocks = []NewBlock {
 			404: 8371,
 			477: 8895,
 			573: 8895,
-			4: 3984,
+			4:   3984,
 			393: 8370,
 		},
 	},
@@ -61295,7 +61295,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lime_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2565,
+			4:   2565,
 			393: 6011,
 			404: 6012,
 			477: 6518,
@@ -61514,7 +61514,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2687,
+			4:   2687,
 			393: 6545,
 			404: 6546,
 			477: 7052,
@@ -61639,7 +61639,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_glazed_terracotta[facing=west]",
 		nil,
 		NewMapping{
-			4: 3857,
+			4:   3857,
 			393: 8339,
 			404: 8340,
 			477: 8864,
@@ -61690,7 +61690,7 @@ var newBlocks = []NewBlock {
 			404: 8170,
 			477: 8694,
 			573: 8694,
-			4: 3368,
+			4:   3368,
 		},
 	},
 	{
@@ -61773,7 +61773,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8903,
 			573: 8903,
-			4: 4017,
+			4:   4017,
 			393: 8378,
 			404: 8379,
 		},
@@ -61833,7 +61833,7 @@ var newBlocks = []NewBlock {
 			404: 1016,
 			477: 1316,
 			573: 1316,
-			4: 456,
+			4:   456,
 			393: 1016,
 		},
 	},
@@ -61885,7 +61885,7 @@ var newBlocks = []NewBlock {
 			404: 4484,
 			477: 4987,
 			573: 4987,
-			4: 1744,
+			4:   1744,
 		},
 	},
 	{
@@ -62078,7 +62078,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 3099,
+			4:   3099,
 			393: 7731,
 			404: 7732,
 			477: 8256,
@@ -62089,7 +62089,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lever[face=ceiling,facing=west,powered=false]",
 		nil,
 		NewMapping{
-			4: 1104,
+			4:   1104,
 			393: 3298,
 			404: 3299,
 			477: 3802,
@@ -62175,7 +62175,7 @@ var newBlocks = []NewBlock {
 			404: 7442,
 			477: 7966,
 			573: 7966,
-			4: 2973,
+			4:   2973,
 			393: 7441,
 		},
 	},
@@ -62393,7 +62393,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_mushroom_block[down=false,east=false,north=false,south=true,up=true,west=false]",
 		nil,
 		NewMapping{
-			4: 1592,
+			4:   1592,
 			393: 4044,
 			404: 4045,
 			477: 4548,
@@ -62577,7 +62577,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2682,
+			4:   2682,
 			393: 6533,
 			404: 6534,
 			477: 7040,
@@ -62591,7 +62591,7 @@ var newBlocks = []NewBlock {
 			404: 7787,
 			477: 8311,
 			573: 8311,
-			4: 3110,
+			4:   3110,
 			393: 7786,
 		},
 	},
@@ -62688,7 +62688,7 @@ var newBlocks = []NewBlock {
 			404: 247,
 			477: 247,
 			573: 247,
-			4: 386,
+			4:   386,
 			393: 247,
 		},
 	},
@@ -62828,7 +62828,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeating_command_block[conditional=true,facing=south]",
 		nil,
 		NewMapping{
-			4: 3371,
+			4:   3371,
 			393: 8166,
 			404: 8167,
 			477: 8691,
@@ -62839,7 +62839,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cyan_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2569,
+			4:   2569,
 			393: 6139,
 			404: 6140,
 			477: 6646,
@@ -62908,7 +62908,7 @@ var newBlocks = []NewBlock {
 		"minecraft:end_rod[facing=west]",
 		nil,
 		NewMapping{
-			4: 3172,
+			4:   3172,
 			393: 8000,
 			404: 8001,
 			477: 8525,
@@ -62919,7 +62919,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=3,facing=south,locked=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1496,
+			4:   1496,
 			393: 3552,
 			404: 3553,
 			477: 4056,
@@ -62930,7 +62930,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_glazed_terracotta[facing=south]",
 		nil,
 		NewMapping{
-			4: 3872,
+			4:   3872,
 			393: 8342,
 			404: 8343,
 			477: 8867,
@@ -63028,7 +63028,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_log[axis=z]",
 		nil,
 		NewMapping{
-			4: 280,
+			4:   280,
 			393: 74,
 			404: 74,
 			477: 74,
@@ -63039,7 +63039,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_wall_banner[facing=south]",
 		nil,
 		NewMapping{
-			4: 2835,
+			4:   2835,
 			393: 7111,
 			404: 7112,
 			477: 7618,
@@ -63053,7 +63053,7 @@ var newBlocks = []NewBlock {
 			404: 26,
 			477: 26,
 			573: 26,
-			4: 106,
+			4:   106,
 			393: 26,
 		},
 	},
@@ -63109,7 +63109,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_bed[facing=west,occupied=true,part=head]",
 		nil,
 		NewMapping{
-			4: 429,
+			4:   429,
 			393: 980,
 			404: 980,
 			477: 1280,
@@ -63124,7 +63124,7 @@ var newBlocks = []NewBlock {
 			404: 7860,
 			477: 8384,
 			573: 8384,
-			4: 3131,
+			4:   3131,
 		},
 	},
 	{
@@ -63133,7 +63133,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8837,
 			573: 8837,
-			4: 3744,
+			4:   3744,
 			393: 8312,
 			404: 8313,
 		},
@@ -63194,7 +63194,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pumpkin_stem[age=6]",
 		nil,
 		NewMapping{
-			4: 1670,
+			4:   1670,
 			393: 4258,
 			404: 4259,
 			477: 4762,
@@ -63209,7 +63209,7 @@ var newBlocks = []NewBlock {
 			404: 4748,
 			477: 5251,
 			573: 5251,
-			4: 2106,
+			4:   2106,
 		},
 	},
 	{
@@ -63276,7 +63276,7 @@ var newBlocks = []NewBlock {
 		"minecraft:coal_ore",
 		nil,
 		NewMapping{
-			4: 256,
+			4:   256,
 			393: 71,
 			404: 71,
 			477: 71,
@@ -63393,7 +63393,7 @@ var newBlocks = []NewBlock {
 			404: 5569,
 			477: 6075,
 			573: 6075,
-			4: 2320,
+			4:   2320,
 		},
 	},
 	{
@@ -63444,7 +63444,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=north,mode=subtract,powered=true]",
 		nil,
 		NewMapping{
-			4: 2414,
+			4:   2414,
 			393: 5637,
 			404: 5638,
 			477: 6144,
@@ -63498,7 +63498,7 @@ var newBlocks = []NewBlock {
 			404: 6554,
 			477: 7060,
 			573: 7060,
-			4: 2679,
+			4:   2679,
 			393: 6553,
 		},
 	},
@@ -63589,7 +63589,7 @@ var newBlocks = []NewBlock {
 			404: 7319,
 			477: 7837,
 			573: 7837,
-			4: 716,
+			4:   716,
 			393: 7318,
 		},
 	},
@@ -63705,7 +63705,7 @@ var newBlocks = []NewBlock {
 			404: 5646,
 			477: 6152,
 			573: 6152,
-			4: 2413,
+			4:   2413,
 		},
 	},
 	{
@@ -63772,7 +63772,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3960,
 			573: 3960,
-			4: 1342,
+			4:   1342,
 			393: 3456,
 			404: 3457,
 		},
@@ -63848,7 +63848,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			393: 3104,
-			4: 1022,
+			4:   1022,
 		},
 	},
 	{
@@ -64008,7 +64008,7 @@ var newBlocks = []NewBlock {
 		"minecraft:large_fern[half=lower]",
 		nil,
 		NewMapping{
-			4: 2803,
+			4:   2803,
 			393: 6853,
 			404: 6854,
 			477: 7360,
@@ -64176,7 +64176,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 234,
-			4: 370,
+			4:   370,
 			393: 234,
 			404: 234,
 			477: 234,
@@ -64186,7 +64186,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2055,
+			4:   2055,
 			393: 4651,
 			404: 4652,
 			477: 5155,
@@ -64227,7 +64227,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 3072,
+			4:   3072,
 			393: 7644,
 			404: 7645,
 			477: 8169,
@@ -64275,7 +64275,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5083,
 			573: 5083,
-			4: 1825,
+			4:   1825,
 			393: 4579,
 			404: 4580,
 		},
@@ -64324,7 +64324,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5125,
 			573: 5125,
-			4: 1888,
+			4:   1888,
 			393: 4621,
 			404: 4622,
 		},
@@ -64335,7 +64335,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4802,
 			573: 4802,
-			4: 1698,
+			4:   1698,
 			393: 4298,
 			404: 4299,
 		},
@@ -64384,7 +64384,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lapis_ore",
 		nil,
 		NewMapping{
-			4: 336,
+			4:   336,
 			393: 231,
 			404: 231,
 			477: 231,
@@ -64465,7 +64465,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_slab[type=double,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 695,
+			4:   695,
 			393: 7340,
 			404: 7341,
 			477: 7859,
@@ -64606,7 +64606,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cocoa[age=0,facing=north]",
 		nil,
 		NewMapping{
-			4: 2034,
+			4:   2034,
 			393: 4638,
 			404: 4639,
 			477: 5142,
@@ -64673,7 +64673,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=6,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1014,
+			4:   1014,
 			393: 3088,
 		},
 	},
@@ -64719,7 +64719,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chain_command_block[conditional=true,facing=south]",
 		nil,
 		NewMapping{
-			4: 3387,
+			4:   3387,
 			393: 8178,
 			404: 8179,
 			477: 8703,
@@ -64734,7 +64734,7 @@ var newBlocks = []NewBlock {
 			404: 4314,
 			477: 4817,
 			573: 4817,
-			4: 1716,
+			4:   1716,
 		},
 	},
 	{
@@ -64769,7 +64769,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sugar_cane[age=7]",
 		nil,
 		NewMapping{
-			4: 1335,
+			4:   1335,
 			393: 3449,
 			404: 3450,
 			477: 3953,
@@ -64957,7 +64957,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8743,
 			573: 8743,
-			4: 3509,
+			4:   3509,
 			393: 8218,
 			404: 8219,
 		},
@@ -65031,7 +65031,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dispenser[facing=south,triggered=false]",
 		nil,
 		NewMapping{
-			4: 371,
+			4:   371,
 			393: 238,
 			404: 238,
 			477: 238,
@@ -65173,7 +65173,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lever[face=ceiling,facing=west,powered=true]",
 		nil,
 		NewMapping{
-			4: 1112,
+			4:   1112,
 			393: 3297,
 			404: 3298,
 			477: 3801,
@@ -65242,7 +65242,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8137,
 			573: 8137,
-			4: 3040,
+			4:   3040,
 			393: 7612,
 			404: 7613,
 		},
@@ -65253,7 +65253,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4897,
 			573: 4897,
-			4: 1732,
+			4:   1732,
 			393: 4393,
 			404: 4394,
 		},
@@ -65287,7 +65287,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pumpkin_stem[age=2]",
 		nil,
 		NewMapping{
-			4: 1666,
+			4:   1666,
 			393: 4254,
 			404: 4255,
 			477: 4758,
@@ -65336,7 +65336,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3568,
+			4:   3568,
 			393: 8246,
 			404: 8247,
 			477: 8771,
@@ -65347,7 +65347,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_mushroom_block[down=false,east=false,north=false,south=true,up=true,west=false]",
 		nil,
 		NewMapping{
-			4: 1608,
+			4:   1608,
 			393: 4108,
 			404: 4109,
 			477: 4612,
@@ -65388,7 +65388,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1548,
+			4:   1548,
 			393: 3596,
 			404: 3597,
 			477: 4100,
@@ -65400,7 +65400,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3584,
-			4: 1031,
+			4:   1031,
 			393: 3120,
 			404: 3121,
 			477: 3584,
@@ -65428,7 +65428,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=east,in_wall=false,open=true,powered=true]",
 		nil,
 		NewMapping{
-			4: 2975,
+			4:   2975,
 			393: 7449,
 			404: 7450,
 			477: 7974,
@@ -65441,7 +65441,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8897,
 			573: 8897,
-			4: 3987,
+			4:   3987,
 			393: 8372,
 			404: 8373,
 		},
@@ -65486,7 +65486,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3616,
+			4:   3616,
 			393: 8264,
 			404: 8265,
 			477: 8789,
@@ -65586,7 +65586,7 @@ var newBlocks = []NewBlock {
 			404: 5622,
 			477: 6128,
 			573: 6128,
-			4: 2370,
+			4:   2370,
 			393: 5621,
 		},
 	},
@@ -65680,7 +65680,7 @@ var newBlocks = []NewBlock {
 			404: 79,
 			477: 79,
 			573: 79,
-			4: 274,
+			4:   274,
 		},
 	},
 	{
@@ -65737,7 +65737,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_mushroom_block[down=true,east=true,north=true,south=true,up=true,west=true]",
 		nil,
 		NewMapping{
-			4: 1614,
+			4:   1614,
 			393: 4051,
 			404: 4052,
 			477: 4555,
@@ -65751,7 +65751,7 @@ var newBlocks = []NewBlock {
 			404: 7861,
 			477: 8385,
 			573: 8385,
-			4: 3129,
+			4:   3129,
 			393: 7860,
 		},
 	},
@@ -65860,7 +65860,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_shulker_box[facing=up]",
 		nil,
 		NewMapping{
-			4: 3697,
+			4:   3697,
 			393: 8293,
 			404: 8294,
 			477: 8818,
@@ -65941,7 +65941,7 @@ var newBlocks = []NewBlock {
 			404: 3163,
 			477: 3626,
 			573: 3626,
-			4: 1033,
+			4:   1033,
 		},
 	},
 	{
@@ -65949,7 +65949,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5205,
-			4: 2049,
+			4:   2049,
 			393: 4701,
 			404: 4702,
 			477: 5205,
@@ -65959,7 +65959,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1025,
+			4:   1025,
 			393: 3138,
 			404: 3139,
 			477: 3602,
@@ -66040,7 +66040,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_fence_gate[facing=west,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 1717,
+			4:   1717,
 			393: 4321,
 			404: 4322,
 			477: 4825,
@@ -66089,7 +66089,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_brick_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1808,
+			4:   1808,
 			393: 4527,
 			404: 4528,
 			477: 5031,
@@ -66100,7 +66100,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston[extended=true,facing=east]",
 		nil,
 		NewMapping{
-			4: 541,
+			4:   541,
 			393: 1048,
 			404: 1048,
 			477: 1348,
@@ -66139,7 +66139,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3786,
 			573: 3786,
-			4: 1110,
+			4:   1110,
 			393: 3282,
 			404: 3283,
 		},
@@ -66188,7 +66188,7 @@ var newBlocks = []NewBlock {
 		"minecraft:grass",
 		nil,
 		NewMapping{
-			4: 497,
+			4:   497,
 			393: 1041,
 			404: 1041,
 			477: 1341,
@@ -66234,7 +66234,7 @@ var newBlocks = []NewBlock {
 			404: 7380,
 			477: 7904,
 			573: 7904,
-			4: 2937,
+			4:   2937,
 			393: 7379,
 		},
 	},
@@ -66341,7 +66341,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8798,
-			4: 3651,
+			4:   3651,
 			393: 8273,
 			404: 8274,
 			477: 8798,
@@ -66520,7 +66520,7 @@ var newBlocks = []NewBlock {
 			404: 5668,
 			477: 6174,
 			573: 6174,
-			4: 2416,
+			4:   2416,
 		},
 	},
 	{
@@ -66653,7 +66653,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston_head[facing=up,short=false,type=sticky]",
 		nil,
 		NewMapping{
-			4: 553,
+			4:   553,
 			393: 1078,
 			404: 1078,
 			477: 1378,
@@ -66664,7 +66664,7 @@ var newBlocks = []NewBlock {
 		"minecraft:furnace[facing=south,lit=false]",
 		nil,
 		NewMapping{
-			4: 979,
+			4:   979,
 			393: 3070,
 			404: 3071,
 			477: 3374,
@@ -66675,7 +66675,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_bed[facing=north,occupied=true,part=head]",
 		nil,
 		NewMapping{
-			4: 430,
+			4:   430,
 			393: 972,
 			404: 972,
 			477: 1272,
@@ -66690,14 +66690,14 @@ var newBlocks = []NewBlock {
 			404: 8171,
 			477: 8695,
 			573: 8695,
-			4: 3362,
+			4:   3362,
 		},
 	},
 	{
 		"minecraft:cactus[age=0]",
 		nil,
 		NewMapping{
-			4: 1296,
+			4:   1296,
 			393: 3425,
 			404: 3426,
 			477: 3929,
@@ -66744,7 +66744,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_mushroom_block[down=false,east=true,north=false,south=true,up=true,west=false]",
 		nil,
 		NewMapping{
-			4: 1609,
+			4:   1609,
 			393: 4092,
 			404: 4093,
 			477: 4596,
@@ -66803,7 +66803,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=3]",
 		nil,
 		NewMapping{
-			4: 2355,
+			4:   2355,
 			393: 5606,
 			404: 5607,
 			477: 6113,
@@ -66895,7 +66895,7 @@ var newBlocks = []NewBlock {
 			404: 22,
 			477: 22,
 			573: 22,
-			4: 104,
+			4:   104,
 			393: 22,
 		},
 	},
@@ -66906,7 +66906,7 @@ var newBlocks = []NewBlock {
 			404: 4029,
 			477: 4532,
 			573: 4532,
-			4: 1593,
+			4:   1593,
 			393: 4028,
 		},
 	},
@@ -66960,7 +66960,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_bed[facing=south,occupied=true,part=head]",
 		nil,
 		NewMapping{
-			4: 428,
+			4:   428,
 			393: 976,
 			404: 976,
 			477: 1276,
@@ -67105,7 +67105,7 @@ var newBlocks = []NewBlock {
 		"minecraft:note_block[instrument=harp,note=0,powered=false]",
 		nil,
 		NewMapping{
-			4: 400,
+			4:   400,
 			393: 249,
 			404: 249,
 			477: 249,
@@ -67116,7 +67116,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sugar_cane[age=1]",
 		nil,
 		NewMapping{
-			4: 1329,
+			4:   1329,
 			393: 3443,
 			404: 3444,
 			477: 3947,
@@ -67285,7 +67285,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_concrete_powder",
 		nil,
 		NewMapping{
-			4: 4043,
+			4:   4043,
 			393: 8404,
 			404: 8405,
 			477: 8929,
@@ -67341,7 +67341,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_mushroom",
 		nil,
 		NewMapping{
-			4: 640,
+			4:   640,
 			393: 1122,
 			404: 1122,
 			477: 1425,
@@ -67391,7 +67391,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4799,
-			4: 1697,
+			4:   1697,
 			393: 4295,
 			404: 4296,
 			477: 4799,
@@ -67405,7 +67405,7 @@ var newBlocks = []NewBlock {
 			404: 7883,
 			477: 8407,
 			573: 8407,
-			4: 3143,
+			4:   3143,
 		},
 	},
 	{
@@ -67471,7 +67471,7 @@ var newBlocks = []NewBlock {
 			404: 5627,
 			477: 6133,
 			573: 6133,
-			4: 2375,
+			4:   2375,
 			393: 5626,
 		},
 	},
@@ -67557,7 +67557,7 @@ var newBlocks = []NewBlock {
 			404: 3583,
 			477: 4086,
 			573: 4086,
-			4: 1525,
+			4:   1525,
 		},
 	},
 	{
@@ -67606,7 +67606,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1365,
 			573: 1365,
-			4: 549,
+			4:   549,
 			393: 1065,
 			404: 1065,
 		},
@@ -67651,7 +67651,7 @@ var newBlocks = []NewBlock {
 		"minecraft:activator_rail[powered=true,shape=ascending_east]",
 		nil,
 		NewMapping{
-			4: 2522,
+			4:   2522,
 			393: 5782,
 			404: 5783,
 			477: 6289,
@@ -67750,7 +67750,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5824,
 			573: 5824,
-			4: 2297,
+			4:   2297,
 			393: 5317,
 			404: 5318,
 		},
@@ -67800,7 +67800,7 @@ var newBlocks = []NewBlock {
 			404: 7313,
 			477: 7831,
 			573: 7831,
-			4: 715,
+			4:   715,
 			393: 7312,
 		},
 	},
@@ -67865,7 +67865,7 @@ var newBlocks = []NewBlock {
 			404: 4620,
 			477: 5123,
 			573: 5123,
-			4: 1876,
+			4:   1876,
 			393: 4619,
 		},
 	},
@@ -67877,7 +67877,7 @@ var newBlocks = []NewBlock {
 			404: 8139,
 			477: 8663,
 			573: 8663,
-			4: 3252,
+			4:   3252,
 		},
 	},
 	{
@@ -67940,7 +67940,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_stained_glass",
 		nil,
 		NewMapping{
-			4: 1531,
+			4:   1531,
 			393: 3588,
 			404: 3589,
 			477: 4092,
@@ -68085,7 +68085,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence_gate[facing=north,in_wall=false,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 2986,
+			4:   2986,
 			393: 7491,
 			404: 7492,
 			477: 8016,
@@ -68166,7 +68166,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2629,
+			4:   2629,
 			393: 6453,
 			404: 6454,
 			477: 6960,
@@ -68178,7 +68178,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 115,
-			4: 286,
+			4:   286,
 			393: 115,
 			404: 115,
 			477: 115,
@@ -68249,7 +68249,7 @@ var newBlocks = []NewBlock {
 			404: 3609,
 			477: 4112,
 			573: 4112,
-			4: 1536,
+			4:   1536,
 			393: 3608,
 		},
 	},
@@ -68260,7 +68260,7 @@ var newBlocks = []NewBlock {
 			404: 5016,
 			477: 5519,
 			573: 5519,
-			4: 2161,
+			4:   2161,
 			393: 5015,
 		},
 	},
@@ -68268,7 +68268,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_concrete",
 		nil,
 		NewMapping{
-			4: 4030,
+			4:   4030,
 			393: 8391,
 			404: 8392,
 			477: 8916,
@@ -68318,7 +68318,7 @@ var newBlocks = []NewBlock {
 			404: 4550,
 			477: 5053,
 			573: 5053,
-			4: 1830,
+			4:   1830,
 			393: 4549,
 		},
 	},
@@ -68394,7 +68394,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7799,
 			573: 7799,
-			4: 2005,
+			4:   2005,
 			393: 7292,
 			404: 7293,
 		},
@@ -68656,7 +68656,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6287,
-			4: 2520,
+			4:   2520,
 			393: 5780,
 			404: 5781,
 			477: 6287,
@@ -68802,7 +68802,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire_hook[attached=true,facing=east,powered=false]",
 		nil,
 		NewMapping{
-			4: 2103,
+			4:   2103,
 			393: 4746,
 			404: 4747,
 			477: 5250,
@@ -68813,7 +68813,7 @@ var newBlocks = []NewBlock {
 		"minecraft:observer[facing=north,powered=true]",
 		nil,
 		NewMapping{
-			4: 3498,
+			4:   3498,
 			393: 8199,
 			404: 8200,
 			477: 8724,
@@ -68873,7 +68873,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4003,
-			4: 1376,
+			4:   1376,
 			393: 3499,
 			404: 3500,
 			477: 4003,
@@ -68883,7 +68883,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2114,
+			4:   2114,
 			393: 4882,
 			404: 4883,
 			477: 5386,
@@ -68897,7 +68897,7 @@ var newBlocks = []NewBlock {
 			404: 3449,
 			477: 3952,
 			573: 3952,
-			4: 1334,
+			4:   1334,
 			393: 3448,
 		},
 	},
@@ -68908,7 +68908,7 @@ var newBlocks = []NewBlock {
 			404: 175,
 			477: 175,
 			573: 175,
-			4: 298,
+			4:   298,
 			393: 175,
 		},
 	},
@@ -69009,7 +69009,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=west,mode=compare,powered=false]",
 		nil,
 		NewMapping{
-			4: 2385,
+			4:   2385,
 			393: 5644,
 			404: 5645,
 			477: 6151,
@@ -69020,7 +69020,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_glazed_terracotta[facing=south]",
 		nil,
 		NewMapping{
-			4: 3936,
+			4:   3936,
 			393: 8358,
 			404: 8359,
 			477: 8883,
@@ -69065,7 +69065,7 @@ var newBlocks = []NewBlock {
 			404: 5762,
 			477: 6268,
 			573: 6268,
-			4: 2500,
+			4:   2500,
 		},
 	},
 	{
@@ -69144,7 +69144,7 @@ var newBlocks = []NewBlock {
 			404: 1135,
 			477: 1438,
 			573: 1438,
-			4: 801,
+			4:   801,
 		},
 	},
 	{
@@ -69267,7 +69267,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=12]",
 		nil,
 		NewMapping{
-			4: 2364,
+			4:   2364,
 			393: 5615,
 			404: 5616,
 			477: 6122,
@@ -69278,7 +69278,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2967,
+			4:   2967,
 			393: 7450,
 			404: 7451,
 			477: 7975,
@@ -69525,7 +69525,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1366,
 			573: 1366,
-			4: 557,
+			4:   557,
 			393: 1066,
 			404: 1066,
 		},
@@ -69677,7 +69677,7 @@ var newBlocks = []NewBlock {
 			404: 1108,
 			477: 1408,
 			573: 1408,
-			4: 585,
+			4:   585,
 			393: 1108,
 		},
 	},
@@ -69794,7 +69794,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 86,
-			4: 2600,
+			4:   2600,
 			393: 86,
 			404: 86,
 			477: 86,
@@ -69890,7 +69890,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_pillar[axis=x]",
 		nil,
 		NewMapping{
-			4: 2483,
+			4:   2483,
 			393: 5697,
 			404: 5698,
 			477: 6204,
@@ -69930,7 +69930,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6950,
-			4: 2626,
+			4:   2626,
 			393: 6443,
 			404: 6444,
 			477: 6950,
@@ -69984,7 +69984,7 @@ var newBlocks = []NewBlock {
 		"minecraft:grass_block[snowy=false]",
 		nil,
 		NewMapping{
-			4: 32,
+			4:   32,
 			393: 9,
 			404: 9,
 			477: 9,
@@ -70044,7 +70044,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 69,
 			573: 69,
-			4: 224,
+			4:   224,
 			393: 69,
 			404: 69,
 		},
@@ -70093,7 +70093,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magenta_glazed_terracotta[facing=north]",
 		nil,
 		NewMapping{
-			4: 3794,
+			4:   3794,
 			393: 8321,
 			404: 8322,
 			477: 8846,
@@ -70104,7 +70104,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_glazed_terracotta[facing=east]",
 		nil,
 		NewMapping{
-			4: 3859,
+			4:   3859,
 			393: 8340,
 			404: 8341,
 			477: 8865,
@@ -70164,7 +70164,7 @@ var newBlocks = []NewBlock {
 			404: 8185,
 			477: 8709,
 			573: 8709,
-			4: 3379,
+			4:   3379,
 			393: 8184,
 		},
 	},
@@ -70304,7 +70304,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence_gate[facing=north,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2982,
+			4:   2982,
 			393: 7490,
 			404: 7491,
 			477: 8015,
@@ -70315,7 +70315,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pumpkin_stem[age=0]",
 		nil,
 		NewMapping{
-			4: 1664,
+			4:   1664,
 			393: 4252,
 			404: 4253,
 			477: 4756,
@@ -70360,7 +70360,7 @@ var newBlocks = []NewBlock {
 			404: 1742,
 			477: 2045,
 			573: 2045,
-			4: 868,
+			4:   868,
 		},
 	},
 	{
@@ -70459,7 +70459,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_brick_slab[type=double,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 693,
+			4:   693,
 			393: 7328,
 			404: 7329,
 			477: 7847,
@@ -70516,7 +70516,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sea_lantern",
 		nil,
 		NewMapping{
-			4: 2704,
+			4:   2704,
 			393: 6819,
 			404: 6820,
 			477: 7326,
@@ -70706,7 +70706,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1748,
+			4:   1748,
 			393: 4473,
 			404: 4474,
 			477: 4977,
@@ -70718,7 +70718,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4611,
-			4: 1607,
+			4:   1607,
 			393: 4107,
 			404: 4108,
 			477: 4611,
@@ -70760,7 +70760,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8856,
 			573: 8856,
-			4: 3825,
+			4:   3825,
 			393: 8331,
 			404: 8332,
 		},
@@ -70830,7 +70830,7 @@ var newBlocks = []NewBlock {
 			404: 1551,
 			477: 1854,
 			573: 1854,
-			4: 828,
+			4:   828,
 			393: 1550,
 		},
 	},
@@ -71098,7 +71098,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5806,
 			573: 5806,
-			4: 2276,
+			4:   2276,
 			393: 5299,
 			404: 5300,
 		},
@@ -71236,7 +71236,7 @@ var newBlocks = []NewBlock {
 			404: 3497,
 			477: 4000,
 			573: 4000,
-			4: 1441,
+			4:   1441,
 		},
 	},
 	{
@@ -71322,7 +71322,7 @@ var newBlocks = []NewBlock {
 			404: 6849,
 			477: 7355,
 			573: 7355,
-			4: 2808,
+			4:   2808,
 			393: 6848,
 		},
 	},
@@ -71330,7 +71330,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_gray_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3632,
+			4:   3632,
 			393: 8270,
 			404: 8271,
 			477: 8795,
@@ -71463,7 +71463,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chain_command_block[conditional=false,facing=up]",
 		nil,
 		NewMapping{
-			4: 3377,
+			4:   3377,
 			393: 8186,
 			404: 8187,
 			477: 8711,
@@ -71522,7 +71522,7 @@ var newBlocks = []NewBlock {
 			404: 34,
 			477: 34,
 			573: 34,
-			4: 144,
+			4:   144,
 		},
 	},
 	{
@@ -71569,7 +71569,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_slab[type=double,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2000,
+			4:   2000,
 			393: 7262,
 			404: 7263,
 			477: 7769,
@@ -71636,7 +71636,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3156,
+			4:   3156,
 			393: 7994,
 			404: 7995,
 			477: 8519,
@@ -71714,7 +71714,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 30,
-			4: 108,
+			4:   108,
 			393: 30,
 			404: 30,
 			477: 30,
@@ -71724,7 +71724,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=2,facing=west,locked=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1509,
+			4:   1509,
 			393: 3539,
 			404: 3540,
 			477: 4043,
@@ -71775,7 +71775,7 @@ var newBlocks = []NewBlock {
 		"minecraft:end_portal_frame[eye=true,facing=east]",
 		nil,
 		NewMapping{
-			4: 1927,
+			4:   1927,
 			393: 4629,
 			404: 4630,
 			477: 5133,
@@ -71829,7 +71829,7 @@ var newBlocks = []NewBlock {
 			404: 3501,
 			477: 4004,
 			573: 4004,
-			4: 1377,
+			4:   1377,
 			393: 3500,
 		},
 	},
@@ -71893,7 +71893,7 @@ var newBlocks = []NewBlock {
 			404: 4743,
 			477: 5246,
 			573: 5246,
-			4: 2100,
+			4:   2100,
 		},
 	},
 	{
@@ -71901,7 +71901,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7944,
-			4: 2955,
+			4:   2955,
 			393: 7419,
 			404: 7420,
 			477: 7944,
@@ -72023,7 +72023,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1712,
+			4:   1712,
 			393: 4315,
 			404: 4316,
 			477: 4819,
@@ -72055,7 +72055,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8513,
-			4: 3161,
+			4:   3161,
 			393: 7988,
 			404: 7989,
 			477: 8513,
@@ -72114,7 +72114,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3370,
-			4: 967,
+			4:   967,
 			393: 3066,
 			404: 3067,
 			477: 3370,
@@ -72384,7 +72384,7 @@ var newBlocks = []NewBlock {
 			404: 7347,
 			477: 7865,
 			573: 7865,
-			4: 2896,
+			4:   2896,
 		},
 	},
 	{
@@ -72394,7 +72394,7 @@ var newBlocks = []NewBlock {
 			404: 8394,
 			477: 8918,
 			573: 8918,
-			4: 4032,
+			4:   4032,
 			393: 8393,
 		},
 	},
@@ -72402,7 +72402,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2164,
+			4:   2164,
 			393: 5025,
 			404: 5026,
 			477: 5529,
@@ -72433,7 +72433,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lava[level=13]",
 		nil,
 		NewMapping{
-			4: 189,
+			4:   189,
 			393: 63,
 			404: 63,
 			477: 63,
@@ -72516,7 +72516,7 @@ var newBlocks = []NewBlock {
 			404: 4644,
 			477: 5147,
 			573: 5147,
-			4: 2036,
+			4:   2036,
 			393: 4643,
 		},
 	},
@@ -72562,7 +72562,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_carpet",
 		nil,
 		NewMapping{
-			4: 2750,
+			4:   2750,
 			393: 6837,
 			404: 6838,
 			477: 7344,
@@ -72610,7 +72610,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7803,
-			4: 704,
+			4:   704,
 			393: 7296,
 			477: 7803,
 		},
@@ -72668,7 +72668,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dispenser[facing=down,triggered=true]",
 		nil,
 		NewMapping{
-			4: 376,
+			4:   376,
 			393: 243,
 			404: 243,
 			477: 243,
@@ -72721,7 +72721,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8252,
 			573: 8252,
-			4: 3098,
+			4:   3098,
 			393: 7727,
 			404: 7728,
 		},
@@ -72770,7 +72770,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_pressure_plate[powered=false]",
 		nil,
 		NewMapping{
-			4: 1120,
+			4:   1120,
 			393: 3302,
 			404: 3303,
 			477: 3806,
@@ -72846,7 +72846,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6183,
 			573: 6183,
-			4: 2425,
+			4:   2425,
 			393: 5676,
 			404: 5677,
 		},
@@ -73069,7 +73069,7 @@ var newBlocks = []NewBlock {
 		"minecraft:rose_bush[half=lower]",
 		nil,
 		NewMapping{
-			4: 2804,
+			4:   2804,
 			393: 6847,
 			404: 6848,
 			477: 7354,
@@ -73184,7 +73184,7 @@ var newBlocks = []NewBlock {
 			404: 7305,
 			477: 7817,
 			573: 7817,
-			4: 689,
+			4:   689,
 		},
 	},
 	{
@@ -73250,7 +73250,7 @@ var newBlocks = []NewBlock {
 			404: 5644,
 			477: 6150,
 			573: 6150,
-			4: 2393,
+			4:   2393,
 			393: 5643,
 		},
 	},
@@ -73261,7 +73261,7 @@ var newBlocks = []NewBlock {
 			404: 3617,
 			477: 4120,
 			573: 4120,
-			4: 1545,
+			4:   1545,
 			393: 3616,
 		},
 	},
@@ -73315,7 +73315,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lime_wool",
 		nil,
 		NewMapping{
-			4: 565,
+			4:   565,
 			393: 1088,
 			404: 1088,
 			477: 1388,
@@ -73384,7 +73384,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=7,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1015,
+			4:   1015,
 			393: 3090,
 		},
 	},
@@ -73445,7 +73445,7 @@ var newBlocks = []NewBlock {
 			404: 6384,
 			477: 6890,
 			573: 6890,
-			4: 2609,
+			4:   2609,
 			393: 6383,
 		},
 	},
@@ -73455,7 +73455,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1963,
 			573: 1963,
-			4: 851,
+			4:   851,
 			393: 1659,
 			404: 1660,
 		},
@@ -73528,7 +73528,7 @@ var newBlocks = []NewBlock {
 			404: 7931,
 			477: 8455,
 			573: 8455,
-			4: 3140,
+			4:   3140,
 		},
 	},
 	{
@@ -73659,7 +73659,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cocoa[age=1,facing=north]",
 		nil,
 		NewMapping{
-			4: 2038,
+			4:   2038,
 			393: 4642,
 			404: 4643,
 			477: 5146,
@@ -73925,7 +73925,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7340,
-			4: 2746,
+			4:   2746,
 			393: 6833,
 			404: 6834,
 			477: 7340,
@@ -73971,7 +73971,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=false,power=5]",
 		nil,
 		NewMapping{
-			4: 2421,
+			4:   2421,
 			393: 5672,
 			404: 5673,
 			477: 6179,
@@ -74058,7 +74058,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2673,
+			4:   2673,
 			393: 6525,
 			404: 6526,
 			477: 7032,
@@ -74117,7 +74117,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_concrete",
 		nil,
 		NewMapping{
-			4: 4022,
+			4:   4022,
 			393: 8383,
 			404: 8384,
 			477: 8908,
@@ -74128,7 +74128,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_glazed_terracotta[facing=north]",
 		nil,
 		NewMapping{
-			4: 3874,
+			4:   3874,
 			393: 8341,
 			404: 8342,
 			477: 8866,
@@ -74195,7 +74195,7 @@ var newBlocks = []NewBlock {
 		"minecraft:beacon",
 		nil,
 		NewMapping{
-			4: 2208,
+			4:   2208,
 			393: 5136,
 			404: 5137,
 			477: 5640,
@@ -74292,7 +74292,7 @@ var newBlocks = []NewBlock {
 			404: 216,
 			477: 216,
 			573: 216,
-			4: 2589,
+			4:   2589,
 		},
 	},
 	{
@@ -74441,7 +74441,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2672,
+			4:   2672,
 			393: 6509,
 			404: 6510,
 			477: 7016,
@@ -74452,7 +74452,7 @@ var newBlocks = []NewBlock {
 		"minecraft:coal_block",
 		nil,
 		NewMapping{
-			4: 2768,
+			4:   2768,
 			393: 6840,
 			404: 6841,
 			477: 7347,
@@ -74519,7 +74519,7 @@ var newBlocks = []NewBlock {
 		"minecraft:vine[east=true,north=true,south=true,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1709,
+			4:   1709,
 			393: 4271,
 			404: 4272,
 			477: 4775,
@@ -74574,14 +74574,14 @@ var newBlocks = []NewBlock {
 			404: 6826,
 			477: 7332,
 			573: 7332,
-			4: 2738,
+			4:   2738,
 		},
 	},
 	{
 		"minecraft:spruce_fence_gate[facing=south,in_wall=false,open=true,powered=true]",
 		nil,
 		NewMapping{
-			4: 2940,
+			4:   2940,
 			393: 7369,
 			404: 7370,
 			477: 7894,
@@ -74636,7 +74636,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3353,
 			573: 3353,
-			4: 912,
+			4:   912,
 			393: 3049,
 			404: 3050,
 		},
@@ -74792,7 +74792,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=true,power=8]",
 		nil,
 		NewMapping{
-			4: 2856,
+			4:   2856,
 			393: 5659,
 			404: 5660,
 			477: 6166,
@@ -74849,7 +74849,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cauldron[level=3]",
 		nil,
 		NewMapping{
-			4: 1891,
+			4:   1891,
 			393: 4624,
 			404: 4625,
 			477: 5128,
@@ -74976,7 +74976,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston[extended=false,facing=west]",
 		nil,
 		NewMapping{
-			4: 532,
+			4:   532,
 			393: 1056,
 			404: 1056,
 			477: 1356,
@@ -74987,7 +74987,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2148,
+			4:   2148,
 			393: 4945,
 			404: 4946,
 			477: 5449,
@@ -75035,7 +75035,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2496,
+			4:   2496,
 			393: 5771,
 			404: 5772,
 			477: 6278,
@@ -75104,7 +75104,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8749,
 			573: 8749,
-			4: 3525,
+			4:   3525,
 			393: 8224,
 			404: 8225,
 		},
@@ -75113,7 +75113,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1144,
+			4:   1144,
 			393: 3354,
 			404: 3355,
 			477: 3858,
@@ -75142,7 +75142,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7998,
 			573: 7998,
-			4: 3005,
+			4:   3005,
 			393: 7473,
 			404: 7474,
 		},
@@ -75152,7 +75152,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6182,
-			4: 2424,
+			4:   2424,
 			393: 5675,
 			404: 5676,
 			477: 6182,
@@ -75188,7 +75188,7 @@ var newBlocks = []NewBlock {
 		"minecraft:farmland[moisture=0]",
 		nil,
 		NewMapping{
-			4: 960,
+			4:   960,
 			393: 3059,
 			404: 3060,
 			477: 3363,
@@ -75282,7 +75282,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5063,
-			4: 1826,
+			4:   1826,
 			393: 4559,
 			404: 4560,
 			477: 5063,
@@ -75332,7 +75332,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2960,
+			4:   2960,
 			393: 7436,
 			404: 7437,
 			477: 7961,
@@ -75437,7 +75437,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=8]",
 		nil,
 		NewMapping{
-			4: 2360,
+			4:   2360,
 			393: 5611,
 			404: 5612,
 			477: 6118,
@@ -75488,7 +75488,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2683,
+			4:   2683,
 			393: 6549,
 			404: 6550,
 			477: 7056,
@@ -75540,7 +75540,7 @@ var newBlocks = []NewBlock {
 			404: 5798,
 			477: 6304,
 			573: 6304,
-			4: 2531,
+			4:   2531,
 			393: 5797,
 		},
 	},
@@ -75861,7 +75861,7 @@ var newBlocks = []NewBlock {
 		"minecraft:carrots[age=1]",
 		nil,
 		NewMapping{
-			4: 2257,
+			4:   2257,
 			393: 5288,
 			404: 5289,
 			477: 5795,
@@ -76068,7 +76068,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_sandstone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2882,
+			4:   2882,
 			393: 7208,
 			404: 7209,
 			477: 7715,
@@ -76079,7 +76079,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_concrete_powder",
 		nil,
 		NewMapping{
-			4: 4036,
+			4:   4036,
 			393: 8397,
 			404: 8398,
 			477: 8922,
@@ -76118,7 +76118,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1542,
+			4:   1542,
 			393: 3636,
 			404: 3637,
 			477: 4140,
@@ -76145,7 +76145,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=12,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1020,
+			4:   1020,
 			393: 3100,
 		},
 	},
@@ -76176,7 +76176,7 @@ var newBlocks = []NewBlock {
 			404: 1736,
 			477: 2039,
 			573: 2039,
-			4: 867,
+			4:   867,
 			393: 1735,
 		},
 	},
@@ -76318,7 +76318,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purple_concrete_powder",
 		nil,
 		NewMapping{
-			4: 4042,
+			4:   4042,
 			393: 8403,
 			404: 8404,
 			477: 8928,
@@ -76331,7 +76331,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3621,
 			573: 3621,
-			4: 1034,
+			4:   1034,
 			393: 3157,
 			404: 3158,
 		},
@@ -76378,7 +76378,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1584,
+			4:   1584,
 			393: 4050,
 			404: 4051,
 			477: 4554,
@@ -76393,7 +76393,7 @@ var newBlocks = []NewBlock {
 			404: 7311,
 			477: 7829,
 			573: 7829,
-			4: 690,
+			4:   690,
 		},
 	},
 	{
@@ -76486,7 +76486,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chipped_anvil[facing=east]",
 		nil,
 		NewMapping{
-			4: 2327,
+			4:   2327,
 			393: 5574,
 			404: 5575,
 			477: 6081,
@@ -76697,7 +76697,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1328,
 			573: 1328,
-			4: 474,
+			4:   474,
 			393: 1028,
 			404: 1028,
 		},
@@ -76786,7 +76786,7 @@ var newBlocks = []NewBlock {
 			404: 7507,
 			477: 8031,
 			573: 8031,
-			4: 2981,
+			4:   2981,
 		},
 	},
 	{
@@ -76823,7 +76823,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1537,
+			4:   1537,
 			393: 3624,
 			404: 3625,
 			477: 4128,
@@ -76876,7 +76876,7 @@ var newBlocks = []NewBlock {
 			404: 4283,
 			477: 4786,
 			573: 4786,
-			4: 1706,
+			4:   1706,
 		},
 	},
 	{
@@ -76939,7 +76939,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wire[east=none,north=none,power=8,south=none,west=none]",
 		nil,
 		NewMapping{
-			4: 888,
+			4:   888,
 			393: 2984,
 			404: 2985,
 			477: 3288,
@@ -77014,7 +77014,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_block",
 		nil,
 		NewMapping{
-			4: 672,
+			4:   672,
 			393: 1124,
 			404: 1124,
 			477: 1427,
@@ -77091,7 +77091,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2680,
+			4:   2680,
 			393: 6501,
 			404: 6502,
 			477: 7008,
@@ -77184,7 +77184,7 @@ var newBlocks = []NewBlock {
 			404: 3556,
 			477: 4059,
 			573: 4059,
-			4: 1513,
+			4:   1513,
 		},
 	},
 	{
@@ -77329,7 +77329,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=true,power=5]",
 		nil,
 		NewMapping{
-			4: 2853,
+			4:   2853,
 			393: 5656,
 			404: 5657,
 			477: 6163,
@@ -77432,7 +77432,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1547,
+			4:   1547,
 			393: 3648,
 			404: 3649,
 			477: 4152,
@@ -77469,7 +77469,7 @@ var newBlocks = []NewBlock {
 		"minecraft:melon_stem[age=2]",
 		nil,
 		NewMapping{
-			4: 1682,
+			4:   1682,
 			393: 4262,
 			404: 4263,
 			477: 4766,
@@ -77543,7 +77543,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1337,
-			4: 468,
+			4:   468,
 			393: 1037,
 			404: 1037,
 			477: 1337,
@@ -77630,7 +77630,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3924,
 			573: 3924,
-			4: 1253,
+			4:   1253,
 			393: 3420,
 			404: 3421,
 		},
@@ -77677,7 +77677,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=3,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1011,
+			4:   1011,
 			393: 3082,
 		},
 	},
@@ -77687,7 +77687,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1325,
 			573: 1325,
-			4: 451,
+			4:   451,
 			393: 1025,
 			404: 1025,
 		},
@@ -77727,7 +77727,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1410,
-			4: 584,
+			4:   584,
 			393: 1110,
 			404: 1110,
 			477: 1410,
@@ -77781,7 +77781,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5131,
 			573: 5131,
-			4: 1924,
+			4:   1924,
 			393: 4627,
 			404: 4628,
 		},
@@ -77790,7 +77790,7 @@ var newBlocks = []NewBlock {
 		"minecraft:petrified_oak_slab[type=top,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 714,
+			4:   714,
 			393: 7306,
 			404: 7307,
 			477: 7825,
@@ -77859,7 +77859,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=6]",
 		nil,
 		NewMapping{
-			4: 150,
+			4:   150,
 			393: 40,
 			404: 40,
 			477: 40,
@@ -77870,7 +77870,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_fence_gate[facing=west,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2961,
+			4:   2961,
 			393: 7444,
 			404: 7445,
 			477: 7969,
@@ -77881,7 +77881,7 @@ var newBlocks = []NewBlock {
 		"minecraft:end_portal_frame[eye=false,facing=south]",
 		nil,
 		NewMapping{
-			4: 1920,
+			4:   1920,
 			393: 4631,
 			404: 4632,
 			477: 5135,
@@ -77896,7 +77896,7 @@ var newBlocks = []NewBlock {
 			404: 8291,
 			477: 8815,
 			573: 8815,
-			4: 3701,
+			4:   3701,
 		},
 	},
 	{
@@ -77921,7 +77921,7 @@ var newBlocks = []NewBlock {
 		"minecraft:fire[age=4,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 820,
+			4:   820,
 			393: 1294,
 			404: 1295,
 			477: 1598,
@@ -77975,7 +77975,7 @@ var newBlocks = []NewBlock {
 			404: 4623,
 			477: 5126,
 			573: 5126,
-			4: 1889,
+			4:   1889,
 			393: 4622,
 		},
 	},
@@ -78027,7 +78027,7 @@ var newBlocks = []NewBlock {
 			404: 77,
 			477: 77,
 			573: 77,
-			4: 281,
+			4:   281,
 		},
 	},
 	{
@@ -78062,7 +78062,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston_head[facing=north,short=false,type=sticky]",
 		nil,
 		NewMapping{
-			4: 554,
+			4:   554,
 			393: 1062,
 			404: 1062,
 			477: 1362,
@@ -78074,7 +78074,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1435,
-			4: 804,
+			4:   804,
 			393: 1131,
 			404: 1132,
 			477: 1435,
@@ -78328,7 +78328,7 @@ var newBlocks = []NewBlock {
 			404: 8239,
 			477: 8763,
 			573: 8763,
-			4: 3556,
+			4:   3556,
 		},
 	},
 	{
@@ -78381,7 +78381,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_block",
 		nil,
 		NewMapping{
-			4: 2480,
+			4:   2480,
 			393: 5695,
 			404: 5696,
 			477: 6202,
@@ -78460,7 +78460,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7362,
 			573: 7362,
-			4: 2817,
+			4:   2817,
 			393: 6855,
 			404: 6856,
 		},
@@ -78469,7 +78469,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_ore",
 		nil,
 		NewMapping{
-			4: 240,
+			4:   240,
 			393: 70,
 			404: 70,
 			477: 70,
@@ -78636,7 +78636,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1745,
+			4:   1745,
 			393: 4463,
 			404: 4464,
 			477: 4967,
@@ -78647,7 +78647,7 @@ var newBlocks = []NewBlock {
 		"minecraft:diamond_ore",
 		nil,
 		NewMapping{
-			4: 896,
+			4:   896,
 			393: 3048,
 			404: 3049,
 			477: 3352,
@@ -78659,7 +78659,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6129,
-			4: 2371,
+			4:   2371,
 			393: 5622,
 			404: 5623,
 			477: 6129,
@@ -78697,7 +78697,7 @@ var newBlocks = []NewBlock {
 		"minecraft:wall_sign[facing=west,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1092,
+			4:   1092,
 			393: 3274,
 		},
 	},
@@ -78777,7 +78777,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_shulker_box[facing=south]",
 		nil,
 		NewMapping{
-			4: 3683,
+			4:   3683,
 			393: 8285,
 			404: 8286,
 			477: 8810,
@@ -78849,7 +78849,7 @@ var newBlocks = []NewBlock {
 			404: 8399,
 			477: 8923,
 			573: 8923,
-			4: 4037,
+			4:   4037,
 			393: 8398,
 		},
 	},
@@ -78857,7 +78857,7 @@ var newBlocks = []NewBlock {
 		"minecraft:vine[east=true,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1704,
+			4:   1704,
 			393: 4283,
 			404: 4284,
 			477: 4787,
@@ -78945,7 +78945,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4044,
-			4: 1493,
+			4:   1493,
 			393: 3540,
 			404: 3541,
 			477: 4044,
@@ -78957,7 +78957,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5569,
 			573: 5569,
-			4: 2182,
+			4:   2182,
 			393: 5065,
 			404: 5066,
 		},
@@ -79105,7 +79105,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=east,mode=subtract,powered=false]",
 		nil,
 		NewMapping{
-			4: 2391,
+			4:   2391,
 			393: 5650,
 			404: 5651,
 			477: 6157,
@@ -79186,7 +79186,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pink_glazed_terracotta[facing=south]",
 		nil,
 		NewMapping{
-			4: 3856,
+			4:   3856,
 			393: 8338,
 			404: 8339,
 			477: 8863,
@@ -79349,7 +79349,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=2]",
 		nil,
 		NewMapping{
-			4: 2354,
+			4:   2354,
 			393: 5605,
 			404: 5606,
 			477: 6112,
@@ -79482,7 +79482,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_concrete",
 		nil,
 		NewMapping{
-			4: 4023,
+			4:   4023,
 			393: 8384,
 			404: 8385,
 			477: 8909,
@@ -79656,7 +79656,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3622,
 			573: 3622,
-			4: 1032,
+			4:   1032,
 			393: 3158,
 			404: 3159,
 		},
@@ -79707,7 +79707,7 @@ var newBlocks = []NewBlock {
 			404: 8234,
 			477: 8758,
 			573: 8758,
-			4: 3537,
+			4:   3537,
 		},
 	},
 	{
@@ -79715,7 +79715,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8742,
-			4: 3506,
+			4:   3506,
 			393: 8217,
 			404: 8218,
 			477: 8742,
@@ -79745,7 +79745,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7,
 			573: 7,
-			4: 22,
+			4:   22,
 			393: 7,
 			404: 7,
 		},
@@ -79808,7 +79808,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_leaves[distance=2,persistent=true]",
 		nil,
 		NewMapping{
-			4: 301,
+			4:   301,
 			393: 160,
 			404: 160,
 			477: 160,
@@ -79862,7 +79862,7 @@ var newBlocks = []NewBlock {
 			404: 58,
 			477: 58,
 			573: 58,
-			4: 168,
+			4:   168,
 			393: 58,
 		},
 	},
@@ -79898,7 +79898,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dropper[facing=down,triggered=true]",
 		nil,
 		NewMapping{
-			4: 2536,
+			4:   2536,
 			393: 5802,
 			404: 5803,
 			477: 6309,
@@ -79947,7 +79947,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2678,
+			4:   2678,
 			393: 6537,
 			404: 6538,
 			477: 7044,
@@ -80086,7 +80086,7 @@ var newBlocks = []NewBlock {
 			404: 3416,
 			477: 3919,
 			573: 3919,
-			4: 1248,
+			4:   1248,
 		},
 	},
 	{
@@ -80097,14 +80097,14 @@ var newBlocks = []NewBlock {
 			404: 5671,
 			477: 6177,
 			573: 6177,
-			4: 2419,
+			4:   2419,
 		},
 	},
 	{
 		"minecraft:dropper[facing=west,triggered=false]",
 		nil,
 		NewMapping{
-			4: 2532,
+			4:   2532,
 			393: 5799,
 			404: 5800,
 			477: 6306,
@@ -80115,7 +80115,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_blue_shulker_box[facing=east]",
 		nil,
 		NewMapping{
-			4: 3557,
+			4:   3557,
 			393: 8236,
 			404: 8237,
 			477: 8761,
@@ -80130,7 +80130,7 @@ var newBlocks = []NewBlock {
 			404: 7327,
 			477: 7845,
 			573: 7845,
-			4: 709,
+			4:   709,
 		},
 	},
 	{
@@ -80167,7 +80167,7 @@ var newBlocks = []NewBlock {
 		"minecraft:vine[east=true,north=false,south=true,up=false,west=true]",
 		nil,
 		NewMapping{
-			4: 1707,
+			4:   1707,
 			393: 4278,
 			404: 4279,
 			477: 4782,
@@ -80262,7 +80262,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magenta_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3538,
+			4:   3538,
 			393: 8229,
 			404: 8230,
 			477: 8754,
@@ -80317,7 +80317,7 @@ var newBlocks = []NewBlock {
 			404: 6493,
 			477: 6999,
 			573: 6999,
-			4: 2640,
+			4:   2640,
 		},
 	},
 	{
@@ -80535,7 +80535,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cyan_glazed_terracotta[facing=west]",
 		nil,
 		NewMapping{
-			4: 3905,
+			4:   3905,
 			393: 8351,
 			404: 8352,
 			477: 8876,
@@ -80623,7 +80623,7 @@ var newBlocks = []NewBlock {
 			404: 3548,
 			477: 4051,
 			573: 4051,
-			4: 1514,
+			4:   1514,
 			393: 3547,
 		},
 	},
@@ -80631,7 +80631,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 854,
+			4:   854,
 			393: 1669,
 			404: 1670,
 			477: 1973,
@@ -80672,7 +80672,7 @@ var newBlocks = []NewBlock {
 		"minecraft:carrots[age=3]",
 		nil,
 		NewMapping{
-			4: 2259,
+			4:   2259,
 			393: 5290,
 			404: 5291,
 			477: 5797,
@@ -80813,7 +80813,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_slab[type=top,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 712,
+			4:   712,
 			393: 7294,
 			477: 7801,
 			573: 7801,
@@ -80825,7 +80825,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8821,
 			573: 8821,
-			4: 3717,
+			4:   3717,
 			393: 8296,
 			404: 8297,
 		},
@@ -80898,7 +80898,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pumpkin_stem[age=1]",
 		nil,
 		NewMapping{
-			4: 1665,
+			4:   1665,
 			393: 4253,
 			404: 4254,
 			477: 4757,
@@ -80947,7 +80947,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_button[face=wall,facing=west,powered=true]",
 		nil,
 		NewMapping{
-			4: 2298,
+			4:   2298,
 			393: 5315,
 			404: 5316,
 			477: 5822,
@@ -81002,14 +81002,14 @@ var newBlocks = []NewBlock {
 			404: 3987,
 			477: 4484,
 			573: 4484,
-			4: 1571,
+			4:   1571,
 		},
 	},
 	{
 		"minecraft:repeating_command_block[conditional=false,facing=down]",
 		nil,
 		NewMapping{
-			4: 3360,
+			4:   3360,
 			393: 8175,
 			404: 8176,
 			477: 8700,
@@ -81092,14 +81092,14 @@ var newBlocks = []NewBlock {
 			404: 4742,
 			477: 5245,
 			573: 5245,
-			4: 2108,
+			4:   2108,
 		},
 	},
 	{
 		"minecraft:sign[rotation=10,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1018,
+			4:   1018,
 			393: 3096,
 		},
 	},
@@ -81151,7 +81151,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purpur_slab[type=top,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 3288,
+			4:   3288,
 			393: 7348,
 			404: 7349,
 			477: 7873,
@@ -81204,7 +81204,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8673,
 			573: 8673,
-			4: 3248,
+			4:   3248,
 			393: 8148,
 			404: 8149,
 		},
@@ -81327,7 +81327,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magenta_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2562,
+			4:   2562,
 			393: 5915,
 			404: 5916,
 			477: 6422,
@@ -81342,7 +81342,7 @@ var newBlocks = []NewBlock {
 			404: 4751,
 			477: 5254,
 			573: 5254,
-			4: 2096,
+			4:   2096,
 		},
 	},
 	{
@@ -81379,7 +81379,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=7]",
 		nil,
 		NewMapping{
-			4: 2359,
+			4:   2359,
 			393: 5610,
 			404: 5611,
 			477: 6117,
@@ -81394,7 +81394,7 @@ var newBlocks = []NewBlock {
 			404: 4321,
 			477: 4824,
 			573: 4824,
-			4: 1725,
+			4:   1725,
 		},
 	},
 	{
@@ -81571,7 +81571,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8870,
 			573: 8870,
-			4: 3890,
+			4:   3890,
 			393: 8345,
 			404: 8346,
 		},
@@ -81580,7 +81580,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sandstone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2050,
+			4:   2050,
 			393: 4681,
 			404: 4682,
 			477: 5185,
@@ -81641,7 +81641,7 @@ var newBlocks = []NewBlock {
 			404: 6859,
 			477: 7365,
 			573: 7365,
-			4: 2820,
+			4:   2820,
 		},
 	},
 	{
@@ -81692,7 +81692,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_glazed_terracotta[facing=west]",
 		nil,
 		NewMapping{
-			4: 3937,
+			4:   3937,
 			393: 8359,
 			404: 8360,
 			477: 8884,
@@ -81905,7 +81905,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1750,
+			4:   1750,
 			393: 4433,
 			404: 4434,
 			477: 4937,
@@ -81916,7 +81916,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence_gate[facing=north,in_wall=false,open=true,powered=true]",
 		nil,
 		NewMapping{
-			4: 2990,
+			4:   2990,
 			393: 7489,
 			404: 7490,
 			477: 8014,
@@ -81927,7 +81927,7 @@ var newBlocks = []NewBlock {
 		"minecraft:anvil[facing=east]",
 		nil,
 		NewMapping{
-			4: 2323,
+			4:   2323,
 			393: 5570,
 			404: 5571,
 			477: 6077,
@@ -81983,7 +81983,7 @@ var newBlocks = []NewBlock {
 		"minecraft:infested_cobblestone",
 		nil,
 		NewMapping{
-			4: 1553,
+			4:   1553,
 			393: 3978,
 			404: 3979,
 			477: 4486,
@@ -82119,7 +82119,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3109,
+			4:   3109,
 			393: 7770,
 			404: 7771,
 			477: 8295,
@@ -82197,7 +82197,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wire[east=none,north=none,power=9,south=none,west=none]",
 		nil,
 		NewMapping{
-			4: 889,
+			4:   889,
 			393: 2993,
 			404: 2994,
 			477: 3297,
@@ -82208,7 +82208,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence_gate[facing=north,in_wall=false,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 2938,
+			4:   2938,
 			393: 7363,
 			404: 7364,
 			477: 7888,
@@ -82219,7 +82219,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 849,
+			4:   849,
 			393: 1699,
 			404: 1700,
 			477: 2003,
@@ -82254,7 +82254,7 @@ var newBlocks = []NewBlock {
 			404: 6424,
 			477: 6930,
 			573: 6930,
-			4: 2627,
+			4:   2627,
 		},
 	},
 	{
@@ -82297,7 +82297,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6154,
-			4: 2411,
+			4:   2411,
 			393: 5647,
 			404: 5648,
 			477: 6154,
@@ -82330,7 +82330,7 @@ var newBlocks = []NewBlock {
 			404: 1015,
 			477: 1315,
 			573: 1315,
-			4: 437,
+			4:   437,
 			393: 1015,
 		},
 	},
@@ -82378,7 +82378,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3684,
 			573: 3684,
-			4: 1074,
+			4:   1074,
 			393: 3220,
 			404: 3221,
 		},
@@ -82387,7 +82387,7 @@ var newBlocks = []NewBlock {
 		"minecraft:fire[age=3,east=false,north=false,south=false,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 819,
+			4:   819,
 			393: 1262,
 			404: 1263,
 			477: 1566,
@@ -82608,7 +82608,7 @@ var newBlocks = []NewBlock {
 		"minecraft:wheat[age=1]",
 		nil,
 		NewMapping{
-			4: 945,
+			4:   945,
 			393: 3052,
 			404: 3053,
 			477: 3356,
@@ -82645,7 +82645,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_banner[rotation=14]",
 		nil,
 		NewMapping{
-			4: 2830,
+			4:   2830,
 			393: 6868,
 			404: 6869,
 			477: 7375,
@@ -82724,7 +82724,7 @@ var newBlocks = []NewBlock {
 		"minecraft:azure_bluet",
 		nil,
 		NewMapping{
-			4: 611,
+			4:   611,
 			393: 1115,
 			404: 1115,
 			477: 1415,
@@ -82736,7 +82736,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8708,
-			4: 3381,
+			4:   3381,
 			393: 8183,
 			404: 8184,
 			477: 8708,
@@ -82975,7 +82975,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence_gate[facing=south,in_wall=false,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 2936,
+			4:   2936,
 			393: 7371,
 			404: 7372,
 			477: 7896,
@@ -82986,7 +82986,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_glazed_terracotta[facing=north]",
 		nil,
 		NewMapping{
-			4: 4002,
+			4:   4002,
 			393: 8373,
 			404: 8374,
 			477: 8898,
@@ -83027,7 +83027,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_fence_gate[facing=east,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2947,
+			4:   2947,
 			393: 7420,
 			404: 7421,
 			477: 7945,
@@ -83066,7 +83066,7 @@ var newBlocks = []NewBlock {
 		"minecraft:observer[facing=down,powered=true]",
 		nil,
 		NewMapping{
-			4: 3496,
+			4:   3496,
 			393: 8209,
 			404: 8210,
 			477: 8734,
@@ -83181,7 +83181,7 @@ var newBlocks = []NewBlock {
 		"minecraft:ladder[facing=east,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1045,
+			4:   1045,
 			393: 3178,
 			404: 3179,
 			477: 3642,
@@ -83339,7 +83339,7 @@ var newBlocks = []NewBlock {
 		"minecraft:orange_glazed_terracotta[facing=west]",
 		nil,
 		NewMapping{
-			4: 3777,
+			4:   3777,
 			393: 8319,
 			404: 8320,
 			477: 8844,
@@ -83351,7 +83351,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7839,
-			4: 708,
+			4:   708,
 			393: 7320,
 			404: 7321,
 			477: 7839,
@@ -83523,7 +83523,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_wart[age=2]",
 		nil,
 		NewMapping{
-			4: 1842,
+			4:   1842,
 			393: 4610,
 			404: 4611,
 			477: 5114,
@@ -83634,7 +83634,7 @@ var newBlocks = []NewBlock {
 			404: 3380,
 			477: 3883,
 			573: 3883,
-			4: 1184,
+			4:   1184,
 		},
 	},
 	{
@@ -83681,7 +83681,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purpur_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 3250,
+			4:   3250,
 			393: 8108,
 			404: 8109,
 			477: 8633,
@@ -83730,7 +83730,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4867,
 			573: 4867,
-			4: 1730,
+			4:   1730,
 			393: 4363,
 			404: 4364,
 		},
@@ -83779,7 +83779,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3127,
+			4:   3127,
 			393: 7818,
 			404: 7819,
 			477: 8343,
@@ -83790,7 +83790,7 @@ var newBlocks = []NewBlock {
 		"minecraft:mycelium[snowy=false]",
 		nil,
 		NewMapping{
-			4: 1760,
+			4:   1760,
 			393: 4493,
 			404: 4494,
 			477: 4997,
@@ -83845,7 +83845,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=false,power=7]",
 		nil,
 		NewMapping{
-			4: 2423,
+			4:   2423,
 			393: 5674,
 			404: 5675,
 			477: 6181,
@@ -83859,7 +83859,7 @@ var newBlocks = []NewBlock {
 			404: 3181,
 			477: 3644,
 			573: 3644,
-			4: 1057,
+			4:   1057,
 			393: 3180,
 		},
 	},
@@ -83978,7 +83978,7 @@ var newBlocks = []NewBlock {
 			404: 7821,
 			477: 8345,
 			573: 8345,
-			4: 3123,
+			4:   3123,
 			393: 7820,
 		},
 	},
@@ -83987,7 +83987,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8008,
-			4: 3003,
+			4:   3003,
 			393: 7483,
 			404: 7484,
 			477: 8008,
@@ -84073,7 +84073,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence_gate[facing=west,in_wall=false,open=true,powered=true]",
 		nil,
 		NewMapping{
-			4: 2941,
+			4:   2941,
 			393: 7377,
 			404: 7378,
 			477: 7902,
@@ -84084,7 +84084,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2183,
+			4:   2183,
 			393: 5045,
 			404: 5046,
 			477: 5549,
@@ -84099,14 +84099,14 @@ var newBlocks = []NewBlock {
 			404: 1648,
 			477: 1951,
 			573: 1951,
-			4: 832,
+			4:   832,
 		},
 	},
 	{
 		"minecraft:jack_o_lantern[facing=west]",
 		nil,
 		NewMapping{
-			4: 1457,
+			4:   1457,
 			393: 3504,
 			404: 3505,
 			477: 4008,
@@ -84147,7 +84147,7 @@ var newBlocks = []NewBlock {
 			404: 1583,
 			477: 1886,
 			573: 1886,
-			4: 829,
+			4:   829,
 		},
 	},
 	{
@@ -84212,7 +84212,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=wall,facing=north,powered=true]",
 		nil,
 		NewMapping{
-			4: 1244,
+			4:   1244,
 			393: 3399,
 			404: 3400,
 			477: 3903,
@@ -84225,7 +84225,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 5419,
 			573: 5419,
-			4: 2146,
+			4:   2146,
 			393: 4915,
 			404: 4916,
 		},
@@ -84422,7 +84422,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3104,
+			4:   3104,
 			393: 7804,
 			404: 7805,
 			477: 8329,
@@ -84434,7 +84434,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7992,
-			4: 3000,
+			4:   3000,
 			393: 7467,
 			404: 7468,
 			477: 7992,
@@ -84669,7 +84669,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=9]",
 		nil,
 		NewMapping{
-			4: 137,
+			4:   137,
 			393: 43,
 			404: 43,
 			477: 43,
@@ -84683,7 +84683,7 @@ var newBlocks = []NewBlock {
 			404: 3424,
 			477: 3927,
 			573: 3927,
-			4: 1264,
+			4:   1264,
 			393: 3423,
 		},
 	},
@@ -84747,7 +84747,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cyan_carpet",
 		nil,
 		NewMapping{
-			4: 2745,
+			4:   2745,
 			393: 6832,
 			404: 6833,
 			477: 7339,
@@ -84762,7 +84762,7 @@ var newBlocks = []NewBlock {
 			404: 4733,
 			477: 5236,
 			573: 5236,
-			4: 2082,
+			4:   2082,
 		},
 	},
 	{
@@ -84827,7 +84827,7 @@ var newBlocks = []NewBlock {
 			404: 7219,
 			477: 7725,
 			573: 7725,
-			4: 2885,
+			4:   2885,
 			393: 7218,
 		},
 	},
@@ -84992,7 +84992,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_glazed_terracotta[facing=west]",
 		nil,
 		NewMapping{
-			4: 4001,
+			4:   4001,
 			393: 8375,
 			404: 8376,
 			477: 8900,
@@ -85130,7 +85130,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3106,
+			4:   3106,
 			393: 7788,
 			404: 7789,
 			477: 8313,
@@ -85143,7 +85143,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8770,
 			573: 8770,
-			4: 3569,
+			4:   3569,
 			393: 8245,
 			404: 8246,
 		},
@@ -85272,7 +85272,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3925,
 			573: 3925,
-			4: 1254,
+			4:   1254,
 			393: 3421,
 			404: 3422,
 		},
@@ -85501,7 +85501,7 @@ var newBlocks = []NewBlock {
 			404: 7460,
 			477: 7984,
 			573: 7984,
-			4: 3002,
+			4:   3002,
 		},
 	},
 	{
@@ -85596,14 +85596,14 @@ var newBlocks = []NewBlock {
 			404: 5631,
 			477: 6137,
 			573: 6137,
-			4: 2379,
+			4:   2379,
 		},
 	},
 	{
 		"minecraft:black_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3746,
+			4:   3746,
 			393: 8307,
 			404: 8308,
 			477: 8832,
@@ -85660,7 +85660,7 @@ var newBlocks = []NewBlock {
 		"minecraft:potatoes[age=1]",
 		nil,
 		NewMapping{
-			4: 2273,
+			4:   2273,
 			393: 5296,
 			404: 5297,
 			477: 5803,
@@ -85751,7 +85751,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 144,
 			573: 144,
-			4: 292,
+			4:   292,
 			393: 144,
 			404: 144,
 		},
@@ -85792,7 +85792,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_mushroom_block[down=false,east=false,north=true,south=false,up=true,west=false]",
 		nil,
 		NewMapping{
-			4: 1602,
+			4:   1602,
 			393: 4104,
 			404: 4105,
 			477: 4608,
@@ -85803,7 +85803,7 @@ var newBlocks = []NewBlock {
 		"minecraft:powered_rail[powered=true,shape=ascending_east]",
 		nil,
 		NewMapping{
-			4: 442,
+			4:   442,
 			393: 1006,
 			404: 1006,
 			477: 1306,
@@ -85881,7 +85881,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8852,
-			4: 3809,
+			4:   3809,
 			393: 8327,
 			404: 8328,
 			477: 8852,
@@ -86071,7 +86071,7 @@ var newBlocks = []NewBlock {
 		"minecraft:activator_rail[powered=true,shape=ascending_south]",
 		nil,
 		NewMapping{
-			4: 2525,
+			4:   2525,
 			393: 5785,
 			404: 5786,
 			477: 6292,
@@ -86140,14 +86140,14 @@ var newBlocks = []NewBlock {
 			404: 5655,
 			477: 6161,
 			573: 6161,
-			4: 2851,
+			4:   2851,
 		},
 	},
 	{
 		"minecraft:black_shulker_box[facing=east]",
 		nil,
 		NewMapping{
-			4: 3749,
+			4:   3749,
 			393: 8308,
 			404: 8309,
 			477: 8833,
@@ -86159,7 +86159,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8911,
-			4: 4025,
+			4:   4025,
 			393: 8386,
 			404: 8387,
 			477: 8911,
@@ -86294,7 +86294,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3369,
-			4: 966,
+			4:   966,
 			393: 3065,
 			404: 3066,
 			477: 3369,
@@ -86346,7 +86346,7 @@ var newBlocks = []NewBlock {
 		"minecraft:rail[shape=ascending_north]",
 		nil,
 		NewMapping{
-			4: 1060,
+			4:   1060,
 			393: 3183,
 			404: 3184,
 			477: 3647,
@@ -86425,7 +86425,7 @@ var newBlocks = []NewBlock {
 		"minecraft:magenta_concrete_powder",
 		nil,
 		NewMapping{
-			4: 4034,
+			4:   4034,
 			393: 8395,
 			404: 8396,
 			477: 8920,
@@ -86436,7 +86436,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3158,
+			4:   3158,
 			393: 7978,
 			404: 7979,
 			477: 8503,
@@ -86538,7 +86538,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7348,
-			4: 2784,
+			4:   2784,
 			393: 6841,
 			404: 6842,
 			477: 7348,
@@ -86680,7 +86680,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sugar_cane[age=13]",
 		nil,
 		NewMapping{
-			4: 1341,
+			4:   1341,
 			393: 3455,
 			404: 3456,
 			477: 3959,
@@ -86780,7 +86780,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7875,
-			4: 3280,
+			4:   3280,
 			393: 7350,
 			404: 7351,
 			477: 7875,
@@ -86790,7 +86790,7 @@ var newBlocks = []NewBlock {
 		"minecraft:vine[east=false,north=true,south=true,up=false,west=false]",
 		nil,
 		NewMapping{
-			4: 1701,
+			4:   1701,
 			393: 4287,
 			404: 4288,
 			477: 4791,
@@ -86802,7 +86802,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5636,
-			4: 2195,
+			4:   2195,
 			393: 5132,
 			404: 5133,
 			477: 5636,
@@ -86852,14 +86852,14 @@ var newBlocks = []NewBlock {
 			404: 5684,
 			477: 6190,
 			573: 6190,
-			4: 2432,
+			4:   2432,
 		},
 	},
 	{
 		"minecraft:oak_button[face=wall,facing=west,powered=false]",
 		nil,
 		NewMapping{
-			4: 2290,
+			4:   2290,
 			393: 5316,
 			404: 5317,
 			477: 5823,
@@ -86872,7 +86872,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8901,
 			573: 8901,
-			4: 4003,
+			4:   4003,
 			393: 8376,
 			404: 8377,
 		},
@@ -86929,7 +86929,7 @@ var newBlocks = []NewBlock {
 		"minecraft:bone_block[axis=z]",
 		nil,
 		NewMapping{
-			4: 3464,
+			4:   3464,
 			393: 8197,
 			404: 8198,
 			477: 8722,
@@ -86940,7 +86940,7 @@ var newBlocks = []NewBlock {
 		"minecraft:powered_rail[powered=false,shape=east_west]",
 		nil,
 		NewMapping{
-			4: 433,
+			4:   433,
 			393: 1011,
 			404: 1011,
 			477: 1311,
@@ -86981,7 +86981,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence_gate[facing=north,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2930,
+			4:   2930,
 			393: 7364,
 			404: 7365,
 			477: 7889,
@@ -87000,7 +87000,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1147,
+			4:   1147,
 			393: 3357,
 			404: 3358,
 			477: 3861,
@@ -87093,7 +87093,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8850,
 			573: 8850,
-			4: 3810,
+			4:   3810,
 			393: 8325,
 			404: 8326,
 		},
@@ -87252,7 +87252,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_mushroom",
 		nil,
 		NewMapping{
-			4: 624,
+			4:   624,
 			393: 1121,
 			404: 1121,
 			477: 1424,
@@ -87265,7 +87265,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3948,
 			573: 3948,
-			4: 1330,
+			4:   1330,
 			393: 3444,
 			404: 3445,
 		},
@@ -87316,7 +87316,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7977,
 			573: 7977,
-			4: 2963,
+			4:   2963,
 			393: 7452,
 			404: 7453,
 		},
@@ -87449,7 +87449,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3664,
 			573: 3664,
-			4: 1075,
+			4:   1075,
 			393: 3200,
 			404: 3201,
 		},
@@ -87625,7 +87625,7 @@ var newBlocks = []NewBlock {
 		"minecraft:powered_rail[powered=true,shape=ascending_south]",
 		nil,
 		NewMapping{
-			4: 445,
+			4:   445,
 			393: 1009,
 			404: 1009,
 			477: 1309,
@@ -87640,7 +87640,7 @@ var newBlocks = []NewBlock {
 			404: 7797,
 			477: 8321,
 			573: 8321,
-			4: 3113,
+			4:   3113,
 		},
 	},
 	{
@@ -87757,7 +87757,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1751,
+			4:   1751,
 			393: 4413,
 			404: 4414,
 			477: 4917,
@@ -87771,7 +87771,7 @@ var newBlocks = []NewBlock {
 			404: 6394,
 			477: 6900,
 			573: 6900,
-			4: 2612,
+			4:   2612,
 			393: 6393,
 		},
 	},
@@ -87810,7 +87810,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1342,
-			4: 498,
+			4:   498,
 			393: 1042,
 			404: 1042,
 			477: 1342,
@@ -87848,7 +87848,7 @@ var newBlocks = []NewBlock {
 		"minecraft:mossy_stone_bricks",
 		nil,
 		NewMapping{
-			4: 1569,
+			4:   1569,
 			393: 3984,
 			404: 3985,
 			477: 4482,
@@ -88087,7 +88087,7 @@ var newBlocks = []NewBlock {
 		"minecraft:mushroom_stem[down=false,east=true,north=true,south=true,up=false,west=true]",
 		nil,
 		NewMapping{
-			4: 1594,
+			4:   1594,
 			393: 4149,
 			404: 4150,
 			477: 4653,
@@ -88147,7 +88147,7 @@ var newBlocks = []NewBlock {
 			404: 3564,
 			477: 4067,
 			573: 4067,
-			4: 1518,
+			4:   1518,
 		},
 	},
 	{
@@ -88362,7 +88362,7 @@ var newBlocks = []NewBlock {
 		"minecraft:carved_pumpkin[facing=east]",
 		nil,
 		NewMapping{
-			4: 1379,
+			4:   1379,
 			393: 3501,
 			404: 3502,
 			477: 4005,
@@ -88373,7 +88373,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_shulker_box[facing=west]",
 		nil,
 		NewMapping{
-			4: 3732,
+			4:   3732,
 			393: 8304,
 			404: 8305,
 			477: 8829,
@@ -88426,7 +88426,7 @@ var newBlocks = []NewBlock {
 			404: 4896,
 			477: 5399,
 			573: 5399,
-			4: 2147,
+			4:   2147,
 		},
 	},
 	{
@@ -88473,7 +88473,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 60,
 			573: 60,
-			4: 170,
+			4:   170,
 			393: 60,
 			404: 60,
 		},
@@ -88556,7 +88556,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_wart[age=1]",
 		nil,
 		NewMapping{
-			4: 1841,
+			4:   1841,
 			393: 4609,
 			404: 4610,
 			477: 5113,
@@ -88597,7 +88597,7 @@ var newBlocks = []NewBlock {
 			404: 5820,
 			477: 6326,
 			573: 6326,
-			4: 2559,
+			4:   2559,
 		},
 	},
 	{
@@ -88607,7 +88607,7 @@ var newBlocks = []NewBlock {
 			404: 1020,
 			477: 1320,
 			573: 1320,
-			4: 460,
+			4:   460,
 			393: 1020,
 		},
 	},
@@ -88703,7 +88703,7 @@ var newBlocks = []NewBlock {
 		"minecraft:melon_stem[age=7]",
 		nil,
 		NewMapping{
-			4: 1687,
+			4:   1687,
 			393: 4267,
 			404: 4268,
 			477: 4771,
@@ -88760,7 +88760,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 200,
 			573: 200,
-			4: 2580,
+			4:   2580,
 			393: 200,
 			404: 200,
 		},
@@ -88811,7 +88811,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8613,
 			573: 8613,
-			4: 3251,
+			4:   3251,
 			393: 8088,
 			404: 8089,
 		},
@@ -88822,7 +88822,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7335,
 			573: 7335,
-			4: 2741,
+			4:   2741,
 			393: 6828,
 			404: 6829,
 		},
@@ -88921,7 +88921,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3137,
+			4:   3137,
 			393: 7900,
 			404: 7901,
 			477: 8425,
@@ -88994,7 +88994,7 @@ var newBlocks = []NewBlock {
 			404: 3448,
 			477: 3951,
 			573: 3951,
-			4: 1333,
+			4:   1333,
 		},
 	},
 	{
@@ -89097,7 +89097,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston_head[facing=up,short=false,type=normal]",
 		nil,
 		NewMapping{
-			4: 545,
+			4:   545,
 			393: 1077,
 			404: 1077,
 			477: 1377,
@@ -89110,7 +89110,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7919,
 			573: 7919,
-			4: 2950,
+			4:   2950,
 			393: 7394,
 			404: 7395,
 		},
@@ -89177,7 +89177,7 @@ var newBlocks = []NewBlock {
 		"minecraft:trapped_chest[facing=east,type=single,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2341,
+			4:   2341,
 			393: 5598,
 			404: 5599,
 			477: 6105,
@@ -89190,7 +89190,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8449,
 			573: 8449,
-			4: 3145,
+			4:   3145,
 			393: 7924,
 			404: 7925,
 		},
@@ -89534,7 +89534,7 @@ var newBlocks = []NewBlock {
 		"minecraft:nether_wart[age=3]",
 		nil,
 		NewMapping{
-			4: 1843,
+			4:   1843,
 			393: 4611,
 			404: 4612,
 			477: 5115,
@@ -89587,7 +89587,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8710,
 			573: 8710,
-			4: 3380,
+			4:   3380,
 			393: 8185,
 			404: 8186,
 		},
@@ -89597,7 +89597,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7921,
-			4: 2946,
+			4:   2946,
 			393: 7396,
 			404: 7397,
 			477: 7921,
@@ -89685,7 +89685,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_wood[axis=y]",
 		nil,
 		NewMapping{
-			4: 285,
+			4:   285,
 			393: 112,
 			404: 112,
 			477: 112,
@@ -89696,7 +89696,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_log[axis=x]",
 		nil,
 		NewMapping{
-			4: 277,
+			4:   277,
 			393: 75,
 			404: 75,
 			477: 75,
@@ -89839,7 +89839,7 @@ var newBlocks = []NewBlock {
 		"minecraft:beetroots[age=1]",
 		nil,
 		NewMapping{
-			4: 3313,
+			4:   3313,
 			393: 8159,
 			404: 8160,
 			477: 8684,
@@ -89850,7 +89850,7 @@ var newBlocks = []NewBlock {
 		"minecraft:blue_carpet",
 		nil,
 		NewMapping{
-			4: 2747,
+			4:   2747,
 			393: 6834,
 			404: 6835,
 			477: 7341,
@@ -90086,7 +90086,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1024,
+			4:   1024,
 			393: 3170,
 			404: 3171,
 			477: 3634,
@@ -90097,7 +90097,7 @@ var newBlocks = []NewBlock {
 		"minecraft:wall_sign[facing=south,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1091,
+			4:   1091,
 			393: 3272,
 		},
 	},
@@ -90158,7 +90158,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_banner[rotation=6]",
 		nil,
 		NewMapping{
-			4: 2822,
+			4:   2822,
 			393: 6860,
 			404: 6861,
 			477: 7367,
@@ -90210,7 +90210,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1352,
-			4: 536,
+			4:   536,
 			393: 1052,
 			404: 1052,
 			477: 1352,
@@ -90248,7 +90248,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_gray_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3634,
+			4:   3634,
 			393: 8265,
 			404: 8266,
 			477: 8790,
@@ -90280,7 +90280,7 @@ var newBlocks = []NewBlock {
 			404: 3520,
 			477: 4023,
 			573: 4023,
-			4: 1504,
+			4:   1504,
 			393: 3519,
 		},
 	},
@@ -90344,7 +90344,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6134,
 			573: 6134,
-			4: 2376,
+			4:   2376,
 			393: 5627,
 			404: 5628,
 		},
@@ -90357,7 +90357,7 @@ var newBlocks = []NewBlock {
 			404: 8300,
 			477: 8824,
 			573: 8824,
-			4: 3713,
+			4:   3713,
 		},
 	},
 	{
@@ -90450,7 +90450,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purple_shulker_box[facing=down]",
 		nil,
 		NewMapping{
-			4: 3664,
+			4:   3664,
 			393: 8282,
 			404: 8283,
 			477: 8807,
@@ -90461,7 +90461,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dropper[facing=east,triggered=false]",
 		nil,
 		NewMapping{
-			4: 2533,
+			4:   2533,
 			393: 5795,
 			404: 5796,
 			477: 6302,
@@ -90511,7 +90511,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3357,
-			4: 946,
+			4:   946,
 			393: 3053,
 			404: 3054,
 			477: 3357,
@@ -90521,7 +90521,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_mushroom_block[down=false,east=false,north=false,south=true,up=true,west=true]",
 		nil,
 		NewMapping{
-			4: 1591,
+			4:   1591,
 			393: 4043,
 			404: 4044,
 			477: 4547,
@@ -90606,7 +90606,7 @@ var newBlocks = []NewBlock {
 			404: 7261,
 			477: 7767,
 			573: 7767,
-			4: 2016,
+			4:   2016,
 		},
 	},
 	{
@@ -90673,7 +90673,7 @@ var newBlocks = []NewBlock {
 			404: 7500,
 			477: 8024,
 			573: 8024,
-			4: 2984,
+			4:   2984,
 		},
 	},
 	{
@@ -90748,7 +90748,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_wool",
 		nil,
 		NewMapping{
-			4: 564,
+			4:   564,
 			393: 1087,
 			404: 1087,
 			477: 1387,
@@ -90761,7 +90761,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 33,
 			573: 33,
-			4: 112,
+			4:   112,
 			393: 33,
 			404: 33,
 		},
@@ -90831,7 +90831,7 @@ var newBlocks = []NewBlock {
 			404: 8180,
 			477: 8704,
 			573: 8704,
-			4: 3388,
+			4:   3388,
 			393: 8179,
 		},
 	},
@@ -90839,7 +90839,7 @@ var newBlocks = []NewBlock {
 		"minecraft:ender_chest[facing=west,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2084,
+			4:   2084,
 			393: 4736,
 			404: 4737,
 			477: 5240,
@@ -90882,7 +90882,7 @@ var newBlocks = []NewBlock {
 			404: 8369,
 			477: 8893,
 			573: 8893,
-			4: 3971,
+			4:   3971,
 		},
 	},
 	{
@@ -90952,7 +90952,7 @@ var newBlocks = []NewBlock {
 			404: 3537,
 			477: 4040,
 			573: 4040,
-			4: 1492,
+			4:   1492,
 			393: 3536,
 		},
 	},
@@ -91184,7 +91184,7 @@ var newBlocks = []NewBlock {
 			404: 4267,
 			477: 4770,
 			573: 4770,
-			4: 1686,
+			4:   1686,
 			393: 4266,
 		},
 	},
@@ -91240,7 +91240,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=15]",
 		nil,
 		NewMapping{
-			4: 2367,
+			4:   2367,
 			393: 5618,
 			404: 5619,
 			477: 6125,
@@ -91252,7 +91252,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7990,
-			4: 3004,
+			4:   3004,
 			393: 7465,
 			404: 7466,
 			477: 7990,
@@ -91359,7 +91359,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5149,
-			4: 2039,
+			4:   2039,
 			393: 4645,
 			404: 4646,
 			477: 5149,
@@ -91416,7 +91416,7 @@ var newBlocks = []NewBlock {
 			404: 1710,
 			477: 2013,
 			573: 2013,
-			4: 852,
+			4:   852,
 		},
 	},
 	{
@@ -91492,7 +91492,7 @@ var newBlocks = []NewBlock {
 		"minecraft:enchanting_table",
 		nil,
 		NewMapping{
-			4: 1856,
+			4:   1856,
 			393: 4612,
 			404: 4613,
 			477: 5116,
@@ -91591,7 +91591,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_pressure_plate[powered=true]",
 		nil,
 		NewMapping{
-			4: 1121,
+			4:   1121,
 			393: 3301,
 			404: 3302,
 			477: 3805,
@@ -91856,7 +91856,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=4]",
 		nil,
 		NewMapping{
-			4: 2356,
+			4:   2356,
 			393: 5607,
 			404: 5608,
 			477: 6114,
@@ -91871,7 +91871,7 @@ var newBlocks = []NewBlock {
 			404: 3052,
 			477: 3355,
 			573: 3355,
-			4: 944,
+			4:   944,
 		},
 	},
 	{
@@ -91951,7 +91951,7 @@ var newBlocks = []NewBlock {
 			404: 1690,
 			477: 1993,
 			573: 1993,
-			4: 853,
+			4:   853,
 			393: 1689,
 		},
 	},
@@ -92007,7 +92007,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4619,
 			573: 4619,
-			4: 1615,
+			4:   1615,
 			393: 4115,
 			404: 4116,
 		},
@@ -92016,7 +92016,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1026,
+			4:   1026,
 			393: 3154,
 			404: 3155,
 			477: 3618,
@@ -92251,14 +92251,14 @@ var newBlocks = []NewBlock {
 			404: 8251,
 			477: 8775,
 			573: 8775,
-			4: 3588,
+			4:   3588,
 		},
 	},
 	{
 		"minecraft:blue_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2571,
+			4:   2571,
 			393: 6203,
 			404: 6204,
 			477: 6710,
@@ -92324,7 +92324,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8753,
-			4: 3520,
+			4:   3520,
 			393: 8228,
 			404: 8229,
 			477: 8753,
@@ -92335,7 +92335,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7328,
-			4: 2720,
+			4:   2720,
 			393: 6821,
 			404: 6822,
 			477: 7328,
@@ -92345,7 +92345,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cocoa[age=1,facing=west]",
 		nil,
 		NewMapping{
-			4: 2037,
+			4:   2037,
 			393: 4644,
 			404: 4645,
 			477: 5148,
@@ -92440,7 +92440,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_planks",
 		nil,
 		NewMapping{
-			4: 81,
+			4:   81,
 			393: 16,
 			404: 16,
 			477: 16,
@@ -92520,7 +92520,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1336,
-			4: 467,
+			4:   467,
 			393: 1036,
 			404: 1036,
 			477: 1336,
@@ -92634,7 +92634,7 @@ var newBlocks = []NewBlock {
 		"minecraft:green_carpet",
 		nil,
 		NewMapping{
-			4: 2749,
+			4:   2749,
 			393: 6836,
 			404: 6837,
 			477: 7343,
@@ -92787,7 +92787,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8778,
 			573: 8778,
-			4: 3602,
+			4:   3602,
 			393: 8253,
 			404: 8254,
 		},
@@ -92856,7 +92856,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_shulker_box[facing=west]",
 		nil,
 		NewMapping{
-			4: 3508,
+			4:   3508,
 			393: 8220,
 			404: 8221,
 			477: 8745,
@@ -92937,7 +92937,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_fence_gate[facing=east,in_wall=false,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1723,
+			4:   1723,
 			393: 4330,
 			404: 4331,
 			477: 4834,
@@ -92952,7 +92952,7 @@ var newBlocks = []NewBlock {
 			404: 8174,
 			477: 8698,
 			573: 8698,
-			4: 3364,
+			4:   3364,
 		},
 	},
 	{
@@ -93048,7 +93048,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8892,
 			573: 8892,
-			4: 3969,
+			4:   3969,
 			393: 8367,
 			404: 8368,
 		},
@@ -93124,7 +93124,7 @@ var newBlocks = []NewBlock {
 			404: 3407,
 			477: 3910,
 			573: 3910,
-			4: 1233,
+			4:   1233,
 			393: 3406,
 		},
 	},
@@ -93376,7 +93376,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_leaves[distance=2,persistent=false]",
 		nil,
 		NewMapping{
-			4: 2585,
+			4:   2585,
 			393: 217,
 			404: 217,
 			477: 217,
@@ -93387,7 +93387,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_slab[type=bottom,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 711,
+			4:   711,
 			393: 7338,
 			404: 7339,
 			477: 7857,
@@ -93456,7 +93456,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=9]",
 		nil,
 		NewMapping{
-			4: 2361,
+			4:   2361,
 			393: 5612,
 			404: 5613,
 			477: 6119,
@@ -93469,7 +93469,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3938,
 			573: 3938,
-			4: 1305,
+			4:   1305,
 			393: 3434,
 			404: 3435,
 		},
@@ -93655,7 +93655,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cactus[age=7]",
 		nil,
 		NewMapping{
-			4: 1303,
+			4:   1303,
 			393: 3432,
 			404: 3433,
 			477: 3936,
@@ -93812,7 +93812,7 @@ var newBlocks = []NewBlock {
 		"minecraft:heavy_weighted_pressure_plate[power=1]",
 		nil,
 		NewMapping{
-			4: 2369,
+			4:   2369,
 			393: 5620,
 			404: 5621,
 			477: 6127,
@@ -93888,7 +93888,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=true,power=2]",
 		nil,
 		NewMapping{
-			4: 2850,
+			4:   2850,
 			393: 5653,
 			404: 5654,
 			477: 6160,
@@ -93940,7 +93940,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8733,
-			4: 3489,
+			4:   3489,
 			393: 8208,
 			404: 8209,
 			477: 8733,
@@ -93994,7 +93994,7 @@ var newBlocks = []NewBlock {
 		"minecraft:observer[facing=east,powered=true]",
 		nil,
 		NewMapping{
-			4: 3501,
+			4:   3501,
 			393: 8201,
 			404: 8202,
 			477: 8726,
@@ -94005,7 +94005,7 @@ var newBlocks = []NewBlock {
 		"minecraft:green_stained_glass",
 		nil,
 		NewMapping{
-			4: 1533,
+			4:   1533,
 			393: 3590,
 			404: 3591,
 			477: 4094,
@@ -94065,7 +94065,7 @@ var newBlocks = []NewBlock {
 			404: 3387,
 			477: 3890,
 			573: 3890,
-			4: 1203,
+			4:   1203,
 			393: 3386,
 		},
 	},
@@ -94181,7 +94181,7 @@ var newBlocks = []NewBlock {
 			404: 8191,
 			477: 8715,
 			573: 8715,
-			4: 3394,
+			4:   3394,
 		},
 	},
 	{
@@ -94354,7 +94354,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire_hook[attached=true,facing=west,powered=false]",
 		nil,
 		NewMapping{
-			4: 2101,
+			4:   2101,
 			393: 4744,
 			404: 4745,
 			477: 5248,
@@ -94405,7 +94405,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_mushroom_block[down=false,east=true,north=true,south=false,up=true,west=false]",
 		nil,
 		NewMapping{
-			4: 1603,
+			4:   1603,
 			393: 4088,
 			404: 4089,
 			477: 4592,
@@ -94454,7 +94454,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 81,
-			4: 279,
+			4:   279,
 			393: 81,
 			404: 81,
 			477: 81,
@@ -94508,7 +94508,7 @@ var newBlocks = []NewBlock {
 		"minecraft:daylight_detector[inverted=false,power=4]",
 		nil,
 		NewMapping{
-			4: 2420,
+			4:   2420,
 			393: 5671,
 			404: 5672,
 			477: 6178,
@@ -94519,7 +94519,7 @@ var newBlocks = []NewBlock {
 		"minecraft:moving_piston[facing=north,type=sticky]",
 		nil,
 		NewMapping{
-			4: 586,
+			4:   586,
 			393: 1100,
 			404: 1100,
 			477: 1400,
@@ -94580,7 +94580,7 @@ var newBlocks = []NewBlock {
 		"minecraft:pumpkin_stem[age=3]",
 		nil,
 		NewMapping{
-			4: 1667,
+			4:   1667,
 			393: 4255,
 			404: 4256,
 			477: 4759,
@@ -94641,7 +94641,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6315,
 			573: 6315,
-			4: 2548,
+			4:   2548,
 			393: 5808,
 			404: 5809,
 		},
@@ -94653,7 +94653,7 @@ var newBlocks = []NewBlock {
 			404: 5132,
 			477: 5635,
 			573: 5635,
-			4: 2197,
+			4:   2197,
 			393: 5131,
 		},
 	},
@@ -94665,7 +94665,7 @@ var newBlocks = []NewBlock {
 			404: 1061,
 			477: 1361,
 			573: 1361,
-			4: 546,
+			4:   546,
 		},
 	},
 	{
@@ -94722,7 +94722,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dropper[facing=north,triggered=true]",
 		nil,
 		NewMapping{
-			4: 2538,
+			4:   2538,
 			393: 5792,
 			404: 5793,
 			477: 6299,
@@ -94736,7 +94736,7 @@ var newBlocks = []NewBlock {
 			404: 1054,
 			477: 1354,
 			573: 1354,
-			4: 533,
+			4:   533,
 			393: 1054,
 		},
 	},
@@ -94774,7 +94774,7 @@ var newBlocks = []NewBlock {
 		"minecraft:smooth_red_sandstone",
 		nil,
 		NewMapping{
-			4: 2904,
+			4:   2904,
 			393: 7356,
 			404: 7357,
 			477: 7881,
@@ -94787,7 +94787,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6294,
 			573: 6294,
-			4: 2513,
+			4:   2513,
 			393: 5787,
 			404: 5788,
 		},
@@ -95036,7 +95036,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1551,
+			4:   1551,
 			393: 3644,
 			404: 3645,
 			477: 4148,
@@ -95111,7 +95111,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_blue_concrete_powder",
 		nil,
 		NewMapping{
-			4: 4035,
+			4:   4035,
 			393: 8396,
 			404: 8397,
 			477: 8921,
@@ -95175,7 +95175,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 67,
-			4: 193,
+			4:   193,
 			393: 67,
 			404: 67,
 			477: 67,
@@ -95303,7 +95303,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8683,
 			573: 8683,
-			4: 3312,
+			4:   3312,
 			393: 8158,
 			404: 8159,
 		},
@@ -95460,7 +95460,7 @@ var newBlocks = []NewBlock {
 			404: 3633,
 			477: 4136,
 			573: 4136,
-			4: 1546,
+			4:   1546,
 			393: 3632,
 		},
 	},
@@ -95549,7 +95549,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 3638,
 			573: 3638,
-			4: 1043,
+			4:   1043,
 			393: 3174,
 			404: 3175,
 		},
@@ -95877,7 +95877,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=true,west=false]",
 		nil,
 		NewMapping{
-			4: 1589,
+			4:   1589,
 			393: 4048,
 			404: 4049,
 			477: 4552,
@@ -95949,7 +95949,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purple_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3666,
+			4:   3666,
 			393: 8277,
 			404: 8278,
 			477: 8802,
@@ -96000,7 +96000,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_fence_gate[facing=south,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2996,
+			4:   2996,
 			393: 7466,
 			404: 7467,
 			477: 7991,
@@ -96074,7 +96074,7 @@ var newBlocks = []NewBlock {
 			404: 2976,
 			477: 3279,
 			573: 3279,
-			4: 887,
+			4:   887,
 		},
 	},
 	{
@@ -96191,7 +96191,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2165,
+			4:   2165,
 			393: 5005,
 			404: 5006,
 			477: 5509,
@@ -96202,7 +96202,7 @@ var newBlocks = []NewBlock {
 		"minecraft:green_terracotta",
 		nil,
 		NewMapping{
-			4: 2557,
+			4:   2557,
 			393: 5817,
 			404: 5818,
 			477: 6324,
@@ -96329,7 +96329,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4116,
 			573: 4116,
-			4: 1549,
+			4:   1549,
 			393: 3612,
 			404: 3613,
 		},
@@ -96338,7 +96338,7 @@ var newBlocks = []NewBlock {
 		"minecraft:powered_rail[powered=false,shape=ascending_north]",
 		nil,
 		NewMapping{
-			4: 436,
+			4:   436,
 			393: 1014,
 			404: 1014,
 			477: 1314,
@@ -96449,7 +96449,7 @@ var newBlocks = []NewBlock {
 			404: 3173,
 			477: 3636,
 			573: 3636,
-			4: 1042,
+			4:   1042,
 		},
 	},
 	{
@@ -96619,7 +96619,7 @@ var newBlocks = []NewBlock {
 			404: 118,
 			477: 118,
 			573: 118,
-			4: 287,
+			4:   287,
 			393: 118,
 		},
 	},
@@ -96645,7 +96645,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_shulker_box[facing=south]",
 		nil,
 		NewMapping{
-			4: 3747,
+			4:   3747,
 			393: 8309,
 			404: 8310,
 			477: 8834,
@@ -96769,7 +96769,7 @@ var newBlocks = []NewBlock {
 			404: 5313,
 			477: 5819,
 			573: 5819,
-			4: 2292,
+			4:   2292,
 			393: 5312,
 		},
 	},
@@ -96835,7 +96835,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeating_command_block[conditional=false,facing=east]",
 		nil,
 		NewMapping{
-			4: 3365,
+			4:   3365,
 			393: 8171,
 			404: 8172,
 			477: 8696,
@@ -96916,7 +96916,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_fence_gate[facing=north,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2998,
+			4:   2998,
 			393: 7458,
 			404: 7459,
 			477: 7983,
@@ -96976,7 +96976,7 @@ var newBlocks = []NewBlock {
 		"minecraft:barrier",
 		nil,
 		NewMapping{
-			4: 2656,
+			4:   2656,
 			393: 6493,
 			404: 6494,
 			477: 7000,
@@ -97019,7 +97019,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4808,
 			573: 4808,
-			4: 1726,
+			4:   1726,
 			393: 4304,
 			404: 4305,
 		},
@@ -97096,7 +97096,7 @@ var newBlocks = []NewBlock {
 		"minecraft:wheat[age=3]",
 		nil,
 		NewMapping{
-			4: 947,
+			4:   947,
 			393: 3054,
 			404: 3055,
 			477: 3358,
@@ -97179,7 +97179,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4089,
 			573: 4089,
-			4: 1528,
+			4:   1528,
 			393: 3585,
 			404: 3586,
 		},
@@ -97192,7 +97192,7 @@ var newBlocks = []NewBlock {
 			404: 8240,
 			477: 8764,
 			573: 8764,
-			4: 3553,
+			4:   3553,
 		},
 	},
 	{
@@ -97476,7 +97476,7 @@ var newBlocks = []NewBlock {
 			404: 5315,
 			477: 5821,
 			573: 5821,
-			4: 2291,
+			4:   2291,
 			393: 5314,
 		},
 	},
@@ -97602,7 +97602,7 @@ var newBlocks = []NewBlock {
 		"minecraft:snow[layers=3]",
 		nil,
 		NewMapping{
-			4: 1250,
+			4:   1250,
 			393: 3417,
 			404: 3418,
 			477: 3921,
@@ -97616,7 +97616,7 @@ var newBlocks = []NewBlock {
 			404: 8362,
 			477: 8886,
 			573: 8886,
-			4: 3954,
+			4:   3954,
 			393: 8361,
 		},
 	},
@@ -97627,7 +97627,7 @@ var newBlocks = []NewBlock {
 			404: 3062,
 			477: 3365,
 			573: 3365,
-			4: 962,
+			4:   962,
 			393: 3061,
 		},
 	},
@@ -97638,7 +97638,7 @@ var newBlocks = []NewBlock {
 			404: 5694,
 			477: 6200,
 			573: 6200,
-			4: 2476,
+			4:   2476,
 			393: 5693,
 		},
 	},
@@ -97660,7 +97660,7 @@ var newBlocks = []NewBlock {
 			404: 4324,
 			477: 4827,
 			573: 4827,
-			4: 1713,
+			4:   1713,
 		},
 	},
 	{
@@ -97719,7 +97719,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston[extended=false,facing=south]",
 		nil,
 		NewMapping{
-			4: 531,
+			4:   531,
 			393: 1055,
 			404: 1055,
 			477: 1355,
@@ -97837,7 +97837,7 @@ var newBlocks = []NewBlock {
 			404: 5794,
 			477: 6300,
 			573: 6300,
-			4: 2530,
+			4:   2530,
 			393: 5793,
 		},
 	},
@@ -97865,7 +97865,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cake[bites=2]",
 		nil,
 		NewMapping{
-			4: 1474,
+			4:   1474,
 			393: 3508,
 			404: 3509,
 			477: 4012,
@@ -97880,14 +97880,14 @@ var newBlocks = []NewBlock {
 			404: 7773,
 			477: 8297,
 			573: 8297,
-			4: 3105,
+			4:   3105,
 		},
 	},
 	{
 		"minecraft:oak_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1539,
+			4:   1539,
 			393: 3656,
 			404: 3657,
 			477: 4160,
@@ -97997,7 +97997,7 @@ var newBlocks = []NewBlock {
 			404: 4692,
 			477: 5195,
 			573: 5195,
-			4: 2053,
+			4:   2053,
 			393: 4691,
 		},
 	},
@@ -98009,7 +98009,7 @@ var newBlocks = []NewBlock {
 			404: 3572,
 			477: 4075,
 			573: 4075,
-			4: 1517,
+			4:   1517,
 		},
 	},
 	{
@@ -98076,7 +98076,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_fence_gate[facing=north,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2934,
+			4:   2934,
 			393: 7362,
 			404: 7363,
 			477: 7887,
@@ -98087,7 +98087,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3124,
+			4:   3124,
 			393: 7866,
 			404: 7867,
 			477: 8391,
@@ -98146,7 +98146,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lime_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3586,
+			4:   3586,
 			393: 8247,
 			404: 8248,
 			477: 8772,
@@ -98157,7 +98157,7 @@ var newBlocks = []NewBlock {
 		"minecraft:jungle_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2177,
+			4:   2177,
 			393: 5095,
 			404: 5096,
 			477: 5599,
@@ -98290,7 +98290,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wall_torch[facing=east,lit=false]",
 		nil,
 		NewMapping{
-			4: 1201,
+			4:   1201,
 			393: 3390,
 			404: 3391,
 			477: 3894,
@@ -98302,7 +98302,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6136,
-			4: 2378,
+			4:   2378,
 			393: 5629,
 			404: 5630,
 			477: 6136,
@@ -98509,7 +98509,7 @@ var newBlocks = []NewBlock {
 			404: 1058,
 			477: 1358,
 			573: 1358,
-			4: 528,
+			4:   528,
 			393: 1058,
 		},
 	},
@@ -98557,7 +98557,7 @@ var newBlocks = []NewBlock {
 		"minecraft:skeleton_wall_skull[facing=north]",
 		nil,
 		NewMapping{
-			4: 2314,
+			4:   2314,
 			393: 5447,
 			404: 5448,
 			477: 5970,
@@ -98568,7 +98568,7 @@ var newBlocks = []NewBlock {
 		"minecraft:vine[east=true,north=true,south=false,up=false,west=true]",
 		nil,
 		NewMapping{
-			4: 1710,
+			4:   1710,
 			393: 4274,
 			404: 4275,
 			477: 4778,
@@ -98661,7 +98661,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4818,
 			573: 4818,
-			4: 1720,
+			4:   1720,
 			393: 4314,
 			404: 4315,
 		},
@@ -98673,7 +98673,7 @@ var newBlocks = []NewBlock {
 			404: 3427,
 			477: 3930,
 			573: 3930,
-			4: 1297,
+			4:   1297,
 			393: 3426,
 		},
 	},
@@ -98747,7 +98747,7 @@ var newBlocks = []NewBlock {
 		"minecraft:command_block[conditional=false,facing=up]",
 		nil,
 		NewMapping{
-			4: 2193,
+			4:   2193,
 			393: 5134,
 			404: 5135,
 			477: 5638,
@@ -98776,7 +98776,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston_head[facing=west,short=false,type=sticky]",
 		nil,
 		NewMapping{
-			4: 556,
+			4:   556,
 			393: 1074,
 			404: 1074,
 			477: 1374,
@@ -98838,7 +98838,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7843,
-			4: 717,
+			4:   717,
 			393: 7324,
 			404: 7325,
 			477: 7843,
@@ -98852,7 +98852,7 @@ var newBlocks = []NewBlock {
 			404: 5126,
 			477: 5629,
 			573: 5629,
-			4: 2205,
+			4:   2205,
 		},
 	},
 	{
@@ -98863,7 +98863,7 @@ var newBlocks = []NewBlock {
 			404: 3317,
 			477: 3820,
 			573: 3820,
-			4: 1143,
+			4:   1143,
 		},
 	},
 	{
@@ -98874,7 +98874,7 @@ var newBlocks = []NewBlock {
 			404: 5295,
 			477: 5801,
 			573: 5801,
-			4: 2263,
+			4:   2263,
 		},
 	},
 	{
@@ -99051,7 +99051,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7895,
 			573: 7895,
-			4: 2932,
+			4:   2932,
 			393: 7370,
 			404: 7371,
 		},
@@ -99071,7 +99071,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5439,
-			4: 2145,
+			4:   2145,
 			393: 4935,
 			404: 4936,
 			477: 5439,
@@ -99111,7 +99111,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_wire[east=none,north=none,power=3,south=none,west=none]",
 		nil,
 		NewMapping{
-			4: 883,
+			4:   883,
 			393: 2939,
 			404: 2940,
 			477: 3243,
@@ -99126,7 +99126,7 @@ var newBlocks = []NewBlock {
 			404: 7739,
 			477: 8263,
 			573: 8263,
-			4: 3092,
+			4:   3092,
 		},
 	},
 	{
@@ -99223,7 +99223,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3160,
+			4:   3160,
 			393: 7984,
 			404: 7985,
 			477: 8509,
@@ -99320,7 +99320,7 @@ var newBlocks = []NewBlock {
 		"minecraft:infested_stone",
 		nil,
 		NewMapping{
-			4: 1552,
+			4:   1552,
 			393: 3977,
 			404: 3978,
 			477: 4485,
@@ -99400,7 +99400,7 @@ var newBlocks = []NewBlock {
 			404: 8175,
 			477: 8699,
 			573: 8699,
-			4: 3361,
+			4:   3361,
 		},
 	},
 	{
@@ -99505,7 +99505,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 85,
 			573: 85,
-			4: 2592,
+			4:   2592,
 			393: 85,
 			404: 85,
 		},
@@ -99548,7 +99548,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2983,
+			4:   2983,
 			393: 7514,
 			404: 7515,
 			477: 8039,
@@ -99559,7 +99559,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston_head[facing=west,short=false,type=normal]",
 		nil,
 		NewMapping{
-			4: 548,
+			4:   548,
 			393: 1073,
 			404: 1073,
 			477: 1373,
@@ -99642,7 +99642,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8890,
 			573: 8890,
-			4: 3970,
+			4:   3970,
 			393: 8365,
 			404: 8366,
 		},
@@ -99651,7 +99651,7 @@ var newBlocks = []NewBlock {
 		"minecraft:crafting_table",
 		nil,
 		NewMapping{
-			4: 928,
+			4:   928,
 			393: 3050,
 			404: 3051,
 			477: 3354,
@@ -99746,7 +99746,7 @@ var newBlocks = []NewBlock {
 		"minecraft:furnace[facing=east,lit=false]",
 		nil,
 		NewMapping{
-			4: 981,
+			4:   981,
 			393: 3074,
 			404: 3075,
 			477: 3378,
@@ -99827,7 +99827,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sunflower[half=lower]",
 		nil,
 		NewMapping{
-			4: 2800,
+			4:   2800,
 			393: 6843,
 			404: 6844,
 			477: 7350,
@@ -99930,7 +99930,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_blue_concrete",
 		nil,
 		NewMapping{
-			4: 4019,
+			4:   4019,
 			393: 8380,
 			404: 8381,
 			477: 8905,
@@ -100055,7 +100055,7 @@ var newBlocks = []NewBlock {
 		"minecraft:gray_shulker_box[facing=north]",
 		nil,
 		NewMapping{
-			4: 3618,
+			4:   3618,
 			393: 8259,
 			404: 8260,
 			477: 8784,
@@ -100104,7 +100104,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=true,south=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2117,
+			4:   2117,
 			393: 4814,
 			404: 4815,
 			477: 5318,
@@ -100115,7 +100115,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2160,
+			4:   2160,
 			393: 5035,
 			404: 5036,
 			477: 5539,
@@ -100350,7 +100350,7 @@ var newBlocks = []NewBlock {
 		"minecraft:diorite",
 		nil,
 		NewMapping{
-			4: 19,
+			4:   19,
 			393: 4,
 			404: 4,
 			477: 4,
@@ -100365,7 +100365,7 @@ var newBlocks = []NewBlock {
 			404: 7899,
 			477: 8423,
 			573: 8423,
-			4: 3141,
+			4:   3141,
 		},
 	},
 	{
@@ -100374,7 +100374,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 87,
 			573: 87,
-			4: 2597,
+			4:   2597,
 			393: 87,
 			404: 87,
 		},
@@ -100405,7 +100405,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 37,
 			573: 37,
-			4: 131,
+			4:   131,
 			393: 37,
 			404: 37,
 		},
@@ -100485,7 +100485,7 @@ var newBlocks = []NewBlock {
 			404: 8400,
 			477: 8924,
 			573: 8924,
-			4: 4038,
+			4:   4038,
 			393: 8399,
 		},
 	},
@@ -100533,7 +100533,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lava[level=15]",
 		nil,
 		NewMapping{
-			4: 175,
+			4:   175,
 			393: 65,
 			404: 65,
 			477: 65,
@@ -100743,7 +100743,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8845,
-			4: 3779,
+			4:   3779,
 			393: 8320,
 			404: 8321,
 			477: 8845,
@@ -100753,7 +100753,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=13,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1021,
+			4:   1021,
 			393: 3102,
 		},
 	},
@@ -100877,7 +100877,7 @@ var newBlocks = []NewBlock {
 			404: 4033,
 			477: 4536,
 			573: 4536,
-			4: 1590,
+			4:   1590,
 		},
 	},
 	{
@@ -100952,7 +100952,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1138,
+			4:   1138,
 			393: 3350,
 			404: 3351,
 			477: 3854,
@@ -100967,7 +100967,7 @@ var newBlocks = []NewBlock {
 			404: 5604,
 			477: 6110,
 			573: 6110,
-			4: 2352,
+			4:   2352,
 		},
 	},
 	{
@@ -101012,7 +101012,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2944,
+			4:   2944,
 			393: 7404,
 			404: 7405,
 			477: 7929,
@@ -101051,7 +101051,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cocoa[age=2,facing=east]",
 		nil,
 		NewMapping{
-			4: 2043,
+			4:   2043,
 			393: 4649,
 			404: 4650,
 			477: 5153,
@@ -101108,7 +101108,7 @@ var newBlocks = []NewBlock {
 		"minecraft:potatoes[age=3]",
 		nil,
 		NewMapping{
-			4: 2275,
+			4:   2275,
 			393: 5298,
 			404: 5299,
 			477: 5805,
@@ -101160,7 +101160,7 @@ var newBlocks = []NewBlock {
 			404: 3434,
 			477: 3937,
 			573: 3937,
-			4: 1304,
+			4:   1304,
 			393: 3433,
 		},
 	},
@@ -101206,7 +101206,7 @@ var newBlocks = []NewBlock {
 		"minecraft:chorus_flower[age=2]",
 		nil,
 		NewMapping{
-			4: 3202,
+			4:   3202,
 			393: 8069,
 			404: 8070,
 			477: 8594,
@@ -101271,7 +101271,7 @@ var newBlocks = []NewBlock {
 		"minecraft:beetroots[age=3]",
 		nil,
 		NewMapping{
-			4: 3315,
+			4:   3315,
 			393: 8161,
 			404: 8162,
 			477: 8686,
@@ -101283,7 +101283,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6180,
-			4: 2422,
+			4:   2422,
 			393: 5673,
 			404: 5674,
 			477: 6180,
@@ -101359,7 +101359,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_button[face=wall,facing=west,powered=false]",
 		nil,
 		NewMapping{
-			4: 1234,
+			4:   1234,
 			393: 3404,
 			404: 3405,
 			477: 3908,
@@ -101390,7 +101390,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_wool",
 		nil,
 		NewMapping{
-			4: 560,
+			4:   560,
 			393: 1083,
 			404: 1083,
 			477: 1383,
@@ -101651,7 +101651,7 @@ var newBlocks = []NewBlock {
 		"minecraft:iron_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2676,
+			4:   2676,
 			393: 6505,
 			404: 6506,
 			477: 7012,
@@ -101740,7 +101740,7 @@ var newBlocks = []NewBlock {
 		"minecraft:powered_rail[powered=true,shape=east_west]",
 		nil,
 		NewMapping{
-			4: 441,
+			4:   441,
 			393: 1005,
 			404: 1005,
 			477: 1305,
@@ -101751,7 +101751,7 @@ var newBlocks = []NewBlock {
 		"minecraft:end_portal_frame[eye=false,facing=west]",
 		nil,
 		NewMapping{
-			4: 1921,
+			4:   1921,
 			393: 4632,
 			404: 4633,
 			477: 5136,
@@ -101764,7 +101764,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8393,
 			573: 8393,
-			4: 3120,
+			4:   3120,
 			393: 7868,
 			404: 7869,
 		},
@@ -101851,7 +101851,7 @@ var newBlocks = []NewBlock {
 			404: 10,
 			477: 10,
 			573: 10,
-			4: 48,
+			4:   48,
 		},
 	},
 	{
@@ -101919,7 +101919,7 @@ var newBlocks = []NewBlock {
 			404: 3545,
 			477: 4048,
 			573: 4048,
-			4: 1495,
+			4:   1495,
 			393: 3544,
 		},
 	},
@@ -101967,7 +101967,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_bed[facing=west,occupied=false,part=foot]",
 		nil,
 		NewMapping{
-			4: 417,
+			4:   417,
 			393: 983,
 			404: 983,
 			477: 1283,
@@ -102025,7 +102025,7 @@ var newBlocks = []NewBlock {
 			404: 6836,
 			477: 7342,
 			573: 7342,
-			4: 2748,
+			4:   2748,
 			393: 6835,
 		},
 	},
@@ -102179,7 +102179,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1321,
 			573: 1321,
-			4: 461,
+			4:   461,
 			393: 1021,
 			404: 1021,
 		},
@@ -102188,7 +102188,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brick_slab[type=double,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 700,
+			4:   700,
 			393: 7322,
 			404: 7323,
 			477: 7841,
@@ -102394,7 +102394,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8752,
 			573: 8752,
-			4: 3521,
+			4:   3521,
 			393: 8227,
 			404: 8228,
 		},
@@ -102433,7 +102433,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence_gate[facing=south,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2980,
+			4:   2980,
 			393: 7498,
 			404: 7499,
 			477: 8023,
@@ -102534,7 +102534,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8854,
 			573: 8854,
-			4: 3826,
+			4:   3826,
 			393: 8329,
 			404: 8330,
 		},
@@ -102543,7 +102543,7 @@ var newBlocks = []NewBlock {
 		"minecraft:ender_chest[facing=east,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2085,
+			4:   2085,
 			393: 4738,
 			404: 4739,
 			477: 5242,
@@ -102596,7 +102596,7 @@ var newBlocks = []NewBlock {
 			404: 7394,
 			477: 7918,
 			573: 7918,
-			4: 2958,
+			4:   2958,
 		},
 	},
 	{
@@ -102606,7 +102606,7 @@ var newBlocks = []NewBlock {
 			404: 121,
 			477: 121,
 			573: 121,
-			4: 2604,
+			4:   2604,
 			393: 121,
 		},
 	},
@@ -102616,7 +102616,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 4490,
 			573: 4490,
-			4: 1557,
+			4:   1557,
 			393: 3982,
 			404: 3983,
 		},
@@ -102661,7 +102661,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 3157,
+			4:   3157,
 			393: 7962,
 			404: 7963,
 			477: 8487,
@@ -102808,7 +102808,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sticky_piston[extended=true,facing=down]",
 		nil,
 		NewMapping{
-			4: 472,
+			4:   472,
 			393: 1033,
 			404: 1033,
 			477: 1333,
@@ -102819,7 +102819,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_gray_shulker_box[facing=west]",
 		nil,
 		NewMapping{
-			4: 3636,
+			4:   3636,
 			393: 8268,
 			404: 8269,
 			477: 8793,
@@ -102888,7 +102888,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1733,
+			4:   1733,
 			393: 4373,
 			404: 4374,
 			477: 4877,
@@ -102903,7 +102903,7 @@ var newBlocks = []NewBlock {
 			404: 5790,
 			477: 6296,
 			573: 6296,
-			4: 2515,
+			4:   2515,
 		},
 	},
 	{
@@ -102956,7 +102956,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_fence_gate[facing=south,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2948,
+			4:   2948,
 			393: 7402,
 			404: 7403,
 			477: 7927,
@@ -103077,7 +103077,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cactus[age=4]",
 		nil,
 		NewMapping{
-			4: 1300,
+			4:   1300,
 			393: 3429,
 			404: 3430,
 			477: 3933,
@@ -103126,7 +103126,7 @@ var newBlocks = []NewBlock {
 		"minecraft:spruce_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3090,
+			4:   3090,
 			393: 7724,
 			404: 7725,
 			477: 8249,
@@ -103195,7 +103195,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_shulker_box[facing=east]",
 		nil,
 		NewMapping{
-			4: 3573,
+			4:   3573,
 			393: 8242,
 			404: 8243,
 			477: 8767,
@@ -103206,7 +103206,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_shulker_box[facing=south]",
 		nil,
 		NewMapping{
-			4: 3507,
+			4:   3507,
 			393: 8219,
 			404: 8220,
 			477: 8744,
@@ -103269,7 +103269,7 @@ var newBlocks = []NewBlock {
 			404: 8073,
 			477: 8597,
 			573: 8597,
-			4: 3205,
+			4:   3205,
 		},
 	},
 	{
@@ -103334,7 +103334,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 2564,
+			4:   2564,
 			393: 5979,
 			404: 5980,
 			477: 6486,
@@ -103434,7 +103434,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8316,
 			573: 8316,
-			4: 3114,
+			4:   3114,
 			393: 7791,
 			404: 7792,
 		},
@@ -103483,7 +103483,7 @@ var newBlocks = []NewBlock {
 			404: 4740,
 			477: 5243,
 			573: 5243,
-			4: 2110,
+			4:   2110,
 		},
 	},
 	{
@@ -103507,7 +103507,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8000,
-			4: 3001,
+			4:   3001,
 			393: 7475,
 			404: 7476,
 			477: 8000,
@@ -103658,7 +103658,7 @@ var newBlocks = []NewBlock {
 			404: 5670,
 			477: 6176,
 			573: 6176,
-			4: 2418,
+			4:   2418,
 			393: 5669,
 		},
 	},
@@ -103666,7 +103666,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_terracotta",
 		nil,
 		NewMapping{
-			4: 2556,
+			4:   2556,
 			393: 5816,
 			404: 5817,
 			477: 6323,
@@ -103679,7 +103679,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1392,
 			573: 1392,
-			4: 569,
+			4:   569,
 			393: 1092,
 			404: 1092,
 		},
@@ -103742,7 +103742,7 @@ var newBlocks = []NewBlock {
 		"minecraft:purple_glazed_terracotta[facing=south]",
 		nil,
 		NewMapping{
-			4: 3920,
+			4:   3920,
 			393: 8354,
 			404: 8355,
 			477: 8879,
@@ -103923,7 +103923,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cake[bites=6]",
 		nil,
 		NewMapping{
-			4: 1478,
+			4:   1478,
 			393: 3512,
 			404: 3513,
 			477: 4016,
@@ -104064,7 +104064,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lava[level=2]",
 		nil,
 		NewMapping{
-			4: 162,
+			4:   162,
 			393: 52,
 			404: 52,
 			477: 52,
@@ -104095,7 +104095,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_sapling[stage=0]",
 		nil,
 		NewMapping{
-			4: 98,
+			4:   98,
 			393: 25,
 			404: 25,
 			477: 25,
@@ -104108,7 +104108,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7374,
 			573: 7374,
-			4: 2829,
+			4:   2829,
 			393: 6867,
 			404: 6868,
 		},
@@ -104168,7 +104168,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7620,
-			4: 2837,
+			4:   2837,
 			393: 7113,
 			404: 7114,
 			477: 7620,
@@ -104234,7 +104234,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6,
-			4: 21,
+			4:   21,
 			393: 6,
 			404: 6,
 			477: 6,
@@ -104247,7 +104247,7 @@ var newBlocks = []NewBlock {
 			404: 3012,
 			477: 3315,
 			573: 3315,
-			4: 891,
+			4:   891,
 			393: 3011,
 		},
 	},
@@ -104343,7 +104343,7 @@ var newBlocks = []NewBlock {
 			404: 5808,
 			477: 6314,
 			573: 6314,
-			4: 2547,
+			4:   2547,
 		},
 	},
 	{
@@ -104351,7 +104351,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8791,
-			4: 3637,
+			4:   3637,
 			393: 8266,
 			404: 8267,
 			477: 8791,
@@ -104365,7 +104365,7 @@ var newBlocks = []NewBlock {
 			404: 3368,
 			477: 3871,
 			573: 3871,
-			4: 1153,
+			4:   1153,
 		},
 	},
 	{
@@ -104464,7 +104464,7 @@ var newBlocks = []NewBlock {
 		"minecraft:tripwire_hook[attached=false,facing=north,powered=false]",
 		nil,
 		NewMapping{
-			4: 2098,
+			4:   2098,
 			393: 4748,
 			404: 4749,
 			477: 5252,
@@ -104522,7 +104522,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=4,facing=south,locked=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 1500,
+			4:   1500,
 			393: 3568,
 			404: 3569,
 			477: 4072,
@@ -104533,7 +104533,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 3136,
+			4:   3136,
 			393: 7932,
 			404: 7933,
 			477: 8457,
@@ -104636,7 +104636,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dropper[facing=up,triggered=false]",
 		nil,
 		NewMapping{
-			4: 2529,
+			4:   2529,
 			393: 5801,
 			404: 5802,
 			477: 6308,
@@ -104701,7 +104701,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1078,
+			4:   1078,
 			393: 3210,
 			404: 3211,
 			477: 3674,
@@ -104712,7 +104712,7 @@ var newBlocks = []NewBlock {
 		"minecraft:quartz_pillar[axis=y]",
 		nil,
 		NewMapping{
-			4: 2482,
+			4:   2482,
 			393: 5698,
 			404: 5699,
 			477: 6205,
@@ -104723,7 +104723,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_shulker_box[facing=south]",
 		nil,
 		NewMapping{
-			4: 3731,
+			4:   3731,
 			393: 8303,
 			404: 8304,
 			477: 8828,
@@ -104812,7 +104812,7 @@ var newBlocks = []NewBlock {
 		"minecraft:stone_slab[type=double,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 688,
+			4:   688,
 			393: 7298,
 			477: 7805,
 			573: 7805,
@@ -104859,7 +104859,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 3162,
+			4:   3162,
 			393: 7983,
 			404: 7984,
 			477: 8508,
@@ -104922,7 +104922,7 @@ var newBlocks = []NewBlock {
 		"minecraft:lime_glazed_terracotta[facing=south]",
 		nil,
 		NewMapping{
-			4: 3840,
+			4:   3840,
 			393: 8334,
 			404: 8335,
 			477: 8859,
@@ -104937,7 +104937,7 @@ var newBlocks = []NewBlock {
 			404: 1748,
 			477: 2051,
 			573: 2051,
-			4: 869,
+			4:   869,
 		},
 	},
 	{
@@ -105008,7 +105008,7 @@ var newBlocks = []NewBlock {
 			404: 7514,
 			477: 8038,
 			573: 8038,
-			4: 2991,
+			4:   2991,
 		},
 	},
 	{
@@ -105017,7 +105017,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7967,
 			573: 7967,
-			4: 2965,
+			4:   2965,
 			393: 7442,
 			404: 7443,
 		},
@@ -105027,7 +105027,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 5589,
-			4: 2181,
+			4:   2181,
 			393: 5085,
 			404: 5086,
 			477: 5589,
@@ -105142,7 +105142,7 @@ var newBlocks = []NewBlock {
 		"minecraft:heavy_weighted_pressure_plate[power=4]",
 		nil,
 		NewMapping{
-			4: 2372,
+			4:   2372,
 			393: 5623,
 			404: 5624,
 			477: 6130,
@@ -105226,7 +105226,7 @@ var newBlocks = []NewBlock {
 			404: 4495,
 			477: 4998,
 			573: 4998,
-			4: 1776,
+			4:   1776,
 			393: 4494,
 		},
 	},
@@ -105236,7 +105236,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 1394,
 			573: 1394,
-			4: 571,
+			4:   571,
 			393: 1094,
 			404: 1094,
 		},
@@ -105274,7 +105274,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 1417,
-			4: 613,
+			4:   613,
 			393: 1117,
 			404: 1117,
 			477: 1417,
@@ -105449,7 +105449,7 @@ var newBlocks = []NewBlock {
 			404: 8344,
 			477: 8868,
 			573: 8868,
-			4: 3873,
+			4:   3873,
 			393: 8343,
 		},
 	},
@@ -105457,7 +105457,7 @@ var newBlocks = []NewBlock {
 		"minecraft:acacia_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
 		nil,
 		NewMapping{
-			4: 2992,
+			4:   2992,
 			393: 7468,
 			404: 7469,
 			477: 7993,
@@ -105634,7 +105634,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dandelion",
 		nil,
 		NewMapping{
-			4: 592,
+			4:   592,
 			393: 1111,
 			404: 1111,
 			477: 1411,
@@ -105717,14 +105717,14 @@ var newBlocks = []NewBlock {
 			404: 17,
 			477: 17,
 			573: 17,
-			4: 82,
+			4:   82,
 		},
 	},
 	{
 		"minecraft:redstone_wall_torch[facing=east,lit=true]",
 		nil,
 		NewMapping{
-			4: 1217,
+			4:   1217,
 			393: 3389,
 			404: 3390,
 			477: 3893,
@@ -105810,7 +105810,7 @@ var newBlocks = []NewBlock {
 			404: 8319,
 			477: 8843,
 			573: 8843,
-			4: 3776,
+			4:   3776,
 		},
 	},
 	{
@@ -106045,7 +106045,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8910,
-			4: 4024,
+			4:   4024,
 			393: 8385,
 			404: 8386,
 			477: 8910,
@@ -106148,7 +106148,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8919,
-			4: 4033,
+			4:   4033,
 			393: 8394,
 			404: 8395,
 			477: 8919,
@@ -106258,7 +106258,7 @@ var newBlocks = []NewBlock {
 			404: 7177,
 			477: 7683,
 			573: 7683,
-			4: 2866,
+			4:   2866,
 		},
 	},
 	{
@@ -106353,7 +106353,7 @@ var newBlocks = []NewBlock {
 		"minecraft:brown_shulker_box[facing=west]",
 		nil,
 		NewMapping{
-			4: 3700,
+			4:   3700,
 			393: 8292,
 			404: 8293,
 			477: 8817,
@@ -106364,7 +106364,7 @@ var newBlocks = []NewBlock {
 		"minecraft:light_weighted_pressure_plate[power=1]",
 		nil,
 		NewMapping{
-			4: 2353,
+			4:   2353,
 			393: 5604,
 			404: 5605,
 			477: 6111,
@@ -106521,7 +106521,7 @@ var newBlocks = []NewBlock {
 			404: 4530,
 			477: 5033,
 			573: 5033,
-			4: 1831,
+			4:   1831,
 			393: 4529,
 		},
 	},
@@ -106621,7 +106621,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 7346,
-			4: 2752,
+			4:   2752,
 			393: 6839,
 			404: 6840,
 			477: 7346,
@@ -106770,7 +106770,7 @@ var newBlocks = []NewBlock {
 			404: 50,
 			477: 50,
 			573: 50,
-			4: 176,
+			4:   176,
 			393: 50,
 		},
 	},
@@ -106832,7 +106832,7 @@ var newBlocks = []NewBlock {
 		"minecraft:heavy_weighted_pressure_plate[power=9]",
 		nil,
 		NewMapping{
-			4: 2377,
+			4:   2377,
 			393: 5628,
 			404: 5629,
 			477: 6135,
@@ -106847,7 +106847,7 @@ var newBlocks = []NewBlock {
 			404: 4262,
 			477: 4765,
 			573: 4765,
-			4: 1681,
+			4:   1681,
 		},
 	},
 	{
@@ -106909,7 +106909,7 @@ var newBlocks = []NewBlock {
 		"minecraft:sign[rotation=4,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 1012,
+			4:   1012,
 			393: 3084,
 		},
 	},
@@ -106917,7 +106917,7 @@ var newBlocks = []NewBlock {
 		"minecraft:repeater[delay=3,facing=south,locked=false,powered=true]",
 		nil,
 		NewMapping{
-			4: 1512,
+			4:   1512,
 			393: 3551,
 			404: 3552,
 			477: 4055,
@@ -106932,7 +106932,7 @@ var newBlocks = []NewBlock {
 			404: 5812,
 			477: 6318,
 			573: 6318,
-			4: 2551,
+			4:   2551,
 		},
 	},
 	{
@@ -106989,7 +106989,7 @@ var newBlocks = []NewBlock {
 		"minecraft:observer[facing=down,powered=false]",
 		nil,
 		NewMapping{
-			4: 3488,
+			4:   3488,
 			393: 8210,
 			404: 8211,
 			477: 8735,
@@ -107069,7 +107069,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8105,
-			4: 3024,
+			4:   3024,
 			393: 7580,
 			404: 7581,
 			477: 8105,
@@ -107202,7 +107202,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 241,
-			4: 377,
+			4:   377,
 			393: 241,
 			404: 241,
 			477: 241,
@@ -107272,7 +107272,7 @@ var newBlocks = []NewBlock {
 			404: 1031,
 			477: 1331,
 			573: 1331,
-			4: 476,
+			4:   476,
 		},
 	},
 	{
@@ -107323,7 +107323,7 @@ var newBlocks = []NewBlock {
 		"minecraft:redstone_torch[lit=true]",
 		nil,
 		NewMapping{
-			4: 1221,
+			4:   1221,
 			393: 3381,
 			404: 3382,
 			477: 3885,
@@ -107386,7 +107386,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8041,
 			573: 8041,
-			4: 2979,
+			4:   2979,
 			393: 7516,
 			404: 7517,
 		},
@@ -107399,7 +107399,7 @@ var newBlocks = []NewBlock {
 			404: 5685,
 			477: 6191,
 			573: 6191,
-			4: 2448,
+			4:   2448,
 		},
 	},
 	{
@@ -107437,7 +107437,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6310,
-			4: 2528,
+			4:   2528,
 			393: 5803,
 			404: 5804,
 			477: 6310,
@@ -107450,7 +107450,7 @@ var newBlocks = []NewBlock {
 			404: 8282,
 			477: 8806,
 			573: 8806,
-			4: 3665,
+			4:   3665,
 			393: 8281,
 		},
 	},
@@ -107502,7 +107502,7 @@ var newBlocks = []NewBlock {
 		"minecraft:command_block[conditional=true,facing=up]",
 		nil,
 		NewMapping{
-			4: 2201,
+			4:   2201,
 			393: 5128,
 			404: 5129,
 			477: 5632,
@@ -107564,7 +107564,7 @@ var newBlocks = []NewBlock {
 			404: 3425,
 			477: 3928,
 			573: 3928,
-			4: 1280,
+			4:   1280,
 			393: 3424,
 		},
 	},
@@ -107676,7 +107676,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_button[face=floor,facing=north,powered=true]",
 		nil,
 		NewMapping{
-			4: 2301,
+			4:   2301,
 			393: 5303,
 			404: 5304,
 			477: 5810,
@@ -107736,7 +107736,7 @@ var newBlocks = []NewBlock {
 			404: 8279,
 			477: 8803,
 			573: 8803,
-			4: 3669,
+			4:   3669,
 			393: 8278,
 		},
 	},
@@ -107784,7 +107784,7 @@ var newBlocks = []NewBlock {
 		"minecraft:oak_sapling[stage=0]",
 		nil,
 		NewMapping{
-			4: 96,
+			4:   96,
 			393: 21,
 			404: 21,
 			477: 21,
@@ -107962,7 +107962,7 @@ var newBlocks = []NewBlock {
 			404: 5813,
 			477: 6319,
 			573: 6319,
-			4: 2552,
+			4:   2552,
 			393: 5812,
 		},
 	},
@@ -107988,7 +107988,7 @@ var newBlocks = []NewBlock {
 		"minecraft:piston[extended=true,facing=south]",
 		nil,
 		NewMapping{
-			4: 539,
+			4:   539,
 			393: 1049,
 			404: 1049,
 			477: 1349,
@@ -108051,7 +108051,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6199,
 			573: 6199,
-			4: 2475,
+			4:   2475,
 			393: 5692,
 			404: 5693,
 		},
@@ -108061,7 +108061,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 3648,
-			4: 1061,
+			4:   1061,
 			393: 3184,
 			404: 3185,
 			477: 3648,
@@ -108154,7 +108154,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 172,
-			4: 294,
+			4:   294,
 			393: 172,
 			404: 172,
 			477: 172,
@@ -108210,7 +108210,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_slab[type=bottom,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2021,
+			4:   2021,
 			393: 7290,
 			404: 7291,
 			477: 7797,
@@ -108261,7 +108261,7 @@ var newBlocks = []NewBlock {
 		"minecraft:water[level=14]",
 		nil,
 		NewMapping{
-			4: 142,
+			4:   142,
 			393: 48,
 			404: 48,
 			477: 48,
@@ -108273,7 +108273,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 8690,
-			4: 3373,
+			4:   3373,
 			393: 8165,
 			404: 8166,
 			477: 8690,
@@ -108283,7 +108283,7 @@ var newBlocks = []NewBlock {
 		"minecraft:cactus[age=13]",
 		nil,
 		NewMapping{
-			4: 1309,
+			4:   1309,
 			393: 3438,
 			404: 3439,
 			477: 3942,
@@ -108478,7 +108478,7 @@ var newBlocks = []NewBlock {
 		"minecraft:black_carpet",
 		nil,
 		NewMapping{
-			4: 2751,
+			4:   2751,
 			393: 6838,
 			404: 6839,
 			477: 7345,
@@ -108535,7 +108535,7 @@ var newBlocks = []NewBlock {
 		"minecraft:yellow_glazed_terracotta[facing=east]",
 		nil,
 		NewMapping{
-			4: 3827,
+			4:   3827,
 			393: 8332,
 			404: 8333,
 			477: 8857,
@@ -108597,7 +108597,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 15,
-			4: 80,
+			4:   80,
 			393: 15,
 			404: 15,
 			477: 15,
@@ -108631,7 +108631,7 @@ var newBlocks = []NewBlock {
 			404: 3177,
 			477: 3640,
 			573: 3640,
-			4: 1044,
+			4:   1044,
 		},
 	},
 	{
@@ -108700,14 +108700,14 @@ var newBlocks = []NewBlock {
 			404: 51,
 			477: 51,
 			573: 51,
-			4: 177,
+			4:   177,
 		},
 	},
 	{
 		"minecraft:lever[face=wall,facing=east,powered=true]",
 		nil,
 		NewMapping{
-			4: 1113,
+			4:   1113,
 			393: 3291,
 			404: 3292,
 			477: 3795,
@@ -108718,7 +108718,7 @@ var newBlocks = []NewBlock {
 		"minecraft:red_bed[facing=east,occupied=false,part=foot]",
 		nil,
 		NewMapping{
-			4: 419,
+			4:   419,
 			393: 987,
 			404: 987,
 			477: 1287,
@@ -108750,7 +108750,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 4544,
-			4: 1586,
+			4:   1586,
 			393: 4040,
 			404: 4041,
 			477: 4544,
@@ -108786,7 +108786,7 @@ var newBlocks = []NewBlock {
 		"minecraft:white_banner[rotation=8]",
 		nil,
 		NewMapping{
-			4: 2824,
+			4:   2824,
 			393: 6862,
 			404: 6863,
 			477: 7369,
@@ -108863,7 +108863,7 @@ var newBlocks = []NewBlock {
 		"minecraft:snow[layers=8]",
 		nil,
 		NewMapping{
-			4: 1255,
+			4:   1255,
 			393: 3422,
 			404: 3423,
 			477: 3926,
@@ -108916,7 +108916,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 7912,
 			573: 7912,
-			4: 2939,
+			4:   2939,
 			393: 7387,
 			404: 7388,
 		},
@@ -108958,7 +108958,7 @@ var newBlocks = []NewBlock {
 			404: 8241,
 			477: 8765,
 			573: 8765,
-			4: 3552,
+			4:   3552,
 			393: 8240,
 		},
 	},
@@ -109004,7 +109004,7 @@ var newBlocks = []NewBlock {
 		"minecraft:command_block[conditional=true,facing=north]",
 		nil,
 		NewMapping{
-			4: 2202,
+			4:   2202,
 			393: 5124,
 			404: 5125,
 			477: 5628,
@@ -109015,7 +109015,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
 		nil,
 		NewMapping{
-			4: 2630,
+			4:   2630,
 			393: 6433,
 			404: 6434,
 			477: 6940,
@@ -109154,14 +109154,14 @@ var newBlocks = []NewBlock {
 			404: 5791,
 			477: 6297,
 			573: 6297,
-			4: 2516,
+			4:   2516,
 		},
 	},
 	{
 		"minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=true,has_bottle_2=true]",
 		nil,
 		NewMapping{
-			4: 1878,
+			4:   1878,
 			393: 4617,
 			404: 4618,
 			477: 5121,
@@ -109212,7 +109212,7 @@ var newBlocks = []NewBlock {
 		"minecraft:birch_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
 		nil,
 		NewMapping{
-			4: 2951,
+			4:   2951,
 			393: 7418,
 			404: 7419,
 			477: 7943,
@@ -109285,7 +109285,7 @@ var newBlocks = []NewBlock {
 			404: 72,
 			477: 72,
 			573: 72,
-			4: 276,
+			4:   276,
 		},
 	},
 	{
@@ -109397,7 +109397,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 6678,
 			573: 6678,
-			4: 2570,
+			4:   2570,
 			393: 6171,
 			404: 6172,
 		},
@@ -109444,7 +109444,7 @@ var newBlocks = []NewBlock {
 		"minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
 		nil,
 		NewMapping{
-			4: 3056,
+			4:   3056,
 			393: 7676,
 			404: 7677,
 			477: 8201,
@@ -109458,7 +109458,7 @@ var newBlocks = []NewBlock {
 			404: 4662,
 			477: 5165,
 			573: 5165,
-			4: 2051,
+			4:   2051,
 			393: 4661,
 		},
 	},
@@ -109470,7 +109470,7 @@ var newBlocks = []NewBlock {
 			404: 229,
 			477: 229,
 			573: 229,
-			4: 305,
+			4:   305,
 		},
 	},
 	{
@@ -109563,7 +109563,7 @@ var newBlocks = []NewBlock {
 		NewMapping{
 			477: 8792,
 			573: 8792,
-			4: 3635,
+			4:   3635,
 			393: 8267,
 			404: 8268,
 		},
@@ -109575,7 +109575,7 @@ var newBlocks = []NewBlock {
 			404: 233,
 			477: 233,
 			573: 233,
-			4: 378,
+			4:   378,
 			393: 233,
 		},
 	},
@@ -109621,7 +109621,7 @@ var newBlocks = []NewBlock {
 		"minecraft:comparator[facing=south,mode=subtract,powered=false]",
 		nil,
 		NewMapping{
-			4: 2404,
+			4:   2404,
 			393: 5642,
 			404: 5643,
 			477: 6149,
@@ -109633,7 +109633,7 @@ var newBlocks = []NewBlock {
 		nil,
 		NewMapping{
 			573: 6158,
-			4: 2848,
+			4:   2848,
 			393: 5651,
 			404: 5652,
 			477: 6158,
@@ -109725,7 +109725,7 @@ var newBlocks = []NewBlock {
 			404: 4634,
 			477: 5137,
 			573: 5137,
-			4: 1923,
+			4:   1923,
 		},
 	},
 	{
@@ -109838,7 +109838,7 @@ func (block *NewBlock) getLastId(version uint16) int {
 	last := uint16(0)
 	id := 0
 	for v, i := range block.Ids {
-		if v <= version && version - last > version - v {
+		if v <= version && version-last > version-v {
 			last = v
 			id = i
 		}

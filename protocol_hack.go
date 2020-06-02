@@ -16,10 +16,10 @@ type HackMap struct {
 }
 
 type HackContent struct {
-	Name     string            `json:"name"`
+	Name     string   `json:"name"`
 	Protocol Protocol `json:"protocol"`
 	Base     Protocol `json:"base"`
-	Map      HackMap           `json:"map"`
+	Map      HackMap  `json:"map"`
 }
 
 type HackType struct {
