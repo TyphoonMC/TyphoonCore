@@ -10,26 +10,26 @@ import (
 	"strings"
 )
 
-type Map struct {
+type HackMap struct {
 	Clientbound map[string]string `json:"clientbound"`
 	Serverbound map[string]string `json:"serverbound"`
 }
 
-type Content struct {
+type HackContent struct {
 	Name     string   `json:"name"`
 	Protocol Protocol `json:"protocol"`
 	Base     Protocol `json:"base"`
-	Map      Map      `json:"map"`
+	Map      HackMap  `json:"map"`
 }
 
-type Type struct {
+type HackType struct {
 	Name    string `json:"name"`
 	Version int    `json:"version"`
 }
 
-type Module struct {
-	Type    Type    `json:"type"`
-	Content Content `json:"content"`
+type HackModule struct {
+	Type    HackType    `json:"type"`
+	Content HackContent `json:"content"`
 }
 
 var (
@@ -42,7 +42,7 @@ func initHacks() {
 	clientbound[V1_8] = make(map[int]int)
 	clientbound[V1_8][0x00] = 0x0E
 	clientbound[V1_8][0x01] = 0x11
-	clientbound[V1_8][0x02] = 0x2C
+	//clientbound[V1_8][0x02] = 0x2C
 	clientbound[V1_8][0x03] = 0x0F
 	clientbound[V1_8][0x04] = 0x10
 	clientbound[V1_8][0x05] = 0x0C
@@ -147,11 +147,14 @@ func initHacks() {
 	serverbound[V1_8][0x08] = 0x1C
 
 	// Hack 1.7.6
-	clientbound[V1_7_6] = clientbound[V1_8]
+	clientbound[V1_7_6] = copyHack(clientbound[V1_8])
+	clientbound[V1_7_6][0x0D] = -1
+
 	serverbound[V1_7_6] = serverbound[V1_8]
 
 	// Hack 1.7.2
-	clientbound[V1_7_2] = clientbound[V1_7_6]
+	clientbound[V1_7_2] = copyHack(clientbound[V1_7_6])
+
 	serverbound[V1_7_2] = serverbound[V1_7_6]
 
 	// Hack 1.12
@@ -475,7 +478,7 @@ func convUI(i string, v string) (uir int, uvr int, err error) {
 	return int(ui), int(uv), nil
 }
 
-func loadHackModule(module *Module) {
+func loadHackModule(module *HackModule) {
 	if IsCompatible(module.Content.Base) {
 		if clientbound[module.Content.Base] != nil {
 			clientbound[module.Content.Protocol] = copyHack(clientbound[module.Content.Base])
@@ -517,7 +520,7 @@ func loadHackModuleFile(path string) {
 		return
 	}
 
-	var module Module
+	var module HackModule
 	err = json.Unmarshal(raw, &module)
 	if err != nil {
 		return

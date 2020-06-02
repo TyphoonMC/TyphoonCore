@@ -16,6 +16,9 @@ type Core struct {
 	rootCommand      CommandNode
 	compiledCommands []commandNode
 	playerRegistry   *PlayerRegistry
+	world            *Map
+	gamemode         Gamemode
+	difficulty       Difficulty
 }
 
 func Init() *Core {
@@ -36,6 +39,13 @@ func Init() *Core {
 		},
 		nil,
 		newPlayerRegistry(),
+		&Map{
+			Location{0, 0, 0},
+			END,
+			[]*Chunk{},
+		},
+		SPECTATOR,
+		PEACEFUL,
 	}
 	c.compileCommands()
 	return c
@@ -59,6 +69,14 @@ func (c *Core) Start() {
 	}
 }
 
+func (c *Core) SetMap(world *Map) {
+	c.world = world
+}
+
+func (c *Core) SetGamemode(gamemode Gamemode) {
+	c.gamemode = gamemode
+}
+
 func (c *Core) SetBrand(brand string) {
 	br := make([]byte, len(brand)+1)
 	copy(br[:len(brand)], []byte(brand))
@@ -77,9 +95,10 @@ func (c *Core) keepAlive() {
 	for {
 		c.playerRegistry.ForEachPlayer(func(player *Player) {
 			if player.state == PLAY {
-				if player.keepalive != 0 {
+				//TODO rework keepalive
+				/*if player.keepalive != 0 {
 					player.Kick("Timed out")
-				}
+				}*/
 
 				id := int(r.Int31())
 				keepalive.Identifier = id
@@ -108,11 +127,22 @@ func (c *Core) handleConnection(conn net.Conn, id int) {
 			"",
 			0,
 		},
-		name:        "",
-		uuid:        "d979912c-bb24-4f23-a6ac-c32985a1e5d3",
-		keepalive:   0,
-		compression: false,
+		name:         "",
+		uuid:         "d979912c-bb24-4f23-a6ac-c32985a1e5d3",
+		keepalive:    0,
+		compression:  false,
+		packetsQueue: make(chan Packet),
 	}
+
+	go func() {
+		for {
+			packet := <-player.packetsQueue
+			err := player.privateWritePacket(packet)
+			if err != nil {
+				break
+			}
+		}
+	}()
 
 	for {
 		_, err := player.ReadPacket()
