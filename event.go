@@ -14,6 +14,10 @@ type PlayerJoinEvent struct {
 	Player *Player
 }
 
+type PlayerPreJoinEvent struct {
+	Player *Player
+}
+
 type PlayerQuitEvent struct {
 	Player *Player
 }

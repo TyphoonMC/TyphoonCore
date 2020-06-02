@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"log"
 	"net"
+	"reflect"
 )
 
 type State int8
@@ -114,9 +115,23 @@ const (
 type Protocol uint16
 
 type Position struct {
-	X int
-	Y int
-	Z int
+	X int `json:"x"`
+	Y int `json:"y"`
+	Z int `json:"z"`
+}
+
+type Location struct {
+	X float64 `json:"x"`
+	Y float64 `json:"y"`
+	Z float64 `json:"z"`
+}
+
+func (loc *Location) ToPosition() *Position {
+	return &Position{
+		int(loc.X),
+		int(loc.Y),
+		int(loc.Z),
+	}
 }
 
 const (
@@ -188,17 +203,18 @@ type InAddr struct {
 }
 
 type Player struct {
-	core        *Core
-	id          int
-	conn        net.Conn
-	io          *ConnReadWrite
-	state       State
-	protocol    Protocol
-	inaddr      InAddr
-	name        string
-	uuid        string
-	keepalive   int
-	compression bool
+	core         *Core
+	id           int
+	conn         net.Conn
+	io           *ConnReadWrite
+	state        State
+	protocol     Protocol
+	inaddr       InAddr
+	name         string
+	uuid         string
+	keepalive    int
+	compression  bool
+	packetsQueue chan Packet
 }
 
 func (player *Player) GetName() string {
@@ -236,7 +252,7 @@ func (player *Player) ReadPacketWithoutCompression() (packet Packet, err error) 
 		return
 	} else if packet != nil {
 		if config.Logs {
-			log.Printf("#%d -> %d %s", player.id, id, fmt.Sprint(packet))
+			log.Printf("#%d -> %d %s %s", player.id, id, reflect.TypeOf(packet), fmt.Sprint(packet))
 		}
 		packet.Handle(player)
 	}
@@ -275,7 +291,7 @@ func (player *Player) ReadPacketWithCompression() (packet Packet, err error) {
 			return
 		} else if packet != nil {
 			if config.Logs {
-				log.Printf("#%d u-> %d %s", player.id, id, fmt.Sprint(packet))
+				log.Printf("#%d u-> %d %s %s", player.id, id, reflect.TypeOf(packet), fmt.Sprint(packet))
 			}
 			packet.Handle(player)
 		}
@@ -311,7 +327,7 @@ func (player *Player) ReadPacketWithCompression() (packet Packet, err error) {
 			return nil, err
 		} else if packet != nil {
 			if config.Logs {
-				log.Printf("#%d c-> %d %s", player.id, id, fmt.Sprint(packet))
+				log.Printf("#%d c-> %d %s %s", player.id, id, reflect.TypeOf(packet), fmt.Sprint(packet))
 			}
 			packet.Handle(player)
 		}
@@ -320,6 +336,11 @@ func (player *Player) ReadPacketWithCompression() (packet Packet, err error) {
 }
 
 func (player *Player) WritePacket(packet Packet) (err error) {
+	player.packetsQueue <- packet
+	return nil
+}
+
+func (player *Player) privateWritePacket(packet Packet) (err error) {
 	if !player.compression {
 		return player.WritePacketWithoutCompression(packet)
 	} else {
@@ -353,7 +374,7 @@ func (player *Player) WritePacketWithoutCompression(packet Packet) (err error) {
 	player.conn.Write(buff.Bytes())
 
 	if config.Logs {
-		log.Printf("#%d <- %d %s", player.id, id, fmt.Sprint(packet))
+		log.Printf("#%d <- %d %s %s", player.id, id, reflect.TypeOf(packet), fmt.Sprint(packet))
 	}
 	return nil
 }
@@ -405,9 +426,9 @@ func (player *Player) WritePacketWithCompression(packet Packet) (err error) {
 
 	if config.Logs {
 		if buff.Len() < config.Threshold {
-			log.Println("<-u", id, packet)
+			log.Println("<-u", id, reflect.TypeOf(packet), packet)
 		} else {
-			log.Println("<-c", id, packet)
+			log.Println("<-c", id, reflect.TypeOf(packet), packet)
 		}
 	}
 	return nil
