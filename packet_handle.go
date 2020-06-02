@@ -1102,10 +1102,11 @@ func (packet *PacketPlayChunkData) WriteV1_7(player *Player) (err error) {
 	player.WriteUInt16(0)
 
 	buff := newVarBuffer(16*16*16*16)
+	zwtr := zlib.NewWriter(buff)
 	tmp := player.io
 	player.io = &ConnReadWrite{
 		rdr: tmp.rdr,
-		wtr: zlib.NewWriter(buff),
+		wtr: zwtr,
 	}
 
 	// Write blocks
@@ -1177,6 +1178,7 @@ func (packet *PacketPlayChunkData) WriteV1_7(player *Player) (err error) {
 
 	// Send sections
 	player.io = tmp
+	zwtr.Close()
 	player.WriteUInt32(uint32(buff.Len()))
 	player.WriteByteArray(buff.Bytes())
 
