@@ -5,6 +5,8 @@ import (
 	"compress/zlib"
 	"encoding/binary"
 	"fmt"
+	uuid2 "github.com/TyphoonMC/go.uuid"
+	"github.com/seebs/nbt"
 	"log"
 	"net"
 	"reflect"
@@ -28,13 +30,75 @@ const (
 	SPECTATOR
 )
 
-type Dimension uint32
+type Dimension struct {
+	Name         string
+	Id           uint8
+	Natural      uint8
+	FixedTime    *uint64
+	AmbientLight float32
+	Shrunk       uint8
+	Ultrawarm    uint8
+	HasCeiling   uint8
+	HasSkylight  uint8
+}
 
-const (
-	NETHER    Dimension = 0xFF
-	OVERWORLD Dimension = 0
-	END       Dimension = 1
+var (
+	NETHER = Dimension{
+		"minecraft:the_nether",
+		0xFF,
+		0,
+		uint64Ptr(18000),
+		0.1,
+		1,
+		1,
+		1,
+		0,
+	}
+	OVERWORLD = Dimension{
+		"minecraft:overworld",
+		0x00,
+		1,
+		nil,
+		0,
+		0,
+		0,
+		0,
+		1,
+	}
+	END = Dimension{
+		"minecraft:the_end",
+		0x01,
+		0,
+		uint64Ptr(6000),
+		0,
+		0,
+		0,
+		0,
+		0,
+	}
 )
+
+func (dimension Dimension) String() string {
+	return dimension.Name
+}
+
+func (dimension Dimension) Entry() *nbt.Compound {
+	c := nbt.Compound{
+		"key": nbt.String(dimension.String()),
+		"element": nbt.Compound{
+			"natural":       nbt.Byte(dimension.Natural),
+			"ambient_light": nbt.Float(dimension.AmbientLight),
+			"shrunk":        nbt.Byte(dimension.Shrunk),
+			"ultrawarm":     nbt.Byte(dimension.Ultrawarm),
+			"has_ceiling":   nbt.Byte(dimension.HasCeiling),
+			"has_skylight":  nbt.Byte(dimension.HasSkylight),
+		},
+	}
+	if dimension.FixedTime != nil {
+		c["fixed_time"] = nbt.Long(*dimension.FixedTime)
+	}
+	return &c
+}
 
 type Difficulty uint8
 
@@ -159,7 +223,7 @@ const (
 	V1_15   Protocol = 573
 	V1_15_1 Protocol = 575
 	V1_15_2 Protocol = 578
-	V1_16 Protocol = 717
+	V1_16   Protocol = 722
 )
 
 var (
@@ -213,7 +277,7 @@ type Player struct {
 	protocol     Protocol
 	inaddr       InAddr
 	name         string
-	uuid         string
+	uuid         uuid2.UUID
 	keepalive    int
 	compression  bool
 	packetsQueue chan Packet
@@ -223,7 +287,7 @@ func (player *Player) GetName() string {
 	return player.name
 }
 
-func (player *Player) GetUUID() string {
+func (player *Player) GetUUID() uuid2.UUID {
 	return player.uuid
 }
 

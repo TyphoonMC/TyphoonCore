@@ -193,11 +193,11 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 		player.core.difficulty,
 	})
 
-	player.WritePacket(&PacketPlaySpawnPosition{
+	/*player.WritePacket(&PacketPlaySpawnPosition{
 		*player.core.world.Spawn.ToPosition(),
-	})
+	})*/
 
-	player.WritePacket(&PacketPlayPlayerAbilities{
+	/*player.WritePacket(&PacketPlayPlayerAbilities{
 		true,
 		true,
 		true,
@@ -229,9 +229,9 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 		})
 	}
 
-	player.core.CallEvent(&PlayerJoinEvent{
+	/*player.core.CallEvent(&PlayerJoinEvent{
 		player,
-	})
+	})*/
 }
 func (packet *PacketLoginStart) Id() (int, Protocol) {
 	return 0x00, V1_10
@@ -258,7 +258,7 @@ func (packet *PacketLoginDisconnect) Id() (int, Protocol) {
 }
 
 type PacketLoginSuccess struct {
-	UUID     string
+	UUID     uuid.UUID
 	Username string
 }
 
@@ -266,10 +266,18 @@ func (packet *PacketLoginSuccess) Read(player *Player, length int) (err error) {
 	return
 }
 func (packet *PacketLoginSuccess) Write(player *Player) (err error) {
-	err = player.WriteString(packet.UUID)
-	if err != nil {
-		log.Print(err)
-		return
+	if player.protocol >= V1_16 {
+		err = player.WriteUUID(packet.UUID)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	} else {
+		err = player.WriteString(packet.UUID.String())
+		if err != nil {
+			log.Print(err)
+			return
+		}
 	}
 	err = player.WriteString(packet.Username)
 	if err != nil {
@@ -637,10 +645,10 @@ func (packet *PacketPlayPluginMessage) Handle(player *Player) {
 		buff := make([]byte, len(player.core.brand)+1)
 		length := binary.PutUvarint(buff, uint64(len(player.core.brand)))
 		copy(buff[length:], []byte(player.core.brand))
-		player.WritePacket(&PacketPlayPluginMessage{
+		/*player.WritePacket(&PacketPlayPluginMessage{
 			packet.Channel,
 			buff,
-		})
+		})*/
 	}
 	player.core.CallEvent(&PluginMessageEvent{
 		packet.Channel,
@@ -1275,6 +1283,8 @@ type PacketPlayJoinGame struct {
 	LevelType           LevelType
 	ReducedDebug        bool
 	EnableRespawnScreen bool
+	IsDebug             bool
+	IsFlat              bool
 }
 
 func (packet *PacketPlayJoinGame) Read(player *Player, length int) (err error) {
@@ -1295,10 +1305,44 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		log.Print(err)
 		return
 	}
-	err = player.WriteUInt32(uint32(packet.Dimension))
-	if err != nil {
-		log.Print(err)
-		return
+	if player.protocol < V1_16 {
+		err = player.WriteUInt32(uint32(packet.Dimension.Id))
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	} else {
+		err = player.WriteVarInt(1)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+		err = player.WriteString(packet.Dimension.Name)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+
+		compound := nbt.Compound{}
+		compound["dimension"] = nbt.MakeCompoundList([]nbt.Compound{
+			*packet.Dimension.Entry(),
+		})
+
+		err = player.WriteNBTCompound(compound)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+		err = player.WriteString(packet.Dimension.String())
+		if err != nil {
+			log.Print(err)
+			return
+		}
+		err = player.WriteString("minecraft:overworld")
+		if err != nil {
+			log.Print(err)
+			return
+		}
 	}
 	if player.protocol < V1_14 {
 		err = player.WriteUInt8(uint8(packet.Difficulty))
@@ -1319,10 +1363,12 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		log.Print(err)
 		return
 	}
-	err = player.WriteString(string(packet.LevelType))
-	if err != nil {
-		log.Print(err)
-		return
+	if player.protocol < V1_16 {
+		err = player.WriteString(string(packet.LevelType))
+		if err != nil {
+			log.Print(err)
+			return
+		}
 	}
 	if player.protocol >= V1_14 {
 		err = player.WriteVarInt(32)
@@ -1340,6 +1386,18 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 	}
 	if player.protocol >= V1_15 {
 		err = player.WriteBool(packet.EnableRespawnScreen)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	if player.protocol >= V1_16 {
+		err = player.WriteBool(packet.IsDebug)
+		if err != nil {
+			log.Print(err)
+			return
+		}
+		err = player.WriteBool(packet.IsFlat)
 		if err != nil {
 			log.Print(err)
 			return
