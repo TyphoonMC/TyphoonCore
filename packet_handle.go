@@ -197,7 +197,7 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 		*player.core.world.Spawn.ToPosition(),
 	})*/
 
-	/*player.WritePacket(&PacketPlayPlayerAbilities{
+	player.WritePacket(&PacketPlayPlayerAbilities{
 		true,
 		true,
 		true,
@@ -229,9 +229,9 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 		})
 	}
 
-	/*player.core.CallEvent(&PlayerJoinEvent{
+	player.core.CallEvent(&PlayerJoinEvent{
 		player,
-	})*/
+	})
 }
 func (packet *PacketLoginStart) Id() (int, Protocol) {
 	return 0x00, V1_10
@@ -440,6 +440,7 @@ func (packet *PacketPlayClientStatus) Id() (int, Protocol) {
 type PacketPlayMessage struct {
 	Component string
 	Position  ChatPosition
+	Sender    uuid.UUID
 }
 
 func (packet *PacketPlayMessage) Read(player *Player, length int) (err error) {
@@ -453,6 +454,13 @@ func (packet *PacketPlayMessage) Write(player *Player) (err error) {
 	}
 	if player.protocol > V1_7_6 {
 		err = player.WriteUInt8(uint8(packet.Position))
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	}
+	if player.protocol >= V1_16 {
+		err = player.WriteUUID(packet.Sender)
 		if err != nil {
 			log.Print(err)
 			return
@@ -718,7 +726,7 @@ func (packet *PacketPlayKeepAlive) Write(player *Player) (err error) {
 func (packet *PacketPlayKeepAlive) Handle(player *Player) {
 	if player.protocol > V1_8 {
 		if player.keepalive != packet.Identifier {
-			player.Kick("Invalid keepalive")
+			//player.Kick("Invalid keepalive")
 		}
 	} else {
 		player.keepalive = packet.Identifier
@@ -1323,10 +1331,11 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 			return
 		}
 
-		compound := nbt.Compound{}
-		compound["dimension"] = nbt.MakeCompoundList([]nbt.Compound{
-			*packet.Dimension.Entry(),
-		})
+		compound := nbt.Compound{
+			"dimension": nbt.MakeCompoundList([]nbt.Compound{
+				*packet.Dimension.Entry(),
+			}),
+		}
 
 		err = player.WriteNBTCompound(compound)
 		if err != nil {

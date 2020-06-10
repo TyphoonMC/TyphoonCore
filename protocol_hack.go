@@ -465,60 +465,14 @@ func initHacks() {
 
 	// Hack 1.16
 	clientbound[V1_16] = copyHack(clientbound[V1_15_2])
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x0E)] = 0x0D
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x0F)] = 0x0E
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x17)] = 0x16
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x1B)] = 0x1A
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x21)] = 0x20
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x26)] = 0x25
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x34)] = 0x33
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x36)] = 0x35
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x40)] = 0x3F
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x43)] = 0x44
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x44)] = 0x45
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x45)] = 0x46
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x46)] = 0x47
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x47)] = 0x48
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x48)] = 0x49
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x49)] = 0x4A
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x4A)] = 0x4B
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x4B)] = 0x4C
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x4C)] = 0x4D
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x4D)] = 0x4E
-	clientbound[V1_16][lastClientbound(V1_15_2, 0x4E)] = 0x43
+	for i := 0x03; i <= 0x5C; i++ {
+		clientbound[V1_16][lastClientbound(V1_15_2, i)] = i - 1
+	}
 
 	serverbound[V1_16] = copyHack(serverbound[V1_15_2])
-	serverbound[V1_16][0x10] = serverbound[V1_15_2][0x0F]
-	serverbound[V1_16][0x11] = serverbound[V1_15_2][0x10]
-	serverbound[V1_16][0x12] = serverbound[V1_15_2][0x11]
-	serverbound[V1_16][0x13] = serverbound[V1_15_2][0x12]
-	serverbound[V1_16][0x14] = serverbound[V1_15_2][0x13]
-	serverbound[V1_16][0x15] = serverbound[V1_15_2][0x14]
-	serverbound[V1_16][0x16] = serverbound[V1_15_2][0x15]
-	serverbound[V1_16][0x17] = serverbound[V1_15_2][0x16]
-	serverbound[V1_16][0x18] = serverbound[V1_15_2][0x17]
-	serverbound[V1_16][0x19] = serverbound[V1_15_2][0x18]
-	serverbound[V1_16][0x1A] = serverbound[V1_15_2][0x19]
-	serverbound[V1_16][0x1B] = serverbound[V1_15_2][0x1A]
-	serverbound[V1_16][0x1C] = serverbound[V1_15_2][0x1B]
-	serverbound[V1_16][0x1D] = serverbound[V1_15_2][0x1C]
-	serverbound[V1_16][0x1E] = serverbound[V1_15_2][0x1D]
-	serverbound[V1_16][0x1F] = serverbound[V1_15_2][0x1E]
-	serverbound[V1_16][0x20] = serverbound[V1_15_2][0x1F]
-	serverbound[V1_16][0x21] = serverbound[V1_15_2][0x20]
-	serverbound[V1_16][0x22] = serverbound[V1_15_2][0x21]
-	serverbound[V1_16][0x23] = serverbound[V1_15_2][0x22]
-	serverbound[V1_16][0x24] = serverbound[V1_15_2][0x23]
-	serverbound[V1_16][0x25] = serverbound[V1_15_2][0x24]
-	serverbound[V1_16][0x26] = serverbound[V1_15_2][0x25]
-	serverbound[V1_16][0x27] = serverbound[V1_15_2][0x26]
-	serverbound[V1_16][0x28] = serverbound[V1_15_2][0x27]
-	serverbound[V1_16][0x29] = serverbound[V1_15_2][0x28]
-	serverbound[V1_16][0x2A] = serverbound[V1_15_2][0x29]
-	serverbound[V1_16][0x2B] = serverbound[V1_15_2][0x2A]
-	serverbound[V1_16][0x2C] = serverbound[V1_15_2][0x2B]
-	serverbound[V1_16][0x2D] = serverbound[V1_15_2][0x2C]
-	serverbound[V1_16][0x2E] = serverbound[V1_15_2][0x2D]
+	for i := 0x0F; i <= 0x2D; i++ {
+		serverbound[V1_16][i+1] = serverbound[V1_15_2][i]
+	}
 
 	initHackModules()
 }

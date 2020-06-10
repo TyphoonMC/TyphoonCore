@@ -255,6 +255,7 @@ func (p *Player) SendMessage(message IChatComponent) {
 	p.WritePacket(&PacketPlayMessage{
 		msg,
 		CHAT_BOX,
+		p.uuid,
 	})
 }
 
@@ -267,6 +268,7 @@ func (p *Player) SendBukkitMessage(message string) {
 	p.WritePacket(&PacketPlayMessage{
 		msg,
 		CHAT_BOX,
+		p.uuid,
 	})
 }
 
@@ -274,6 +276,7 @@ func (p *Player) SendRawMessage(message string) {
 	p.WritePacket(&PacketPlayMessage{
 		message,
 		CHAT_BOX,
+		p.uuid,
 	})
 }
 
@@ -286,6 +289,7 @@ func (p *Player) SendActionBar(message IChatComponent) {
 	p.WritePacket(&PacketPlayMessage{
 		msg,
 		ACTION_BAR,
+		p.uuid,
 	})
 }
 
@@ -293,5 +297,6 @@ func (p *Player) SendRawActionBar(message string) {
 	p.WritePacket(&PacketPlayMessage{
 		message,
 		ACTION_BAR,
+		p.uuid,
 	})
 }

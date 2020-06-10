@@ -31,15 +31,21 @@ const (
 )
 
 type Dimension struct {
-	Name         string
-	Id           uint8
-	Natural      uint8
-	FixedTime    *uint64
-	AmbientLight float32
-	Shrunk       uint8
-	Ultrawarm    uint8
-	HasCeiling   uint8
-	HasSkylight  uint8
+	Name               string
+	Id                 uint8
+	Natural            uint8
+	FixedTime          *uint64
+	AmbientLight       float32
+	Shrunk             uint8
+	Ultrawarm          uint8
+	HasCeiling         uint8
+	HasSkylight        uint8
+	Infiniburn         string
+	LogicalHeight      uint32
+	HasRaids           uint8
+	RespawnAnchorWorks uint8
+	BedWorks           uint8
+	PiglinSafe         uint8
 }
 
 var (
@@ -53,6 +59,12 @@ var (
 		1,
 		1,
 		0,
+		"",
+		256,
+		0,
+		1,
+		0,
+		0,
 	}
 	OVERWORLD = Dimension{
 		"minecraft:overworld",
@@ -63,6 +75,12 @@ var (
 		0,
 		0,
 		0,
+		1,
+		"",
+		256,
+		0,
+		0,
+		1,
 		1,
 	}
 	END = Dimension{
@@ -75,6 +93,12 @@ var (
 		0,
 		0,
 		0,
+		"",
+		0,
+		1,
+		0,
+		0,
+		1,
 	}
 )
 
@@ -83,21 +107,26 @@ func (dimension Dimension) String() string {
 }
 
 func (dimension Dimension) Entry() *nbt.Compound {
-	c := nbt.Compound{
-		"key": nbt.String(dimension.String()),
-		"element": nbt.Compound{
-			"natural":       nbt.Byte(dimension.Natural),
-			"ambient_light": nbt.Float(dimension.AmbientLight),
-			"shrunk":        nbt.Byte(dimension.Shrunk),
-			"ultrawarm":     nbt.Byte(dimension.Ultrawarm),
-			"has_ceiling":   nbt.Byte(dimension.HasCeiling),
-			"has_skylight":  nbt.Byte(dimension.HasSkylight),
-		},
+	element := nbt.Compound{
+		"name":                 nbt.String(dimension.String()),
+		"natural":              nbt.Byte(dimension.Natural),
+		"ambient_light":        nbt.Float(dimension.AmbientLight),
+		"shrunk":               nbt.Byte(dimension.Shrunk),
+		"ultrawarm":            nbt.Byte(dimension.Ultrawarm),
+		"has_ceiling":          nbt.Byte(dimension.HasCeiling),
+		"has_skylight":         nbt.Byte(dimension.HasSkylight),
+		"infiniburn":           nbt.String(dimension.Infiniburn),
+		"logical_height":       nbt.Int(dimension.LogicalHeight),
+		"has_raids":            nbt.Byte(dimension.HasRaids),
+		"respawn_anchor_works": nbt.Byte(dimension.RespawnAnchorWorks),
+		"bed_works":            nbt.Byte(dimension.BedWorks),
+		"piglin_safe":          nbt.Byte(dimension.PiglinSafe),
 	}
+
 	if dimension.FixedTime != nil {
-		c["fixed_time"] = nbt.Long(*dimension.FixedTime)
+		element["fixed_time"] = nbt.Long(*dimension.FixedTime)
 	}
-	return &c
+	return &element
 }
 
 type Difficulty uint8
@@ -223,7 +252,7 @@ const (
 	V1_15   Protocol = 573
 	V1_15_1 Protocol = 575
 	V1_15_2 Protocol = 578
-	V1_16   Protocol = 722
+	V1_16   Protocol = 725
 )
 
 var (
