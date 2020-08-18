@@ -743,6 +743,7 @@ type PacketPlayChunkData struct {
 	Z             int32
 	Dimension     Dimension
 	GroundUp      bool
+	ServerLightning bool
 	Sections      []*ChunkSection
 	Biomes        *[]byte
 	BlockEntities []nbt.Compound
@@ -767,7 +768,7 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 	player.WriteBool(packet.GroundUp)
 
 	if(player.protocol >= V1_16) {
-		player.WriteBool(false)
+		player.WriteBool(packet.ServerLightning)
 	}
 
 	var bitmask uint16 = 0
