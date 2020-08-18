@@ -4,9 +4,10 @@ import (
 	"compress/zlib"
 	"encoding/binary"
 	"fmt"
-	"github.com/TyphoonMC/go.uuid"
-	"github.com/seebs/nbt"
 	"log"
+
+	uuid "github.com/TyphoonMC/go.uuid"
+	"github.com/seebs/nbt"
 )
 
 type PacketHandshake struct {
