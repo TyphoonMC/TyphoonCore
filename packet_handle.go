@@ -766,6 +766,10 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 	player.WriteUInt32(uint32(packet.Z))
 	player.WriteBool(packet.GroundUp)
 
+	if(player.protocol >= V1_16) {
+		player.WriteBool(false)
+	}
+
 	var bitmask uint16 = 0
 	for i, s := range packet.Sections {
 		if s != nil &&
