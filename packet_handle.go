@@ -1285,7 +1285,6 @@ func (packet *PacketPlayParticle) Id() (int, Protocol) {
 type PacketPlayJoinGame struct {
 	EntityId            uint32
 	Gamemode            Gamemode
-	PreviousGamemode    Gamemode
 	Dimension           Dimension
 	HashedSeed          uint64
 	Difficulty          Difficulty
@@ -1316,7 +1315,7 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		return
 	}
 	if player.protocol >= V1_16 {
-		err = player.WriteUInt8(uint8(packet.PreviousGamemode))
+		err = player.WriteUInt8(uint8(packet.Gamemode))
 		if err != nil {
 			log.Print(err)
 			return
