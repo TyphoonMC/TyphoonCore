@@ -1372,13 +1372,13 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		log.Print(err)
 		return
 	}
-	if player.protocol < V1_16 {
+	//if player.protocol < V1_16 {
 		err = player.WriteString(string(packet.LevelType))
 		if err != nil {
 			log.Print(err)
 			return
 		}
-	}
+	//}
 	if player.protocol >= V1_14 {
 		err = player.WriteVarInt(32)
 		if err != nil {
