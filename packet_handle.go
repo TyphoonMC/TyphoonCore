@@ -4,9 +4,10 @@ import (
 	"compress/zlib"
 	"encoding/binary"
 	"fmt"
-	"github.com/TyphoonMC/go.uuid"
-	"github.com/seebs/nbt"
 	"log"
+
+	uuid "github.com/TyphoonMC/go.uuid"
+	"github.com/seebs/nbt"
 )
 
 type PacketHandshake struct {
@@ -1314,11 +1315,11 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		return
 	}
 	//if player.protocol < V1_16 {
-		err = player.WriteUInt32(uint32(packet.Dimension.Id))
-		if err != nil {
-			log.Print(err)
-			return
-		}
+	err = player.WriteUInt32(uint32(packet.Dimension.Id))
+	if err != nil {
+		log.Print(err)
+		return
+	}
 	/*} else {
 		err = player.WriteVarInt(1)
 		if err != nil {
@@ -1373,11 +1374,11 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		return
 	}
 	//if player.protocol < V1_16 {
-		err = player.WriteString(string(packet.LevelType))
-		if err != nil {
-			log.Print(err)
-			return
-		}
+	err = player.WriteString(string(packet.LevelType))
+	if err != nil {
+		log.Print(err)
+		return
+	}
 	//}
 	if player.protocol >= V1_14 {
 		err = player.WriteVarInt(32)
