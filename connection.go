@@ -5,11 +5,12 @@ import (
 	"compress/zlib"
 	"encoding/binary"
 	"fmt"
-	uuid2 "github.com/TyphoonMC/go.uuid"
-	"github.com/seebs/nbt"
 	"log"
 	"net"
 	"reflect"
+
+	uuid2 "github.com/TyphoonMC/go.uuid"
+	"github.com/seebs/nbt"
 )
 
 type State int8
