@@ -1314,13 +1314,13 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		log.Print(err)
 		return
 	}
-	//if player.protocol < V1_16 {
-	err = player.WriteUInt32(uint32(packet.Dimension.Id))
-	if err != nil {
-		log.Print(err)
-		return
-	}
-	/*} else {
+	if player.protocol < V1_16 {
+		err = player.WriteUInt32(uint32(packet.Dimension.Id))
+		if err != nil {
+			log.Print(err)
+			return
+		}
+	} else {
 		err = player.WriteVarInt(1)
 		if err != nil {
 			log.Print(err)
@@ -1353,7 +1353,7 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 			log.Print(err)
 			return
 		}
-	}*/
+	}
 	if player.protocol < V1_14 {
 		err = player.WriteUInt8(uint8(packet.Difficulty))
 		if err != nil {
@@ -1373,13 +1373,13 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		log.Print(err)
 		return
 	}
-	//if player.protocol < V1_16 {
-	err = player.WriteString(string(packet.LevelType))
-	if err != nil {
-		log.Print(err)
-		return
+	if player.protocol < V1_16 {
+		err = player.WriteString(string(packet.LevelType))
+		if err != nil {
+			log.Print(err)
+			return
+		}
 	}
-	//}
 	if player.protocol >= V1_14 {
 		err = player.WriteVarInt(32)
 		if err != nil {
