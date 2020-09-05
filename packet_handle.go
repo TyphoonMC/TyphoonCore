@@ -4,9 +4,10 @@ import (
 	"compress/zlib"
 	"encoding/binary"
 	"fmt"
-	"github.com/TyphoonMC/go.uuid"
-	"github.com/seebs/nbt"
 	"log"
+
+	uuid "github.com/TyphoonMC/go.uuid"
+	"github.com/seebs/nbt"
 )
 
 type PacketHandshake struct {
@@ -742,6 +743,7 @@ type PacketPlayChunkData struct {
 	Z             int32
 	Dimension     Dimension
 	GroundUp      bool
+	ServerLightning bool
 	Sections      []*ChunkSection
 	Biomes        *[]byte
 	BlockEntities []nbt.Compound
@@ -764,6 +766,10 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 	player.WriteUInt32(uint32(packet.X))
 	player.WriteUInt32(uint32(packet.Z))
 	player.WriteBool(packet.GroundUp)
+
+	if(player.protocol >= V1_16) {
+		player.WriteBool(packet.ServerLightning)
+	}
 
 	var bitmask uint16 = 0
 	for i, s := range packet.Sections {
@@ -1312,6 +1318,13 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 	if err != nil {
 		log.Print(err)
 		return
+	}
+	if player.protocol >= V1_16 {
+		err = player.WriteUInt8(uint8(packet.Gamemode))
+		if err != nil {
+			log.Print(err)
+			return
+		}
 	}
 	if player.protocol < V1_16 {
 		err = player.WriteUInt32(uint32(packet.Dimension.Id))

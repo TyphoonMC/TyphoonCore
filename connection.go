@@ -5,11 +5,12 @@ import (
 	"compress/zlib"
 	"encoding/binary"
 	"fmt"
-	uuid2 "github.com/TyphoonMC/go.uuid"
-	"github.com/seebs/nbt"
 	"log"
 	"net"
 	"reflect"
+
+	uuid2 "github.com/TyphoonMC/go.uuid"
+	"github.com/seebs/nbt"
 )
 
 type State int8
@@ -252,7 +253,8 @@ const (
 	V1_15   Protocol = 573
 	V1_15_1 Protocol = 575
 	V1_15_2 Protocol = 578
-	V1_16   Protocol = 729
+	V1_16   Protocol = 735
+	V1_16_1 Protocol = 736
 )
 
 var (
@@ -276,6 +278,7 @@ var (
 		V1_15_1,
 		V1_15_2,
 		V1_16,
+		V1_16_1,
 	}
 )
 

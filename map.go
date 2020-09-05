@@ -114,6 +114,7 @@ func (m *Map) SendSpawnChunks(p *Player) {
 				c.ChunkZ,
 				m.Dimension,
 				true,
+				false,
 				c.Sections[:],
 				&biomes,
 				make([]nbt.Compound, 0),
