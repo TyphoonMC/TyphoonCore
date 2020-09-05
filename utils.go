@@ -348,3 +348,7 @@ func JsonEscape(s string) string {
 func JsonMessage(s string) json.RawMessage {
 	return json.RawMessage(`"` + JsonEscape(s) + `"`)
 }
+
+func uint64Ptr(v uint64) *uint64 {
+	return &v
+}

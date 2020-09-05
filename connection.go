@@ -8,6 +8,9 @@ import (
 	"log"
 	"net"
 	"reflect"
+
+	uuid2 "github.com/TyphoonMC/go.uuid"
+	"github.com/seebs/nbt"
 )
 
 type State int8
@@ -28,13 +31,104 @@ const (
 	SPECTATOR
 )
 
-type Dimension uint32
+type Dimension struct {
+	Name               string
+	Id                 uint8
+	Natural            uint8
+	FixedTime          *uint64
+	AmbientLight       float32
+	Shrunk             uint8
+	Ultrawarm          uint8
+	HasCeiling         uint8
+	HasSkylight        uint8
+	Infiniburn         string
+	LogicalHeight      uint32
+	HasRaids           uint8
+	RespawnAnchorWorks uint8
+	BedWorks           uint8
+	PiglinSafe         uint8
+}
 
-const (
-	NETHER    Dimension = 0xFF
-	OVERWORLD Dimension = 0
-	END       Dimension = 1
+var (
+	NETHER = Dimension{
+		"minecraft:the_nether",
+		0xFF,
+		0,
+		uint64Ptr(18000),
+		0.1,
+		1,
+		1,
+		1,
+		0,
+		"",
+		256,
+		0,
+		1,
+		0,
+		0,
+	}
+	OVERWORLD = Dimension{
+		"minecraft:overworld",
+		0x00,
+		1,
+		nil,
+		0,
+		0,
+		0,
+		0,
+		1,
+		"",
+		256,
+		0,
+		0,
+		1,
+		1,
+	}
+	END = Dimension{
+		"minecraft:the_end",
+		0x01,
+		0,
+		uint64Ptr(6000),
+		0,
+		0,
+		0,
+		0,
+		0,
+		"",
+		0,
+		1,
+		0,
+		0,
+		1,
+	}
 )
+
+func (dimension Dimension) String() string {
+	return dimension.Name
+}
+
+func (dimension Dimension) Entry() *nbt.Compound {
+	element := nbt.Compound{
+		"name":                 nbt.String(dimension.String()),
+		"natural":              nbt.Byte(dimension.Natural),
+		"ambient_light":        nbt.Float(dimension.AmbientLight),
+		"shrunk":               nbt.Byte(dimension.Shrunk),
+		"ultrawarm":            nbt.Byte(dimension.Ultrawarm),
+		"has_ceiling":          nbt.Byte(dimension.HasCeiling),
+		"has_skylight":         nbt.Byte(dimension.HasSkylight),
+		"infiniburn":           nbt.String(dimension.Infiniburn),
+		"logical_height":       nbt.Int(dimension.LogicalHeight),
+		"has_raids":            nbt.Byte(dimension.HasRaids),
+		"respawn_anchor_works": nbt.Byte(dimension.RespawnAnchorWorks),
+		"bed_works":            nbt.Byte(dimension.BedWorks),
+		"piglin_safe":          nbt.Byte(dimension.PiglinSafe),
+	}
+
+	if dimension.FixedTime != nil {
+		element["fixed_time"] = nbt.Long(*dimension.FixedTime)
+	}
+	return &element
+}
 
 type Difficulty uint8
 
@@ -159,6 +253,8 @@ const (
 	V1_15   Protocol = 573
 	V1_15_1 Protocol = 575
 	V1_15_2 Protocol = 578
+	V1_16   Protocol = 735
+	V1_16_1 Protocol = 736
 )
 
 var (
@@ -181,6 +277,8 @@ var (
 		V1_15,
 		V1_15_1,
 		V1_15_2,
+		V1_16,
+		V1_16_1,
 	}
 )
 
@@ -211,7 +309,7 @@ type Player struct {
 	protocol     Protocol
 	inaddr       InAddr
 	name         string
-	uuid         string
+	uuid         uuid2.UUID
 	keepalive    int
 	compression  bool
 	packetsQueue chan Packet
@@ -221,7 +319,7 @@ func (player *Player) GetName() string {
 	return player.name
 }
 
-func (player *Player) GetUUID() string {
+func (player *Player) GetUUID() uuid2.UUID {
 	return player.uuid
 }
 

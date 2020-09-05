@@ -453,7 +453,7 @@ func initHacks() {
 	clientbound[V1_15][lastClientbound(V1_14_4, 0x5B)] = 0x5C
 	clientbound[V1_15][lastClientbound(V1_14_4, 0x5C)] = 0x08
 
-	serverbound[V1_15] = copyHack(serverbound[V1_14_4])
+	serverbound[V1_15] = serverbound[V1_14_4]
 
 	// Hack 1.15.1
 	clientbound[V1_15_1] = clientbound[V1_15]
@@ -462,6 +462,21 @@ func initHacks() {
 	// Hack 1.15.2
 	clientbound[V1_15_2] = clientbound[V1_15_1]
 	serverbound[V1_15_2] = serverbound[V1_15_1]
+
+	// Hack 1.16
+	clientbound[V1_16] = copyHack(clientbound[V1_15_2])
+	for i := 0x03; i <= 0x5C; i++ {
+		clientbound[V1_16][lastClientbound(V1_15_2, i)] = i - 1
+	}
+
+	serverbound[V1_16] = copyHack(serverbound[V1_15_2])
+	for i := 0x0F; i <= 0x2D; i++ {
+		serverbound[V1_16][i+1] = serverbound[V1_15_2][i]
+	}
+
+	// Hack 1.16.1
+	clientbound[V1_16_1] = clientbound[V1_16]
+	serverbound[V1_16_1] = serverbound[V1_16]
 
 	initHackModules()
 }

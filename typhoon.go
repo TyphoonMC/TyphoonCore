@@ -2,6 +2,7 @@ package typhoon
 
 import (
 	"bufio"
+	uuid "github.com/TyphoonMC/go.uuid"
 	"log"
 	"math/rand"
 	"net"
@@ -128,7 +129,7 @@ func (c *Core) handleConnection(conn net.Conn, id int) {
 			0,
 		},
 		name:         "",
-		uuid:         "d979912c-bb24-4f23-a6ac-c32985a1e5d3",
+		uuid:         uuid.FromStringOrNil("d979912c-bb24-4f23-a6ac-c32985a1e5d3"),
 		keepalive:    0,
 		compression:  false,
 		packetsQueue: make(chan Packet),
