@@ -739,14 +739,14 @@ func (packet *PacketPlayKeepAlive) Id() (int, Protocol) {
 }
 
 type PacketPlayChunkData struct {
-	X             int32
-	Z             int32
-	Dimension     Dimension
-	GroundUp      bool
+	X               int32
+	Z               int32
+	Dimension       Dimension
+	GroundUp        bool
 	ServerLightning bool
-	Sections      []*ChunkSection
-	Biomes        *[]byte
-	BlockEntities []nbt.Compound
+	Sections        []*ChunkSection
+	Biomes          *[]byte
+	BlockEntities   []nbt.Compound
 }
 
 func (packet *PacketPlayChunkData) Read(player *Player, length int) (err error) {
@@ -767,7 +767,7 @@ func (packet *PacketPlayChunkData) WriteV1_13(player *Player) (err error) {
 	player.WriteUInt32(uint32(packet.Z))
 	player.WriteBool(packet.GroundUp)
 
-	if(player.protocol >= V1_16) {
+	if player.protocol >= V1_16 {
 		player.WriteBool(packet.ServerLightning)
 	}
 
@@ -1653,4 +1653,46 @@ func (packet *PacketPlayerListHeaderFooter) Write(player *Player) (err error) {
 func (packet *PacketPlayerListHeaderFooter) Handle(player *Player) {}
 func (packet *PacketPlayerListHeaderFooter) Id() (int, Protocol) {
 	return 0x47, V1_10
+}
+
+type PacketPlayPlayerPosition struct {
+	X        float64
+	Y        float64
+	Z        float64
+	OnGround bool
+}
+
+func (packet *PacketPlayPlayerPosition) read(player *Player, length int) (err error) {
+	packet.X, err = player.ReadFloat64()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	packet.Y, err = player.ReadFloat64()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	packet.Z, err = player.ReadFloat64()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	packet.OnGround, err = player.ReadBool()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+
+	return
+}
+func (packet *PacketPlayPlayerPosition) Write(player *Player) (err error) {
+	return
+}
+func (packet *PacketPlayPlayerPosition) Handle(player *Player) {
+	// TODO Dispatch a move event
+	return
+}
+func (packet *PacketPlayPlayerPosition) Id() (int, Protocol) {
+	return 0x0D, V1_10
 }

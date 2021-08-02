@@ -44,6 +44,18 @@ type PlayerInteractEvent struct {
 	ClickType PlayerClickType
 }
 
+// Will not dispatch this for now.
+type PlayerMoveEvent struct {
+	Player  *Player
+	FromX   float64
+	ToX     float64
+	FromY   float64
+	ToY     float64
+	FromZ   float64
+	ToZ     float64
+	OnGound bool
+}
+
 type PluginMessageEvent struct {
 	Channel string
 	Data    []byte
