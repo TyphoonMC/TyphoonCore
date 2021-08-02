@@ -1659,6 +1659,8 @@ type PacketPlayPlayerPosition struct {
 	X        float64
 	Y        float64
 	Z        float64
+	Yaw      float32
+	Pitch    float32
 	OnGround bool
 }
 
@@ -1674,6 +1676,16 @@ func (packet *PacketPlayPlayerPosition) read(player *Player, length int) (err er
 		return
 	}
 	packet.Z, err = player.ReadFloat64()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	packet.Yaw, err = player.ReadFloat32()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	packet.Pitch, err = player.ReadFloat32()
 	if err != nil {
 		log.Print(err)
 		return
