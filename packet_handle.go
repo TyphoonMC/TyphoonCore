@@ -1664,7 +1664,7 @@ type PacketPlayPlayerPosition struct {
 	OnGround bool
 }
 
-func (packet *PacketPlayPlayerPosition) read(player *Player, length int) (err error) {
+func (packet *PacketPlayPlayerPosition) Read(player *Player, length int) (err error) {
 	packet.X, err = player.ReadFloat64()
 	if err != nil {
 		log.Print(err)
@@ -1707,4 +1707,64 @@ func (packet *PacketPlayPlayerPosition) Handle(player *Player) {
 }
 func (packet *PacketPlayPlayerPosition) Id() (int, Protocol) {
 	return 0x0D, V1_10
+}
+
+type PacketPlayPlayerLook struct {
+	Yaw      float32
+	Pitch    float32
+	OnGround bool
+}
+
+func (packet *PacketPlayPlayerLook) Read(player *Player, length int) (err error) {
+	packet.Yaw, err = player.ReadFloat32()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	packet.Pitch, err = player.ReadFloat32()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+	packet.OnGround, err = player.ReadBool()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+
+	return
+}
+func (packet *PacketPlayPlayerLook) Write(player *Player) (err error) {
+	return
+}
+func (packet *PacketPlayPlayerLook) Handle(player *Player) {
+	// Nothing to handle.
+	return
+}
+func (packet *PacketPlayPlayerLook) Id() (int, Protocol) {
+	return 0x0E, V1_10
+}
+
+type PacketPlayPlayer struct {
+	OnGround bool
+}
+
+func (packet *PacketPlayPlayer) Read(player *Player, length int) (err error) {
+	packet.OnGround, err = player.ReadBool()
+	if err != nil {
+		log.Print(err)
+		return
+	}
+
+	return
+}
+func (packet *PacketPlayPlayer) Write(player *Player) (err error) {
+	return
+}
+func (packet *PacketPlayPlayer) Handle(player *Player) {
+	// Nothing to handle.
+	return
+}
+func (packet *PacketPlayPlayer) Id() (int, Protocol) {
+	return 0x0F, V1_10
 }
