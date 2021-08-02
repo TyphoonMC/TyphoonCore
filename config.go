@@ -3,7 +3,11 @@ package typhoon
 import (
 	"encoding/base64"
 	"encoding/json"
+	"image"
+	_ "image/png"
 	"io/ioutil"
+	"log"
+	"os"
 )
 
 type BufferConfig struct {
@@ -29,9 +33,24 @@ var (
 )
 
 func initConfig() (err error) {
-	fav, err := ioutil.ReadFile("./favicon.png")
+	imgFile, _ := os.Open("./favicon.png")
+	defer imgFile.Close()
+
+	img, _, err := image.Decode(imgFile)
+
 	if err == nil {
-		favicon = "data:image/png;base64," + base64.StdEncoding.EncodeToString(fav)
+		b := img.Bounds()
+
+		if err == nil {
+			if b.Max.X != 64 || b.Max.Y != 64 {
+				log.Printf("Invalid icon for server (resize to 64x64 pixels?)")
+			}
+
+			fav, err := ioutil.ReadFile("./favicon.png")
+			if err == nil {
+				favicon = "data:image/png;base64," + base64.StdEncoding.EncodeToString(fav)
+			}
+		}
 	}
 
 	file, err := ioutil.ReadFile("./config.json")
