@@ -30,6 +30,9 @@ func initPackets() {
 	packets[PacketTypeHash(PLAY, 0x03)] = reflect.TypeOf((*PacketPlayClientStatus)(nil)).Elem()
 	packets[PacketTypeHash(PLAY, 0x09)] = reflect.TypeOf((*PacketPlayPluginMessage)(nil)).Elem()
 	packets[PacketTypeHash(PLAY, 0x0B)] = reflect.TypeOf((*PacketPlayKeepAlive)(nil)).Elem()
+	packets[PacketTypeHash(PLAY, 0x0D)] = reflect.TypeOf((*PacketPlayPlayerPosition)(nil)).Elem()
+	packets[PacketTypeHash(PLAY, 0x0E)] = reflect.TypeOf((*PacketPlayPlayerLook)(nil)).Elem()
+	packets[PacketTypeHash(PLAY, 0x0F)] = reflect.TypeOf((*PacketPlayPlayer)(nil)).Elem()
 }
 
 func (player *Player) HandlePacket(id int, length int) (packet Packet, err error) {
@@ -61,6 +64,7 @@ func (player *Player) HandlePacket(id int, length int) (packet Packet, err error
 	}
 
 	packet, _ = reflect.New(typ).Interface().(Packet)
+
 	if err = packet.Read(player, length); err != nil {
 		return nil, err
 	}
