@@ -1,0 +1,130 @@
+[
+  {
+    "name": "minecraft:lectern[facing=west,has_book=true,powered=true]",
+    "ids": {
+      "477": 11185,
+      "573": 11185,
+      "718": 14841
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=north,has_book=true,powered=false]",
+    "ids": {
+      "477": 11178,
+      "573": 11178,
+      "718": 14834
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=west,has_book=false,powered=true]",
+    "ids": {
+      "477": 11187,
+      "573": 11187,
+      "718": 14843
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=east,has_book=false,powered=false]",
+    "ids": {
+      "477": 11192,
+      "573": 11192,
+      "718": 14848
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=south,has_book=false,powered=false]",
+    "ids": {
+      "477": 11184,
+      "573": 11184,
+      "718": 14840
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=east,has_book=false,powered=true]",
+    "ids": {
+      "477": 11191,
+      "573": 11191,
+      "718": 14847
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=east,has_book=true,powered=false]",
+    "ids": {
+      "477": 11190,
+      "573": 11190,
+      "718": 14846
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=south,has_book=true,powered=false]",
+    "ids": {
+      "477": 11182,
+      "573": 11182,
+      "718": 14838
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=south,has_book=true,powered=true]",
+    "ids": {
+      "477": 11181,
+      "573": 11181,
+      "718": 14837
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=west,has_book=false,powered=false]",
+    "ids": {
+      "477": 11188,
+      "573": 11188,
+      "718": 14844
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=north,has_book=false,powered=false]",
+    "ids": {
+      "477": 11180,
+      "573": 11180,
+      "718": 14836
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=north,has_book=false,powered=true]",
+    "ids": {
+      "477": 11179,
+      "573": 11179,
+      "718": 14835
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=south,has_book=false,powered=true]",
+    "ids": {
+      "477": 11183,
+      "573": 11183,
+      "718": 14839
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=east,has_book=true,powered=true]",
+    "ids": {
+      "477": 11189,
+      "573": 11189,
+      "718": 14845
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=north,has_book=true,powered=true]",
+    "ids": {
+      "477": 11177,
+      "573": 11177,
+      "718": 14833
+    }
+  },
+  {
+    "name": "minecraft:lectern[facing=west,has_book=true,powered=false]",
+    "ids": {
+      "477": 11186,
+      "573": 11186,
+      "718": 14842
+    }
+  }
+]

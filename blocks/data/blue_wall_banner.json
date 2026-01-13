@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:blue_wall_banner[facing=west]",
+    "ids": {
+      "393": 7156,
+      "404": 7157,
+      "477": 7663,
+      "573": 7663,
+      "718": 8199
+    }
+  },
+  {
+    "name": "minecraft:blue_wall_banner[facing=east]",
+    "ids": {
+      "393": 7157,
+      "404": 7158,
+      "477": 7664,
+      "573": 7664,
+      "718": 8200
+    }
+  },
+  {
+    "name": "minecraft:blue_wall_banner[facing=south]",
+    "ids": {
+      "393": 7155,
+      "404": 7156,
+      "477": 7662,
+      "573": 7662,
+      "718": 8198
+    }
+  },
+  {
+    "name": "minecraft:blue_wall_banner[facing=north]",
+    "ids": {
+      "393": 7154,
+      "404": 7155,
+      "477": 7661,
+      "573": 7661,
+      "718": 8197
+    }
+  }
+]

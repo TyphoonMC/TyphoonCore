@@ -1,0 +1,162 @@
+[
+  {
+    "name": "minecraft:lime_bed[facing=west,occupied=true,part=head]",
+    "ids": {
+      "393": 836,
+      "404": 836,
+      "477": 1136,
+      "573": 1136,
+      "718": 1137
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=east,occupied=false,part=head]",
+    "ids": {
+      "393": 842,
+      "404": 842,
+      "477": 1142,
+      "573": 1142,
+      "718": 1143
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=north,occupied=false,part=foot]",
+    "ids": {
+      "393": 831,
+      "404": 831,
+      "477": 1131,
+      "573": 1131,
+      "718": 1132
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=west,occupied=true,part=foot]",
+    "ids": {
+      "393": 837,
+      "404": 837,
+      "477": 1137,
+      "573": 1137,
+      "718": 1138
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=south,occupied=true,part=head]",
+    "ids": {
+      "393": 832,
+      "404": 832,
+      "477": 1132,
+      "573": 1132,
+      "718": 1133
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=south,occupied=false,part=foot]",
+    "ids": {
+      "393": 835,
+      "404": 835,
+      "477": 1135,
+      "573": 1135,
+      "718": 1136
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=south,occupied=false,part=head]",
+    "ids": {
+      "393": 834,
+      "404": 834,
+      "477": 1134,
+      "573": 1134,
+      "718": 1135
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=north,occupied=true,part=foot]",
+    "ids": {
+      "393": 829,
+      "404": 829,
+      "477": 1129,
+      "573": 1129,
+      "718": 1130
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=east,occupied=false,part=foot]",
+    "ids": {
+      "393": 843,
+      "404": 843,
+      "477": 1143,
+      "573": 1143,
+      "718": 1144
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=west,occupied=false,part=head]",
+    "ids": {
+      "393": 838,
+      "404": 838,
+      "477": 1138,
+      "573": 1138,
+      "718": 1139
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=east,occupied=true,part=foot]",
+    "ids": {
+      "393": 841,
+      "404": 841,
+      "477": 1141,
+      "573": 1141,
+      "718": 1142
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=east,occupied=true,part=head]",
+    "ids": {
+      "393": 840,
+      "404": 840,
+      "477": 1140,
+      "573": 1140,
+      "718": 1141
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=north,occupied=true,part=head]",
+    "ids": {
+      "393": 828,
+      "404": 828,
+      "477": 1128,
+      "573": 1128,
+      "718": 1129
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=west,occupied=false,part=foot]",
+    "ids": {
+      "393": 839,
+      "404": 839,
+      "477": 1139,
+      "573": 1139,
+      "718": 1140
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=south,occupied=true,part=foot]",
+    "ids": {
+      "393": 833,
+      "404": 833,
+      "477": 1133,
+      "573": 1133,
+      "718": 1134
+    }
+  },
+  {
+    "name": "minecraft:lime_bed[facing=north,occupied=false,part=head]",
+    "ids": {
+      "393": 830,
+      "404": 830,
+      "477": 1130,
+      "573": 1130,
+      "718": 1131
+    }
+  }
+]

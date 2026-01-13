@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:pink_wall_banner[facing=east]",
+    "ids": {
+      "393": 7137,
+      "404": 7138,
+      "477": 7644,
+      "573": 7644,
+      "718": 8180
+    }
+  },
+  {
+    "name": "minecraft:pink_wall_banner[facing=north]",
+    "ids": {
+      "393": 7134,
+      "404": 7135,
+      "477": 7641,
+      "573": 7641,
+      "718": 8177
+    }
+  },
+  {
+    "name": "minecraft:pink_wall_banner[facing=west]",
+    "ids": {
+      "393": 7136,
+      "404": 7137,
+      "477": 7643,
+      "573": 7643,
+      "718": 8179
+    }
+  },
+  {
+    "name": "minecraft:pink_wall_banner[facing=south]",
+    "ids": {
+      "393": 7135,
+      "404": 7136,
+      "477": 7642,
+      "573": 7642,
+      "718": 8178
+    }
+  }
+]

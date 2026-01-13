@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:fire_coral_fan[waterlogged=true]",
+    "ids": {
+      "393": 8560,
+      "404": 8576,
+      "477": 9020,
+      "573": 9020,
+      "718": 9556
+    }
+  },
+  {
+    "name": "minecraft:fire_coral_fan[waterlogged=false]",
+    "ids": {
+      "393": 8561,
+      "404": 8577,
+      "477": 9021,
+      "573": 9021,
+      "718": 9557
+    }
+  }
+]

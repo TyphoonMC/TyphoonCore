@@ -1,0 +1,23 @@
+[
+  {
+    "name": "minecraft:grass_block[snowy=false]",
+    "ids": {
+      "393": 9,
+      "4": 32,
+      "404": 9,
+      "477": 9,
+      "573": 9,
+      "718": 9
+    }
+  },
+  {
+    "name": "minecraft:grass_block[snowy=true]",
+    "ids": {
+      "393": 8,
+      "404": 8,
+      "477": 8,
+      "573": 8,
+      "718": 8
+    }
+  }
+]

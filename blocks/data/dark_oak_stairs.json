@@ -1,0 +1,810 @@
+[
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6478,
+      "404": 6479,
+      "477": 6985,
+      "573": 6985,
+      "718": 7521
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6476,
+      "404": 6477,
+      "477": 6983,
+      "573": 6983,
+      "718": 7519
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6438,
+      "404": 6439,
+      "477": 6945,
+      "573": 6945,
+      "718": 7481
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6453,
+      "4": 2629,
+      "404": 6454,
+      "477": 6960,
+      "573": 6960,
+      "718": 7496
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6487,
+      "404": 6488,
+      "477": 6994,
+      "573": 6994,
+      "718": 7530
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6413,
+      "4": 2631,
+      "404": 6414,
+      "477": 6920,
+      "573": 6920,
+      "718": 7456
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6441,
+      "404": 6442,
+      "477": 6948,
+      "573": 6948,
+      "718": 7484
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6473,
+      "4": 2628,
+      "404": 6474,
+      "477": 6980,
+      "573": 6980,
+      "718": 7516
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6451,
+      "404": 6452,
+      "477": 6958,
+      "573": 6958,
+      "718": 7494
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6448,
+      "404": 6449,
+      "477": 6955,
+      "573": 6955,
+      "718": 7491
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6450,
+      "404": 6451,
+      "477": 6957,
+      "573": 6957,
+      "718": 7493
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6414,
+      "404": 6415,
+      "477": 6921,
+      "573": 6921,
+      "718": 7457
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6417,
+      "404": 6418,
+      "477": 6924,
+      "573": 6924,
+      "718": 7460
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6449,
+      "404": 6450,
+      "477": 6956,
+      "573": 6956,
+      "718": 7492
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6483,
+      "4": 2624,
+      "404": 6484,
+      "477": 6990,
+      "573": 6990,
+      "718": 7526
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6435,
+      "404": 6436,
+      "477": 6942,
+      "573": 6942,
+      "718": 7478
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6421,
+      "404": 6422,
+      "477": 6928,
+      "573": 6928,
+      "718": 7464
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6443,
+      "4": 2626,
+      "404": 6444,
+      "477": 6950,
+      "573": 6950,
+      "718": 7486
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6485,
+      "404": 6486,
+      "477": 6992,
+      "573": 6992,
+      "718": 7528
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6425,
+      "404": 6426,
+      "477": 6932,
+      "573": 6932,
+      "718": 7468
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6490,
+      "404": 6491,
+      "477": 6997,
+      "573": 6997,
+      "718": 7533
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6419,
+      "404": 6420,
+      "477": 6926,
+      "573": 6926,
+      "718": 7462
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6489,
+      "404": 6490,
+      "477": 6996,
+      "573": 6996,
+      "718": 7532
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6482,
+      "404": 6483,
+      "477": 6989,
+      "573": 6989,
+      "718": 7525
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6412,
+      "404": 6413,
+      "477": 6919,
+      "573": 6919,
+      "718": 7455
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6480,
+      "404": 6481,
+      "477": 6987,
+      "573": 6987,
+      "718": 7523
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6472,
+      "404": 6473,
+      "477": 6979,
+      "573": 6979,
+      "718": 7515
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6459,
+      "404": 6460,
+      "477": 6966,
+      "573": 6966,
+      "718": 7502
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6464,
+      "404": 6465,
+      "477": 6971,
+      "573": 6971,
+      "718": 7507
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6433,
+      "4": 2630,
+      "404": 6434,
+      "477": 6940,
+      "573": 6940,
+      "718": 7476
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6422,
+      "404": 6423,
+      "477": 6929,
+      "573": 6929,
+      "718": 7465
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6460,
+      "404": 6461,
+      "477": 6967,
+      "573": 6967,
+      "718": 7503
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6416,
+      "404": 6417,
+      "477": 6923,
+      "573": 6923,
+      "718": 7459
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6486,
+      "404": 6487,
+      "477": 6993,
+      "573": 6993,
+      "718": 7529
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6452,
+      "404": 6453,
+      "477": 6959,
+      "573": 6959,
+      "718": 7495
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6420,
+      "404": 6421,
+      "477": 6927,
+      "573": 6927,
+      "718": 7463
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6434,
+      "404": 6435,
+      "477": 6941,
+      "573": 6941,
+      "718": 7477
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6446,
+      "404": 6447,
+      "477": 6953,
+      "573": 6953,
+      "718": 7489
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6468,
+      "404": 6469,
+      "477": 6975,
+      "573": 6975,
+      "718": 7511
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6463,
+      "4": 2625,
+      "404": 6464,
+      "477": 6970,
+      "573": 6970,
+      "718": 7506
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6424,
+      "404": 6425,
+      "477": 6931,
+      "573": 6931,
+      "718": 7467
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6479,
+      "404": 6480,
+      "477": 6986,
+      "573": 6986,
+      "718": 7522
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6484,
+      "404": 6485,
+      "477": 6991,
+      "573": 6991,
+      "718": 7527
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6458,
+      "404": 6459,
+      "477": 6965,
+      "573": 6965,
+      "718": 7501
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6474,
+      "404": 6475,
+      "477": 6981,
+      "573": 6981,
+      "718": 7517
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6445,
+      "404": 6446,
+      "477": 6952,
+      "573": 6952,
+      "718": 7488
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6440,
+      "404": 6441,
+      "477": 6947,
+      "573": 6947,
+      "718": 7483
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6457,
+      "404": 6458,
+      "477": 6964,
+      "573": 6964,
+      "718": 7500
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6427,
+      "404": 6428,
+      "477": 6934,
+      "573": 6934,
+      "718": 7470
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6418,
+      "404": 6419,
+      "477": 6925,
+      "573": 6925,
+      "718": 7461
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6436,
+      "404": 6437,
+      "477": 6943,
+      "573": 6943,
+      "718": 7479
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6461,
+      "404": 6462,
+      "477": 6968,
+      "573": 6968,
+      "718": 7504
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6466,
+      "404": 6467,
+      "477": 6973,
+      "573": 6973,
+      "718": 7509
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6444,
+      "404": 6445,
+      "477": 6951,
+      "573": 6951,
+      "718": 7487
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6467,
+      "404": 6468,
+      "477": 6974,
+      "573": 6974,
+      "718": 7510
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6423,
+      "4": 2627,
+      "404": 6424,
+      "477": 6930,
+      "573": 6930,
+      "718": 7466
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6488,
+      "404": 6489,
+      "477": 6995,
+      "573": 6995,
+      "718": 7531
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6471,
+      "404": 6472,
+      "477": 6978,
+      "573": 6978,
+      "718": 7514
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6430,
+      "404": 6431,
+      "477": 6937,
+      "573": 6937,
+      "718": 7473
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6442,
+      "404": 6443,
+      "477": 6949,
+      "573": 6949,
+      "718": 7485
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6429,
+      "404": 6430,
+      "477": 6936,
+      "573": 6936,
+      "718": 7472
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6469,
+      "404": 6470,
+      "477": 6976,
+      "573": 6976,
+      "718": 7512
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6431,
+      "404": 6432,
+      "477": 6938,
+      "573": 6938,
+      "718": 7474
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6455,
+      "404": 6456,
+      "477": 6962,
+      "573": 6962,
+      "718": 7498
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6439,
+      "404": 6440,
+      "477": 6946,
+      "573": 6946,
+      "718": 7482
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6456,
+      "404": 6457,
+      "477": 6963,
+      "573": 6963,
+      "718": 7499
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6491,
+      "404": 6492,
+      "477": 6998,
+      "573": 6998,
+      "718": 7534
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6462,
+      "404": 6463,
+      "477": 6969,
+      "573": 6969,
+      "718": 7505
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6437,
+      "404": 6438,
+      "477": 6944,
+      "573": 6944,
+      "718": 7480
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6447,
+      "404": 6448,
+      "477": 6954,
+      "573": 6954,
+      "718": 7490
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6481,
+      "404": 6482,
+      "477": 6988,
+      "573": 6988,
+      "718": 7524
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6465,
+      "404": 6466,
+      "477": 6972,
+      "573": 6972,
+      "718": 7508
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6426,
+      "404": 6427,
+      "477": 6933,
+      "573": 6933,
+      "718": 7469
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6477,
+      "404": 6478,
+      "477": 6984,
+      "573": 6984,
+      "718": 7520
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6470,
+      "404": 6471,
+      "477": 6977,
+      "573": 6977,
+      "718": 7513
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6454,
+      "404": 6455,
+      "477": 6961,
+      "573": 6961,
+      "718": 7497
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6432,
+      "404": 6433,
+      "477": 6939,
+      "573": 6939,
+      "718": 7475
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6415,
+      "404": 6416,
+      "477": 6922,
+      "573": 6922,
+      "718": 7458
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6428,
+      "404": 6429,
+      "477": 6935,
+      "573": 6935,
+      "718": 7471
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6475,
+      "404": 6476,
+      "477": 6982,
+      "573": 6982,
+      "718": 7518
+    }
+  }
+]

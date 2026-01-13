@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:jungle_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7280,
+      "4": 2003,
+      "404": 7281,
+      "477": 7787,
+      "573": 7787,
+      "718": 8323
+    }
+  },
+  {
+    "name": "minecraft:jungle_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7277,
+      "404": 7278,
+      "477": 7784,
+      "573": 7784,
+      "718": 8320
+    }
+  },
+  {
+    "name": "minecraft:jungle_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7275,
+      "404": 7276,
+      "477": 7782,
+      "573": 7782,
+      "718": 8318
+    }
+  },
+  {
+    "name": "minecraft:jungle_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7276,
+      "4": 2027,
+      "404": 7277,
+      "477": 7783,
+      "573": 7783,
+      "718": 8319
+    }
+  },
+  {
+    "name": "minecraft:jungle_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7279,
+      "404": 7280,
+      "477": 7786,
+      "573": 7786,
+      "718": 8322
+    }
+  },
+  {
+    "name": "minecraft:jungle_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7278,
+      "4": 2019,
+      "404": 7279,
+      "477": 7785,
+      "573": 7785,
+      "718": 8321
+    }
+  }
+]

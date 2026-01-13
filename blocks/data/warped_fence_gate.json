@@ -1,0 +1,194 @@
+[
+  {
+    "name": "minecraft:warped_fence_gate[facing=east,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "718": 15315
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=west,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "718": 15304
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=south,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "718": 15299
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=south,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "718": 15297
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "718": 15316
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=east,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "718": 15317
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=north,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "718": 15293
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=west,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "718": 15306
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=west,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "718": 15310
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=west,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "718": 15305
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=east,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "718": 15311
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=west,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "718": 15308
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=west,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "718": 15309
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=north,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "718": 15287
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=north,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "718": 15294
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=west,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "718": 15307
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=east,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "718": 15312
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=south,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "718": 15298
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=south,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "718": 15295
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=south,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "718": 15300
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=west,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "718": 15303
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=south,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "718": 15296
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=east,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "718": 15313
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=east,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "718": 15318
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=south,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "718": 15301
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=north,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "718": 15289
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=north,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "718": 15291
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=north,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "718": 15290
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=north,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "718": 15288
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=east,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "718": 15314
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=north,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "718": 15292
+    }
+  },
+  {
+    "name": "minecraft:warped_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "718": 15302
+    }
+  }
+]

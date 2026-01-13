@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:player_wall_head[facing=south]",
+    "ids": {
+      "393": 5508,
+      "404": 5509,
+      "477": 6031,
+      "573": 6031,
+      "718": 6567
+    }
+  },
+  {
+    "name": "minecraft:player_wall_head[facing=north]",
+    "ids": {
+      "393": 5507,
+      "404": 5508,
+      "477": 6030,
+      "573": 6030,
+      "718": 6566
+    }
+  },
+  {
+    "name": "minecraft:player_wall_head[facing=east]",
+    "ids": {
+      "393": 5510,
+      "404": 5511,
+      "477": 6033,
+      "573": 6033,
+      "718": 6569
+    }
+  },
+  {
+    "name": "minecraft:player_wall_head[facing=west]",
+    "ids": {
+      "393": 5509,
+      "404": 5510,
+      "477": 6032,
+      "573": 6032,
+      "718": 6568
+    }
+  }
+]

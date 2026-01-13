@@ -1,0 +1,82 @@
+[
+  {
+    "name": "minecraft:dead_bubble_coral_wall_fan[facing=south,waterlogged=false]",
+    "ids": {
+      "393": 8483,
+      "404": 8499,
+      "477": 9043,
+      "573": 9043,
+      "718": 9579
+    }
+  },
+  {
+    "name": "minecraft:dead_bubble_coral_wall_fan[facing=south,waterlogged=true]",
+    "ids": {
+      "393": 8482,
+      "404": 8498,
+      "477": 9042,
+      "573": 9042,
+      "718": 9578
+    }
+  },
+  {
+    "name": "minecraft:dead_bubble_coral_wall_fan[facing=west,waterlogged=true]",
+    "ids": {
+      "393": 8484,
+      "404": 8500,
+      "477": 9044,
+      "573": 9044,
+      "718": 9580
+    }
+  },
+  {
+    "name": "minecraft:dead_bubble_coral_wall_fan[facing=east,waterlogged=false]",
+    "ids": {
+      "393": 8487,
+      "404": 8503,
+      "477": 9047,
+      "573": 9047,
+      "718": 9583
+    }
+  },
+  {
+    "name": "minecraft:dead_bubble_coral_wall_fan[facing=west,waterlogged=false]",
+    "ids": {
+      "393": 8485,
+      "404": 8501,
+      "477": 9045,
+      "573": 9045,
+      "718": 9581
+    }
+  },
+  {
+    "name": "minecraft:dead_bubble_coral_wall_fan[facing=north,waterlogged=false]",
+    "ids": {
+      "393": 8481,
+      "404": 8497,
+      "477": 9041,
+      "573": 9041,
+      "718": 9577
+    }
+  },
+  {
+    "name": "minecraft:dead_bubble_coral_wall_fan[facing=east,waterlogged=true]",
+    "ids": {
+      "393": 8486,
+      "404": 8502,
+      "477": 9046,
+      "573": 9046,
+      "718": 9582
+    }
+  },
+  {
+    "name": "minecraft:dead_bubble_coral_wall_fan[facing=north,waterlogged=true]",
+    "ids": {
+      "393": 8480,
+      "404": 8496,
+      "477": 9040,
+      "573": 9040,
+      "718": 9576
+    }
+  }
+]

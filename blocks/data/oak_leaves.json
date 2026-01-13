@@ -1,0 +1,146 @@
+[
+  {
+    "name": "minecraft:oak_leaves[distance=7,persistent=true]",
+    "ids": {
+      "393": 156,
+      "404": 156,
+      "477": 156,
+      "573": 156,
+      "718": 157
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=3,persistent=false]",
+    "ids": {
+      "393": 149,
+      "404": 149,
+      "477": 149,
+      "573": 149,
+      "718": 150
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=2,persistent=false]",
+    "ids": {
+      "393": 147,
+      "4": 296,
+      "404": 147,
+      "477": 147,
+      "573": 147,
+      "718": 148
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=1,persistent=false]",
+    "ids": {
+      "393": 145,
+      "4": 288,
+      "404": 145,
+      "477": 145,
+      "573": 145,
+      "718": 146
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=4,persistent=false]",
+    "ids": {
+      "393": 151,
+      "404": 151,
+      "477": 151,
+      "573": 151,
+      "718": 152
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=5,persistent=false]",
+    "ids": {
+      "393": 153,
+      "404": 153,
+      "477": 153,
+      "573": 153,
+      "718": 154
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=6,persistent=true]",
+    "ids": {
+      "393": 154,
+      "404": 154,
+      "477": 154,
+      "573": 154,
+      "718": 155
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=2,persistent=true]",
+    "ids": {
+      "393": 146,
+      "4": 300,
+      "404": 146,
+      "477": 146,
+      "573": 146,
+      "718": 147
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=6,persistent=false]",
+    "ids": {
+      "393": 155,
+      "404": 155,
+      "477": 155,
+      "573": 155,
+      "718": 156
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=4,persistent=true]",
+    "ids": {
+      "393": 150,
+      "404": 150,
+      "477": 150,
+      "573": 150,
+      "718": 151
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=7,persistent=false]",
+    "ids": {
+      "393": 157,
+      "404": 157,
+      "477": 157,
+      "573": 157,
+      "718": 158
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=1,persistent=true]",
+    "ids": {
+      "393": 144,
+      "4": 292,
+      "404": 144,
+      "477": 144,
+      "573": 144,
+      "718": 145
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=3,persistent=true]",
+    "ids": {
+      "393": 148,
+      "404": 148,
+      "477": 148,
+      "573": 148,
+      "718": 149
+    }
+  },
+  {
+    "name": "minecraft:oak_leaves[distance=5,persistent=true]",
+    "ids": {
+      "393": 152,
+      "404": 152,
+      "477": 152,
+      "573": 152,
+      "718": 153
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "minecraft:sweet_berry_bush[age=2]",
+    "ids": {
+      "477": 11250,
+      "573": 11266,
+      "718": 14956
+    }
+  },
+  {
+    "name": "minecraft:sweet_berry_bush[age=1]",
+    "ids": {
+      "477": 11249,
+      "573": 11265,
+      "718": 14955
+    }
+  },
+  {
+    "name": "minecraft:sweet_berry_bush[age=3]",
+    "ids": {
+      "477": 11251,
+      "573": 11267,
+      "718": 14957
+    }
+  },
+  {
+    "name": "minecraft:sweet_berry_bush[age=0]",
+    "ids": {
+      "477": 11248,
+      "573": 11264,
+      "718": 14954
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "minecraft:birch_leaves[distance=5,persistent=true]",
+    "ids": {
+      "393": 180,
+      "404": 180,
+      "477": 180,
+      "573": 180,
+      "718": 181
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=2,persistent=false]",
+    "ids": {
+      "393": 175,
+      "4": 298,
+      "404": 175,
+      "477": 175,
+      "573": 175,
+      "718": 176
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=6,persistent=true]",
+    "ids": {
+      "393": 182,
+      "404": 182,
+      "477": 182,
+      "573": 182,
+      "718": 183
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=1,persistent=false]",
+    "ids": {
+      "393": 173,
+      "4": 290,
+      "404": 173,
+      "477": 173,
+      "573": 173,
+      "718": 174
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=1,persistent=true]",
+    "ids": {
+      "393": 172,
+      "4": 294,
+      "404": 172,
+      "477": 172,
+      "573": 172,
+      "718": 173
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=5,persistent=false]",
+    "ids": {
+      "393": 181,
+      "404": 181,
+      "477": 181,
+      "573": 181,
+      "718": 182
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=2,persistent=true]",
+    "ids": {
+      "393": 174,
+      "4": 302,
+      "404": 174,
+      "477": 174,
+      "573": 174,
+      "718": 175
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=4,persistent=false]",
+    "ids": {
+      "393": 179,
+      "404": 179,
+      "477": 179,
+      "573": 179,
+      "718": 180
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=7,persistent=false]",
+    "ids": {
+      "393": 185,
+      "404": 185,
+      "477": 185,
+      "573": 185,
+      "718": 186
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=3,persistent=false]",
+    "ids": {
+      "393": 177,
+      "404": 177,
+      "477": 177,
+      "573": 177,
+      "718": 178
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=4,persistent=true]",
+    "ids": {
+      "393": 178,
+      "404": 178,
+      "477": 178,
+      "573": 178,
+      "718": 179
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=3,persistent=true]",
+    "ids": {
+      "393": 176,
+      "404": 176,
+      "477": 176,
+      "573": 176,
+      "718": 177
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=6,persistent=false]",
+    "ids": {
+      "393": 183,
+      "404": 183,
+      "477": 183,
+      "573": 183,
+      "718": 184
+    }
+  },
+  {
+    "name": "minecraft:birch_leaves[distance=7,persistent=true]",
+    "ids": {
+      "393": 184,
+      "404": 184,
+      "477": 184,
+      "573": 184,
+      "718": 185
+    }
+  }
+]

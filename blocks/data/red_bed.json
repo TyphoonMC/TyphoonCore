@@ -1,0 +1,174 @@
+[
+  {
+    "name": "minecraft:red_bed[facing=west,occupied=true,part=head]",
+    "ids": {
+      "393": 980,
+      "4": 429,
+      "404": 980,
+      "477": 1280,
+      "573": 1280,
+      "718": 1281
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=south,occupied=true,part=foot]",
+    "ids": {
+      "393": 977,
+      "404": 977,
+      "477": 1277,
+      "573": 1277,
+      "718": 1278
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=south,occupied=false,part=head]",
+    "ids": {
+      "393": 978,
+      "4": 424,
+      "404": 978,
+      "477": 1278,
+      "573": 1278,
+      "718": 1279
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=west,occupied=true,part=foot]",
+    "ids": {
+      "393": 981,
+      "404": 981,
+      "477": 1281,
+      "573": 1281,
+      "718": 1282
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=east,occupied=true,part=head]",
+    "ids": {
+      "393": 984,
+      "4": 431,
+      "404": 984,
+      "477": 1284,
+      "573": 1284,
+      "718": 1285
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=north,occupied=true,part=foot]",
+    "ids": {
+      "393": 973,
+      "404": 973,
+      "477": 1273,
+      "573": 1273,
+      "718": 1274
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=east,occupied=false,part=foot]",
+    "ids": {
+      "393": 987,
+      "4": 419,
+      "404": 987,
+      "477": 1287,
+      "573": 1287,
+      "718": 1288
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=north,occupied=false,part=foot]",
+    "ids": {
+      "393": 975,
+      "4": 418,
+      "404": 975,
+      "477": 1275,
+      "573": 1275,
+      "718": 1276
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=west,occupied=false,part=foot]",
+    "ids": {
+      "393": 983,
+      "4": 417,
+      "404": 983,
+      "477": 1283,
+      "573": 1283,
+      "718": 1284
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=east,occupied=true,part=foot]",
+    "ids": {
+      "393": 985,
+      "404": 985,
+      "477": 1285,
+      "573": 1285,
+      "718": 1286
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=south,occupied=false,part=foot]",
+    "ids": {
+      "393": 979,
+      "4": 416,
+      "404": 979,
+      "477": 1279,
+      "573": 1279,
+      "718": 1280
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=north,occupied=true,part=head]",
+    "ids": {
+      "393": 972,
+      "4": 430,
+      "404": 972,
+      "477": 1272,
+      "573": 1272,
+      "718": 1273
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=west,occupied=false,part=head]",
+    "ids": {
+      "393": 982,
+      "4": 425,
+      "404": 982,
+      "477": 1282,
+      "573": 1282,
+      "718": 1283
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=north,occupied=false,part=head]",
+    "ids": {
+      "393": 974,
+      "4": 426,
+      "404": 974,
+      "477": 1274,
+      "573": 1274,
+      "718": 1275
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=south,occupied=true,part=head]",
+    "ids": {
+      "393": 976,
+      "4": 428,
+      "404": 976,
+      "477": 1276,
+      "573": 1276,
+      "718": 1277
+    }
+  },
+  {
+    "name": "minecraft:red_bed[facing=east,occupied=false,part=head]",
+    "ids": {
+      "393": 986,
+      "4": 427,
+      "404": 986,
+      "477": 1286,
+      "573": 1286,
+      "718": 1287
+    }
+  }
+]

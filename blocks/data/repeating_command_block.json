@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:repeating_command_block[conditional=false,facing=up]",
+    "ids": {
+      "393": 8174,
+      "4": 3361,
+      "404": 8175,
+      "477": 8699,
+      "573": 8699,
+      "718": 9235
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=true,facing=east]",
+    "ids": {
+      "393": 8165,
+      "4": 3373,
+      "404": 8166,
+      "477": 8690,
+      "573": 8690,
+      "718": 9226
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=true,facing=north]",
+    "ids": {
+      "393": 8164,
+      "4": 3370,
+      "404": 8165,
+      "477": 8689,
+      "573": 8689,
+      "718": 9225
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=false,facing=east]",
+    "ids": {
+      "393": 8171,
+      "4": 3365,
+      "404": 8172,
+      "477": 8696,
+      "573": 8696,
+      "718": 9232
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=true,facing=up]",
+    "ids": {
+      "393": 8168,
+      "4": 3369,
+      "404": 8169,
+      "477": 8693,
+      "573": 8693,
+      "718": 9229
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=false,facing=south]",
+    "ids": {
+      "393": 8172,
+      "4": 3363,
+      "404": 8173,
+      "477": 8697,
+      "573": 8697,
+      "718": 9233
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=true,facing=down]",
+    "ids": {
+      "393": 8169,
+      "4": 3368,
+      "404": 8170,
+      "477": 8694,
+      "573": 8694,
+      "718": 9230
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=false,facing=west]",
+    "ids": {
+      "393": 8173,
+      "4": 3364,
+      "404": 8174,
+      "477": 8698,
+      "573": 8698,
+      "718": 9234
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=true,facing=south]",
+    "ids": {
+      "393": 8166,
+      "4": 3371,
+      "404": 8167,
+      "477": 8691,
+      "573": 8691,
+      "718": 9227
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=false,facing=down]",
+    "ids": {
+      "393": 8175,
+      "4": 3360,
+      "404": 8176,
+      "477": 8700,
+      "573": 8700,
+      "718": 9236
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=false,facing=north]",
+    "ids": {
+      "393": 8170,
+      "4": 3362,
+      "404": 8171,
+      "477": 8695,
+      "573": 8695,
+      "718": 9231
+    }
+  },
+  {
+    "name": "minecraft:repeating_command_block[conditional=true,facing=west]",
+    "ids": {
+      "393": 8167,
+      "4": 3372,
+      "404": 8168,
+      "477": 8692,
+      "573": 8692,
+      "718": 9228
+    }
+  }
+]

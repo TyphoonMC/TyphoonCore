@@ -1,0 +1,642 @@
+[
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9271,
+      "573": 9271,
+      "718": 9807
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9257,
+      "573": 9257,
+      "718": 9793
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9278,
+      "573": 9278,
+      "718": 9814
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9245,
+      "573": 9245,
+      "718": 9781
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9230,
+      "573": 9230,
+      "718": 9766
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9282,
+      "573": 9282,
+      "718": 9818
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9252,
+      "573": 9252,
+      "718": 9788
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9214,
+      "573": 9214,
+      "718": 9750
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9242,
+      "573": 9242,
+      "718": 9778
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9229,
+      "573": 9229,
+      "718": 9765
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9248,
+      "573": 9248,
+      "718": 9784
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9281,
+      "573": 9281,
+      "718": 9817
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9280,
+      "573": 9280,
+      "718": 9816
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9246,
+      "573": 9246,
+      "718": 9782
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9223,
+      "573": 9223,
+      "718": 9759
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9213,
+      "573": 9213,
+      "718": 9749
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9274,
+      "573": 9274,
+      "718": 9810
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9215,
+      "573": 9215,
+      "718": 9751
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9265,
+      "573": 9265,
+      "718": 9801
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9232,
+      "573": 9232,
+      "718": 9768
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9231,
+      "573": 9231,
+      "718": 9767
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9220,
+      "573": 9220,
+      "718": 9756
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9218,
+      "573": 9218,
+      "718": 9754
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9219,
+      "573": 9219,
+      "718": 9755
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9268,
+      "573": 9268,
+      "718": 9804
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9253,
+      "573": 9253,
+      "718": 9789
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9225,
+      "573": 9225,
+      "718": 9761
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9221,
+      "573": 9221,
+      "718": 9757
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9256,
+      "573": 9256,
+      "718": 9792
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9233,
+      "573": 9233,
+      "718": 9769
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9251,
+      "573": 9251,
+      "718": 9787
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9292,
+      "573": 9292,
+      "718": 9828
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9217,
+      "573": 9217,
+      "718": 9753
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9226,
+      "573": 9226,
+      "718": 9762
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9224,
+      "573": 9224,
+      "718": 9760
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9243,
+      "573": 9243,
+      "718": 9779
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9216,
+      "573": 9216,
+      "718": 9752
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9289,
+      "573": 9289,
+      "718": 9825
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9277,
+      "573": 9277,
+      "718": 9813
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9238,
+      "573": 9238,
+      "718": 9774
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9269,
+      "573": 9269,
+      "718": 9805
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9261,
+      "573": 9261,
+      "718": 9797
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9283,
+      "573": 9283,
+      "718": 9819
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9250,
+      "573": 9250,
+      "718": 9786
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9270,
+      "573": 9270,
+      "718": 9806
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9264,
+      "573": 9264,
+      "718": 9800
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9266,
+      "573": 9266,
+      "718": 9802
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9275,
+      "573": 9275,
+      "718": 9811
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9254,
+      "573": 9254,
+      "718": 9790
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9260,
+      "573": 9260,
+      "718": 9796
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9263,
+      "573": 9263,
+      "718": 9799
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9279,
+      "573": 9279,
+      "718": 9815
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9267,
+      "573": 9267,
+      "718": 9803
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9239,
+      "573": 9239,
+      "718": 9775
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9249,
+      "573": 9249,
+      "718": 9785
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9234,
+      "573": 9234,
+      "718": 9770
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9227,
+      "573": 9227,
+      "718": 9763
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9240,
+      "573": 9240,
+      "718": 9776
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9222,
+      "573": 9222,
+      "718": 9758
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9235,
+      "573": 9235,
+      "718": 9771
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9291,
+      "573": 9291,
+      "718": 9827
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9272,
+      "573": 9272,
+      "718": 9808
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9284,
+      "573": 9284,
+      "718": 9820
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9285,
+      "573": 9285,
+      "718": 9821
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9247,
+      "573": 9247,
+      "718": 9783
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9290,
+      "573": 9290,
+      "718": 9826
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9258,
+      "573": 9258,
+      "718": 9794
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9262,
+      "573": 9262,
+      "718": 9798
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9228,
+      "573": 9228,
+      "718": 9764
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9241,
+      "573": 9241,
+      "718": 9777
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9259,
+      "573": 9259,
+      "718": 9795
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9286,
+      "573": 9286,
+      "718": 9822
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9244,
+      "573": 9244,
+      "718": 9780
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9288,
+      "573": 9288,
+      "718": 9824
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9273,
+      "573": 9273,
+      "718": 9809
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9255,
+      "573": 9255,
+      "718": 9791
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9276,
+      "573": 9276,
+      "718": 9812
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9237,
+      "573": 9237,
+      "718": 9773
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9287,
+      "573": 9287,
+      "718": 9823
+    }
+  },
+  {
+    "name": "minecraft:smooth_red_sandstone_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9236,
+      "573": 9236,
+      "718": 9772
+    }
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4684,
+      "404": 4685,
+      "477": 5188,
+      "573": 5188,
+      "718": 5204
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4678,
+      "404": 4679,
+      "477": 5182,
+      "573": 5182,
+      "718": 5198
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4729,
+      "404": 4730,
+      "477": 5233,
+      "573": 5233,
+      "718": 5249
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4686,
+      "404": 4687,
+      "477": 5190,
+      "573": 5190,
+      "718": 5206
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4674,
+      "404": 4675,
+      "477": 5178,
+      "573": 5178,
+      "718": 5194
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4701,
+      "4": 2049,
+      "404": 4702,
+      "477": 5205,
+      "573": 5205,
+      "718": 5221
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4671,
+      "4": 2054,
+      "404": 4672,
+      "477": 5175,
+      "573": 5175,
+      "718": 5191
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4652,
+      "404": 4653,
+      "477": 5156,
+      "573": 5156,
+      "718": 5172
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4692,
+      "404": 4693,
+      "477": 5196,
+      "573": 5196,
+      "718": 5212
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4668,
+      "404": 4669,
+      "477": 5172,
+      "573": 5172,
+      "718": 5188
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4663,
+      "404": 4664,
+      "477": 5167,
+      "573": 5167,
+      "718": 5183
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4662,
+      "404": 4663,
+      "477": 5166,
+      "573": 5166,
+      "718": 5182
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4694,
+      "404": 4695,
+      "477": 5198,
+      "573": 5198,
+      "718": 5214
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4680,
+      "404": 4681,
+      "477": 5184,
+      "573": 5184,
+      "718": 5200
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4695,
+      "404": 4696,
+      "477": 5199,
+      "573": 5199,
+      "718": 5215
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4660,
+      "404": 4661,
+      "477": 5164,
+      "573": 5164,
+      "718": 5180
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4690,
+      "404": 4691,
+      "477": 5194,
+      "573": 5194,
+      "718": 5210
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4681,
+      "4": 2050,
+      "404": 4682,
+      "477": 5185,
+      "573": 5185,
+      "718": 5201
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4713,
+      "404": 4714,
+      "477": 5217,
+      "573": 5217,
+      "718": 5233
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4698,
+      "404": 4699,
+      "477": 5202,
+      "573": 5202,
+      "718": 5218
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4677,
+      "404": 4678,
+      "477": 5181,
+      "573": 5181,
+      "718": 5197
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4722,
+      "404": 4723,
+      "477": 5226,
+      "573": 5226,
+      "718": 5242
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4672,
+      "404": 4673,
+      "477": 5176,
+      "573": 5176,
+      "718": 5192
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4721,
+      "4": 2048,
+      "404": 4722,
+      "477": 5225,
+      "573": 5225,
+      "718": 5241
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4699,
+      "404": 4700,
+      "477": 5203,
+      "573": 5203,
+      "718": 5219
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4706,
+      "404": 4707,
+      "477": 5210,
+      "573": 5210,
+      "718": 5226
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4670,
+      "404": 4671,
+      "477": 5174,
+      "573": 5174,
+      "718": 5190
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4710,
+      "404": 4711,
+      "477": 5214,
+      "573": 5214,
+      "718": 5230
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4703,
+      "404": 4704,
+      "477": 5207,
+      "573": 5207,
+      "718": 5223
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4659,
+      "404": 4660,
+      "477": 5163,
+      "573": 5163,
+      "718": 5179
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4719,
+      "404": 4720,
+      "477": 5223,
+      "573": 5223,
+      "718": 5239
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4716,
+      "404": 4717,
+      "477": 5220,
+      "573": 5220,
+      "718": 5236
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4723,
+      "404": 4724,
+      "477": 5227,
+      "573": 5227,
+      "718": 5243
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4669,
+      "404": 4670,
+      "477": 5173,
+      "573": 5173,
+      "718": 5189
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4676,
+      "404": 4677,
+      "477": 5180,
+      "573": 5180,
+      "718": 5196
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4697,
+      "404": 4698,
+      "477": 5201,
+      "573": 5201,
+      "718": 5217
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4685,
+      "404": 4686,
+      "477": 5189,
+      "573": 5189,
+      "718": 5205
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4687,
+      "404": 4688,
+      "477": 5191,
+      "573": 5191,
+      "718": 5207
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4666,
+      "404": 4667,
+      "477": 5170,
+      "573": 5170,
+      "718": 5186
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4696,
+      "404": 4697,
+      "477": 5200,
+      "573": 5200,
+      "718": 5216
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4655,
+      "404": 4656,
+      "477": 5159,
+      "573": 5159,
+      "718": 5175
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4661,
+      "4": 2051,
+      "404": 4662,
+      "477": 5165,
+      "573": 5165,
+      "718": 5181
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4688,
+      "404": 4689,
+      "477": 5192,
+      "573": 5192,
+      "718": 5208
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4683,
+      "404": 4684,
+      "477": 5187,
+      "573": 5187,
+      "718": 5203
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4657,
+      "404": 4658,
+      "477": 5161,
+      "573": 5161,
+      "718": 5177
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4715,
+      "404": 4716,
+      "477": 5219,
+      "573": 5219,
+      "718": 5235
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4691,
+      "4": 2053,
+      "404": 4692,
+      "477": 5195,
+      "573": 5195,
+      "718": 5211
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4664,
+      "404": 4665,
+      "477": 5168,
+      "573": 5168,
+      "718": 5184
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4718,
+      "404": 4719,
+      "477": 5222,
+      "573": 5222,
+      "718": 5238
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4679,
+      "404": 4680,
+      "477": 5183,
+      "573": 5183,
+      "718": 5199
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4693,
+      "404": 4694,
+      "477": 5197,
+      "573": 5197,
+      "718": 5213
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4682,
+      "404": 4683,
+      "477": 5186,
+      "573": 5186,
+      "718": 5202
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4714,
+      "404": 4715,
+      "477": 5218,
+      "573": 5218,
+      "718": 5234
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4711,
+      "4": 2052,
+      "404": 4712,
+      "477": 5215,
+      "573": 5215,
+      "718": 5231
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4705,
+      "404": 4706,
+      "477": 5209,
+      "573": 5209,
+      "718": 5225
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4656,
+      "404": 4657,
+      "477": 5160,
+      "573": 5160,
+      "718": 5176
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4702,
+      "404": 4703,
+      "477": 5206,
+      "573": 5206,
+      "718": 5222
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4720,
+      "404": 4721,
+      "477": 5224,
+      "573": 5224,
+      "718": 5240
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4709,
+      "404": 4710,
+      "477": 5213,
+      "573": 5213,
+      "718": 5229
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4650,
+      "404": 4651,
+      "477": 5154,
+      "573": 5154,
+      "718": 5170
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4726,
+      "404": 4727,
+      "477": 5230,
+      "573": 5230,
+      "718": 5246
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4675,
+      "404": 4676,
+      "477": 5179,
+      "573": 5179,
+      "718": 5195
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4653,
+      "404": 4654,
+      "477": 5157,
+      "573": 5157,
+      "718": 5173
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4724,
+      "404": 4725,
+      "477": 5228,
+      "573": 5228,
+      "718": 5244
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4704,
+      "404": 4705,
+      "477": 5208,
+      "573": 5208,
+      "718": 5224
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4658,
+      "404": 4659,
+      "477": 5162,
+      "573": 5162,
+      "718": 5178
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4654,
+      "404": 4655,
+      "477": 5158,
+      "573": 5158,
+      "718": 5174
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4717,
+      "404": 4718,
+      "477": 5221,
+      "573": 5221,
+      "718": 5237
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4667,
+      "404": 4668,
+      "477": 5171,
+      "573": 5171,
+      "718": 5187
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4708,
+      "404": 4709,
+      "477": 5212,
+      "573": 5212,
+      "718": 5228
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4725,
+      "404": 4726,
+      "477": 5229,
+      "573": 5229,
+      "718": 5245
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4689,
+      "404": 4690,
+      "477": 5193,
+      "573": 5193,
+      "718": 5209
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4728,
+      "404": 4729,
+      "477": 5232,
+      "573": 5232,
+      "718": 5248
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4665,
+      "404": 4666,
+      "477": 5169,
+      "573": 5169,
+      "718": 5185
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4707,
+      "404": 4708,
+      "477": 5211,
+      "573": 5211,
+      "718": 5227
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4700,
+      "404": 4701,
+      "477": 5204,
+      "573": 5204,
+      "718": 5220
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4727,
+      "404": 4728,
+      "477": 5231,
+      "573": 5231,
+      "718": 5247
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4712,
+      "404": 4713,
+      "477": 5216,
+      "573": 5216,
+      "718": 5232
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4673,
+      "404": 4674,
+      "477": 5177,
+      "573": 5177,
+      "718": 5193
+    }
+  },
+  {
+    "name": "minecraft:sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4651,
+      "4": 2055,
+      "404": 4652,
+      "477": 5155,
+      "573": 5155,
+      "718": 5171
+    }
+  }
+]

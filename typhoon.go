@@ -2,12 +2,14 @@ package typhoon
 
 import (
 	"bufio"
-	uuid "github.com/TyphoonMC/go.uuid"
-	"log"
+	"log/slog"
 	"math/rand"
 	"net"
+	"os"
 	"reflect"
 	"time"
+
+	"github.com/google/uuid"
 )
 
 type Core struct {
@@ -23,7 +25,10 @@ type Core struct {
 }
 
 func Init() *Core {
-	initConfig()
+	if err := initConfig(); err != nil {
+		slog.Error("failed to initialize config", "error", err)
+		os.Exit(1)
+	}
 	initPackets()
 	initHacks()
 	c := &Core{
@@ -41,7 +46,7 @@ func Init() *Core {
 		nil,
 		newPlayerRegistry(),
 		&Map{
-			Location{0, 0, 0},
+			Location{X: 0, Y: 0, Z: 0},
 			END,
 			[]*Chunk{},
 		},
@@ -55,14 +60,15 @@ func Init() *Core {
 func (c *Core) Start() {
 	ln, err := net.Listen("tcp", config.ListenAddress)
 	if err != nil {
-		log.Fatal(err)
+		slog.Error("failed to start server", "error", err)
+		os.Exit(1)
 	}
-	log.Println("Server launched on port", config.ListenAddress)
+	slog.Info("server launched", "address", config.ListenAddress)
 	go c.keepAlive()
 	for {
 		conn, err := ln.Accept()
 		if err != nil {
-			log.Print(err)
+			slog.Error("failed to accept connection", "error", err)
 		} else {
 			c.connCounter += 1
 			go c.handleConnection(conn, c.connCounter)
@@ -112,8 +118,9 @@ func (c *Core) keepAlive() {
 }
 
 func (c *Core) handleConnection(conn net.Conn, id int) {
-	log.Printf("%s(#%d) connected.", conn.RemoteAddr().String(), id)
+	slog.Debug("player connected", "addr", conn.RemoteAddr().String(), "id", id)
 
+	defaultUUID, _ := uuid.Parse("d979912c-bb24-4f23-a6ac-c32985a1e5d3")
 	player := &Player{
 		core:     c,
 		id:       id,
@@ -129,7 +136,7 @@ func (c *Core) handleConnection(conn net.Conn, id int) {
 			0,
 		},
 		name:         "",
-		uuid:         uuid.FromStringOrNil("d979912c-bb24-4f23-a6ac-c32985a1e5d3"),
+		uuid:         defaultUUID,
 		keepalive:    0,
 		compression:  false,
 		packetsQueue: make(chan Packet),
@@ -153,9 +160,9 @@ func (c *Core) handleConnection(conn net.Conn, id int) {
 	}
 
 	if player.state == PLAY {
-		player.core.CallEvent(&PlayerQuitEvent{player})
+		player.core.CallEvent(&PlayerQuitEvent{Player: player})
 		player.unregister()
 	}
 	conn.Close()
-	log.Printf("%s(#%d) disconnected.", conn.RemoteAddr().String(), id)
+	slog.Debug("player disconnected", "addr", conn.RemoteAddr().String(), "id", id)
 }

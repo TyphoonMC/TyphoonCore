@@ -1,0 +1,642 @@
+[
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3736,
+      "404": 3737,
+      "477": 4240,
+      "573": 4240,
+      "718": 4254
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3774,
+      "404": 3775,
+      "477": 4278,
+      "573": 4278,
+      "718": 4292
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3734,
+      "404": 3735,
+      "477": 4238,
+      "573": 4238,
+      "718": 4252
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3741,
+      "404": 3742,
+      "477": 4245,
+      "573": 4245,
+      "718": 4259
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3761,
+      "404": 3762,
+      "477": 4265,
+      "573": 4265,
+      "718": 4279
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3726,
+      "404": 3727,
+      "477": 4230,
+      "573": 4230,
+      "718": 4244
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3729,
+      "404": 3730,
+      "477": 4233,
+      "573": 4233,
+      "718": 4247
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3763,
+      "404": 3764,
+      "477": 4267,
+      "573": 4267,
+      "718": 4281
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3730,
+      "404": 3731,
+      "477": 4234,
+      "573": 4234,
+      "718": 4248
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3748,
+      "404": 3749,
+      "477": 4252,
+      "573": 4252,
+      "718": 4266
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3746,
+      "404": 3747,
+      "477": 4250,
+      "573": 4250,
+      "718": 4264
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3745,
+      "404": 3746,
+      "477": 4249,
+      "573": 4249,
+      "718": 4263
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3770,
+      "404": 3771,
+      "477": 4274,
+      "573": 4274,
+      "718": 4288
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3753,
+      "404": 3754,
+      "477": 4257,
+      "573": 4257,
+      "718": 4271
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3778,
+      "404": 3779,
+      "477": 4282,
+      "573": 4282,
+      "718": 4296
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3771,
+      "404": 3772,
+      "477": 4275,
+      "573": 4275,
+      "718": 4289
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3731,
+      "404": 3732,
+      "477": 4235,
+      "573": 4235,
+      "718": 4249
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3747,
+      "404": 3748,
+      "477": 4251,
+      "573": 4251,
+      "718": 4265
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3756,
+      "404": 3757,
+      "477": 4260,
+      "573": 4260,
+      "718": 4274
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3749,
+      "404": 3750,
+      "477": 4253,
+      "573": 4253,
+      "718": 4267
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3733,
+      "404": 3734,
+      "477": 4237,
+      "573": 4237,
+      "718": 4251
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3781,
+      "404": 3782,
+      "477": 4285,
+      "573": 4285,
+      "718": 4299
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3757,
+      "404": 3758,
+      "477": 4261,
+      "573": 4261,
+      "718": 4275
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3721,
+      "404": 3722,
+      "477": 4225,
+      "573": 4225,
+      "718": 4239
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3750,
+      "404": 3751,
+      "477": 4254,
+      "573": 4254,
+      "718": 4268
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3744,
+      "404": 3745,
+      "477": 4248,
+      "573": 4248,
+      "718": 4262
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3735,
+      "404": 3736,
+      "477": 4239,
+      "573": 4239,
+      "718": 4253
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3772,
+      "404": 3773,
+      "477": 4276,
+      "573": 4276,
+      "718": 4290
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3784,
+      "404": 3785,
+      "477": 4288,
+      "573": 4288,
+      "718": 4302
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3742,
+      "404": 3743,
+      "477": 4246,
+      "573": 4246,
+      "718": 4260
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3769,
+      "404": 3770,
+      "477": 4273,
+      "573": 4273,
+      "718": 4287
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3732,
+      "404": 3733,
+      "477": 4236,
+      "573": 4236,
+      "718": 4250
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3754,
+      "404": 3755,
+      "477": 4258,
+      "573": 4258,
+      "718": 4272
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3725,
+      "404": 3726,
+      "477": 4229,
+      "573": 4229,
+      "718": 4243
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3740,
+      "404": 3741,
+      "477": 4244,
+      "573": 4244,
+      "718": 4258
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3727,
+      "404": 3728,
+      "477": 4231,
+      "573": 4231,
+      "718": 4245
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3766,
+      "404": 3767,
+      "477": 4270,
+      "573": 4270,
+      "718": 4284
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3777,
+      "404": 3778,
+      "477": 4281,
+      "573": 4281,
+      "718": 4295
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3767,
+      "404": 3768,
+      "477": 4271,
+      "573": 4271,
+      "718": 4285
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3755,
+      "404": 3756,
+      "477": 4259,
+      "573": 4259,
+      "718": 4273
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3775,
+      "404": 3776,
+      "477": 4279,
+      "573": 4279,
+      "718": 4293
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3782,
+      "404": 3783,
+      "477": 4286,
+      "573": 4286,
+      "718": 4300
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3776,
+      "404": 3777,
+      "477": 4280,
+      "573": 4280,
+      "718": 4294
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3722,
+      "404": 3723,
+      "477": 4226,
+      "573": 4226,
+      "718": 4240
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3758,
+      "404": 3759,
+      "477": 4262,
+      "573": 4262,
+      "718": 4276
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3752,
+      "404": 3753,
+      "477": 4256,
+      "573": 4256,
+      "718": 4270
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3762,
+      "404": 3763,
+      "477": 4266,
+      "573": 4266,
+      "718": 4280
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3783,
+      "404": 3784,
+      "477": 4287,
+      "573": 4287,
+      "718": 4301
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3779,
+      "404": 3780,
+      "477": 4283,
+      "573": 4283,
+      "718": 4297
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3739,
+      "404": 3740,
+      "477": 4243,
+      "573": 4243,
+      "718": 4257
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3723,
+      "404": 3724,
+      "477": 4227,
+      "573": 4227,
+      "718": 4241
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3737,
+      "404": 3738,
+      "477": 4241,
+      "573": 4241,
+      "718": 4255
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3780,
+      "404": 3781,
+      "477": 4284,
+      "573": 4284,
+      "718": 4298
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3751,
+      "404": 3752,
+      "477": 4255,
+      "573": 4255,
+      "718": 4269
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3760,
+      "404": 3761,
+      "477": 4264,
+      "573": 4264,
+      "718": 4278
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3759,
+      "404": 3760,
+      "477": 4263,
+      "573": 4263,
+      "718": 4277
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3728,
+      "404": 3729,
+      "477": 4232,
+      "573": 4232,
+      "718": 4246
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3738,
+      "404": 3739,
+      "477": 4242,
+      "573": 4242,
+      "718": 4256
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3765,
+      "404": 3766,
+      "477": 4269,
+      "573": 4269,
+      "718": 4283
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3724,
+      "404": 3725,
+      "477": 4228,
+      "573": 4228,
+      "718": 4242
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3743,
+      "404": 3744,
+      "477": 4247,
+      "573": 4247,
+      "718": 4261
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3764,
+      "404": 3765,
+      "477": 4268,
+      "573": 4268,
+      "718": 4282
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3773,
+      "404": 3774,
+      "477": 4277,
+      "573": 4277,
+      "718": 4291
+    }
+  },
+  {
+    "name": "minecraft:birch_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3768,
+      "404": 3769,
+      "477": 4272,
+      "573": 4272,
+      "718": 4286
+    }
+  }
+]

@@ -1,0 +1,643 @@
+[
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 8046,
+      "404": 8047,
+      "477": 8571,
+      "573": 8571,
+      "718": 9107
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 8014,
+      "404": 8015,
+      "477": 8539,
+      "573": 8539,
+      "718": 9075
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 8033,
+      "404": 8034,
+      "477": 8558,
+      "573": 8558,
+      "718": 9094
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 8063,
+      "404": 8064,
+      "477": 8588,
+      "573": 8588,
+      "718": 9124
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 8017,
+      "404": 8018,
+      "477": 8542,
+      "573": 8542,
+      "718": 9078
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 8015,
+      "404": 8016,
+      "477": 8540,
+      "573": 8540,
+      "718": 9076
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 8011,
+      "404": 8012,
+      "477": 8536,
+      "573": 8536,
+      "718": 9072
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 8054,
+      "404": 8055,
+      "477": 8579,
+      "573": 8579,
+      "718": 9115
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 8039,
+      "404": 8040,
+      "477": 8564,
+      "573": 8564,
+      "718": 9100
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 8053,
+      "404": 8054,
+      "477": 8578,
+      "573": 8578,
+      "718": 9114
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 8021,
+      "404": 8022,
+      "477": 8546,
+      "573": 8546,
+      "718": 9082
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 8031,
+      "404": 8032,
+      "477": 8556,
+      "573": 8556,
+      "718": 9092
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 8064,
+      "404": 8065,
+      "477": 8589,
+      "573": 8589,
+      "718": 9125
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 8051,
+      "404": 8052,
+      "477": 8576,
+      "573": 8576,
+      "718": 9112
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 8059,
+      "404": 8060,
+      "477": 8584,
+      "573": 8584,
+      "718": 9120
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 8036,
+      "404": 8037,
+      "477": 8561,
+      "573": 8561,
+      "718": 9097
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 8003,
+      "404": 8004,
+      "477": 8528,
+      "573": 8528,
+      "718": 9064
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 8045,
+      "404": 8046,
+      "477": 8570,
+      "573": 8570,
+      "718": 9106
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 8042,
+      "404": 8043,
+      "477": 8567,
+      "573": 8567,
+      "718": 9103
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 8035,
+      "404": 8036,
+      "477": 8560,
+      "573": 8560,
+      "718": 9096
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 8025,
+      "404": 8026,
+      "477": 8550,
+      "573": 8550,
+      "718": 9086
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 8018,
+      "404": 8019,
+      "477": 8543,
+      "573": 8543,
+      "718": 9079
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 8034,
+      "404": 8035,
+      "477": 8559,
+      "573": 8559,
+      "718": 9095
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 8049,
+      "404": 8050,
+      "477": 8574,
+      "573": 8574,
+      "718": 9110
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 8009,
+      "404": 8010,
+      "477": 8534,
+      "573": 8534,
+      "718": 9070
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 8029,
+      "404": 8030,
+      "477": 8554,
+      "573": 8554,
+      "718": 9090
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 8030,
+      "404": 8031,
+      "477": 8555,
+      "573": 8555,
+      "718": 9091
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 8048,
+      "404": 8049,
+      "477": 8573,
+      "573": 8573,
+      "718": 9109
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 8012,
+      "404": 8013,
+      "477": 8537,
+      "573": 8537,
+      "718": 9073
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 8062,
+      "404": 8063,
+      "477": 8587,
+      "573": 8587,
+      "718": 9123
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 8019,
+      "404": 8020,
+      "477": 8544,
+      "573": 8544,
+      "718": 9080
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 8040,
+      "404": 8041,
+      "477": 8565,
+      "573": 8565,
+      "718": 9101
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 8022,
+      "404": 8023,
+      "477": 8547,
+      "573": 8547,
+      "718": 9083
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 8047,
+      "404": 8048,
+      "477": 8572,
+      "573": 8572,
+      "718": 9108
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 8026,
+      "404": 8027,
+      "477": 8551,
+      "573": 8551,
+      "718": 9087
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 8061,
+      "404": 8062,
+      "477": 8586,
+      "573": 8586,
+      "718": 9122
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 8028,
+      "404": 8029,
+      "477": 8553,
+      "573": 8553,
+      "718": 9089
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 8038,
+      "404": 8039,
+      "477": 8563,
+      "573": 8563,
+      "718": 9099
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 8055,
+      "404": 8056,
+      "477": 8580,
+      "573": 8580,
+      "718": 9116
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 8005,
+      "404": 8006,
+      "477": 8530,
+      "573": 8530,
+      "718": 9066
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 8024,
+      "404": 8025,
+      "477": 8549,
+      "573": 8549,
+      "718": 9085
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 8060,
+      "404": 8061,
+      "477": 8585,
+      "573": 8585,
+      "718": 9121
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 8010,
+      "404": 8011,
+      "477": 8535,
+      "573": 8535,
+      "718": 9071
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 8020,
+      "404": 8021,
+      "477": 8545,
+      "573": 8545,
+      "718": 9081
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 8027,
+      "404": 8028,
+      "477": 8552,
+      "573": 8552,
+      "718": 9088
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 8023,
+      "404": 8024,
+      "477": 8548,
+      "573": 8548,
+      "718": 9084
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 8066,
+      "4": 3184,
+      "404": 8067,
+      "477": 8591,
+      "573": 8591,
+      "718": 9127
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 8057,
+      "404": 8058,
+      "477": 8582,
+      "573": 8582,
+      "718": 9118
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 8043,
+      "404": 8044,
+      "477": 8568,
+      "573": 8568,
+      "718": 9104
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 8058,
+      "404": 8059,
+      "477": 8583,
+      "573": 8583,
+      "718": 9119
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 8050,
+      "404": 8051,
+      "477": 8575,
+      "573": 8575,
+      "718": 9111
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 8056,
+      "404": 8057,
+      "477": 8581,
+      "573": 8581,
+      "718": 9117
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 8041,
+      "404": 8042,
+      "477": 8566,
+      "573": 8566,
+      "718": 9102
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 8065,
+      "404": 8066,
+      "477": 8590,
+      "573": 8590,
+      "718": 9126
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 8037,
+      "404": 8038,
+      "477": 8562,
+      "573": 8562,
+      "718": 9098
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 8008,
+      "404": 8009,
+      "477": 8533,
+      "573": 8533,
+      "718": 9069
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 8013,
+      "404": 8014,
+      "477": 8538,
+      "573": 8538,
+      "718": 9074
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 8006,
+      "404": 8007,
+      "477": 8531,
+      "573": 8531,
+      "718": 9067
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 8016,
+      "404": 8017,
+      "477": 8541,
+      "573": 8541,
+      "718": 9077
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 8052,
+      "404": 8053,
+      "477": 8577,
+      "573": 8577,
+      "718": 9113
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 8004,
+      "404": 8005,
+      "477": 8529,
+      "573": 8529,
+      "718": 9065
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=false,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 8044,
+      "404": 8045,
+      "477": 8569,
+      "573": 8569,
+      "718": 9105
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 8007,
+      "404": 8008,
+      "477": 8532,
+      "573": 8532,
+      "718": 9068
+    }
+  },
+  {
+    "name": "minecraft:chorus_plant[down=true,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 8032,
+      "404": 8033,
+      "477": 8557,
+      "573": 8557,
+      "718": 9093
+    }
+  }
+]

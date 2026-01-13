@@ -1,0 +1,338 @@
+[
+  {
+    "name": "minecraft:acacia_fence_gate[facing=east,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 7484,
+      "4": 2995,
+      "404": 7485,
+      "477": 8009,
+      "573": 8009,
+      "718": 8545
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=north,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 7453,
+      "404": 7454,
+      "477": 7978,
+      "573": 7978,
+      "718": 8514
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=south,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 7466,
+      "4": 2996,
+      "404": 7467,
+      "477": 7991,
+      "573": 7991,
+      "718": 8527
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=south,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 7464,
+      "404": 7465,
+      "477": 7989,
+      "573": 7989,
+      "718": 8525
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=west,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 7469,
+      "404": 7470,
+      "477": 7994,
+      "573": 7994,
+      "718": 8530
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=west,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 7473,
+      "4": 3005,
+      "404": 7474,
+      "477": 7998,
+      "573": 7998,
+      "718": 8534
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=east,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 7478,
+      "404": 7479,
+      "477": 8003,
+      "573": 8003,
+      "718": 8539
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=south,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 7461,
+      "404": 7462,
+      "477": 7986,
+      "573": 7986,
+      "718": 8522
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=north,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 7460,
+      "4": 2994,
+      "404": 7461,
+      "477": 7985,
+      "573": 7985,
+      "718": 8521
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=west,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 7472,
+      "404": 7473,
+      "477": 7997,
+      "573": 7997,
+      "718": 8533
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=west,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 7476,
+      "4": 2993,
+      "404": 7477,
+      "477": 8001,
+      "573": 8001,
+      "718": 8537
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=west,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 7471,
+      "404": 7472,
+      "477": 7996,
+      "573": 7996,
+      "718": 8532
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=west,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 7475,
+      "4": 3001,
+      "404": 7476,
+      "477": 8000,
+      "573": 8000,
+      "718": 8536
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=north,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 7459,
+      "4": 3002,
+      "404": 7460,
+      "477": 7984,
+      "573": 7984,
+      "718": 8520
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=west,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 7474,
+      "4": 2997,
+      "404": 7475,
+      "477": 7999,
+      "573": 7999,
+      "718": 8535
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=north,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 7454,
+      "404": 7455,
+      "477": 7979,
+      "573": 7979,
+      "718": 8515
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=east,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 7480,
+      "404": 7481,
+      "477": 8005,
+      "573": 8005,
+      "718": 8541
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=north,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 7458,
+      "4": 2998,
+      "404": 7459,
+      "477": 7983,
+      "573": 7983,
+      "718": 8519
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=east,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 7481,
+      "4": 3007,
+      "404": 7482,
+      "477": 8006,
+      "573": 8006,
+      "718": 8542
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=west,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 7470,
+      "404": 7471,
+      "477": 7995,
+      "573": 7995,
+      "718": 8531
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 7468,
+      "4": 2992,
+      "404": 7469,
+      "477": 7993,
+      "573": 7993,
+      "718": 8529
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=east,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 7483,
+      "4": 3003,
+      "404": 7484,
+      "477": 8008,
+      "573": 8008,
+      "718": 8544
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=north,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 7456,
+      "404": 7457,
+      "477": 7981,
+      "573": 7981,
+      "718": 8517
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=south,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 7465,
+      "4": 3004,
+      "404": 7466,
+      "477": 7990,
+      "573": 7990,
+      "718": 8526
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=south,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 7463,
+      "404": 7464,
+      "477": 7988,
+      "573": 7988,
+      "718": 8524
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=east,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 7477,
+      "404": 7478,
+      "477": 8002,
+      "573": 8002,
+      "718": 8538
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 7482,
+      "4": 2999,
+      "404": 7483,
+      "477": 8007,
+      "573": 8007,
+      "718": 8543
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=south,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 7462,
+      "404": 7463,
+      "477": 7987,
+      "573": 7987,
+      "718": 8523
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=east,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 7479,
+      "404": 7480,
+      "477": 8004,
+      "573": 8004,
+      "718": 8540
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=south,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 7467,
+      "4": 3000,
+      "404": 7468,
+      "477": 7992,
+      "573": 7992,
+      "718": 8528
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=north,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 7455,
+      "404": 7456,
+      "477": 7980,
+      "573": 7980,
+      "718": 8516
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence_gate[facing=north,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 7457,
+      "4": 3006,
+      "404": 7458,
+      "477": 7982,
+      "573": 7982,
+      "718": 8518
+    }
+  }
+]

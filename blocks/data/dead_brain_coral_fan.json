@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:dead_brain_coral_fan[waterlogged=true]",
+    "ids": {
+      "393": 8546,
+      "404": 8562,
+      "477": 9006,
+      "573": 9006,
+      "718": 9542
+    }
+  },
+  {
+    "name": "minecraft:dead_brain_coral_fan[waterlogged=false]",
+    "ids": {
+      "393": 8547,
+      "404": 8563,
+      "477": 9007,
+      "573": 9007,
+      "718": 9543
+    }
+  }
+]

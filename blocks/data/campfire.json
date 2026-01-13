@@ -1,0 +1,258 @@
+[
+  {
+    "name": "minecraft:campfire[facing=north,lit=true,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "477": 11217,
+      "573": 11233,
+      "718": 14891
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=south,lit=false,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "477": 11231,
+      "573": 11247,
+      "718": 14905
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=west,lit=false,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "477": 11237,
+      "573": 11253,
+      "718": 14911
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=north,lit=false,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "477": 11223,
+      "573": 11239,
+      "718": 14897
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=north,lit=false,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "477": 11220,
+      "573": 11236,
+      "718": 14894
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=east,lit=false,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "477": 11246,
+      "573": 11262,
+      "718": 14920
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=west,lit=false,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "477": 11239,
+      "573": 11255,
+      "718": 14913
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=south,lit=true,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "477": 11226,
+      "573": 11242,
+      "718": 14900
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=east,lit=true,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "477": 11243,
+      "573": 11259,
+      "718": 14917
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=east,lit=false,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "477": 11247,
+      "573": 11263,
+      "718": 14921
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=west,lit=false,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "477": 11236,
+      "573": 11252,
+      "718": 14910
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=south,lit=true,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "477": 11224,
+      "573": 11240,
+      "718": 14898
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=south,lit=false,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "477": 11228,
+      "573": 11244,
+      "718": 14902
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=west,lit=false,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "477": 11238,
+      "573": 11254,
+      "718": 14912
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=south,lit=false,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "477": 11229,
+      "573": 11245,
+      "718": 14903
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=west,lit=true,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "477": 11235,
+      "573": 11251,
+      "718": 14909
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=east,lit=false,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "477": 11245,
+      "573": 11261,
+      "718": 14919
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=south,lit=true,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "477": 11225,
+      "573": 11241,
+      "718": 14899
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=north,lit=false,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "477": 11221,
+      "573": 11237,
+      "718": 14895
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=west,lit=true,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "477": 11234,
+      "573": 11250,
+      "718": 14908
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=south,lit=false,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "477": 11230,
+      "573": 11246,
+      "718": 14904
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=east,lit=true,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "477": 11242,
+      "573": 11258,
+      "718": 14916
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=west,lit=true,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "477": 11232,
+      "573": 11248,
+      "718": 14906
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=south,lit=true,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "477": 11227,
+      "573": 11243,
+      "718": 14901
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=north,lit=true,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "477": 11219,
+      "573": 11235,
+      "718": 14893
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=north,lit=true,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "477": 11218,
+      "573": 11234,
+      "718": 14892
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=north,lit=false,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "477": 11222,
+      "573": 11238,
+      "718": 14896
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=east,lit=false,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "477": 11244,
+      "573": 11260,
+      "718": 14918
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=west,lit=true,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "477": 11233,
+      "573": 11249,
+      "718": 14907
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=east,lit=true,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "477": 11240,
+      "573": 11256,
+      "718": 14914
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=east,lit=true,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "477": 11241,
+      "573": 11257,
+      "718": 14915
+    }
+  },
+  {
+    "name": "minecraft:campfire[facing=north,lit=true,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "477": 11216,
+      "573": 11232,
+      "718": 14890
+    }
+  }
+]

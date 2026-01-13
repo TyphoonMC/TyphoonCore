@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_dark_oak_wood[axis=y]",
+    "ids": {
+      "393": 142,
+      "404": 142,
+      "477": 142,
+      "573": 142,
+      "718": 143
+    }
+  },
+  {
+    "name": "minecraft:stripped_dark_oak_wood[axis=x]",
+    "ids": {
+      "393": 141,
+      "404": 141,
+      "477": 141,
+      "573": 141,
+      "718": 142
+    }
+  },
+  {
+    "name": "minecraft:stripped_dark_oak_wood[axis=z]",
+    "ids": {
+      "393": 143,
+      "404": 143,
+      "477": 143,
+      "573": 143,
+      "718": 144
+    }
+  }
+]

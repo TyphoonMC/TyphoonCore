@@ -1,0 +1,178 @@
+[
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=2]",
+    "ids": {
+      "393": 5605,
+      "4": 2354,
+      "404": 5606,
+      "477": 6112,
+      "573": 6112,
+      "718": 6648
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=11]",
+    "ids": {
+      "393": 5614,
+      "4": 2363,
+      "404": 5615,
+      "477": 6121,
+      "573": 6121,
+      "718": 6657
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=7]",
+    "ids": {
+      "393": 5610,
+      "4": 2359,
+      "404": 5611,
+      "477": 6117,
+      "573": 6117,
+      "718": 6653
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=3]",
+    "ids": {
+      "393": 5606,
+      "4": 2355,
+      "404": 5607,
+      "477": 6113,
+      "573": 6113,
+      "718": 6649
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=1]",
+    "ids": {
+      "393": 5604,
+      "4": 2353,
+      "404": 5605,
+      "477": 6111,
+      "573": 6111,
+      "718": 6647
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=5]",
+    "ids": {
+      "393": 5608,
+      "4": 2357,
+      "404": 5609,
+      "477": 6115,
+      "573": 6115,
+      "718": 6651
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=15]",
+    "ids": {
+      "393": 5618,
+      "4": 2367,
+      "404": 5619,
+      "477": 6125,
+      "573": 6125,
+      "718": 6661
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=0]",
+    "ids": {
+      "393": 5603,
+      "4": 2352,
+      "404": 5604,
+      "477": 6110,
+      "573": 6110,
+      "718": 6646
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=13]",
+    "ids": {
+      "393": 5616,
+      "4": 2365,
+      "404": 5617,
+      "477": 6123,
+      "573": 6123,
+      "718": 6659
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=6]",
+    "ids": {
+      "393": 5609,
+      "4": 2358,
+      "404": 5610,
+      "477": 6116,
+      "573": 6116,
+      "718": 6652
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=14]",
+    "ids": {
+      "393": 5617,
+      "4": 2366,
+      "404": 5618,
+      "477": 6124,
+      "573": 6124,
+      "718": 6660
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=4]",
+    "ids": {
+      "393": 5607,
+      "4": 2356,
+      "404": 5608,
+      "477": 6114,
+      "573": 6114,
+      "718": 6650
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=12]",
+    "ids": {
+      "393": 5615,
+      "4": 2364,
+      "404": 5616,
+      "477": 6122,
+      "573": 6122,
+      "718": 6658
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=10]",
+    "ids": {
+      "393": 5613,
+      "4": 2362,
+      "404": 5614,
+      "477": 6120,
+      "573": 6120,
+      "718": 6656
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=8]",
+    "ids": {
+      "393": 5611,
+      "4": 2360,
+      "404": 5612,
+      "477": 6118,
+      "573": 6118,
+      "718": 6654
+    }
+  },
+  {
+    "name": "minecraft:light_weighted_pressure_plate[power=9]",
+    "ids": {
+      "393": 5612,
+      "4": 2361,
+      "404": 5613,
+      "477": 6119,
+      "573": 6119,
+      "718": 6655
+    }
+  }
+]

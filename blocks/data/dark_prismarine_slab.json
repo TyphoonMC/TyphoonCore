@@ -1,0 +1,62 @@
+[
+  {
+    "name": "minecraft:dark_prismarine_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 6816,
+      "404": 6817,
+      "477": 7323,
+      "573": 7323,
+      "718": 7859
+    }
+  },
+  {
+    "name": "minecraft:dark_prismarine_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 6818,
+      "404": 6819,
+      "477": 7325,
+      "573": 7325,
+      "718": 7861
+    }
+  },
+  {
+    "name": "minecraft:dark_prismarine_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 6813,
+      "404": 6814,
+      "477": 7320,
+      "573": 7320,
+      "718": 7856
+    }
+  },
+  {
+    "name": "minecraft:dark_prismarine_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 6817,
+      "404": 6818,
+      "477": 7324,
+      "573": 7324,
+      "718": 7860
+    }
+  },
+  {
+    "name": "minecraft:dark_prismarine_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 6814,
+      "404": 6815,
+      "477": 7321,
+      "573": 7321,
+      "718": 7857
+    }
+  },
+  {
+    "name": "minecraft:dark_prismarine_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 6815,
+      "404": 6816,
+      "477": 7322,
+      "573": 7322,
+      "718": 7858
+    }
+  }
+]

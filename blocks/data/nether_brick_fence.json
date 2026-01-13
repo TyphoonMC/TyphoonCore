@@ -1,0 +1,323 @@
+[
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4510,
+      "404": 4511,
+      "477": 5014,
+      "573": 5014,
+      "718": 5030
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4498,
+      "404": 4499,
+      "477": 5002,
+      "573": 5002,
+      "718": 5018
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4516,
+      "404": 4517,
+      "477": 5020,
+      "573": 5020,
+      "718": 5036
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4497,
+      "404": 4498,
+      "477": 5001,
+      "573": 5001,
+      "718": 5017
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4527,
+      "4": 1808,
+      "404": 4528,
+      "477": 5031,
+      "573": 5031,
+      "718": 5047
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4520,
+      "404": 4521,
+      "477": 5024,
+      "573": 5024,
+      "718": 5040
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4511,
+      "404": 4512,
+      "477": 5015,
+      "573": 5015,
+      "718": 5031
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4503,
+      "404": 4504,
+      "477": 5007,
+      "573": 5007,
+      "718": 5023
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4504,
+      "404": 4505,
+      "477": 5008,
+      "573": 5008,
+      "718": 5024
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4496,
+      "404": 4497,
+      "477": 5000,
+      "573": 5000,
+      "718": 5016
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4524,
+      "404": 4525,
+      "477": 5028,
+      "573": 5028,
+      "718": 5044
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4512,
+      "404": 4513,
+      "477": 5016,
+      "573": 5016,
+      "718": 5032
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4500,
+      "404": 4501,
+      "477": 5004,
+      "573": 5004,
+      "718": 5020
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4502,
+      "404": 4503,
+      "477": 5006,
+      "573": 5006,
+      "718": 5022
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4501,
+      "404": 4502,
+      "477": 5005,
+      "573": 5005,
+      "718": 5021
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4515,
+      "404": 4516,
+      "477": 5019,
+      "573": 5019,
+      "718": 5035
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4505,
+      "404": 4506,
+      "477": 5009,
+      "573": 5009,
+      "718": 5025
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4506,
+      "404": 4507,
+      "477": 5010,
+      "573": 5010,
+      "718": 5026
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4508,
+      "404": 4509,
+      "477": 5012,
+      "573": 5012,
+      "718": 5028
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4499,
+      "404": 4500,
+      "477": 5003,
+      "573": 5003,
+      "718": 5019
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4523,
+      "404": 4524,
+      "477": 5027,
+      "573": 5027,
+      "718": 5043
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4525,
+      "404": 4526,
+      "477": 5029,
+      "573": 5029,
+      "718": 5045
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4518,
+      "404": 4519,
+      "477": 5022,
+      "573": 5022,
+      "718": 5038
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4509,
+      "404": 4510,
+      "477": 5013,
+      "573": 5013,
+      "718": 5029
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4519,
+      "404": 4520,
+      "477": 5023,
+      "573": 5023,
+      "718": 5039
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4526,
+      "404": 4527,
+      "477": 5030,
+      "573": 5030,
+      "718": 5046
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4514,
+      "404": 4515,
+      "477": 5018,
+      "573": 5018,
+      "718": 5034
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4513,
+      "404": 4514,
+      "477": 5017,
+      "573": 5017,
+      "718": 5033
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4522,
+      "404": 4523,
+      "477": 5026,
+      "573": 5026,
+      "718": 5042
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4521,
+      "404": 4522,
+      "477": 5025,
+      "573": 5025,
+      "718": 5041
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4517,
+      "404": 4518,
+      "477": 5021,
+      "573": 5021,
+      "718": 5037
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_fence[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4507,
+      "404": 4508,
+      "477": 5011,
+      "573": 5011,
+      "718": 5027
+    }
+  }
+]

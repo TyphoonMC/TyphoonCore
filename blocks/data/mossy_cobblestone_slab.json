@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=true]",
+    "ids": {
+      "477": 10281,
+      "573": 10281,
+      "718": 10817
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "477": 10279,
+      "573": 10279,
+      "718": 10815
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "477": 10280,
+      "573": 10280,
+      "718": 10816
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=true]",
+    "ids": {
+      "477": 10277,
+      "573": 10277,
+      "718": 10813
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]",
+    "ids": {
+      "477": 10282,
+      "573": 10282,
+      "718": 10818
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=false]",
+    "ids": {
+      "477": 10278,
+      "573": 10278,
+      "718": 10814
+    }
+  }
+]

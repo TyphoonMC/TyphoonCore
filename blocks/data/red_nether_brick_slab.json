@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:red_nether_brick_slab[type=double,waterlogged=true]",
+    "ids": {
+      "477": 10317,
+      "573": 10317,
+      "718": 10853
+    }
+  },
+  {
+    "name": "minecraft:red_nether_brick_slab[type=double,waterlogged=false]",
+    "ids": {
+      "477": 10318,
+      "573": 10318,
+      "718": 10854
+    }
+  },
+  {
+    "name": "minecraft:red_nether_brick_slab[type=top,waterlogged=false]",
+    "ids": {
+      "477": 10314,
+      "573": 10314,
+      "718": 10850
+    }
+  },
+  {
+    "name": "minecraft:red_nether_brick_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "477": 10316,
+      "573": 10316,
+      "718": 10852
+    }
+  },
+  {
+    "name": "minecraft:red_nether_brick_slab[type=top,waterlogged=true]",
+    "ids": {
+      "477": 10313,
+      "573": 10313,
+      "718": 10849
+    }
+  },
+  {
+    "name": "minecraft:red_nether_brick_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "477": 10315,
+      "573": 10315,
+      "718": 10851
+    }
+  }
+]

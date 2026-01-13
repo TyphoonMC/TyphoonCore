@@ -1,0 +1,323 @@
+[
+  {
+    "name": "minecraft:iron_bars[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4204,
+      "404": 4205,
+      "477": 4708,
+      "573": 4708,
+      "718": 4722
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4210,
+      "4": 1616,
+      "404": 4211,
+      "477": 4714,
+      "573": 4714,
+      "718": 4728
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4191,
+      "404": 4192,
+      "477": 4695,
+      "573": 4695,
+      "718": 4709
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4201,
+      "404": 4202,
+      "477": 4705,
+      "573": 4705,
+      "718": 4719
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4208,
+      "404": 4209,
+      "477": 4712,
+      "573": 4712,
+      "718": 4726
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4189,
+      "404": 4190,
+      "477": 4693,
+      "573": 4693,
+      "718": 4707
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4203,
+      "404": 4204,
+      "477": 4707,
+      "573": 4707,
+      "718": 4721
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4207,
+      "404": 4208,
+      "477": 4711,
+      "573": 4711,
+      "718": 4725
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4202,
+      "404": 4203,
+      "477": 4706,
+      "573": 4706,
+      "718": 4720
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4188,
+      "404": 4189,
+      "477": 4692,
+      "573": 4692,
+      "718": 4706
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4193,
+      "404": 4194,
+      "477": 4697,
+      "573": 4697,
+      "718": 4711
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4186,
+      "404": 4187,
+      "477": 4690,
+      "573": 4690,
+      "718": 4704
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4205,
+      "404": 4206,
+      "477": 4709,
+      "573": 4709,
+      "718": 4723
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4184,
+      "404": 4185,
+      "477": 4688,
+      "573": 4688,
+      "718": 4702
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4199,
+      "404": 4200,
+      "477": 4703,
+      "573": 4703,
+      "718": 4717
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4180,
+      "404": 4181,
+      "477": 4684,
+      "573": 4684,
+      "718": 4698
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4209,
+      "404": 4210,
+      "477": 4713,
+      "573": 4713,
+      "718": 4727
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4198,
+      "404": 4199,
+      "477": 4702,
+      "573": 4702,
+      "718": 4716
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4195,
+      "404": 4196,
+      "477": 4699,
+      "573": 4699,
+      "718": 4713
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4185,
+      "404": 4186,
+      "477": 4689,
+      "573": 4689,
+      "718": 4703
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4190,
+      "404": 4191,
+      "477": 4694,
+      "573": 4694,
+      "718": 4708
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4182,
+      "404": 4183,
+      "477": 4686,
+      "573": 4686,
+      "718": 4700
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4206,
+      "404": 4207,
+      "477": 4710,
+      "573": 4710,
+      "718": 4724
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4179,
+      "404": 4180,
+      "477": 4683,
+      "573": 4683,
+      "718": 4697
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4187,
+      "404": 4188,
+      "477": 4691,
+      "573": 4691,
+      "718": 4705
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4200,
+      "404": 4201,
+      "477": 4704,
+      "573": 4704,
+      "718": 4718
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4181,
+      "404": 4182,
+      "477": 4685,
+      "573": 4685,
+      "718": 4699
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 4194,
+      "404": 4195,
+      "477": 4698,
+      "573": 4698,
+      "718": 4712
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4196,
+      "404": 4197,
+      "477": 4700,
+      "573": 4700,
+      "718": 4714
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 4192,
+      "404": 4193,
+      "477": 4696,
+      "573": 4696,
+      "718": 4710
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 4197,
+      "404": 4198,
+      "477": 4701,
+      "573": 4701,
+      "718": 4715
+    }
+  },
+  {
+    "name": "minecraft:iron_bars[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 4183,
+      "404": 4184,
+      "477": 4687,
+      "573": 4687,
+      "718": 4701
+    }
+  }
+]

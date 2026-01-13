@@ -1,0 +1,90 @@
+[
+  {
+    "name": "minecraft:end_portal_frame[eye=false,facing=south]",
+    "ids": {
+      "393": 4631,
+      "4": 1920,
+      "404": 4632,
+      "477": 5135,
+      "573": 5135,
+      "718": 5151
+    }
+  },
+  {
+    "name": "minecraft:end_portal_frame[eye=false,facing=north]",
+    "ids": {
+      "393": 4630,
+      "4": 1922,
+      "404": 4631,
+      "477": 5134,
+      "573": 5134,
+      "718": 5150
+    }
+  },
+  {
+    "name": "minecraft:end_portal_frame[eye=true,facing=north]",
+    "ids": {
+      "393": 4626,
+      "4": 1926,
+      "404": 4627,
+      "477": 5130,
+      "573": 5130,
+      "718": 5146
+    }
+  },
+  {
+    "name": "minecraft:end_portal_frame[eye=true,facing=east]",
+    "ids": {
+      "393": 4629,
+      "4": 1927,
+      "404": 4630,
+      "477": 5133,
+      "573": 5133,
+      "718": 5149
+    }
+  },
+  {
+    "name": "minecraft:end_portal_frame[eye=false,facing=east]",
+    "ids": {
+      "393": 4633,
+      "4": 1923,
+      "404": 4634,
+      "477": 5137,
+      "573": 5137,
+      "718": 5153
+    }
+  },
+  {
+    "name": "minecraft:end_portal_frame[eye=true,facing=south]",
+    "ids": {
+      "393": 4627,
+      "4": 1924,
+      "404": 4628,
+      "477": 5131,
+      "573": 5131,
+      "718": 5147
+    }
+  },
+  {
+    "name": "minecraft:end_portal_frame[eye=false,facing=west]",
+    "ids": {
+      "393": 4632,
+      "4": 1921,
+      "404": 4633,
+      "477": 5136,
+      "573": 5136,
+      "718": 5152
+    }
+  },
+  {
+    "name": "minecraft:end_portal_frame[eye=true,facing=west]",
+    "ids": {
+      "393": 4628,
+      "4": 1925,
+      "404": 4629,
+      "477": 5132,
+      "573": 5132,
+      "718": 5148
+    }
+  }
+]

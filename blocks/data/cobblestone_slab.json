@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:cobblestone_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7312,
+      "4": 715,
+      "404": 7313,
+      "477": 7831,
+      "573": 7831,
+      "718": 8367
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7316,
+      "4": 699,
+      "404": 7317,
+      "477": 7835,
+      "573": 7835,
+      "718": 8371
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7314,
+      "4": 707,
+      "404": 7315,
+      "477": 7833,
+      "573": 7833,
+      "718": 8369
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7315,
+      "404": 7316,
+      "477": 7834,
+      "573": 7834,
+      "718": 8370
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7313,
+      "404": 7314,
+      "477": 7832,
+      "573": 7832,
+      "718": 8368
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7311,
+      "404": 7312,
+      "477": 7830,
+      "573": 7830,
+      "718": 8366
+    }
+  }
+]

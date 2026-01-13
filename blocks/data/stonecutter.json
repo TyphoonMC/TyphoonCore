@@ -1,0 +1,34 @@
+[
+  {
+    "name": "minecraft:stonecutter[facing=north]",
+    "ids": {
+      "477": 11194,
+      "573": 11194,
+      "718": 14850
+    }
+  },
+  {
+    "name": "minecraft:stonecutter[facing=south]",
+    "ids": {
+      "477": 11195,
+      "573": 11195,
+      "718": 14851
+    }
+  },
+  {
+    "name": "minecraft:stonecutter[facing=east]",
+    "ids": {
+      "477": 11197,
+      "573": 11197,
+      "718": 14853
+    }
+  },
+  {
+    "name": "minecraft:stonecutter[facing=west]",
+    "ids": {
+      "477": 11196,
+      "573": 11196,
+      "718": 14852
+    }
+  }
+]

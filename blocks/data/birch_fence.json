@@ -1,0 +1,323 @@
+[
+  {
+    "name": "minecraft:birch_fence[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7565,
+      "404": 7566,
+      "477": 8090,
+      "573": 8090,
+      "718": 8626
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7563,
+      "404": 7564,
+      "477": 8088,
+      "573": 8088,
+      "718": 8624
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7556,
+      "404": 7557,
+      "477": 8081,
+      "573": 8081,
+      "718": 8617
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7579,
+      "404": 7580,
+      "477": 8104,
+      "573": 8104,
+      "718": 8640
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7566,
+      "404": 7567,
+      "477": 8091,
+      "573": 8091,
+      "718": 8627
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7554,
+      "404": 7555,
+      "477": 8079,
+      "573": 8079,
+      "718": 8615
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7575,
+      "404": 7576,
+      "477": 8100,
+      "573": 8100,
+      "718": 8636
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7569,
+      "404": 7570,
+      "477": 8094,
+      "573": 8094,
+      "718": 8630
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7559,
+      "404": 7560,
+      "477": 8084,
+      "573": 8084,
+      "718": 8620
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7564,
+      "404": 7565,
+      "477": 8089,
+      "573": 8089,
+      "718": 8625
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7568,
+      "404": 7569,
+      "477": 8093,
+      "573": 8093,
+      "718": 8629
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7576,
+      "404": 7577,
+      "477": 8101,
+      "573": 8101,
+      "718": 8637
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7577,
+      "404": 7578,
+      "477": 8102,
+      "573": 8102,
+      "718": 8638
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7551,
+      "404": 7552,
+      "477": 8076,
+      "573": 8076,
+      "718": 8612
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7561,
+      "404": 7562,
+      "477": 8086,
+      "573": 8086,
+      "718": 8622
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7574,
+      "404": 7575,
+      "477": 8099,
+      "573": 8099,
+      "718": 8635
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7552,
+      "404": 7553,
+      "477": 8077,
+      "573": 8077,
+      "718": 8613
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7558,
+      "404": 7559,
+      "477": 8083,
+      "573": 8083,
+      "718": 8619
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7580,
+      "4": 3024,
+      "404": 7581,
+      "477": 8105,
+      "573": 8105,
+      "718": 8641
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7555,
+      "404": 7556,
+      "477": 8080,
+      "573": 8080,
+      "718": 8616
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7578,
+      "404": 7579,
+      "477": 8103,
+      "573": 8103,
+      "718": 8639
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7549,
+      "404": 7550,
+      "477": 8074,
+      "573": 8074,
+      "718": 8610
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7570,
+      "404": 7571,
+      "477": 8095,
+      "573": 8095,
+      "718": 8631
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7567,
+      "404": 7568,
+      "477": 8092,
+      "573": 8092,
+      "718": 8628
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7562,
+      "404": 7563,
+      "477": 8087,
+      "573": 8087,
+      "718": 8623
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7550,
+      "404": 7551,
+      "477": 8075,
+      "573": 8075,
+      "718": 8611
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7560,
+      "404": 7561,
+      "477": 8085,
+      "573": 8085,
+      "718": 8621
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7573,
+      "404": 7574,
+      "477": 8098,
+      "573": 8098,
+      "718": 8634
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7557,
+      "404": 7558,
+      "477": 8082,
+      "573": 8082,
+      "718": 8618
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7553,
+      "404": 7554,
+      "477": 8078,
+      "573": 8078,
+      "718": 8614
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7572,
+      "404": 7573,
+      "477": 8097,
+      "573": 8097,
+      "718": 8633
+    }
+  },
+  {
+    "name": "minecraft:birch_fence[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7571,
+      "404": 7572,
+      "477": 8096,
+      "573": 8096,
+      "718": 8632
+    }
+  }
+]

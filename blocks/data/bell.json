@@ -1,0 +1,322 @@
+[
+  {
+    "name": "minecraft:bell[attachment=floor,facing=north]",
+    "ids": {
+      "477": 11198
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=north,powered=false]",
+    "ids": {
+      "573": 11215,
+      "718": 14871
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=north,powered=true]",
+    "ids": {
+      "573": 11214,
+      "718": 14870
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=east,powered=true]",
+    "ids": {
+      "573": 11212,
+      "718": 14868
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=north]",
+    "ids": {
+      "477": 11202
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=east]",
+    "ids": {
+      "477": 11209
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=south]",
+    "ids": {
+      "477": 11211
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=west,powered=false]",
+    "ids": {
+      "573": 11219,
+      "718": 14875
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=west,powered=true]",
+    "ids": {
+      "573": 11226,
+      "718": 14882
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=west]",
+    "ids": {
+      "477": 11212
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=east,powered=false]",
+    "ids": {
+      "573": 11213,
+      "718": 14869
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=south,powered=false]",
+    "ids": {
+      "573": 11209,
+      "718": 14865
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=north,powered=false]",
+    "ids": {
+      "573": 11223,
+      "718": 14879
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=north,powered=true]",
+    "ids": {
+      "573": 11206,
+      "718": 14862
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=south,powered=true]",
+    "ids": {
+      "573": 11208,
+      "718": 14864
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=south]",
+    "ids": {
+      "477": 11199
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=north,powered=false]",
+    "ids": {
+      "573": 11199,
+      "718": 14855
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=south,powered=true]",
+    "ids": {
+      "573": 11200,
+      "718": 14856
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=east,powered=false]",
+    "ids": {
+      "573": 11205,
+      "718": 14861
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=east]",
+    "ids": {
+      "477": 11205
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=south,powered=true]",
+    "ids": {
+      "573": 11216,
+      "718": 14872
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=north]",
+    "ids": {
+      "477": 11210
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=east,powered=false]",
+    "ids": {
+      "573": 11229,
+      "718": 14885
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=south,powered=false]",
+    "ids": {
+      "573": 11225,
+      "718": 14881
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=west,powered=false]",
+    "ids": {
+      "573": 11203,
+      "718": 14859
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=east,powered=true]",
+    "ids": {
+      "573": 11220,
+      "718": 14876
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=north,powered=true]",
+    "ids": {
+      "573": 11222,
+      "718": 14878
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=north,powered=true]",
+    "ids": {
+      "573": 11198,
+      "718": 14854
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=west,powered=true]",
+    "ids": {
+      "573": 11210,
+      "718": 14866
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=south,powered=false]",
+    "ids": {
+      "573": 11201,
+      "718": 14857
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=west,powered=false]",
+    "ids": {
+      "573": 11227,
+      "718": 14883
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=west,powered=true]",
+    "ids": {
+      "573": 11202,
+      "718": 14858
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=south]",
+    "ids": {
+      "477": 11207
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=south]",
+    "ids": {
+      "477": 11203
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=east,powered=true]",
+    "ids": {
+      "573": 11204,
+      "718": 14860
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=west]",
+    "ids": {
+      "477": 11208
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=west,powered=true]",
+    "ids": {
+      "573": 11218,
+      "718": 14874
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=east]",
+    "ids": {
+      "477": 11213
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=south,powered=false]",
+    "ids": {
+      "573": 11217,
+      "718": 14873
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=west]",
+    "ids": {
+      "477": 11200
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=floor,facing=east]",
+    "ids": {
+      "477": 11201
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=west,powered=false]",
+    "ids": {
+      "573": 11211,
+      "718": 14867
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=west]",
+    "ids": {
+      "477": 11204
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=south,powered=true]",
+    "ids": {
+      "573": 11224,
+      "718": 14880
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=north]",
+    "ids": {
+      "477": 11206
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=double_wall,facing=east,powered=true]",
+    "ids": {
+      "573": 11228,
+      "718": 14884
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=ceiling,facing=north,powered=false]",
+    "ids": {
+      "573": 11207,
+      "718": 14863
+    }
+  },
+  {
+    "name": "minecraft:bell[attachment=single_wall,facing=east,powered=false]",
+    "ids": {
+      "573": 11221,
+      "718": 14877
+    }
+  }
+]

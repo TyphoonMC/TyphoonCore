@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:quartz_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7337,
+      "404": 7338,
+      "477": 7856,
+      "573": 7856,
+      "718": 8392
+    }
+  },
+  {
+    "name": "minecraft:quartz_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7340,
+      "4": 695,
+      "404": 7341,
+      "477": 7859,
+      "573": 7859,
+      "718": 8395
+    }
+  },
+  {
+    "name": "minecraft:quartz_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7335,
+      "404": 7336,
+      "477": 7854,
+      "573": 7854,
+      "718": 8390
+    }
+  },
+  {
+    "name": "minecraft:quartz_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7339,
+      "404": 7340,
+      "477": 7858,
+      "573": 7858,
+      "718": 8394
+    }
+  },
+  {
+    "name": "minecraft:quartz_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7338,
+      "4": 711,
+      "404": 7339,
+      "477": 7857,
+      "573": 7857,
+      "718": 8393
+    }
+  },
+  {
+    "name": "minecraft:quartz_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7336,
+      "4": 719,
+      "404": 7337,
+      "477": 7855,
+      "573": 7855,
+      "718": 8391
+    }
+  }
+]

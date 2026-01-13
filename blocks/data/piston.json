@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:piston[extended=false,facing=east]",
+    "ids": {
+      "393": 1054,
+      "4": 533,
+      "404": 1054,
+      "477": 1354,
+      "573": 1354,
+      "718": 1355
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=true,facing=east]",
+    "ids": {
+      "393": 1048,
+      "4": 541,
+      "404": 1048,
+      "477": 1348,
+      "573": 1348,
+      "718": 1349
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=false,facing=south]",
+    "ids": {
+      "393": 1055,
+      "4": 531,
+      "404": 1055,
+      "477": 1355,
+      "573": 1355,
+      "718": 1356
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=true,facing=west]",
+    "ids": {
+      "393": 1050,
+      "4": 540,
+      "404": 1050,
+      "477": 1350,
+      "573": 1350,
+      "718": 1351
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=true,facing=south]",
+    "ids": {
+      "393": 1049,
+      "4": 539,
+      "404": 1049,
+      "477": 1349,
+      "573": 1349,
+      "718": 1350
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=false,facing=up]",
+    "ids": {
+      "393": 1057,
+      "4": 529,
+      "404": 1057,
+      "477": 1357,
+      "573": 1357,
+      "718": 1358
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=true,facing=down]",
+    "ids": {
+      "393": 1052,
+      "4": 536,
+      "404": 1052,
+      "477": 1352,
+      "573": 1352,
+      "718": 1353
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=true,facing=up]",
+    "ids": {
+      "393": 1051,
+      "4": 537,
+      "404": 1051,
+      "477": 1351,
+      "573": 1351,
+      "718": 1352
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=true,facing=north]",
+    "ids": {
+      "393": 1047,
+      "4": 538,
+      "404": 1047,
+      "477": 1347,
+      "573": 1347,
+      "718": 1348
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=false,facing=north]",
+    "ids": {
+      "393": 1053,
+      "4": 530,
+      "404": 1053,
+      "477": 1353,
+      "573": 1353,
+      "718": 1354
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=false,facing=down]",
+    "ids": {
+      "393": 1058,
+      "4": 528,
+      "404": 1058,
+      "477": 1358,
+      "573": 1358,
+      "718": 1359
+    }
+  },
+  {
+    "name": "minecraft:piston[extended=false,facing=west]",
+    "ids": {
+      "393": 1056,
+      "4": 532,
+      "404": 1056,
+      "477": 1356,
+      "573": 1356,
+      "718": 1357
+    }
+  }
+]

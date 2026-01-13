@@ -1,0 +1,323 @@
+[
+  {
+    "name": "minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7521,
+      "404": 7522,
+      "477": 8046,
+      "573": 8046,
+      "718": 8582
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7523,
+      "404": 7524,
+      "477": 8048,
+      "573": 8048,
+      "718": 8584
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7534,
+      "404": 7535,
+      "477": 8059,
+      "573": 8059,
+      "718": 8595
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7532,
+      "404": 7533,
+      "477": 8057,
+      "573": 8057,
+      "718": 8593
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7527,
+      "404": 7528,
+      "477": 8052,
+      "573": 8052,
+      "718": 8588
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7537,
+      "404": 7538,
+      "477": 8062,
+      "573": 8062,
+      "718": 8598
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7547,
+      "404": 7548,
+      "477": 8072,
+      "573": 8072,
+      "718": 8608
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7543,
+      "404": 7544,
+      "477": 8068,
+      "573": 8068,
+      "718": 8604
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7538,
+      "404": 7539,
+      "477": 8063,
+      "573": 8063,
+      "718": 8599
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7518,
+      "404": 7519,
+      "477": 8043,
+      "573": 8043,
+      "718": 8579
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7540,
+      "404": 7541,
+      "477": 8065,
+      "573": 8065,
+      "718": 8601
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7525,
+      "404": 7526,
+      "477": 8050,
+      "573": 8050,
+      "718": 8586
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7520,
+      "404": 7521,
+      "477": 8045,
+      "573": 8045,
+      "718": 8581
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7530,
+      "404": 7531,
+      "477": 8055,
+      "573": 8055,
+      "718": 8591
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7529,
+      "404": 7530,
+      "477": 8054,
+      "573": 8054,
+      "718": 8590
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7519,
+      "404": 7520,
+      "477": 8044,
+      "573": 8044,
+      "718": 8580
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7526,
+      "404": 7527,
+      "477": 8051,
+      "573": 8051,
+      "718": 8587
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7536,
+      "404": 7537,
+      "477": 8061,
+      "573": 8061,
+      "718": 8597
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7528,
+      "404": 7529,
+      "477": 8053,
+      "573": 8053,
+      "718": 8589
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7522,
+      "404": 7523,
+      "477": 8047,
+      "573": 8047,
+      "718": 8583
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7541,
+      "404": 7542,
+      "477": 8066,
+      "573": 8066,
+      "718": 8602
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7544,
+      "404": 7545,
+      "477": 8069,
+      "573": 8069,
+      "718": 8605
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7539,
+      "404": 7540,
+      "477": 8064,
+      "573": 8064,
+      "718": 8600
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7535,
+      "404": 7536,
+      "477": 8060,
+      "573": 8060,
+      "718": 8596
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7542,
+      "404": 7543,
+      "477": 8067,
+      "573": 8067,
+      "718": 8603
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7548,
+      "4": 3008,
+      "404": 7549,
+      "477": 8073,
+      "573": 8073,
+      "718": 8609
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7546,
+      "404": 7547,
+      "477": 8071,
+      "573": 8071,
+      "718": 8607
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7533,
+      "404": 7534,
+      "477": 8058,
+      "573": 8058,
+      "718": 8594
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7531,
+      "404": 7532,
+      "477": 8056,
+      "573": 8056,
+      "718": 8592
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7545,
+      "404": 7546,
+      "477": 8070,
+      "573": 8070,
+      "718": 8606
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7524,
+      "404": 7525,
+      "477": 8049,
+      "573": 8049,
+      "718": 8585
+    }
+  },
+  {
+    "name": "minecraft:spruce_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7517,
+      "404": 7518,
+      "477": 8042,
+      "573": 8042,
+      "718": 8578
+    }
+  }
+]

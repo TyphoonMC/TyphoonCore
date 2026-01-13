@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:granite_slab[type=double,waterlogged=false]",
+    "ids": {
+      "477": 10306,
+      "573": 10306,
+      "718": 10842
+    }
+  },
+  {
+    "name": "minecraft:granite_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "477": 10304,
+      "573": 10304,
+      "718": 10840
+    }
+  },
+  {
+    "name": "minecraft:granite_slab[type=double,waterlogged=true]",
+    "ids": {
+      "477": 10305,
+      "573": 10305,
+      "718": 10841
+    }
+  },
+  {
+    "name": "minecraft:granite_slab[type=top,waterlogged=false]",
+    "ids": {
+      "477": 10302,
+      "573": 10302,
+      "718": 10838
+    }
+  },
+  {
+    "name": "minecraft:granite_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "477": 10303,
+      "573": 10303,
+      "718": 10839
+    }
+  },
+  {
+    "name": "minecraft:granite_slab[type=top,waterlogged=true]",
+    "ids": {
+      "477": 10301,
+      "573": 10301,
+      "718": 10837
+    }
+  }
+]

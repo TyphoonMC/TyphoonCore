@@ -1,0 +1,14 @@
+[
+  {
+    "name": "minecraft:warped_pressure_plate[powered=false]",
+    "ids": {
+      "718": 15062
+    }
+  },
+  {
+    "name": "minecraft:warped_pressure_plate[powered=true]",
+    "ids": {
+      "718": 15061
+    }
+  }
+]

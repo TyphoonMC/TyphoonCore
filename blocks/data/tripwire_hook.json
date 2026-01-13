@@ -1,0 +1,178 @@
+[
+  {
+    "name": "minecraft:tripwire_hook[attached=true,facing=south,powered=false]",
+    "ids": {
+      "393": 4742,
+      "4": 2100,
+      "404": 4743,
+      "477": 5246,
+      "573": 5246,
+      "718": 5262
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=true,facing=north,powered=false]",
+    "ids": {
+      "393": 4740,
+      "4": 2102,
+      "404": 4741,
+      "477": 5244,
+      "573": 5244,
+      "718": 5260
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=true,facing=south,powered=true]",
+    "ids": {
+      "393": 4741,
+      "4": 2108,
+      "404": 4742,
+      "477": 5245,
+      "573": 5245,
+      "718": 5261
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=true,facing=west,powered=false]",
+    "ids": {
+      "393": 4744,
+      "4": 2101,
+      "404": 4745,
+      "477": 5248,
+      "573": 5248,
+      "718": 5264
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=false,facing=south,powered=false]",
+    "ids": {
+      "393": 4750,
+      "4": 2096,
+      "404": 4751,
+      "477": 5254,
+      "573": 5254,
+      "718": 5270
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=true,facing=east,powered=true]",
+    "ids": {
+      "393": 4745,
+      "4": 2111,
+      "404": 4746,
+      "477": 5249,
+      "573": 5249,
+      "718": 5265
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=false,facing=north,powered=true]",
+    "ids": {
+      "393": 4747,
+      "4": 2106,
+      "404": 4748,
+      "477": 5251,
+      "573": 5251,
+      "718": 5267
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=false,facing=east,powered=true]",
+    "ids": {
+      "393": 4753,
+      "4": 2107,
+      "404": 4754,
+      "477": 5257,
+      "573": 5257,
+      "718": 5273
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=false,facing=east,powered=false]",
+    "ids": {
+      "393": 4754,
+      "4": 2099,
+      "404": 4755,
+      "477": 5258,
+      "573": 5258,
+      "718": 5274
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=true,facing=east,powered=false]",
+    "ids": {
+      "393": 4746,
+      "4": 2103,
+      "404": 4747,
+      "477": 5250,
+      "573": 5250,
+      "718": 5266
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=false,facing=south,powered=true]",
+    "ids": {
+      "393": 4749,
+      "4": 2104,
+      "404": 4750,
+      "477": 5253,
+      "573": 5253,
+      "718": 5269
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=false,facing=north,powered=false]",
+    "ids": {
+      "393": 4748,
+      "4": 2098,
+      "404": 4749,
+      "477": 5252,
+      "573": 5252,
+      "718": 5268
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=true,facing=north,powered=true]",
+    "ids": {
+      "393": 4739,
+      "4": 2110,
+      "404": 4740,
+      "477": 5243,
+      "573": 5243,
+      "718": 5259
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=true,facing=west,powered=true]",
+    "ids": {
+      "393": 4743,
+      "4": 2109,
+      "404": 4744,
+      "477": 5247,
+      "573": 5247,
+      "718": 5263
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=false,facing=west,powered=false]",
+    "ids": {
+      "393": 4752,
+      "4": 2097,
+      "404": 4753,
+      "477": 5256,
+      "573": 5256,
+      "718": 5272
+    }
+  },
+  {
+    "name": "minecraft:tripwire_hook[attached=false,facing=west,powered=true]",
+    "ids": {
+      "393": 4751,
+      "4": 2105,
+      "404": 4752,
+      "477": 5255,
+      "573": 5255,
+      "718": 5271
+    }
+  }
+]

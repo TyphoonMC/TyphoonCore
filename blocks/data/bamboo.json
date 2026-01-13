@@ -1,0 +1,98 @@
+[
+  {
+    "name": "minecraft:bamboo[age=1,leaves=none,stage=1]",
+    "ids": {
+      "477": 9123,
+      "573": 9123,
+      "718": 9659
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=0,leaves=large,stage=0]",
+    "ids": {
+      "477": 9120,
+      "573": 9120,
+      "718": 9656
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=0,leaves=none,stage=1]",
+    "ids": {
+      "477": 9117,
+      "573": 9117,
+      "718": 9653
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=1,leaves=large,stage=1]",
+    "ids": {
+      "477": 9127,
+      "573": 9127,
+      "718": 9663
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=1,leaves=small,stage=0]",
+    "ids": {
+      "477": 9124,
+      "573": 9124,
+      "718": 9660
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=0,leaves=small,stage=0]",
+    "ids": {
+      "477": 9118,
+      "573": 9118,
+      "718": 9654
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=1,leaves=none,stage=0]",
+    "ids": {
+      "477": 9122,
+      "573": 9122,
+      "718": 9658
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=0,leaves=none,stage=0]",
+    "ids": {
+      "477": 9116,
+      "573": 9116,
+      "718": 9652
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=0,leaves=large,stage=1]",
+    "ids": {
+      "477": 9121,
+      "573": 9121,
+      "718": 9657
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=0,leaves=small,stage=1]",
+    "ids": {
+      "477": 9119,
+      "573": 9119,
+      "718": 9655
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=1,leaves=small,stage=1]",
+    "ids": {
+      "477": 9125,
+      "573": 9125,
+      "718": 9661
+    }
+  },
+  {
+    "name": "minecraft:bamboo[age=1,leaves=large,stage=0]",
+    "ids": {
+      "477": 9126,
+      "573": 9126,
+      "718": 9662
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=7,waterlogged=true]",
+    "ids": {
+      "477": 11129,
+      "573": 11129,
+      "718": 14785
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=2,waterlogged=true]",
+    "ids": {
+      "477": 11119,
+      "573": 11119,
+      "718": 14775
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=5,waterlogged=false]",
+    "ids": {
+      "477": 11126,
+      "573": 11126,
+      "718": 14782
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=7,waterlogged=true]",
+    "ids": {
+      "477": 11113,
+      "573": 11113,
+      "718": 14769
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=1,waterlogged=false]",
+    "ids": {
+      "477": 11102,
+      "573": 11102,
+      "718": 14758
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=7,waterlogged=false]",
+    "ids": {
+      "477": 11114,
+      "573": 11114,
+      "718": 14770
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=6,waterlogged=true]",
+    "ids": {
+      "477": 11111,
+      "573": 11111,
+      "718": 14767
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=6,waterlogged=true]",
+    "ids": {
+      "477": 11127,
+      "573": 11127,
+      "718": 14783
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=4,waterlogged=false]",
+    "ids": {
+      "477": 11108,
+      "573": 11108,
+      "718": 14764
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=0,waterlogged=true]",
+    "ids": {
+      "477": 11115,
+      "573": 11115,
+      "718": 14771
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=1,waterlogged=false]",
+    "ids": {
+      "477": 11118,
+      "573": 11118,
+      "718": 14774
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=2,waterlogged=true]",
+    "ids": {
+      "477": 11103,
+      "573": 11103,
+      "718": 14759
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=5,waterlogged=true]",
+    "ids": {
+      "477": 11109,
+      "573": 11109,
+      "718": 14765
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=6,waterlogged=false]",
+    "ids": {
+      "477": 11128,
+      "573": 11128,
+      "718": 14784
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=2,waterlogged=false]",
+    "ids": {
+      "477": 11104,
+      "573": 11104,
+      "718": 14760
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=3,waterlogged=true]",
+    "ids": {
+      "477": 11121,
+      "573": 11121,
+      "718": 14777
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=5,waterlogged=false]",
+    "ids": {
+      "477": 11110,
+      "573": 11110,
+      "718": 14766
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=6,waterlogged=false]",
+    "ids": {
+      "477": 11112,
+      "573": 11112,
+      "718": 14768
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=4,waterlogged=true]",
+    "ids": {
+      "477": 11107,
+      "573": 11107,
+      "718": 14763
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=2,waterlogged=false]",
+    "ids": {
+      "477": 11120,
+      "573": 11120,
+      "718": 14776
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=0,waterlogged=false]",
+    "ids": {
+      "477": 11100,
+      "573": 11100,
+      "718": 14756
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=5,waterlogged=true]",
+    "ids": {
+      "477": 11125,
+      "573": 11125,
+      "718": 14781
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=3,waterlogged=true]",
+    "ids": {
+      "477": 11105,
+      "573": 11105,
+      "718": 14761
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=3,waterlogged=false]",
+    "ids": {
+      "477": 11106,
+      "573": 11106,
+      "718": 14762
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=1,waterlogged=true]",
+    "ids": {
+      "477": 11101,
+      "573": 11101,
+      "718": 14757
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=0,waterlogged=false]",
+    "ids": {
+      "477": 11116,
+      "573": 11116,
+      "718": 14772
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=1,waterlogged=true]",
+    "ids": {
+      "477": 11117,
+      "573": 11117,
+      "718": 14773
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=3,waterlogged=false]",
+    "ids": {
+      "477": 11122,
+      "573": 11122,
+      "718": 14778
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=4,waterlogged=true]",
+    "ids": {
+      "477": 11123,
+      "573": 11123,
+      "718": 14779
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=true,distance=0,waterlogged=true]",
+    "ids": {
+      "477": 11099,
+      "573": 11099,
+      "718": 14755
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=7,waterlogged=false]",
+    "ids": {
+      "477": 11130,
+      "573": 11130,
+      "718": 14786
+    }
+  },
+  {
+    "name": "minecraft:scaffolding[bottom=false,distance=4,waterlogged=false]",
+    "ids": {
+      "477": 11124,
+      "573": 11124,
+      "718": 14780
+    }
+  }
+]

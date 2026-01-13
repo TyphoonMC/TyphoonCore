@@ -1,0 +1,146 @@
+[
+  {
+    "name": "minecraft:jungle_leaves[distance=2,persistent=true]",
+    "ids": {
+      "393": 188,
+      "4": 303,
+      "404": 188,
+      "477": 188,
+      "573": 188,
+      "718": 189
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=1,persistent=true]",
+    "ids": {
+      "393": 186,
+      "4": 295,
+      "404": 186,
+      "477": 186,
+      "573": 186,
+      "718": 187
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=4,persistent=true]",
+    "ids": {
+      "393": 192,
+      "404": 192,
+      "477": 192,
+      "573": 192,
+      "718": 193
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=7,persistent=false]",
+    "ids": {
+      "393": 199,
+      "404": 199,
+      "477": 199,
+      "573": 199,
+      "718": 200
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=3,persistent=true]",
+    "ids": {
+      "393": 190,
+      "404": 190,
+      "477": 190,
+      "573": 190,
+      "718": 191
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=7,persistent=true]",
+    "ids": {
+      "393": 198,
+      "404": 198,
+      "477": 198,
+      "573": 198,
+      "718": 199
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=5,persistent=false]",
+    "ids": {
+      "393": 195,
+      "404": 195,
+      "477": 195,
+      "573": 195,
+      "718": 196
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=5,persistent=true]",
+    "ids": {
+      "393": 194,
+      "404": 194,
+      "477": 194,
+      "573": 194,
+      "718": 195
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=3,persistent=false]",
+    "ids": {
+      "393": 191,
+      "404": 191,
+      "477": 191,
+      "573": 191,
+      "718": 192
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=4,persistent=false]",
+    "ids": {
+      "393": 193,
+      "404": 193,
+      "477": 193,
+      "573": 193,
+      "718": 194
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=1,persistent=false]",
+    "ids": {
+      "393": 187,
+      "4": 291,
+      "404": 187,
+      "477": 187,
+      "573": 187,
+      "718": 188
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=6,persistent=false]",
+    "ids": {
+      "393": 197,
+      "404": 197,
+      "477": 197,
+      "573": 197,
+      "718": 198
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=2,persistent=false]",
+    "ids": {
+      "393": 189,
+      "4": 299,
+      "404": 189,
+      "477": 189,
+      "573": 189,
+      "718": 190
+    }
+  },
+  {
+    "name": "minecraft:jungle_leaves[distance=6,persistent=true]",
+    "ids": {
+      "393": 196,
+      "404": 196,
+      "477": 196,
+      "573": 196,
+      "718": 197
+    }
+  }
+]

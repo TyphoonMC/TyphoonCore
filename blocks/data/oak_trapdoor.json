@@ -1,0 +1,658 @@
+[
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3646,
+      "404": 3647,
+      "477": 4150,
+      "573": 4150,
+      "718": 4164
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3656,
+      "4": 1539,
+      "404": 3657,
+      "477": 4160,
+      "573": 4160,
+      "718": 4174
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3595,
+      "404": 3596,
+      "477": 4099,
+      "573": 4099,
+      "718": 4113
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3613,
+      "404": 3614,
+      "477": 4117,
+      "573": 4117,
+      "718": 4131
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3640,
+      "4": 1538,
+      "404": 3641,
+      "477": 4144,
+      "573": 4144,
+      "718": 4158
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3593,
+      "404": 3594,
+      "477": 4097,
+      "573": 4097,
+      "718": 4111
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3607,
+      "404": 3608,
+      "477": 4111,
+      "573": 4111,
+      "718": 4125
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3634,
+      "404": 3635,
+      "477": 4138,
+      "573": 4138,
+      "718": 4152
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3617,
+      "404": 3618,
+      "477": 4121,
+      "573": 4121,
+      "718": 4135
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3625,
+      "404": 3626,
+      "477": 4129,
+      "573": 4129,
+      "718": 4143
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3629,
+      "404": 3630,
+      "477": 4133,
+      "573": 4133,
+      "718": 4147
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3605,
+      "404": 3606,
+      "477": 4109,
+      "573": 4109,
+      "718": 4123
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3604,
+      "4": 1540,
+      "404": 3605,
+      "477": 4108,
+      "573": 4108,
+      "718": 4122
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3626,
+      "404": 3627,
+      "477": 4130,
+      "573": 4130,
+      "718": 4144
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3628,
+      "4": 1550,
+      "404": 3629,
+      "477": 4132,
+      "573": 4132,
+      "718": 4146
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3651,
+      "404": 3652,
+      "477": 4155,
+      "573": 4155,
+      "718": 4169
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3654,
+      "404": 3655,
+      "477": 4158,
+      "573": 4158,
+      "718": 4172
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3619,
+      "404": 3620,
+      "477": 4123,
+      "573": 4123,
+      "718": 4137
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3648,
+      "4": 1547,
+      "404": 3649,
+      "477": 4152,
+      "573": 4152,
+      "718": 4166
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3622,
+      "404": 3623,
+      "477": 4126,
+      "573": 4126,
+      "718": 4140
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3611,
+      "404": 3612,
+      "477": 4115,
+      "573": 4115,
+      "718": 4129
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3597,
+      "404": 3598,
+      "477": 4101,
+      "573": 4101,
+      "718": 4115
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3638,
+      "404": 3639,
+      "477": 4142,
+      "573": 4142,
+      "718": 4156
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3644,
+      "4": 1551,
+      "404": 3645,
+      "477": 4148,
+      "573": 4148,
+      "718": 4162
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3633,
+      "404": 3634,
+      "477": 4137,
+      "573": 4137,
+      "718": 4151
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3652,
+      "4": 1543,
+      "404": 3653,
+      "477": 4156,
+      "573": 4156,
+      "718": 4170
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3642,
+      "404": 3643,
+      "477": 4146,
+      "573": 4146,
+      "718": 4160
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3645,
+      "404": 3646,
+      "477": 4149,
+      "573": 4149,
+      "718": 4163
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3621,
+      "404": 3622,
+      "477": 4125,
+      "573": 4125,
+      "718": 4139
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3647,
+      "404": 3648,
+      "477": 4151,
+      "573": 4151,
+      "718": 4165
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3601,
+      "404": 3602,
+      "477": 4105,
+      "573": 4105,
+      "718": 4119
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3603,
+      "404": 3604,
+      "477": 4107,
+      "573": 4107,
+      "718": 4121
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3620,
+      "4": 1541,
+      "404": 3621,
+      "477": 4124,
+      "573": 4124,
+      "718": 4138
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3632,
+      "4": 1546,
+      "404": 3633,
+      "477": 4136,
+      "573": 4136,
+      "718": 4150
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3599,
+      "404": 3600,
+      "477": 4103,
+      "573": 4103,
+      "718": 4117
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3596,
+      "4": 1548,
+      "404": 3597,
+      "477": 4100,
+      "573": 4100,
+      "718": 4114
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3635,
+      "404": 3636,
+      "477": 4139,
+      "573": 4139,
+      "718": 4153
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3624,
+      "4": 1537,
+      "404": 3625,
+      "477": 4128,
+      "573": 4128,
+      "718": 4142
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3631,
+      "404": 3632,
+      "477": 4135,
+      "573": 4135,
+      "718": 4149
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3636,
+      "4": 1542,
+      "404": 3637,
+      "477": 4140,
+      "573": 4140,
+      "718": 4154
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3649,
+      "404": 3650,
+      "477": 4153,
+      "573": 4153,
+      "718": 4167
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3606,
+      "404": 3607,
+      "477": 4110,
+      "573": 4110,
+      "718": 4124
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3594,
+      "404": 3595,
+      "477": 4098,
+      "573": 4098,
+      "718": 4112
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3598,
+      "404": 3599,
+      "477": 4102,
+      "573": 4102,
+      "718": 4116
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3650,
+      "404": 3651,
+      "477": 4154,
+      "573": 4154,
+      "718": 4168
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3641,
+      "404": 3642,
+      "477": 4145,
+      "573": 4145,
+      "718": 4159
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3655,
+      "404": 3656,
+      "477": 4159,
+      "573": 4159,
+      "718": 4173
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3618,
+      "404": 3619,
+      "477": 4122,
+      "573": 4122,
+      "718": 4136
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3627,
+      "404": 3628,
+      "477": 4131,
+      "573": 4131,
+      "718": 4145
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3623,
+      "404": 3624,
+      "477": 4127,
+      "573": 4127,
+      "718": 4141
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3639,
+      "404": 3640,
+      "477": 4143,
+      "573": 4143,
+      "718": 4157
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3637,
+      "404": 3638,
+      "477": 4141,
+      "573": 4141,
+      "718": 4155
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3608,
+      "4": 1536,
+      "404": 3609,
+      "477": 4112,
+      "573": 4112,
+      "718": 4126
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3610,
+      "404": 3611,
+      "477": 4114,
+      "573": 4114,
+      "718": 4128
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3602,
+      "404": 3603,
+      "477": 4106,
+      "573": 4106,
+      "718": 4120
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3630,
+      "404": 3631,
+      "477": 4134,
+      "573": 4134,
+      "718": 4148
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3653,
+      "404": 3654,
+      "477": 4157,
+      "573": 4157,
+      "718": 4171
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3614,
+      "404": 3615,
+      "477": 4118,
+      "573": 4118,
+      "718": 4132
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3615,
+      "404": 3616,
+      "477": 4119,
+      "573": 4119,
+      "718": 4133
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3612,
+      "4": 1549,
+      "404": 3613,
+      "477": 4116,
+      "573": 4116,
+      "718": 4130
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3643,
+      "404": 3644,
+      "477": 4147,
+      "573": 4147,
+      "718": 4161
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3609,
+      "404": 3610,
+      "477": 4113,
+      "573": 4113,
+      "718": 4127
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3616,
+      "4": 1545,
+      "404": 3617,
+      "477": 4120,
+      "573": 4120,
+      "718": 4134
+    }
+  },
+  {
+    "name": "minecraft:oak_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3600,
+      "4": 1544,
+      "404": 3601,
+      "477": 4104,
+      "573": 4104,
+      "718": 4118
+    }
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "minecraft:cyan_bed[facing=south,occupied=true,part=head]",
+    "ids": {
+      "393": 896,
+      "404": 896,
+      "477": 1196,
+      "573": 1196,
+      "718": 1197
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=west,occupied=false,part=foot]",
+    "ids": {
+      "393": 903,
+      "404": 903,
+      "477": 1203,
+      "573": 1203,
+      "718": 1204
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=south,occupied=true,part=foot]",
+    "ids": {
+      "393": 897,
+      "404": 897,
+      "477": 1197,
+      "573": 1197,
+      "718": 1198
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=east,occupied=true,part=head]",
+    "ids": {
+      "393": 904,
+      "404": 904,
+      "477": 1204,
+      "573": 1204,
+      "718": 1205
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=east,occupied=false,part=head]",
+    "ids": {
+      "393": 906,
+      "404": 906,
+      "477": 1206,
+      "573": 1206,
+      "718": 1207
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=north,occupied=false,part=head]",
+    "ids": {
+      "393": 894,
+      "404": 894,
+      "477": 1194,
+      "573": 1194,
+      "718": 1195
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=west,occupied=true,part=head]",
+    "ids": {
+      "393": 900,
+      "404": 900,
+      "477": 1200,
+      "573": 1200,
+      "718": 1201
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=north,occupied=false,part=foot]",
+    "ids": {
+      "393": 895,
+      "404": 895,
+      "477": 1195,
+      "573": 1195,
+      "718": 1196
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=north,occupied=true,part=head]",
+    "ids": {
+      "393": 892,
+      "404": 892,
+      "477": 1192,
+      "573": 1192,
+      "718": 1193
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=south,occupied=false,part=foot]",
+    "ids": {
+      "393": 899,
+      "404": 899,
+      "477": 1199,
+      "573": 1199,
+      "718": 1200
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=south,occupied=false,part=head]",
+    "ids": {
+      "393": 898,
+      "404": 898,
+      "477": 1198,
+      "573": 1198,
+      "718": 1199
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=north,occupied=true,part=foot]",
+    "ids": {
+      "393": 893,
+      "404": 893,
+      "477": 1193,
+      "573": 1193,
+      "718": 1194
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=east,occupied=false,part=foot]",
+    "ids": {
+      "393": 907,
+      "404": 907,
+      "477": 1207,
+      "573": 1207,
+      "718": 1208
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=west,occupied=false,part=head]",
+    "ids": {
+      "393": 902,
+      "404": 902,
+      "477": 1202,
+      "573": 1202,
+      "718": 1203
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=west,occupied=true,part=foot]",
+    "ids": {
+      "393": 901,
+      "404": 901,
+      "477": 1201,
+      "573": 1201,
+      "718": 1202
+    }
+  },
+  {
+    "name": "minecraft:cyan_bed[facing=east,occupied=true,part=foot]",
+    "ids": {
+      "393": 905,
+      "404": 905,
+      "477": 1205,
+      "573": 1205,
+      "718": 1206
+    }
+  }
+]

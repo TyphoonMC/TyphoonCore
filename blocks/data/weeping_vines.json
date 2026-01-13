@@ -1,0 +1,158 @@
+[
+  {
+    "name": "minecraft:weeping_vines[age=12]",
+    "ids": {
+      "718": 15002
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=0]",
+    "ids": {
+      "718": 14990
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=6]",
+    "ids": {
+      "718": 14996
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=13]",
+    "ids": {
+      "718": 15003
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=14]",
+    "ids": {
+      "718": 15004
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=3]",
+    "ids": {
+      "718": 14993
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=16]",
+    "ids": {
+      "718": 15006
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=19]",
+    "ids": {
+      "718": 15009
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=21]",
+    "ids": {
+      "718": 15011
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=9]",
+    "ids": {
+      "718": 14999
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=5]",
+    "ids": {
+      "718": 14995
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=25]",
+    "ids": {
+      "718": 15015
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=1]",
+    "ids": {
+      "718": 14991
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=15]",
+    "ids": {
+      "718": 15005
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=23]",
+    "ids": {
+      "718": 15013
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=8]",
+    "ids": {
+      "718": 14998
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=17]",
+    "ids": {
+      "718": 15007
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=20]",
+    "ids": {
+      "718": 15010
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=24]",
+    "ids": {
+      "718": 15014
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=22]",
+    "ids": {
+      "718": 15012
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=4]",
+    "ids": {
+      "718": 14994
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=7]",
+    "ids": {
+      "718": 14997
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=10]",
+    "ids": {
+      "718": 15000
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=2]",
+    "ids": {
+      "718": 14992
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=11]",
+    "ids": {
+      "718": 15001
+    }
+  },
+  {
+    "name": "minecraft:weeping_vines[age=18]",
+    "ids": {
+      "718": 15008
+    }
+  }
+]

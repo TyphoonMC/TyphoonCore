@@ -3,10 +3,10 @@ package typhoon
 import (
 	"encoding/base64"
 	"encoding/json"
+	"fmt"
 	"image"
 	_ "image/png"
-	"io/ioutil"
-	"log"
+	"log/slog"
 	"os"
 )
 
@@ -32,43 +32,42 @@ var (
 	favicon string
 )
 
-func initConfig() (err error) {
-	imgFile, _ := os.Open("./favicon.png")
-	defer imgFile.Close()
-
-	img, _, err := image.Decode(imgFile)
-
+func initConfig() error {
+	imgFile, err := os.Open("./favicon.png")
 	if err == nil {
-		b := img.Bounds()
+		defer imgFile.Close()
 
+		img, _, err := image.Decode(imgFile)
 		if err == nil {
+			b := img.Bounds()
 			if b.Max.X != 64 || b.Max.Y != 64 {
-				log.Printf("Invalid icon for server (resize to 64x64 pixels?)")
+				slog.Warn("invalid icon for server", "hint", "resize to 64x64 pixels")
 			}
 
-			fav, err := ioutil.ReadFile("./favicon.png")
+			fav, err := os.ReadFile("./favicon.png")
 			if err == nil {
 				favicon = "data:image/png;base64," + base64.StdEncoding.EncodeToString(fav)
 			}
 		}
 	}
 
-	file, err := ioutil.ReadFile("./config.json")
+	file, err := os.ReadFile("./config.json")
 	if err != nil {
-		panic(err)
+		return fmt.Errorf("reading config.json: %w", err)
 	}
 	if err := json.Unmarshal(file, &config); err != nil {
-		panic(err)
+		return fmt.Errorf("parsing config.json: %w", err)
 	}
-	return
+	return nil
 }
 
-func (c *Core) GetConfig(config interface{}) {
-	file, err := ioutil.ReadFile("./config.json")
+func (c *Core) GetConfig(cfg interface{}) error {
+	file, err := os.ReadFile("./config.json")
 	if err != nil {
-		panic(err)
+		return fmt.Errorf("reading config.json: %w", err)
 	}
-	if err := json.Unmarshal(file, config); err != nil {
-		panic(err)
+	if err := json.Unmarshal(file, cfg); err != nil {
+		return fmt.Errorf("parsing config.json: %w", err)
 	}
+	return nil
 }

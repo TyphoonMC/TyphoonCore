@@ -1,0 +1,338 @@
+[
+  {
+    "name": "minecraft:oak_fence_gate[facing=west,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 4317,
+      "404": 4318,
+      "477": 4821,
+      "573": 4821,
+      "718": 4837
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=east,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 4327,
+      "404": 4328,
+      "477": 4831,
+      "573": 4831,
+      "718": 4847
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=east,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 4325,
+      "404": 4326,
+      "477": 4829,
+      "573": 4829,
+      "718": 4845
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=east,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 4324,
+      "404": 4325,
+      "477": 4828,
+      "573": 4828,
+      "718": 4844
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=north,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 4300,
+      "404": 4301,
+      "477": 4804,
+      "573": 4804,
+      "718": 4820
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=west,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 4322,
+      "4": 1721,
+      "404": 4323,
+      "477": 4826,
+      "573": 4826,
+      "718": 4842
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 4315,
+      "4": 1712,
+      "404": 4316,
+      "477": 4819,
+      "573": 4819,
+      "718": 4835
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=north,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 4305,
+      "4": 1718,
+      "404": 4306,
+      "477": 4809,
+      "573": 4809,
+      "718": 4825
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=south,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 4313,
+      "4": 1716,
+      "404": 4314,
+      "477": 4817,
+      "573": 4817,
+      "718": 4833
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=west,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 4321,
+      "4": 1717,
+      "404": 4322,
+      "477": 4825,
+      "573": 4825,
+      "718": 4841
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=south,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 4308,
+      "404": 4309,
+      "477": 4812,
+      "573": 4812,
+      "718": 4828
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=south,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 4311,
+      "404": 4312,
+      "477": 4815,
+      "573": 4815,
+      "718": 4831
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=west,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 4318,
+      "404": 4319,
+      "477": 4822,
+      "573": 4822,
+      "718": 4838
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=north,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 4303,
+      "404": 4304,
+      "477": 4807,
+      "573": 4807,
+      "718": 4823
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=east,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 4326,
+      "404": 4327,
+      "477": 4830,
+      "573": 4830,
+      "718": 4846
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=north,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 4302,
+      "404": 4303,
+      "477": 4806,
+      "573": 4806,
+      "718": 4822
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=south,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 4310,
+      "404": 4311,
+      "477": 4814,
+      "573": 4814,
+      "718": 4830
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=north,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 4304,
+      "4": 1726,
+      "404": 4305,
+      "477": 4808,
+      "573": 4808,
+      "718": 4824
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=east,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 4328,
+      "4": 1727,
+      "404": 4329,
+      "477": 4832,
+      "573": 4832,
+      "718": 4848
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=south,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 4314,
+      "4": 1720,
+      "404": 4315,
+      "477": 4818,
+      "573": 4818,
+      "718": 4834
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=east,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 4330,
+      "4": 1723,
+      "404": 4331,
+      "477": 4834,
+      "573": 4834,
+      "718": 4850
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=west,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 4323,
+      "4": 1713,
+      "404": 4324,
+      "477": 4827,
+      "573": 4827,
+      "718": 4843
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=north,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 4307,
+      "4": 1714,
+      "404": 4308,
+      "477": 4811,
+      "573": 4811,
+      "718": 4827
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=north,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 4301,
+      "404": 4302,
+      "477": 4805,
+      "573": 4805,
+      "718": 4821
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=south,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 4312,
+      "4": 1724,
+      "404": 4313,
+      "477": 4816,
+      "573": 4816,
+      "718": 4832
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=south,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 4309,
+      "404": 4310,
+      "477": 4813,
+      "573": 4813,
+      "718": 4829
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=north,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 4306,
+      "4": 1722,
+      "404": 4307,
+      "477": 4810,
+      "573": 4810,
+      "718": 4826
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=west,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 4319,
+      "404": 4320,
+      "477": 4823,
+      "573": 4823,
+      "718": 4839
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=west,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 4320,
+      "4": 1725,
+      "404": 4321,
+      "477": 4824,
+      "573": 4824,
+      "718": 4840
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=west,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 4316,
+      "404": 4317,
+      "477": 4820,
+      "573": 4820,
+      "718": 4836
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 4329,
+      "4": 1719,
+      "404": 4330,
+      "477": 4833,
+      "573": 4833,
+      "718": 4849
+    }
+  },
+  {
+    "name": "minecraft:oak_fence_gate[facing=east,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 4331,
+      "4": 1715,
+      "404": 4332,
+      "477": 4835,
+      "573": 4835,
+      "718": 4851
+    }
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9510,
+      "573": 9510,
+      "718": 10046
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9511,
+      "573": 9511,
+      "718": 10047
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9484,
+      "573": 9484,
+      "718": 10020
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9522,
+      "573": 9522,
+      "718": 10058
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9496,
+      "573": 9496,
+      "718": 10032
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9482,
+      "573": 9482,
+      "718": 10018
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9492,
+      "573": 9492,
+      "718": 10028
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9476,
+      "573": 9476,
+      "718": 10012
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9457,
+      "573": 9457,
+      "718": 9993
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9468,
+      "573": 9468,
+      "718": 10004
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9487,
+      "573": 9487,
+      "718": 10023
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9486,
+      "573": 9486,
+      "718": 10022
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9481,
+      "573": 9481,
+      "718": 10017
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9506,
+      "573": 9506,
+      "718": 10042
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9491,
+      "573": 9491,
+      "718": 10027
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9470,
+      "573": 9470,
+      "718": 10006
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9454,
+      "573": 9454,
+      "718": 9990
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9462,
+      "573": 9462,
+      "718": 9998
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9521,
+      "573": 9521,
+      "718": 10057
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9524,
+      "573": 9524,
+      "718": 10060
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9459,
+      "573": 9459,
+      "718": 9995
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9475,
+      "573": 9475,
+      "718": 10011
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9490,
+      "573": 9490,
+      "718": 10026
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9471,
+      "573": 9471,
+      "718": 10007
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9460,
+      "573": 9460,
+      "718": 9996
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9485,
+      "573": 9485,
+      "718": 10021
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9453,
+      "573": 9453,
+      "718": 9989
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9489,
+      "573": 9489,
+      "718": 10025
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9498,
+      "573": 9498,
+      "718": 10034
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9501,
+      "573": 9501,
+      "718": 10037
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9473,
+      "573": 9473,
+      "718": 10009
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9458,
+      "573": 9458,
+      "718": 9994
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9474,
+      "573": 9474,
+      "718": 10010
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9518,
+      "573": 9518,
+      "718": 10054
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9526,
+      "573": 9526,
+      "718": 10062
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9503,
+      "573": 9503,
+      "718": 10039
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9495,
+      "573": 9495,
+      "718": 10031
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9478,
+      "573": 9478,
+      "718": 10014
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9467,
+      "573": 9467,
+      "718": 10003
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9509,
+      "573": 9509,
+      "718": 10045
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9499,
+      "573": 9499,
+      "718": 10035
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9504,
+      "573": 9504,
+      "718": 10040
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9505,
+      "573": 9505,
+      "718": 10041
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9466,
+      "573": 9466,
+      "718": 10002
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9469,
+      "573": 9469,
+      "718": 10005
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9488,
+      "573": 9488,
+      "718": 10024
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9461,
+      "573": 9461,
+      "718": 9997
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9516,
+      "573": 9516,
+      "718": 10052
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9507,
+      "573": 9507,
+      "718": 10043
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9465,
+      "573": 9465,
+      "718": 10001
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9472,
+      "573": 9472,
+      "718": 10008
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9493,
+      "573": 9493,
+      "718": 10029
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9463,
+      "573": 9463,
+      "718": 9999
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9477,
+      "573": 9477,
+      "718": 10013
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9456,
+      "573": 9456,
+      "718": 9992
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9497,
+      "573": 9497,
+      "718": 10033
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9523,
+      "573": 9523,
+      "718": 10059
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9530,
+      "573": 9530,
+      "718": 10066
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9500,
+      "573": 9500,
+      "718": 10036
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9529,
+      "573": 9529,
+      "718": 10065
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9531,
+      "573": 9531,
+      "718": 10067
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9525,
+      "573": 9525,
+      "718": 10061
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9519,
+      "573": 9519,
+      "718": 10055
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9512,
+      "573": 9512,
+      "718": 10048
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9508,
+      "573": 9508,
+      "718": 10044
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9520,
+      "573": 9520,
+      "718": 10056
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9502,
+      "573": 9502,
+      "718": 10038
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9527,
+      "573": 9527,
+      "718": 10063
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9515,
+      "573": 9515,
+      "718": 10051
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9513,
+      "573": 9513,
+      "718": 10049
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9483,
+      "573": 9483,
+      "718": 10019
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9517,
+      "573": 9517,
+      "718": 10053
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9455,
+      "573": 9455,
+      "718": 9991
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9514,
+      "573": 9514,
+      "718": 10050
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9479,
+      "573": 9479,
+      "718": 10015
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9480,
+      "573": 9480,
+      "718": 10016
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9494,
+      "573": 9494,
+      "718": 10030
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9464,
+      "573": 9464,
+      "718": 10000
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9528,
+      "573": 9528,
+      "718": 10064
+    }
+  },
+  {
+    "name": "minecraft:mossy_cobblestone_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9532,
+      "573": 9532,
+      "718": 10068
+    }
+  }
+]

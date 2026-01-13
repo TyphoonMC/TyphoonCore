@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:observer[facing=south,powered=true]",
+    "ids": {
+      "393": 8203,
+      "4": 3499,
+      "404": 8204,
+      "477": 8728,
+      "573": 8728,
+      "718": 9264
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=down,powered=false]",
+    "ids": {
+      "393": 8210,
+      "4": 3488,
+      "404": 8211,
+      "477": 8735,
+      "573": 8735,
+      "718": 9271
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=north,powered=false]",
+    "ids": {
+      "393": 8200,
+      "4": 3490,
+      "404": 8201,
+      "477": 8725,
+      "573": 8725,
+      "718": 9261
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=up,powered=false]",
+    "ids": {
+      "393": 8208,
+      "4": 3489,
+      "404": 8209,
+      "477": 8733,
+      "573": 8733,
+      "718": 9269
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=west,powered=false]",
+    "ids": {
+      "393": 8206,
+      "4": 3492,
+      "404": 8207,
+      "477": 8731,
+      "573": 8731,
+      "718": 9267
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=west,powered=true]",
+    "ids": {
+      "393": 8205,
+      "4": 3500,
+      "404": 8206,
+      "477": 8730,
+      "573": 8730,
+      "718": 9266
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=south,powered=false]",
+    "ids": {
+      "393": 8204,
+      "4": 3491,
+      "404": 8205,
+      "477": 8729,
+      "573": 8729,
+      "718": 9265
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=east,powered=true]",
+    "ids": {
+      "393": 8201,
+      "4": 3501,
+      "404": 8202,
+      "477": 8726,
+      "573": 8726,
+      "718": 9262
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=north,powered=true]",
+    "ids": {
+      "393": 8199,
+      "4": 3498,
+      "404": 8200,
+      "477": 8724,
+      "573": 8724,
+      "718": 9260
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=east,powered=false]",
+    "ids": {
+      "393": 8202,
+      "4": 3493,
+      "404": 8203,
+      "477": 8727,
+      "573": 8727,
+      "718": 9263
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=down,powered=true]",
+    "ids": {
+      "393": 8209,
+      "4": 3496,
+      "404": 8210,
+      "477": 8734,
+      "573": 8734,
+      "718": 9270
+    }
+  },
+  {
+    "name": "minecraft:observer[facing=up,powered=true]",
+    "ids": {
+      "393": 8207,
+      "4": 3497,
+      "404": 8208,
+      "477": 8732,
+      "573": 8732,
+      "718": 9268
+    }
+  }
+]

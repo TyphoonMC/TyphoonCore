@@ -1,0 +1,642 @@
+[
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9373,
+      "573": 9373,
+      "718": 9909
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9402,
+      "573": 9402,
+      "718": 9938
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9425,
+      "573": 9425,
+      "718": 9961
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9385,
+      "573": 9385,
+      "718": 9921
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9451,
+      "573": 9451,
+      "718": 9987
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9387,
+      "573": 9387,
+      "718": 9923
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9389,
+      "573": 9389,
+      "718": 9925
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9434,
+      "573": 9434,
+      "718": 9970
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9415,
+      "573": 9415,
+      "718": 9951
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9401,
+      "573": 9401,
+      "718": 9937
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9397,
+      "573": 9397,
+      "718": 9933
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9395,
+      "573": 9395,
+      "718": 9931
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9447,
+      "573": 9447,
+      "718": 9983
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9421,
+      "573": 9421,
+      "718": 9957
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9452,
+      "573": 9452,
+      "718": 9988
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9432,
+      "573": 9432,
+      "718": 9968
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9399,
+      "573": 9399,
+      "718": 9935
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9400,
+      "573": 9400,
+      "718": 9936
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9418,
+      "573": 9418,
+      "718": 9954
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9437,
+      "573": 9437,
+      "718": 9973
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9409,
+      "573": 9409,
+      "718": 9945
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9431,
+      "573": 9431,
+      "718": 9967
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9405,
+      "573": 9405,
+      "718": 9941
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9436,
+      "573": 9436,
+      "718": 9972
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9392,
+      "573": 9392,
+      "718": 9928
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9388,
+      "573": 9388,
+      "718": 9924
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9444,
+      "573": 9444,
+      "718": 9980
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9443,
+      "573": 9443,
+      "718": 9979
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9407,
+      "573": 9407,
+      "718": 9943
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9419,
+      "573": 9419,
+      "718": 9955
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9420,
+      "573": 9420,
+      "718": 9956
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9381,
+      "573": 9381,
+      "718": 9917
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9393,
+      "573": 9393,
+      "718": 9929
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9379,
+      "573": 9379,
+      "718": 9915
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9384,
+      "573": 9384,
+      "718": 9920
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9416,
+      "573": 9416,
+      "718": 9952
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9411,
+      "573": 9411,
+      "718": 9947
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9435,
+      "573": 9435,
+      "718": 9971
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9426,
+      "573": 9426,
+      "718": 9962
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9410,
+      "573": 9410,
+      "718": 9946
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9375,
+      "573": 9375,
+      "718": 9911
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9450,
+      "573": 9450,
+      "718": 9986
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9386,
+      "573": 9386,
+      "718": 9922
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9440,
+      "573": 9440,
+      "718": 9976
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9378,
+      "573": 9378,
+      "718": 9914
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9423,
+      "573": 9423,
+      "718": 9959
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9396,
+      "573": 9396,
+      "718": 9932
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9441,
+      "573": 9441,
+      "718": 9977
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9404,
+      "573": 9404,
+      "718": 9940
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9398,
+      "573": 9398,
+      "718": 9934
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9417,
+      "573": 9417,
+      "718": 9953
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9442,
+      "573": 9442,
+      "718": 9978
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9413,
+      "573": 9413,
+      "718": 9949
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9428,
+      "573": 9428,
+      "718": 9964
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9448,
+      "573": 9448,
+      "718": 9984
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9422,
+      "573": 9422,
+      "718": 9958
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9408,
+      "573": 9408,
+      "718": 9944
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9391,
+      "573": 9391,
+      "718": 9927
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9412,
+      "573": 9412,
+      "718": 9948
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9390,
+      "573": 9390,
+      "718": 9926
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9394,
+      "573": 9394,
+      "718": 9930
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9439,
+      "573": 9439,
+      "718": 9975
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9406,
+      "573": 9406,
+      "718": 9942
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9380,
+      "573": 9380,
+      "718": 9916
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9374,
+      "573": 9374,
+      "718": 9910
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9446,
+      "573": 9446,
+      "718": 9982
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9429,
+      "573": 9429,
+      "718": 9965
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9430,
+      "573": 9430,
+      "718": 9966
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9445,
+      "573": 9445,
+      "718": 9981
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9377,
+      "573": 9377,
+      "718": 9913
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9424,
+      "573": 9424,
+      "718": 9960
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9403,
+      "573": 9403,
+      "718": 9939
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9382,
+      "573": 9382,
+      "718": 9918
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9433,
+      "573": 9433,
+      "718": 9969
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9383,
+      "573": 9383,
+      "718": 9919
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9427,
+      "573": 9427,
+      "718": 9963
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9438,
+      "573": 9438,
+      "718": 9974
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9376,
+      "573": 9376,
+      "718": 9912
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9414,
+      "573": 9414,
+      "718": 9950
+    }
+  },
+  {
+    "name": "minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9449,
+      "573": 9449,
+      "718": 9985
+    }
+  }
+]

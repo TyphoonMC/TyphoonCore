@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_spruce_wood[axis=y]",
+    "ids": {
+      "393": 130,
+      "404": 130,
+      "477": 130,
+      "573": 130,
+      "718": 131
+    }
+  },
+  {
+    "name": "minecraft:stripped_spruce_wood[axis=z]",
+    "ids": {
+      "393": 131,
+      "404": 131,
+      "477": 131,
+      "573": 131,
+      "718": 132
+    }
+  },
+  {
+    "name": "minecraft:stripped_spruce_wood[axis=x]",
+    "ids": {
+      "393": 129,
+      "404": 129,
+      "477": 129,
+      "573": 129,
+      "718": 130
+    }
+  }
+]

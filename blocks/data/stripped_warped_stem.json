@@ -1,0 +1,20 @@
+[
+  {
+    "name": "minecraft:stripped_warped_stem[axis=y]",
+    "ids": {
+      "718": 14962
+    }
+  },
+  {
+    "name": "minecraft:stripped_warped_stem[axis=x]",
+    "ids": {
+      "718": 14961
+    }
+  },
+  {
+    "name": "minecraft:stripped_warped_stem[axis=z]",
+    "ids": {
+      "718": 14963
+    }
+  }
+]

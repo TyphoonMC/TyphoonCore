@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_dark_oak_log[axis=y]",
+    "ids": {
+      "393": 103,
+      "404": 103,
+      "477": 103,
+      "573": 103,
+      "718": 104
+    }
+  },
+  {
+    "name": "minecraft:stripped_dark_oak_log[axis=x]",
+    "ids": {
+      "393": 102,
+      "404": 102,
+      "477": 102,
+      "573": 102,
+      "718": 103
+    }
+  },
+  {
+    "name": "minecraft:stripped_dark_oak_log[axis=z]",
+    "ids": {
+      "393": 104,
+      "404": 104,
+      "477": 104,
+      "573": 104,
+      "718": 105
+    }
+  }
+]

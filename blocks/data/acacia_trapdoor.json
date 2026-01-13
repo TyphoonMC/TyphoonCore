@@ -1,0 +1,642 @@
+[
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3900,
+      "404": 3901,
+      "477": 4404,
+      "573": 4404,
+      "718": 4418
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3895,
+      "404": 3896,
+      "477": 4399,
+      "573": 4399,
+      "718": 4413
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3874,
+      "404": 3875,
+      "477": 4378,
+      "573": 4378,
+      "718": 4392
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3885,
+      "404": 3886,
+      "477": 4389,
+      "573": 4389,
+      "718": 4403
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3876,
+      "404": 3877,
+      "477": 4380,
+      "573": 4380,
+      "718": 4394
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3878,
+      "404": 3879,
+      "477": 4382,
+      "573": 4382,
+      "718": 4396
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3890,
+      "404": 3891,
+      "477": 4394,
+      "573": 4394,
+      "718": 4408
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3877,
+      "404": 3878,
+      "477": 4381,
+      "573": 4381,
+      "718": 4395
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3866,
+      "404": 3867,
+      "477": 4370,
+      "573": 4370,
+      "718": 4384
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3906,
+      "404": 3907,
+      "477": 4410,
+      "573": 4410,
+      "718": 4424
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3902,
+      "404": 3903,
+      "477": 4406,
+      "573": 4406,
+      "718": 4420
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3872,
+      "404": 3873,
+      "477": 4376,
+      "573": 4376,
+      "718": 4390
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3851,
+      "404": 3852,
+      "477": 4355,
+      "573": 4355,
+      "718": 4369
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3907,
+      "404": 3908,
+      "477": 4411,
+      "573": 4411,
+      "718": 4425
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3891,
+      "404": 3892,
+      "477": 4395,
+      "573": 4395,
+      "718": 4409
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3892,
+      "404": 3893,
+      "477": 4396,
+      "573": 4396,
+      "718": 4410
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3849,
+      "404": 3850,
+      "477": 4353,
+      "573": 4353,
+      "718": 4367
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3861,
+      "404": 3862,
+      "477": 4365,
+      "573": 4365,
+      "718": 4379
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3908,
+      "404": 3909,
+      "477": 4412,
+      "573": 4412,
+      "718": 4426
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3886,
+      "404": 3887,
+      "477": 4390,
+      "573": 4390,
+      "718": 4404
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3859,
+      "404": 3860,
+      "477": 4363,
+      "573": 4363,
+      "718": 4377
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3912,
+      "404": 3913,
+      "477": 4416,
+      "573": 4416,
+      "718": 4430
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3871,
+      "404": 3872,
+      "477": 4375,
+      "573": 4375,
+      "718": 4389
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3897,
+      "404": 3898,
+      "477": 4401,
+      "573": 4401,
+      "718": 4415
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3853,
+      "404": 3854,
+      "477": 4357,
+      "573": 4357,
+      "718": 4371
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3889,
+      "404": 3890,
+      "477": 4393,
+      "573": 4393,
+      "718": 4407
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3910,
+      "404": 3911,
+      "477": 4414,
+      "573": 4414,
+      "718": 4428
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3873,
+      "404": 3874,
+      "477": 4377,
+      "573": 4377,
+      "718": 4391
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3864,
+      "404": 3865,
+      "477": 4368,
+      "573": 4368,
+      "718": 4382
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3855,
+      "404": 3856,
+      "477": 4359,
+      "573": 4359,
+      "718": 4373
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3881,
+      "404": 3882,
+      "477": 4385,
+      "573": 4385,
+      "718": 4399
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3875,
+      "404": 3876,
+      "477": 4379,
+      "573": 4379,
+      "718": 4393
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3893,
+      "404": 3894,
+      "477": 4397,
+      "573": 4397,
+      "718": 4411
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3894,
+      "404": 3895,
+      "477": 4398,
+      "573": 4398,
+      "718": 4412
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3909,
+      "404": 3910,
+      "477": 4413,
+      "573": 4413,
+      "718": 4427
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3852,
+      "404": 3853,
+      "477": 4356,
+      "573": 4356,
+      "718": 4370
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3868,
+      "404": 3869,
+      "477": 4372,
+      "573": 4372,
+      "718": 4386
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3865,
+      "404": 3866,
+      "477": 4369,
+      "573": 4369,
+      "718": 4383
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3857,
+      "404": 3858,
+      "477": 4361,
+      "573": 4361,
+      "718": 4375
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3888,
+      "404": 3889,
+      "477": 4392,
+      "573": 4392,
+      "718": 4406
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3905,
+      "404": 3906,
+      "477": 4409,
+      "573": 4409,
+      "718": 4423
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3850,
+      "404": 3851,
+      "477": 4354,
+      "573": 4354,
+      "718": 4368
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3899,
+      "404": 3900,
+      "477": 4403,
+      "573": 4403,
+      "718": 4417
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3867,
+      "404": 3868,
+      "477": 4371,
+      "573": 4371,
+      "718": 4385
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3862,
+      "404": 3863,
+      "477": 4366,
+      "573": 4366,
+      "718": 4380
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3903,
+      "404": 3904,
+      "477": 4407,
+      "573": 4407,
+      "718": 4421
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3860,
+      "404": 3861,
+      "477": 4364,
+      "573": 4364,
+      "718": 4378
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3863,
+      "404": 3864,
+      "477": 4367,
+      "573": 4367,
+      "718": 4381
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3887,
+      "404": 3888,
+      "477": 4391,
+      "573": 4391,
+      "718": 4405
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3904,
+      "404": 3905,
+      "477": 4408,
+      "573": 4408,
+      "718": 4422
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3880,
+      "404": 3881,
+      "477": 4384,
+      "573": 4384,
+      "718": 4398
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3896,
+      "404": 3897,
+      "477": 4400,
+      "573": 4400,
+      "718": 4414
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3856,
+      "404": 3857,
+      "477": 4360,
+      "573": 4360,
+      "718": 4374
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3883,
+      "404": 3884,
+      "477": 4387,
+      "573": 4387,
+      "718": 4401
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3870,
+      "404": 3871,
+      "477": 4374,
+      "573": 4374,
+      "718": 4388
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3911,
+      "404": 3912,
+      "477": 4415,
+      "573": 4415,
+      "718": 4429
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3879,
+      "404": 3880,
+      "477": 4383,
+      "573": 4383,
+      "718": 4397
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3901,
+      "404": 3902,
+      "477": 4405,
+      "573": 4405,
+      "718": 4419
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3884,
+      "404": 3885,
+      "477": 4388,
+      "573": 4388,
+      "718": 4402
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3869,
+      "404": 3870,
+      "477": 4373,
+      "573": 4373,
+      "718": 4387
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3854,
+      "404": 3855,
+      "477": 4358,
+      "573": 4358,
+      "718": 4372
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3858,
+      "404": 3859,
+      "477": 4362,
+      "573": 4362,
+      "718": 4376
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3882,
+      "404": 3883,
+      "477": 4386,
+      "573": 4386,
+      "718": 4400
+    }
+  },
+  {
+    "name": "minecraft:acacia_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3898,
+      "404": 3899,
+      "477": 4402,
+      "573": 4402,
+      "718": 4416
+    }
+  }
+]

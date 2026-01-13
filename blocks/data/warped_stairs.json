@@ -1,0 +1,482 @@
+[
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15452
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15416
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15441
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15431
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15406
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15404
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15477
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15447
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15458
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15426
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15411
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15408
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15402
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15462
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15473
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15422
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15419
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15448
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15423
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15403
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15427
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15413
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15417
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15466
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15407
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15454
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15456
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15412
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15464
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15476
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15451
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15440
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15471
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15409
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15435
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15453
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15463
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15436
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15415
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15425
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15401
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15459
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15469
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15457
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15430
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15460
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15449
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15465
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15468
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15405
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15472
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15438
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15414
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15421
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15446
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15432
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15444
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15442
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15467
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15450
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15418
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15434
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15433
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15445
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15437
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15439
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15410
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15428
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15461
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15399
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15475
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15424
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15470
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15478
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15455
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15420
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15443
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15400
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15429
+    }
+  },
+  {
+    "name": "minecraft:warped_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15474
+    }
+  }
+]

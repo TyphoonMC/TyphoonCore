@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:spruce_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7267,
+      "404": 7268,
+      "477": 7774,
+      "573": 7774,
+      "718": 8310
+    }
+  },
+  {
+    "name": "minecraft:spruce_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7264,
+      "4": 2025,
+      "404": 7265,
+      "477": 7771,
+      "573": 7771,
+      "718": 8307
+    }
+  },
+  {
+    "name": "minecraft:spruce_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7268,
+      "4": 2001,
+      "404": 7269,
+      "477": 7775,
+      "573": 7775,
+      "718": 8311
+    }
+  },
+  {
+    "name": "minecraft:spruce_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7265,
+      "404": 7266,
+      "477": 7772,
+      "573": 7772,
+      "718": 8308
+    }
+  },
+  {
+    "name": "minecraft:spruce_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7263,
+      "404": 7264,
+      "477": 7770,
+      "573": 7770,
+      "718": 8306
+    }
+  },
+  {
+    "name": "minecraft:spruce_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7266,
+      "4": 2017,
+      "404": 7267,
+      "477": 7773,
+      "573": 7773,
+      "718": 8309
+    }
+  }
+]

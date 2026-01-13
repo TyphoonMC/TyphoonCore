@@ -1,0 +1,802 @@
+[
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6680,
+      "404": 6681,
+      "477": 7187,
+      "573": 7187,
+      "718": 7723
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6651,
+      "404": 6652,
+      "477": 7158,
+      "573": 7158,
+      "718": 7694
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6691,
+      "404": 6692,
+      "477": 7198,
+      "573": 7198,
+      "718": 7734
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6703,
+      "404": 6704,
+      "477": 7210,
+      "573": 7210,
+      "718": 7746
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6702,
+      "404": 6703,
+      "477": 7209,
+      "573": 7209,
+      "718": 7745
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6708,
+      "404": 6709,
+      "477": 7215,
+      "573": 7215,
+      "718": 7751
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6643,
+      "404": 6644,
+      "477": 7150,
+      "573": 7150,
+      "718": 7686
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6672,
+      "404": 6673,
+      "477": 7179,
+      "573": 7179,
+      "718": 7715
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6641,
+      "404": 6642,
+      "477": 7148,
+      "573": 7148,
+      "718": 7684
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6712,
+      "404": 6713,
+      "477": 7219,
+      "573": 7219,
+      "718": 7755
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6666,
+      "404": 6667,
+      "477": 7173,
+      "573": 7173,
+      "718": 7709
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6684,
+      "404": 6685,
+      "477": 7191,
+      "573": 7191,
+      "718": 7727
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6700,
+      "404": 6701,
+      "477": 7207,
+      "573": 7207,
+      "718": 7743
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6720,
+      "404": 6721,
+      "477": 7227,
+      "573": 7227,
+      "718": 7763
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6647,
+      "404": 6648,
+      "477": 7154,
+      "573": 7154,
+      "718": 7690
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6682,
+      "404": 6683,
+      "477": 7189,
+      "573": 7189,
+      "718": 7725
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6714,
+      "404": 6715,
+      "477": 7221,
+      "573": 7221,
+      "718": 7757
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6675,
+      "404": 6676,
+      "477": 7182,
+      "573": 7182,
+      "718": 7718
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6652,
+      "404": 6653,
+      "477": 7159,
+      "573": 7159,
+      "718": 7695
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6665,
+      "404": 6666,
+      "477": 7172,
+      "573": 7172,
+      "718": 7708
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6698,
+      "404": 6699,
+      "477": 7205,
+      "573": 7205,
+      "718": 7741
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6685,
+      "404": 6686,
+      "477": 7192,
+      "573": 7192,
+      "718": 7728
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6668,
+      "404": 6669,
+      "477": 7175,
+      "573": 7175,
+      "718": 7711
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6686,
+      "404": 6687,
+      "477": 7193,
+      "573": 7193,
+      "718": 7729
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6709,
+      "404": 6710,
+      "477": 7216,
+      "573": 7216,
+      "718": 7752
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6646,
+      "404": 6647,
+      "477": 7153,
+      "573": 7153,
+      "718": 7689
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6678,
+      "404": 6679,
+      "477": 7185,
+      "573": 7185,
+      "718": 7721
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6705,
+      "404": 6706,
+      "477": 7212,
+      "573": 7212,
+      "718": 7748
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6654,
+      "404": 6655,
+      "477": 7161,
+      "573": 7161,
+      "718": 7697
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6667,
+      "404": 6668,
+      "477": 7174,
+      "573": 7174,
+      "718": 7710
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6660,
+      "404": 6661,
+      "477": 7167,
+      "573": 7167,
+      "718": 7703
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6656,
+      "404": 6657,
+      "477": 7163,
+      "573": 7163,
+      "718": 7699
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6710,
+      "404": 6711,
+      "477": 7217,
+      "573": 7217,
+      "718": 7753
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6689,
+      "404": 6690,
+      "477": 7196,
+      "573": 7196,
+      "718": 7732
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6679,
+      "404": 6680,
+      "477": 7186,
+      "573": 7186,
+      "718": 7722
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6663,
+      "404": 6664,
+      "477": 7170,
+      "573": 7170,
+      "718": 7706
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6688,
+      "404": 6689,
+      "477": 7195,
+      "573": 7195,
+      "718": 7731
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6681,
+      "404": 6682,
+      "477": 7188,
+      "573": 7188,
+      "718": 7724
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6719,
+      "404": 6720,
+      "477": 7226,
+      "573": 7226,
+      "718": 7762
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6649,
+      "404": 6650,
+      "477": 7156,
+      "573": 7156,
+      "718": 7692
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6653,
+      "404": 6654,
+      "477": 7160,
+      "573": 7160,
+      "718": 7696
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6711,
+      "404": 6712,
+      "477": 7218,
+      "573": 7218,
+      "718": 7754
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6687,
+      "404": 6688,
+      "477": 7194,
+      "573": 7194,
+      "718": 7730
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6657,
+      "404": 6658,
+      "477": 7164,
+      "573": 7164,
+      "718": 7700
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6695,
+      "404": 6696,
+      "477": 7202,
+      "573": 7202,
+      "718": 7738
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6664,
+      "404": 6665,
+      "477": 7171,
+      "573": 7171,
+      "718": 7707
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6704,
+      "404": 6705,
+      "477": 7211,
+      "573": 7211,
+      "718": 7747
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6699,
+      "404": 6700,
+      "477": 7206,
+      "573": 7206,
+      "718": 7742
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6677,
+      "404": 6678,
+      "477": 7184,
+      "573": 7184,
+      "718": 7720
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6717,
+      "404": 6718,
+      "477": 7224,
+      "573": 7224,
+      "718": 7760
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6658,
+      "404": 6659,
+      "477": 7165,
+      "573": 7165,
+      "718": 7701
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6673,
+      "404": 6674,
+      "477": 7180,
+      "573": 7180,
+      "718": 7716
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6693,
+      "404": 6694,
+      "477": 7200,
+      "573": 7200,
+      "718": 7736
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6648,
+      "404": 6649,
+      "477": 7155,
+      "573": 7155,
+      "718": 7691
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6670,
+      "404": 6671,
+      "477": 7177,
+      "573": 7177,
+      "718": 7713
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6674,
+      "404": 6675,
+      "477": 7181,
+      "573": 7181,
+      "718": 7717
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6716,
+      "404": 6717,
+      "477": 7223,
+      "573": 7223,
+      "718": 7759
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6715,
+      "404": 6716,
+      "477": 7222,
+      "573": 7222,
+      "718": 7758
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6696,
+      "404": 6697,
+      "477": 7203,
+      "573": 7203,
+      "718": 7739
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6659,
+      "404": 6660,
+      "477": 7166,
+      "573": 7166,
+      "718": 7702
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6645,
+      "404": 6646,
+      "477": 7152,
+      "573": 7152,
+      "718": 7688
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6650,
+      "404": 6651,
+      "477": 7157,
+      "573": 7157,
+      "718": 7693
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6690,
+      "404": 6691,
+      "477": 7197,
+      "573": 7197,
+      "718": 7733
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6683,
+      "404": 6684,
+      "477": 7190,
+      "573": 7190,
+      "718": 7726
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6661,
+      "404": 6662,
+      "477": 7168,
+      "573": 7168,
+      "718": 7704
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6707,
+      "404": 6708,
+      "477": 7214,
+      "573": 7214,
+      "718": 7750
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6662,
+      "404": 6663,
+      "477": 7169,
+      "573": 7169,
+      "718": 7705
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6644,
+      "404": 6645,
+      "477": 7151,
+      "573": 7151,
+      "718": 7687
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6694,
+      "404": 6695,
+      "477": 7201,
+      "573": 7201,
+      "718": 7737
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6706,
+      "404": 6707,
+      "477": 7213,
+      "573": 7213,
+      "718": 7749
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6718,
+      "404": 6719,
+      "477": 7225,
+      "573": 7225,
+      "718": 7761
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6697,
+      "404": 6698,
+      "477": 7204,
+      "573": 7204,
+      "718": 7740
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6701,
+      "404": 6702,
+      "477": 7208,
+      "573": 7208,
+      "718": 7744
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6713,
+      "404": 6714,
+      "477": 7220,
+      "573": 7220,
+      "718": 7756
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6669,
+      "404": 6670,
+      "477": 7176,
+      "573": 7176,
+      "718": 7712
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6671,
+      "404": 6672,
+      "477": 7178,
+      "573": 7178,
+      "718": 7714
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6655,
+      "404": 6656,
+      "477": 7162,
+      "573": 7162,
+      "718": 7698
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6692,
+      "404": 6693,
+      "477": 7199,
+      "573": 7199,
+      "718": 7735
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6642,
+      "404": 6643,
+      "477": 7149,
+      "573": 7149,
+      "718": 7685
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6676,
+      "404": 6677,
+      "477": 7183,
+      "573": 7183,
+      "718": 7719
+    }
+  }
+]

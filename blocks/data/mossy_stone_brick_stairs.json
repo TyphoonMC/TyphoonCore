@@ -1,0 +1,642 @@
+[
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9300,
+      "573": 9300,
+      "718": 9836
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9314,
+      "573": 9314,
+      "718": 9850
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9357,
+      "573": 9357,
+      "718": 9893
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9366,
+      "573": 9366,
+      "718": 9902
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9339,
+      "573": 9339,
+      "718": 9875
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9338,
+      "573": 9338,
+      "718": 9874
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9360,
+      "573": 9360,
+      "718": 9896
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9305,
+      "573": 9305,
+      "718": 9841
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9322,
+      "573": 9322,
+      "718": 9858
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9327,
+      "573": 9327,
+      "718": 9863
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9361,
+      "573": 9361,
+      "718": 9897
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9326,
+      "573": 9326,
+      "718": 9862
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9309,
+      "573": 9309,
+      "718": 9845
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9347,
+      "573": 9347,
+      "718": 9883
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9310,
+      "573": 9310,
+      "718": 9846
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9332,
+      "573": 9332,
+      "718": 9868
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9331,
+      "573": 9331,
+      "718": 9867
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9371,
+      "573": 9371,
+      "718": 9907
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9301,
+      "573": 9301,
+      "718": 9837
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9313,
+      "573": 9313,
+      "718": 9849
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9370,
+      "573": 9370,
+      "718": 9906
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9302,
+      "573": 9302,
+      "718": 9838
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9293,
+      "573": 9293,
+      "718": 9829
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9296,
+      "573": 9296,
+      "718": 9832
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9317,
+      "573": 9317,
+      "718": 9853
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9308,
+      "573": 9308,
+      "718": 9844
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9303,
+      "573": 9303,
+      "718": 9839
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9311,
+      "573": 9311,
+      "718": 9847
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9330,
+      "573": 9330,
+      "718": 9866
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9298,
+      "573": 9298,
+      "718": 9834
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9359,
+      "573": 9359,
+      "718": 9895
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9343,
+      "573": 9343,
+      "718": 9879
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9362,
+      "573": 9362,
+      "718": 9898
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9367,
+      "573": 9367,
+      "718": 9903
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9355,
+      "573": 9355,
+      "718": 9891
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9318,
+      "573": 9318,
+      "718": 9854
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9351,
+      "573": 9351,
+      "718": 9887
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9341,
+      "573": 9341,
+      "718": 9877
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9349,
+      "573": 9349,
+      "718": 9885
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9342,
+      "573": 9342,
+      "718": 9878
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9345,
+      "573": 9345,
+      "718": 9881
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9323,
+      "573": 9323,
+      "718": 9859
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9307,
+      "573": 9307,
+      "718": 9843
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9306,
+      "573": 9306,
+      "718": 9842
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9320,
+      "573": 9320,
+      "718": 9856
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9299,
+      "573": 9299,
+      "718": 9835
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9315,
+      "573": 9315,
+      "718": 9851
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9350,
+      "573": 9350,
+      "718": 9886
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9353,
+      "573": 9353,
+      "718": 9889
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9340,
+      "573": 9340,
+      "718": 9876
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9363,
+      "573": 9363,
+      "718": 9899
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9337,
+      "573": 9337,
+      "718": 9873
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9328,
+      "573": 9328,
+      "718": 9864
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9294,
+      "573": 9294,
+      "718": 9830
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9354,
+      "573": 9354,
+      "718": 9890
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9369,
+      "573": 9369,
+      "718": 9905
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9297,
+      "573": 9297,
+      "718": 9833
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9334,
+      "573": 9334,
+      "718": 9870
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9316,
+      "573": 9316,
+      "718": 9852
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9365,
+      "573": 9365,
+      "718": 9901
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9346,
+      "573": 9346,
+      "718": 9882
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9356,
+      "573": 9356,
+      "718": 9892
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9321,
+      "573": 9321,
+      "718": 9857
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9312,
+      "573": 9312,
+      "718": 9848
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9336,
+      "573": 9336,
+      "718": 9872
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9329,
+      "573": 9329,
+      "718": 9865
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9348,
+      "573": 9348,
+      "718": 9884
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9333,
+      "573": 9333,
+      "718": 9869
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9358,
+      "573": 9358,
+      "718": 9894
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9352,
+      "573": 9352,
+      "718": 9888
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9304,
+      "573": 9304,
+      "718": 9840
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9325,
+      "573": 9325,
+      "718": 9861
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9344,
+      "573": 9344,
+      "718": 9880
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9364,
+      "573": 9364,
+      "718": 9900
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9372,
+      "573": 9372,
+      "718": 9908
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9324,
+      "573": 9324,
+      "718": 9860
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9368,
+      "573": 9368,
+      "718": 9904
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9335,
+      "573": 9335,
+      "718": 9871
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9295,
+      "573": 9295,
+      "718": 9831
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9319,
+      "573": 9319,
+      "718": 9855
+    }
+  }
+]

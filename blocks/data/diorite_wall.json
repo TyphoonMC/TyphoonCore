@@ -1,0 +1,2394 @@
+[
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11080,
+      "573": 11080
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14634
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14723
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14743
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14691
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14574
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14447
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14431
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14616
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14519
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14602
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11092,
+      "573": 11092
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14624
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14749
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14613
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14722
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14582
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14442
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14610
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14706
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11075,
+      "573": 11075
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14748
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11059,
+      "573": 11059
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14471
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14721
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14693
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14558
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14675
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14469
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11087,
+      "573": 11087
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14438
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14679
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14715
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14528
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11061,
+      "573": 11061
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14454
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14575
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14524
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14615
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14640
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14630
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11079,
+      "573": 11079
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14441
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14466
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11056,
+      "573": 11056
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14644
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11083,
+      "573": 11083
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11091,
+      "573": 11091
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14446
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14673
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14517
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11037,
+      "573": 11037
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14445
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11064,
+      "573": 11064
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14694
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14717
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14665
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14491
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14594
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14596
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14712
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14577
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14643
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14465
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14541
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14737
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11048,
+      "573": 11048
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14559
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14698
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14645
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14518
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14556
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11070,
+      "573": 11070
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14655
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14710
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14713
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11050,
+      "573": 11050
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14754
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14609
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14480
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14536
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14660
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14530
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14460
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14520
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14623
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14434
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14726
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14508
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14461
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14671
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14601
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14633
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14685
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11096,
+      "573": 11096
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14667
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14534
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14567
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14626
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14437
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14656
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14516
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14482
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14641
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14638
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11084,
+      "573": 11084
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14739
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14599
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14741
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14620
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14625
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14448
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14718
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14639
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14669
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14707
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14612
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14580
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11045,
+      "573": 11045
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14576
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14501
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14683
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11062,
+      "573": 11062
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14544
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14504
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14684
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14677
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14650
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11082,
+      "573": 11082
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14499
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14478
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11065,
+      "573": 11065
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14676
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14724
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14735
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11098,
+      "573": 11098
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14547
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14709
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14592
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11044,
+      "573": 11044
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14529
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14440
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14489
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11074,
+      "573": 11074
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14746
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14653
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14618
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11035,
+      "573": 11035
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14663
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14570
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14468
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14590
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14579
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14642
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14562
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14572
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14606
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14496
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14503
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14531
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14647
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11094,
+      "573": 11094
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14549
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14515
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14443
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14670
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14603
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14564
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14432
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14463
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11086,
+      "573": 11086
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14682
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14548
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14560
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14666
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14738
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14467
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14494
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14497
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14678
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14657
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14651
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14672
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14681
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14545
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14627
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14527
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14507
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14557
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14585
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11073,
+      "573": 11073
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11047,
+      "573": 11047
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14542
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11036,
+      "573": 11036
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14439
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11042,
+      "573": 11042
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14740
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14539
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14705
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14514
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14587
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14493
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11090,
+      "573": 11090
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14505
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14728
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14649
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14604
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11076,
+      "573": 11076
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14502
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14532
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14495
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14458
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14566
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14569
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11085,
+      "573": 11085
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14690
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11051,
+      "573": 11051
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14455
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14436
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14533
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14506
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14703
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14593
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14488
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14555
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14481
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14583
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14752
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11089,
+      "573": 11089
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14636
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14695
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14538
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11038,
+      "573": 11038
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14664
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14595
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14622
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14453
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14700
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14716
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14611
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14521
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14554
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14732
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14598
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14586
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14697
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14470
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14658
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11046,
+      "573": 11046
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14509
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14473
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14451
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14479
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14734
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14563
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14464
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14744
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14662
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14513
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14571
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14646
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14708
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14457
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14552
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14702
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14692
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11078,
+      "573": 11078
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11052,
+      "573": 11052
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14584
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14487
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14472
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14661
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14452
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11049,
+      "573": 11049
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14654
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14733
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14635
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14526
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14459
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11095,
+      "573": 11095
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14727
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14474
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11068,
+      "573": 11068
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14510
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14711
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14573
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14736
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11081,
+      "573": 11081
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14589
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14568
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14477
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14492
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14750
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14751
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14486
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14523
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11093,
+      "573": 11093
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14578
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11058,
+      "573": 11058
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14605
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11097,
+      "573": 11097
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14490
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11060,
+      "573": 11060
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14600
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14525
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11053,
+      "573": 11053
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14546
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14628
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14475
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14484
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11069,
+      "573": 11069
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14449
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11057,
+      "573": 11057
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14540
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14629
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14537
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14588
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14696
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14462
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14731
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14680
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14637
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14550
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14648
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14553
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11072,
+      "573": 11072
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14483
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14753
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14614
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11041,
+      "573": 11041
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14617
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14485
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14659
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14714
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14608
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14704
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 11077,
+      "573": 11077
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11043,
+      "573": 11043
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14668
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11067,
+      "573": 11067
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14565
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11063,
+      "573": 11063
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14522
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11088,
+      "573": 11088
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14450
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14535
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11071,
+      "573": 11071
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14745
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14689
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14742
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14511
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14687
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14631
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14433
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14699
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14456
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14551
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14512
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11054,
+      "573": 11054
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 11040,
+      "573": 11040
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11055,
+      "573": 11055
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14686
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14500
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14730
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14607
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14597
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14444
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14435
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14729
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14632
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14747
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14719
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 11039,
+      "573": 11039
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14652
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 11066,
+      "573": 11066
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14476
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14561
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 14619
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14498
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 14674
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14725
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14581
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 14688
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14591
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 14701
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 14720
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14543
+    }
+  },
+  {
+    "name": "minecraft:diorite_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 14621
+    }
+  }
+]

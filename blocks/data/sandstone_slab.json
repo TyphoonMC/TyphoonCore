@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:sandstone_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7304,
+      "4": 689,
+      "404": 7305,
+      "477": 7817,
+      "573": 7817,
+      "718": 8353
+    }
+  },
+  {
+    "name": "minecraft:sandstone_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7302,
+      "4": 705,
+      "404": 7303,
+      "477": 7815,
+      "573": 7815,
+      "718": 8351
+    }
+  },
+  {
+    "name": "minecraft:sandstone_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7301,
+      "404": 7302,
+      "477": 7814,
+      "573": 7814,
+      "718": 8350
+    }
+  },
+  {
+    "name": "minecraft:sandstone_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7300,
+      "4": 713,
+      "404": 7301,
+      "477": 7813,
+      "573": 7813,
+      "718": 8349
+    }
+  },
+  {
+    "name": "minecraft:sandstone_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7299,
+      "404": 7300,
+      "477": 7812,
+      "573": 7812,
+      "718": 8348
+    }
+  },
+  {
+    "name": "minecraft:sandstone_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7303,
+      "404": 7304,
+      "477": 7816,
+      "573": 7816,
+      "718": 8352
+    }
+  }
+]

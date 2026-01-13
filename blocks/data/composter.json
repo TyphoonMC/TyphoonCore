@@ -1,0 +1,74 @@
+[
+  {
+    "name": "minecraft:composter[level=4]",
+    "ids": {
+      "477": 11266,
+      "573": 11282,
+      "718": 15755
+    }
+  },
+  {
+    "name": "minecraft:composter[level=0]",
+    "ids": {
+      "477": 11262,
+      "573": 11278,
+      "718": 15751
+    }
+  },
+  {
+    "name": "minecraft:composter[level=7]",
+    "ids": {
+      "477": 11269,
+      "573": 11285,
+      "718": 15758
+    }
+  },
+  {
+    "name": "minecraft:composter[level=5]",
+    "ids": {
+      "477": 11267,
+      "573": 11283,
+      "718": 15756
+    }
+  },
+  {
+    "name": "minecraft:composter[level=2]",
+    "ids": {
+      "477": 11264,
+      "573": 11280,
+      "718": 15753
+    }
+  },
+  {
+    "name": "minecraft:composter[level=3]",
+    "ids": {
+      "477": 11265,
+      "573": 11281,
+      "718": 15754
+    }
+  },
+  {
+    "name": "minecraft:composter[level=6]",
+    "ids": {
+      "477": 11268,
+      "573": 11284,
+      "718": 15757
+    }
+  },
+  {
+    "name": "minecraft:composter[level=1]",
+    "ids": {
+      "477": 11263,
+      "573": 11279,
+      "718": 15752
+    }
+  },
+  {
+    "name": "minecraft:composter[level=8]",
+    "ids": {
+      "477": 11270,
+      "573": 11286,
+      "718": 15759
+    }
+  }
+]

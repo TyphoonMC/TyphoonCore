@@ -1,0 +1,386 @@
+[
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15199
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15229
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15254
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15207
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15251
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15252
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15241
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15235
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15238
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15195
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15201
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15205
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15204
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15202
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15217
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15236
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15215
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15225
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15218
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15220
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15239
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15213
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15243
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15234
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15223
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15193
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15208
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15231
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15244
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15219
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15197
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15224
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15248
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15206
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15194
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15228
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15232
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15240
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15233
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15203
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15221
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15210
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15249
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15250
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15227
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15214
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15247
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15200
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15230
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15211
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15253
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15226
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15222
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15237
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15191
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15216
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15242
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15246
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15212
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15209
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15245
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15198
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15196
+    }
+  },
+  {
+    "name": "minecraft:warped_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15192
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:horn_coral_fan[waterlogged=false]",
+    "ids": {
+      "393": 8563,
+      "404": 8579,
+      "477": 9023,
+      "573": 9023,
+      "718": 9559
+    }
+  },
+  {
+    "name": "minecraft:horn_coral_fan[waterlogged=true]",
+    "ids": {
+      "393": 8562,
+      "404": 8578,
+      "477": 9022,
+      "573": 9022,
+      "718": 9558
+    }
+  }
+]

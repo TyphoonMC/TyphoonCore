@@ -1,0 +1,14 @@
+[
+  {
+    "name": "minecraft:chain[waterlogged=true]",
+    "ids": {
+      "718": 4729
+    }
+  },
+  {
+    "name": "minecraft:chain[waterlogged=false]",
+    "ids": {
+      "718": 4730
+    }
+  }
+]

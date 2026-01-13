@@ -1,0 +1,56 @@
+[
+  {
+    "name": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "404": 7297,
+      "477": 7809,
+      "573": 7809,
+      "718": 8345
+    }
+  },
+  {
+    "name": "minecraft:smooth_stone_slab[type=top,waterlogged=true]",
+    "ids": {
+      "404": 7294,
+      "477": 7806,
+      "573": 7806,
+      "718": 8342
+    }
+  },
+  {
+    "name": "minecraft:smooth_stone_slab[type=double,waterlogged=false]",
+    "ids": {
+      "404": 7299,
+      "477": 7811,
+      "573": 7811,
+      "718": 8347
+    }
+  },
+  {
+    "name": "minecraft:smooth_stone_slab[type=double,waterlogged=true]",
+    "ids": {
+      "404": 7298,
+      "477": 7810,
+      "573": 7810,
+      "718": 8346
+    }
+  },
+  {
+    "name": "minecraft:smooth_stone_slab[type=top,waterlogged=false]",
+    "ids": {
+      "404": 7295,
+      "477": 7807,
+      "573": 7807,
+      "718": 8343
+    }
+  },
+  {
+    "name": "minecraft:smooth_stone_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "404": 7296,
+      "477": 7808,
+      "573": 7808,
+      "718": 8344
+    }
+  }
+]

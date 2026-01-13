@@ -1,0 +1,82 @@
+[
+  {
+    "name": "minecraft:horn_coral_wall_fan[facing=south,waterlogged=true]",
+    "ids": {
+      "393": 8538,
+      "404": 8554,
+      "477": 9098,
+      "573": 9098,
+      "718": 9634
+    }
+  },
+  {
+    "name": "minecraft:horn_coral_wall_fan[facing=south,waterlogged=false]",
+    "ids": {
+      "393": 8539,
+      "404": 8555,
+      "477": 9099,
+      "573": 9099,
+      "718": 9635
+    }
+  },
+  {
+    "name": "minecraft:horn_coral_wall_fan[facing=north,waterlogged=false]",
+    "ids": {
+      "393": 8537,
+      "404": 8553,
+      "477": 9097,
+      "573": 9097,
+      "718": 9633
+    }
+  },
+  {
+    "name": "minecraft:horn_coral_wall_fan[facing=west,waterlogged=false]",
+    "ids": {
+      "393": 8541,
+      "404": 8557,
+      "477": 9101,
+      "573": 9101,
+      "718": 9637
+    }
+  },
+  {
+    "name": "minecraft:horn_coral_wall_fan[facing=north,waterlogged=true]",
+    "ids": {
+      "393": 8536,
+      "404": 8552,
+      "477": 9096,
+      "573": 9096,
+      "718": 9632
+    }
+  },
+  {
+    "name": "minecraft:horn_coral_wall_fan[facing=east,waterlogged=false]",
+    "ids": {
+      "393": 8543,
+      "404": 8559,
+      "477": 9103,
+      "573": 9103,
+      "718": 9639
+    }
+  },
+  {
+    "name": "minecraft:horn_coral_wall_fan[facing=east,waterlogged=true]",
+    "ids": {
+      "393": 8542,
+      "404": 8558,
+      "477": 9102,
+      "573": 9102,
+      "718": 9638
+    }
+  },
+  {
+    "name": "minecraft:horn_coral_wall_fan[facing=west,waterlogged=true]",
+    "ids": {
+      "393": 8540,
+      "404": 8556,
+      "477": 9100,
+      "573": 9100,
+      "718": 9636
+    }
+  }
+]

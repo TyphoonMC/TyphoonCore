@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:lime_wall_banner[facing=south]",
+    "ids": {
+      "393": 7131,
+      "404": 7132,
+      "477": 7638,
+      "573": 7638,
+      "718": 8174
+    }
+  },
+  {
+    "name": "minecraft:lime_wall_banner[facing=west]",
+    "ids": {
+      "393": 7132,
+      "404": 7133,
+      "477": 7639,
+      "573": 7639,
+      "718": 8175
+    }
+  },
+  {
+    "name": "minecraft:lime_wall_banner[facing=east]",
+    "ids": {
+      "393": 7133,
+      "404": 7134,
+      "477": 7640,
+      "573": 7640,
+      "718": 8176
+    }
+  },
+  {
+    "name": "minecraft:lime_wall_banner[facing=north]",
+    "ids": {
+      "393": 7130,
+      "404": 7131,
+      "477": 7637,
+      "573": 7637,
+      "718": 8173
+    }
+  }
+]

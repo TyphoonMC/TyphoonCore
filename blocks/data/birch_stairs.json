@@ -1,0 +1,810 @@
+[
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5035,
+      "4": 2160,
+      "404": 5036,
+      "477": 5539,
+      "573": 5539,
+      "718": 5555
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4980,
+      "404": 4981,
+      "477": 5484,
+      "573": 5484,
+      "718": 5500
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4971,
+      "404": 4972,
+      "477": 5475,
+      "573": 5475,
+      "718": 5491
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5022,
+      "404": 5023,
+      "477": 5526,
+      "573": 5526,
+      "718": 5542
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4984,
+      "404": 4985,
+      "477": 5488,
+      "573": 5488,
+      "718": 5504
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5001,
+      "404": 5002,
+      "477": 5505,
+      "573": 5505,
+      "718": 5521
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4993,
+      "404": 4994,
+      "477": 5497,
+      "573": 5497,
+      "718": 5513
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4973,
+      "404": 4974,
+      "477": 5477,
+      "573": 5477,
+      "718": 5493
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4995,
+      "4": 2162,
+      "404": 4996,
+      "477": 5499,
+      "573": 5499,
+      "718": 5515
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5006,
+      "404": 5007,
+      "477": 5510,
+      "573": 5510,
+      "718": 5526
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5034,
+      "404": 5035,
+      "477": 5538,
+      "573": 5538,
+      "718": 5554
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5012,
+      "404": 5013,
+      "477": 5516,
+      "573": 5516,
+      "718": 5532
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5015,
+      "4": 2161,
+      "404": 5016,
+      "477": 5519,
+      "573": 5519,
+      "718": 5535
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5038,
+      "404": 5039,
+      "477": 5542,
+      "573": 5542,
+      "718": 5558
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5037,
+      "404": 5038,
+      "477": 5541,
+      "573": 5541,
+      "718": 5557
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4982,
+      "404": 4983,
+      "477": 5486,
+      "573": 5486,
+      "718": 5502
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5031,
+      "404": 5032,
+      "477": 5535,
+      "573": 5535,
+      "718": 5551
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4970,
+      "404": 4971,
+      "477": 5474,
+      "573": 5474,
+      "718": 5490
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5020,
+      "404": 5021,
+      "477": 5524,
+      "573": 5524,
+      "718": 5540
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5010,
+      "404": 5011,
+      "477": 5514,
+      "573": 5514,
+      "718": 5530
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5029,
+      "404": 5030,
+      "477": 5533,
+      "573": 5533,
+      "718": 5549
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5025,
+      "4": 2164,
+      "404": 5026,
+      "477": 5529,
+      "573": 5529,
+      "718": 5545
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5005,
+      "4": 2165,
+      "404": 5006,
+      "477": 5509,
+      "573": 5509,
+      "718": 5525
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5036,
+      "404": 5037,
+      "477": 5540,
+      "573": 5540,
+      "718": 5556
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5008,
+      "404": 5009,
+      "477": 5512,
+      "573": 5512,
+      "718": 5528
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4978,
+      "404": 4979,
+      "477": 5482,
+      "573": 5482,
+      "718": 5498
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4998,
+      "404": 4999,
+      "477": 5502,
+      "573": 5502,
+      "718": 5518
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4996,
+      "404": 4997,
+      "477": 5500,
+      "573": 5500,
+      "718": 5516
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5007,
+      "404": 5008,
+      "477": 5511,
+      "573": 5511,
+      "718": 5527
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4983,
+      "404": 4984,
+      "477": 5487,
+      "573": 5487,
+      "718": 5503
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5033,
+      "404": 5034,
+      "477": 5537,
+      "573": 5537,
+      "718": 5553
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5016,
+      "404": 5017,
+      "477": 5520,
+      "573": 5520,
+      "718": 5536
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5002,
+      "404": 5003,
+      "477": 5506,
+      "573": 5506,
+      "718": 5522
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5040,
+      "404": 5041,
+      "477": 5544,
+      "573": 5544,
+      "718": 5560
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5017,
+      "404": 5018,
+      "477": 5521,
+      "573": 5521,
+      "718": 5537
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5018,
+      "404": 5019,
+      "477": 5522,
+      "573": 5522,
+      "718": 5538
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4966,
+      "404": 4967,
+      "477": 5470,
+      "573": 5470,
+      "718": 5486
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5014,
+      "404": 5015,
+      "477": 5518,
+      "573": 5518,
+      "718": 5534
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4972,
+      "404": 4973,
+      "477": 5476,
+      "573": 5476,
+      "718": 5492
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4976,
+      "404": 4977,
+      "477": 5480,
+      "573": 5480,
+      "718": 5496
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4981,
+      "404": 4982,
+      "477": 5485,
+      "573": 5485,
+      "718": 5501
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4979,
+      "404": 4980,
+      "477": 5483,
+      "573": 5483,
+      "718": 5499
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4992,
+      "404": 4993,
+      "477": 5496,
+      "573": 5496,
+      "718": 5512
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4975,
+      "4": 2163,
+      "404": 4976,
+      "477": 5479,
+      "573": 5479,
+      "718": 5495
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5039,
+      "404": 5040,
+      "477": 5543,
+      "573": 5543,
+      "718": 5559
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5042,
+      "404": 5043,
+      "477": 5546,
+      "573": 5546,
+      "718": 5562
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4999,
+      "404": 5000,
+      "477": 5503,
+      "573": 5503,
+      "718": 5519
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4974,
+      "404": 4975,
+      "477": 5478,
+      "573": 5478,
+      "718": 5494
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4990,
+      "404": 4991,
+      "477": 5494,
+      "573": 5494,
+      "718": 5510
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5043,
+      "404": 5044,
+      "477": 5547,
+      "573": 5547,
+      "718": 5563
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5032,
+      "404": 5033,
+      "477": 5536,
+      "573": 5536,
+      "718": 5552
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5004,
+      "404": 5005,
+      "477": 5508,
+      "573": 5508,
+      "718": 5524
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4988,
+      "404": 4989,
+      "477": 5492,
+      "573": 5492,
+      "718": 5508
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5013,
+      "404": 5014,
+      "477": 5517,
+      "573": 5517,
+      "718": 5533
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4969,
+      "404": 4970,
+      "477": 5473,
+      "573": 5473,
+      "718": 5489
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4989,
+      "404": 4990,
+      "477": 5493,
+      "573": 5493,
+      "718": 5509
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5011,
+      "404": 5012,
+      "477": 5515,
+      "573": 5515,
+      "718": 5531
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5028,
+      "404": 5029,
+      "477": 5532,
+      "573": 5532,
+      "718": 5548
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5041,
+      "404": 5042,
+      "477": 5545,
+      "573": 5545,
+      "718": 5561
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5003,
+      "404": 5004,
+      "477": 5507,
+      "573": 5507,
+      "718": 5523
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4977,
+      "404": 4978,
+      "477": 5481,
+      "573": 5481,
+      "718": 5497
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4994,
+      "404": 4995,
+      "477": 5498,
+      "573": 5498,
+      "718": 5514
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4968,
+      "404": 4969,
+      "477": 5472,
+      "573": 5472,
+      "718": 5488
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5030,
+      "404": 5031,
+      "477": 5534,
+      "573": 5534,
+      "718": 5550
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5027,
+      "404": 5028,
+      "477": 5531,
+      "573": 5531,
+      "718": 5547
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4997,
+      "404": 4998,
+      "477": 5501,
+      "573": 5501,
+      "718": 5517
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4985,
+      "4": 2166,
+      "404": 4986,
+      "477": 5489,
+      "573": 5489,
+      "718": 5505
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5021,
+      "404": 5022,
+      "477": 5525,
+      "573": 5525,
+      "718": 5541
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5023,
+      "404": 5024,
+      "477": 5527,
+      "573": 5527,
+      "718": 5543
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4967,
+      "404": 4968,
+      "477": 5471,
+      "573": 5471,
+      "718": 5487
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4986,
+      "404": 4987,
+      "477": 5490,
+      "573": 5490,
+      "718": 5506
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5009,
+      "404": 5010,
+      "477": 5513,
+      "573": 5513,
+      "718": 5529
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4964,
+      "404": 4965,
+      "477": 5468,
+      "573": 5468,
+      "718": 5484
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5019,
+      "404": 5020,
+      "477": 5523,
+      "573": 5523,
+      "718": 5539
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4987,
+      "404": 4988,
+      "477": 5491,
+      "573": 5491,
+      "718": 5507
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5000,
+      "404": 5001,
+      "477": 5504,
+      "573": 5504,
+      "718": 5520
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4991,
+      "404": 4992,
+      "477": 5495,
+      "573": 5495,
+      "718": 5511
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4965,
+      "4": 2167,
+      "404": 4966,
+      "477": 5469,
+      "573": 5469,
+      "718": 5485
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5024,
+      "404": 5025,
+      "477": 5528,
+      "573": 5528,
+      "718": 5544
+    }
+  },
+  {
+    "name": "minecraft:birch_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5026,
+      "404": 5027,
+      "477": 5530,
+      "573": 5530,
+      "718": 5546
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "minecraft:birch_button[face=floor,facing=north,powered=false]",
+    "ids": {
+      "393": 5352,
+      "404": 5353,
+      "477": 5859,
+      "573": 5859,
+      "718": 6395
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=floor,facing=north,powered=true]",
+    "ids": {
+      "393": 5351,
+      "404": 5352,
+      "477": 5858,
+      "573": 5858,
+      "718": 6394
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=wall,facing=north,powered=true]",
+    "ids": {
+      "393": 5359,
+      "404": 5360,
+      "477": 5866,
+      "573": 5866,
+      "718": 6402
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=floor,facing=west,powered=true]",
+    "ids": {
+      "393": 5355,
+      "404": 5356,
+      "477": 5862,
+      "573": 5862,
+      "718": 6398
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=wall,facing=north,powered=false]",
+    "ids": {
+      "393": 5360,
+      "404": 5361,
+      "477": 5867,
+      "573": 5867,
+      "718": 6403
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=wall,facing=south,powered=true]",
+    "ids": {
+      "393": 5361,
+      "404": 5362,
+      "477": 5868,
+      "573": 5868,
+      "718": 6404
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=ceiling,facing=west,powered=true]",
+    "ids": {
+      "393": 5371,
+      "404": 5372,
+      "477": 5878,
+      "573": 5878,
+      "718": 6414
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=wall,facing=west,powered=true]",
+    "ids": {
+      "393": 5363,
+      "404": 5364,
+      "477": 5870,
+      "573": 5870,
+      "718": 6406
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=ceiling,facing=east,powered=false]",
+    "ids": {
+      "393": 5374,
+      "404": 5375,
+      "477": 5881,
+      "573": 5881,
+      "718": 6417
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=ceiling,facing=west,powered=false]",
+    "ids": {
+      "393": 5372,
+      "404": 5373,
+      "477": 5879,
+      "573": 5879,
+      "718": 6415
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=ceiling,facing=south,powered=true]",
+    "ids": {
+      "393": 5369,
+      "404": 5370,
+      "477": 5876,
+      "573": 5876,
+      "718": 6412
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=ceiling,facing=north,powered=false]",
+    "ids": {
+      "393": 5368,
+      "404": 5369,
+      "477": 5875,
+      "573": 5875,
+      "718": 6411
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=ceiling,facing=south,powered=false]",
+    "ids": {
+      "393": 5370,
+      "404": 5371,
+      "477": 5877,
+      "573": 5877,
+      "718": 6413
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=ceiling,facing=north,powered=true]",
+    "ids": {
+      "393": 5367,
+      "404": 5368,
+      "477": 5874,
+      "573": 5874,
+      "718": 6410
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=wall,facing=east,powered=false]",
+    "ids": {
+      "393": 5366,
+      "404": 5367,
+      "477": 5873,
+      "573": 5873,
+      "718": 6409
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=wall,facing=west,powered=false]",
+    "ids": {
+      "393": 5364,
+      "404": 5365,
+      "477": 5871,
+      "573": 5871,
+      "718": 6407
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=floor,facing=south,powered=false]",
+    "ids": {
+      "393": 5354,
+      "404": 5355,
+      "477": 5861,
+      "573": 5861,
+      "718": 6397
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=floor,facing=south,powered=true]",
+    "ids": {
+      "393": 5353,
+      "404": 5354,
+      "477": 5860,
+      "573": 5860,
+      "718": 6396
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=floor,facing=east,powered=true]",
+    "ids": {
+      "393": 5357,
+      "404": 5358,
+      "477": 5864,
+      "573": 5864,
+      "718": 6400
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=ceiling,facing=east,powered=true]",
+    "ids": {
+      "393": 5373,
+      "404": 5374,
+      "477": 5880,
+      "573": 5880,
+      "718": 6416
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=wall,facing=south,powered=false]",
+    "ids": {
+      "393": 5362,
+      "404": 5363,
+      "477": 5869,
+      "573": 5869,
+      "718": 6405
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=floor,facing=east,powered=false]",
+    "ids": {
+      "393": 5358,
+      "404": 5359,
+      "477": 5865,
+      "573": 5865,
+      "718": 6401
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=wall,facing=east,powered=true]",
+    "ids": {
+      "393": 5365,
+      "404": 5366,
+      "477": 5872,
+      "573": 5872,
+      "718": 6408
+    }
+  },
+  {
+    "name": "minecraft:birch_button[face=floor,facing=west,powered=false]",
+    "ids": {
+      "393": 5356,
+      "404": 5357,
+      "477": 5863,
+      "573": 5863,
+      "718": 6399
+    }
+  }
+]

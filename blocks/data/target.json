@@ -1,0 +1,98 @@
+[
+  {
+    "name": "minecraft:target[power=11]",
+    "ids": {
+      "718": 15771
+    }
+  },
+  {
+    "name": "minecraft:target[power=4]",
+    "ids": {
+      "718": 15764
+    }
+  },
+  {
+    "name": "minecraft:target[power=1]",
+    "ids": {
+      "718": 15761
+    }
+  },
+  {
+    "name": "minecraft:target[power=10]",
+    "ids": {
+      "718": 15770
+    }
+  },
+  {
+    "name": "minecraft:target[power=12]",
+    "ids": {
+      "718": 15772
+    }
+  },
+  {
+    "name": "minecraft:target[power=13]",
+    "ids": {
+      "718": 15773
+    }
+  },
+  {
+    "name": "minecraft:target[power=2]",
+    "ids": {
+      "718": 15762
+    }
+  },
+  {
+    "name": "minecraft:target[power=15]",
+    "ids": {
+      "718": 15775
+    }
+  },
+  {
+    "name": "minecraft:target[power=3]",
+    "ids": {
+      "718": 15763
+    }
+  },
+  {
+    "name": "minecraft:target[power=0]",
+    "ids": {
+      "718": 15760
+    }
+  },
+  {
+    "name": "minecraft:target[power=7]",
+    "ids": {
+      "718": 15767
+    }
+  },
+  {
+    "name": "minecraft:target[power=6]",
+    "ids": {
+      "718": 15766
+    }
+  },
+  {
+    "name": "minecraft:target[power=14]",
+    "ids": {
+      "718": 15774
+    }
+  },
+  {
+    "name": "minecraft:target[power=5]",
+    "ids": {
+      "718": 15765
+    }
+  },
+  {
+    "name": "minecraft:target[power=9]",
+    "ids": {
+      "718": 15769
+    }
+  },
+  {
+    "name": "minecraft:target[power=8]",
+    "ids": {
+      "718": 15768
+    }
+  }
+]

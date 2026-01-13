@@ -1,0 +1,654 @@
+[
+  {
+    "name": "minecraft:spruce_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7740,
+      "4": 3088,
+      "404": 7741,
+      "477": 8265,
+      "573": 8265,
+      "718": 8801
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7686,
+      "404": 7687,
+      "477": 8211,
+      "573": 8211,
+      "718": 8747
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7728,
+      "4": 3096,
+      "404": 7729,
+      "477": 8253,
+      "573": 8253,
+      "718": 8789
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7731,
+      "4": 3099,
+      "404": 7732,
+      "477": 8256,
+      "573": 8256,
+      "718": 8792
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7708,
+      "4": 3089,
+      "404": 7709,
+      "477": 8233,
+      "573": 8233,
+      "718": 8769
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7717,
+      "404": 7718,
+      "477": 8242,
+      "573": 8242,
+      "718": 8778
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7688,
+      "404": 7689,
+      "477": 8213,
+      "573": 8213,
+      "718": 8749
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7701,
+      "404": 7702,
+      "477": 8226,
+      "573": 8226,
+      "718": 8762
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7687,
+      "404": 7688,
+      "477": 8212,
+      "573": 8212,
+      "718": 8748
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7682,
+      "404": 7683,
+      "477": 8207,
+      "573": 8207,
+      "718": 8743
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7734,
+      "404": 7735,
+      "477": 8259,
+      "573": 8259,
+      "718": 8795
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7698,
+      "404": 7699,
+      "477": 8223,
+      "573": 8223,
+      "718": 8759
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7739,
+      "404": 7740,
+      "477": 8264,
+      "573": 8264,
+      "718": 8800
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7736,
+      "404": 7737,
+      "477": 8261,
+      "573": 8261,
+      "718": 8797
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7704,
+      "404": 7705,
+      "477": 8229,
+      "573": 8229,
+      "718": 8765
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7697,
+      "404": 7698,
+      "477": 8222,
+      "573": 8222,
+      "718": 8758
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7678,
+      "404": 7679,
+      "477": 8203,
+      "573": 8203,
+      "718": 8739
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7713,
+      "404": 7714,
+      "477": 8238,
+      "573": 8238,
+      "718": 8774
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7725,
+      "404": 7726,
+      "477": 8250,
+      "573": 8250,
+      "718": 8786
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7684,
+      "404": 7685,
+      "477": 8209,
+      "573": 8209,
+      "718": 8745
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7719,
+      "404": 7720,
+      "477": 8244,
+      "573": 8244,
+      "718": 8780
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7712,
+      "404": 7713,
+      "477": 8237,
+      "573": 8237,
+      "718": 8773
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7715,
+      "404": 7716,
+      "477": 8240,
+      "573": 8240,
+      "718": 8776
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7732,
+      "4": 3097,
+      "404": 7733,
+      "477": 8257,
+      "573": 8257,
+      "718": 8793
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7711,
+      "404": 7712,
+      "477": 8236,
+      "573": 8236,
+      "718": 8772
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7733,
+      "404": 7734,
+      "477": 8258,
+      "573": 8258,
+      "718": 8794
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7702,
+      "404": 7703,
+      "477": 8227,
+      "573": 8227,
+      "718": 8763
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7730,
+      "404": 7731,
+      "477": 8255,
+      "573": 8255,
+      "718": 8791
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7721,
+      "404": 7722,
+      "477": 8246,
+      "573": 8246,
+      "718": 8782
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7722,
+      "4": 3094,
+      "404": 7723,
+      "477": 8247,
+      "573": 8247,
+      "718": 8783
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7689,
+      "404": 7690,
+      "477": 8214,
+      "573": 8214,
+      "718": 8750
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7685,
+      "404": 7686,
+      "477": 8210,
+      "573": 8210,
+      "718": 8746
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7700,
+      "404": 7701,
+      "477": 8225,
+      "573": 8225,
+      "718": 8761
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7726,
+      "404": 7727,
+      "477": 8251,
+      "573": 8251,
+      "718": 8787
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7690,
+      "4": 3095,
+      "404": 7691,
+      "477": 8215,
+      "573": 8215,
+      "718": 8751
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7680,
+      "404": 7681,
+      "477": 8205,
+      "573": 8205,
+      "718": 8741
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7696,
+      "404": 7697,
+      "477": 8221,
+      "573": 8221,
+      "718": 8757
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7724,
+      "4": 3090,
+      "404": 7725,
+      "477": 8249,
+      "573": 8249,
+      "718": 8785
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7695,
+      "404": 7696,
+      "477": 8220,
+      "573": 8220,
+      "718": 8756
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7706,
+      "4": 3093,
+      "404": 7707,
+      "477": 8231,
+      "573": 8231,
+      "718": 8767
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7694,
+      "404": 7695,
+      "477": 8219,
+      "573": 8219,
+      "718": 8755
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7699,
+      "404": 7700,
+      "477": 8224,
+      "573": 8224,
+      "718": 8760
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7709,
+      "404": 7710,
+      "477": 8234,
+      "573": 8234,
+      "718": 8770
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7683,
+      "404": 7684,
+      "477": 8208,
+      "573": 8208,
+      "718": 8744
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7718,
+      "404": 7719,
+      "477": 8243,
+      "573": 8243,
+      "718": 8779
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7714,
+      "404": 7715,
+      "477": 8239,
+      "573": 8239,
+      "718": 8775
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7735,
+      "404": 7736,
+      "477": 8260,
+      "573": 8260,
+      "718": 8796
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7681,
+      "404": 7682,
+      "477": 8206,
+      "573": 8206,
+      "718": 8742
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7692,
+      "4": 3091,
+      "404": 7693,
+      "477": 8217,
+      "573": 8217,
+      "718": 8753
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7738,
+      "4": 3092,
+      "404": 7739,
+      "477": 8263,
+      "573": 8263,
+      "718": 8799
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7729,
+      "404": 7730,
+      "477": 8254,
+      "573": 8254,
+      "718": 8790
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7693,
+      "404": 7694,
+      "477": 8218,
+      "573": 8218,
+      "718": 8754
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7703,
+      "404": 7704,
+      "477": 8228,
+      "573": 8228,
+      "718": 8764
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7737,
+      "404": 7738,
+      "477": 8262,
+      "573": 8262,
+      "718": 8798
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7723,
+      "404": 7724,
+      "477": 8248,
+      "573": 8248,
+      "718": 8784
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7720,
+      "404": 7721,
+      "477": 8245,
+      "573": 8245,
+      "718": 8781
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7679,
+      "404": 7680,
+      "477": 8204,
+      "573": 8204,
+      "718": 8740
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7677,
+      "404": 7678,
+      "477": 8202,
+      "573": 8202,
+      "718": 8738
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7727,
+      "4": 3098,
+      "404": 7728,
+      "477": 8252,
+      "573": 8252,
+      "718": 8788
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7716,
+      "404": 7717,
+      "477": 8241,
+      "573": 8241,
+      "718": 8777
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7705,
+      "404": 7706,
+      "477": 8230,
+      "573": 8230,
+      "718": 8766
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=south,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7707,
+      "404": 7708,
+      "477": 8232,
+      "573": 8232,
+      "718": 8768
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=west,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7710,
+      "404": 7711,
+      "477": 8235,
+      "573": 8235,
+      "718": 8771
+    }
+  },
+  {
+    "name": "minecraft:spruce_door[facing=north,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7691,
+      "404": 7692,
+      "477": 8216,
+      "573": 8216,
+      "718": 8752
+    }
+  }
+]

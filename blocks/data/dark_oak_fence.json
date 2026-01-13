@@ -1,0 +1,323 @@
+[
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7669,
+      "404": 7670,
+      "477": 8194,
+      "573": 8194,
+      "718": 8730
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7655,
+      "404": 7656,
+      "477": 8180,
+      "573": 8180,
+      "718": 8716
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7670,
+      "404": 7671,
+      "477": 8195,
+      "573": 8195,
+      "718": 8731
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7672,
+      "404": 7673,
+      "477": 8197,
+      "573": 8197,
+      "718": 8733
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7663,
+      "404": 7664,
+      "477": 8188,
+      "573": 8188,
+      "718": 8724
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7660,
+      "404": 7661,
+      "477": 8185,
+      "573": 8185,
+      "718": 8721
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7674,
+      "404": 7675,
+      "477": 8199,
+      "573": 8199,
+      "718": 8735
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7656,
+      "404": 7657,
+      "477": 8181,
+      "573": 8181,
+      "718": 8717
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7654,
+      "404": 7655,
+      "477": 8179,
+      "573": 8179,
+      "718": 8715
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7673,
+      "404": 7674,
+      "477": 8198,
+      "573": 8198,
+      "718": 8734
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7651,
+      "404": 7652,
+      "477": 8176,
+      "573": 8176,
+      "718": 8712
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7661,
+      "404": 7662,
+      "477": 8186,
+      "573": 8186,
+      "718": 8722
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7657,
+      "404": 7658,
+      "477": 8182,
+      "573": 8182,
+      "718": 8718
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7665,
+      "404": 7666,
+      "477": 8190,
+      "573": 8190,
+      "718": 8726
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7667,
+      "404": 7668,
+      "477": 8192,
+      "573": 8192,
+      "718": 8728
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7646,
+      "404": 7647,
+      "477": 8171,
+      "573": 8171,
+      "718": 8707
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7668,
+      "404": 7669,
+      "477": 8193,
+      "573": 8193,
+      "718": 8729
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7666,
+      "404": 7667,
+      "477": 8191,
+      "573": 8191,
+      "718": 8727
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7648,
+      "404": 7649,
+      "477": 8173,
+      "573": 8173,
+      "718": 8709
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7652,
+      "404": 7653,
+      "477": 8177,
+      "573": 8177,
+      "718": 8713
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7653,
+      "404": 7654,
+      "477": 8178,
+      "573": 8178,
+      "718": 8714
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7658,
+      "404": 7659,
+      "477": 8183,
+      "573": 8183,
+      "718": 8719
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7659,
+      "404": 7660,
+      "477": 8184,
+      "573": 8184,
+      "718": 8720
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7675,
+      "404": 7676,
+      "477": 8200,
+      "573": 8200,
+      "718": 8736
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7645,
+      "404": 7646,
+      "477": 8170,
+      "573": 8170,
+      "718": 8706
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7664,
+      "404": 7665,
+      "477": 8189,
+      "573": 8189,
+      "718": 8725
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7649,
+      "404": 7650,
+      "477": 8174,
+      "573": 8174,
+      "718": 8710
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7662,
+      "404": 7663,
+      "477": 8187,
+      "573": 8187,
+      "718": 8723
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7671,
+      "404": 7672,
+      "477": 8196,
+      "573": 8196,
+      "718": 8732
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7676,
+      "4": 3056,
+      "404": 7677,
+      "477": 8201,
+      "573": 8201,
+      "718": 8737
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7647,
+      "404": 7648,
+      "477": 8172,
+      "573": 8172,
+      "718": 8708
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7650,
+      "404": 7651,
+      "477": 8175,
+      "573": 8175,
+      "718": 8711
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:dark_oak_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7292,
+      "4": 2005,
+      "404": 7293,
+      "477": 7799,
+      "573": 7799,
+      "718": 8335
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7287,
+      "404": 7288,
+      "477": 7794,
+      "573": 7794,
+      "718": 8330
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7290,
+      "4": 2021,
+      "404": 7291,
+      "477": 7797,
+      "573": 7797,
+      "718": 8333
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7291,
+      "404": 7292,
+      "477": 7798,
+      "573": 7798,
+      "718": 8334
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7288,
+      "4": 2029,
+      "404": 7289,
+      "477": 7795,
+      "573": 7795,
+      "718": 8331
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7289,
+      "404": 7290,
+      "477": 7796,
+      "573": 7796,
+      "718": 8332
+    }
+  }
+]

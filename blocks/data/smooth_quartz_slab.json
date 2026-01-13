@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:smooth_quartz_slab[type=double,waterlogged=false]",
+    "ids": {
+      "477": 10300,
+      "573": 10300,
+      "718": 10836
+    }
+  },
+  {
+    "name": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "477": 10297,
+      "573": 10297,
+      "718": 10833
+    }
+  },
+  {
+    "name": "minecraft:smooth_quartz_slab[type=top,waterlogged=true]",
+    "ids": {
+      "477": 10295,
+      "573": 10295,
+      "718": 10831
+    }
+  },
+  {
+    "name": "minecraft:smooth_quartz_slab[type=double,waterlogged=true]",
+    "ids": {
+      "477": 10299,
+      "573": 10299,
+      "718": 10835
+    }
+  },
+  {
+    "name": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "477": 10298,
+      "573": 10298,
+      "718": 10834
+    }
+  },
+  {
+    "name": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]",
+    "ids": {
+      "477": 10296,
+      "573": 10296,
+      "718": 10832
+    }
+  }
+]

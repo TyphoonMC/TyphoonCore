@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:acacia_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7285,
+      "404": 7286,
+      "477": 7792,
+      "573": 7792,
+      "718": 8328
+    }
+  },
+  {
+    "name": "minecraft:acacia_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7282,
+      "4": 2028,
+      "404": 7283,
+      "477": 7789,
+      "573": 7789,
+      "718": 8325
+    }
+  },
+  {
+    "name": "minecraft:acacia_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7286,
+      "4": 2004,
+      "404": 7287,
+      "477": 7793,
+      "573": 7793,
+      "718": 8329
+    }
+  },
+  {
+    "name": "minecraft:acacia_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7283,
+      "404": 7284,
+      "477": 7790,
+      "573": 7790,
+      "718": 8326
+    }
+  },
+  {
+    "name": "minecraft:acacia_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7281,
+      "404": 7282,
+      "477": 7788,
+      "573": 7788,
+      "718": 8324
+    }
+  },
+  {
+    "name": "minecraft:acacia_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7284,
+      "4": 2020,
+      "404": 7285,
+      "477": 7791,
+      "573": 7791,
+      "718": 8327
+    }
+  }
+]

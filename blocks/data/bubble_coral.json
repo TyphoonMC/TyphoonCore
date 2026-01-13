@@ -1,0 +1,26 @@
+[
+  {
+    "name": "minecraft:bubble_coral[waterlogged=true]",
+    "ids": {
+      "404": 8474,
+      "477": 8998,
+      "573": 8998,
+      "718": 9534
+    }
+  },
+  {
+    "name": "minecraft:bubble_coral[waterlogged=false]",
+    "ids": {
+      "404": 8475,
+      "477": 8999,
+      "573": 8999,
+      "718": 9535
+    }
+  },
+  {
+    "name": "minecraft:bubble_coral",
+    "ids": {
+      "393": 8461
+    }
+  }
+]

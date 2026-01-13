@@ -4,11 +4,12 @@ import (
 	"encoding/binary"
 	"encoding/json"
 	"fmt"
-	"github.com/TyphoonMC/go.uuid"
-	"github.com/seebs/nbt"
 	"io"
 	"math"
 	"strings"
+
+	"github.com/google/uuid"
+	"github.com/seebs/nbt"
 )
 
 type ConnReadWrite struct {
@@ -322,7 +323,7 @@ func (player *Player) Kick(s string) {
 		return
 	}
 
-	player.core.CallEvent(&PlayerKickEvent{player, s})
+	player.core.CallEvent(&PlayerKickEvent{Player: player, Reason: s})
 	msg := fmt.Sprintf(`{"text": "%s"}`, s)
 	disconnect := PacketPlayDisconnect{
 		Component: msg,

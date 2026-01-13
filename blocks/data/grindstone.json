@@ -1,0 +1,98 @@
+[
+  {
+    "name": "minecraft:grindstone[face=wall,facing=west]",
+    "ids": {
+      "477": 11171,
+      "573": 11171,
+      "718": 14827
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=wall,facing=east]",
+    "ids": {
+      "477": 11172,
+      "573": 11172,
+      "718": 14828
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=ceiling,facing=south]",
+    "ids": {
+      "477": 11174,
+      "573": 11174,
+      "718": 14830
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=floor,facing=north]",
+    "ids": {
+      "477": 11165,
+      "573": 11165,
+      "718": 14821
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=wall,facing=north]",
+    "ids": {
+      "477": 11169,
+      "573": 11169,
+      "718": 14825
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=ceiling,facing=west]",
+    "ids": {
+      "477": 11175,
+      "573": 11175,
+      "718": 14831
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=floor,facing=east]",
+    "ids": {
+      "477": 11168,
+      "573": 11168,
+      "718": 14824
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=floor,facing=west]",
+    "ids": {
+      "477": 11167,
+      "573": 11167,
+      "718": 14823
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=floor,facing=south]",
+    "ids": {
+      "477": 11166,
+      "573": 11166,
+      "718": 14822
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=wall,facing=south]",
+    "ids": {
+      "477": 11170,
+      "573": 11170,
+      "718": 14826
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=ceiling,facing=east]",
+    "ids": {
+      "477": 11176,
+      "573": 11176,
+      "718": 14832
+    }
+  },
+  {
+    "name": "minecraft:grindstone[face=ceiling,facing=north]",
+    "ids": {
+      "477": 11173,
+      "573": 11173,
+      "718": 14829
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "minecraft:purple_glazed_terracotta[facing=east]",
+    "ids": {
+      "393": 8356,
+      "4": 3923,
+      "404": 8357,
+      "477": 8881,
+      "573": 8881,
+      "718": 9417
+    }
+  },
+  {
+    "name": "minecraft:purple_glazed_terracotta[facing=south]",
+    "ids": {
+      "393": 8354,
+      "4": 3920,
+      "404": 8355,
+      "477": 8879,
+      "573": 8879,
+      "718": 9415
+    }
+  },
+  {
+    "name": "minecraft:purple_glazed_terracotta[facing=west]",
+    "ids": {
+      "393": 8355,
+      "4": 3921,
+      "404": 8356,
+      "477": 8880,
+      "573": 8880,
+      "718": 9416
+    }
+  },
+  {
+    "name": "minecraft:purple_glazed_terracotta[facing=north]",
+    "ids": {
+      "393": 8353,
+      "4": 3922,
+      "404": 8354,
+      "477": 8878,
+      "573": 8878,
+      "718": 9414
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "minecraft:ender_chest[facing=north,waterlogged=false]",
+    "ids": {
+      "393": 4732,
+      "4": 2082,
+      "404": 4733,
+      "477": 5236,
+      "573": 5236,
+      "718": 5252
+    }
+  },
+  {
+    "name": "minecraft:ender_chest[facing=east,waterlogged=true]",
+    "ids": {
+      "393": 4737,
+      "404": 4738,
+      "477": 5241,
+      "573": 5241,
+      "718": 5257
+    }
+  },
+  {
+    "name": "minecraft:ender_chest[facing=south,waterlogged=true]",
+    "ids": {
+      "393": 4733,
+      "404": 4734,
+      "477": 5237,
+      "573": 5237,
+      "718": 5253
+    }
+  },
+  {
+    "name": "minecraft:ender_chest[facing=west,waterlogged=false]",
+    "ids": {
+      "393": 4736,
+      "4": 2084,
+      "404": 4737,
+      "477": 5240,
+      "573": 5240,
+      "718": 5256
+    }
+  },
+  {
+    "name": "minecraft:ender_chest[facing=west,waterlogged=true]",
+    "ids": {
+      "393": 4735,
+      "404": 4736,
+      "477": 5239,
+      "573": 5239,
+      "718": 5255
+    }
+  },
+  {
+    "name": "minecraft:ender_chest[facing=north,waterlogged=true]",
+    "ids": {
+      "393": 4731,
+      "404": 4732,
+      "477": 5235,
+      "573": 5235,
+      "718": 5251
+    }
+  },
+  {
+    "name": "minecraft:ender_chest[facing=south,waterlogged=false]",
+    "ids": {
+      "393": 4734,
+      "4": 2083,
+      "404": 4735,
+      "477": 5238,
+      "573": 5238,
+      "718": 5254
+    }
+  },
+  {
+    "name": "minecraft:ender_chest[facing=east,waterlogged=false]",
+    "ids": {
+      "393": 4738,
+      "4": 2085,
+      "404": 4739,
+      "477": 5242,
+      "573": 5242,
+      "718": 5258
+    }
+  }
+]

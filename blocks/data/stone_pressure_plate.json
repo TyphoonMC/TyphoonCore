@@ -1,0 +1,24 @@
+[
+  {
+    "name": "minecraft:stone_pressure_plate[powered=false]",
+    "ids": {
+      "393": 3302,
+      "4": 1120,
+      "404": 3303,
+      "477": 3806,
+      "573": 3806,
+      "718": 3808
+    }
+  },
+  {
+    "name": "minecraft:stone_pressure_plate[powered=true]",
+    "ids": {
+      "393": 3301,
+      "4": 1121,
+      "404": 3302,
+      "477": 3805,
+      "573": 3805,
+      "718": 3807
+    }
+  }
+]

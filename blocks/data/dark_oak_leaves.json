@@ -1,0 +1,146 @@
+[
+  {
+    "name": "minecraft:dark_oak_leaves[distance=3,persistent=true]",
+    "ids": {
+      "393": 218,
+      "404": 218,
+      "477": 218,
+      "573": 218,
+      "718": 219
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=6,persistent=false]",
+    "ids": {
+      "393": 225,
+      "404": 225,
+      "477": 225,
+      "573": 225,
+      "718": 226
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=6,persistent=true]",
+    "ids": {
+      "393": 224,
+      "404": 224,
+      "477": 224,
+      "573": 224,
+      "718": 225
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=1,persistent=true]",
+    "ids": {
+      "393": 214,
+      "4": 2581,
+      "404": 214,
+      "477": 214,
+      "573": 214,
+      "718": 215
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=5,persistent=true]",
+    "ids": {
+      "393": 222,
+      "404": 222,
+      "477": 222,
+      "573": 222,
+      "718": 223
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=7,persistent=true]",
+    "ids": {
+      "393": 226,
+      "404": 226,
+      "477": 226,
+      "573": 226,
+      "718": 227
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=4,persistent=true]",
+    "ids": {
+      "393": 220,
+      "404": 220,
+      "477": 220,
+      "573": 220,
+      "718": 221
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=2,persistent=true]",
+    "ids": {
+      "393": 216,
+      "4": 2589,
+      "404": 216,
+      "477": 216,
+      "573": 216,
+      "718": 217
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=5,persistent=false]",
+    "ids": {
+      "393": 223,
+      "404": 223,
+      "477": 223,
+      "573": 223,
+      "718": 224
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=2,persistent=false]",
+    "ids": {
+      "393": 217,
+      "4": 2585,
+      "404": 217,
+      "477": 217,
+      "573": 217,
+      "718": 218
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=3,persistent=false]",
+    "ids": {
+      "393": 219,
+      "404": 219,
+      "477": 219,
+      "573": 219,
+      "718": 220
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=4,persistent=false]",
+    "ids": {
+      "393": 221,
+      "404": 221,
+      "477": 221,
+      "573": 221,
+      "718": 222
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=1,persistent=false]",
+    "ids": {
+      "393": 215,
+      "4": 2577,
+      "404": 215,
+      "477": 215,
+      "573": 215,
+      "718": 216
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_leaves[distance=7,persistent=false]",
+    "ids": {
+      "393": 227,
+      "404": 227,
+      "477": 227,
+      "573": 227,
+      "718": 228
+    }
+  }
+]

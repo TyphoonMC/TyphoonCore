@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_acacia_wood[axis=y]",
+    "ids": {
+      "393": 139,
+      "404": 139,
+      "477": 139,
+      "573": 139,
+      "718": 140
+    }
+  },
+  {
+    "name": "minecraft:stripped_acacia_wood[axis=z]",
+    "ids": {
+      "393": 140,
+      "404": 140,
+      "477": 140,
+      "573": 140,
+      "718": 141
+    }
+  },
+  {
+    "name": "minecraft:stripped_acacia_wood[axis=x]",
+    "ids": {
+      "393": 138,
+      "404": 138,
+      "477": 138,
+      "573": 138,
+      "718": 139
+    }
+  }
+]

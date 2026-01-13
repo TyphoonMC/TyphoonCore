@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:oak_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7260,
+      "4": 2016,
+      "404": 7261,
+      "477": 7767,
+      "573": 7767,
+      "718": 8303
+    }
+  },
+  {
+    "name": "minecraft:oak_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7259,
+      "404": 7260,
+      "477": 7766,
+      "573": 7766,
+      "718": 8302
+    }
+  },
+  {
+    "name": "minecraft:oak_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7261,
+      "404": 7262,
+      "477": 7768,
+      "573": 7768,
+      "718": 8304
+    }
+  },
+  {
+    "name": "minecraft:oak_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7258,
+      "4": 2024,
+      "404": 7259,
+      "477": 7765,
+      "573": 7765,
+      "718": 8301
+    }
+  },
+  {
+    "name": "minecraft:oak_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7257,
+      "404": 7258,
+      "477": 7764,
+      "573": 7764,
+      "718": 8300
+    }
+  },
+  {
+    "name": "minecraft:oak_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7262,
+      "4": 2000,
+      "404": 7263,
+      "477": 7769,
+      "573": 7769,
+      "718": 8305
+    }
+  }
+]

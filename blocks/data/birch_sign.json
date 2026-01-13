@@ -1,0 +1,258 @@
+[
+  {
+    "name": "minecraft:birch_sign[rotation=6,waterlogged=true]",
+    "ids": {
+      "477": 3455,
+      "573": 3455,
+      "718": 3457
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=15,waterlogged=true]",
+    "ids": {
+      "477": 3473,
+      "573": 3473,
+      "718": 3475
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=5,waterlogged=false]",
+    "ids": {
+      "477": 3454,
+      "573": 3454,
+      "718": 3456
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=8,waterlogged=true]",
+    "ids": {
+      "477": 3459,
+      "573": 3459,
+      "718": 3461
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=2,waterlogged=false]",
+    "ids": {
+      "477": 3448,
+      "573": 3448,
+      "718": 3450
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=12,waterlogged=true]",
+    "ids": {
+      "477": 3467,
+      "573": 3467,
+      "718": 3469
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=0,waterlogged=false]",
+    "ids": {
+      "477": 3444,
+      "573": 3444,
+      "718": 3446
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=5,waterlogged=true]",
+    "ids": {
+      "477": 3453,
+      "573": 3453,
+      "718": 3455
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=14,waterlogged=true]",
+    "ids": {
+      "477": 3471,
+      "573": 3471,
+      "718": 3473
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=4,waterlogged=true]",
+    "ids": {
+      "477": 3451,
+      "573": 3451,
+      "718": 3453
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=8,waterlogged=false]",
+    "ids": {
+      "477": 3460,
+      "573": 3460,
+      "718": 3462
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=13,waterlogged=false]",
+    "ids": {
+      "477": 3470,
+      "573": 3470,
+      "718": 3472
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=15,waterlogged=false]",
+    "ids": {
+      "477": 3474,
+      "573": 3474,
+      "718": 3476
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=2,waterlogged=true]",
+    "ids": {
+      "477": 3447,
+      "573": 3447,
+      "718": 3449
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=1,waterlogged=false]",
+    "ids": {
+      "477": 3446,
+      "573": 3446,
+      "718": 3448
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=9,waterlogged=false]",
+    "ids": {
+      "477": 3462,
+      "573": 3462,
+      "718": 3464
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=7,waterlogged=false]",
+    "ids": {
+      "477": 3458,
+      "573": 3458,
+      "718": 3460
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=0,waterlogged=true]",
+    "ids": {
+      "477": 3443,
+      "573": 3443,
+      "718": 3445
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=11,waterlogged=true]",
+    "ids": {
+      "477": 3465,
+      "573": 3465,
+      "718": 3467
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=1,waterlogged=true]",
+    "ids": {
+      "477": 3445,
+      "573": 3445,
+      "718": 3447
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=4,waterlogged=false]",
+    "ids": {
+      "477": 3452,
+      "573": 3452,
+      "718": 3454
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=3,waterlogged=true]",
+    "ids": {
+      "477": 3449,
+      "573": 3449,
+      "718": 3451
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=7,waterlogged=true]",
+    "ids": {
+      "477": 3457,
+      "573": 3457,
+      "718": 3459
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=3,waterlogged=false]",
+    "ids": {
+      "477": 3450,
+      "573": 3450,
+      "718": 3452
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=10,waterlogged=false]",
+    "ids": {
+      "477": 3464,
+      "573": 3464,
+      "718": 3466
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=14,waterlogged=false]",
+    "ids": {
+      "477": 3472,
+      "573": 3472,
+      "718": 3474
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=12,waterlogged=false]",
+    "ids": {
+      "477": 3468,
+      "573": 3468,
+      "718": 3470
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=6,waterlogged=false]",
+    "ids": {
+      "477": 3456,
+      "573": 3456,
+      "718": 3458
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=9,waterlogged=true]",
+    "ids": {
+      "477": 3461,
+      "573": 3461,
+      "718": 3463
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=11,waterlogged=false]",
+    "ids": {
+      "477": 3466,
+      "573": 3466,
+      "718": 3468
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=10,waterlogged=true]",
+    "ids": {
+      "477": 3463,
+      "573": 3463,
+      "718": 3465
+    }
+  },
+  {
+    "name": "minecraft:birch_sign[rotation=13,waterlogged=true]",
+    "ids": {
+      "477": 3469,
+      "573": 3469,
+      "718": 3471
+    }
+  }
+]

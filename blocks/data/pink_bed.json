@@ -1,0 +1,162 @@
+[
+  {
+    "name": "minecraft:pink_bed[facing=west,occupied=false,part=head]",
+    "ids": {
+      "393": 854,
+      "404": 854,
+      "477": 1154,
+      "573": 1154,
+      "718": 1155
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=south,occupied=false,part=foot]",
+    "ids": {
+      "393": 851,
+      "404": 851,
+      "477": 1151,
+      "573": 1151,
+      "718": 1152
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=south,occupied=false,part=head]",
+    "ids": {
+      "393": 850,
+      "404": 850,
+      "477": 1150,
+      "573": 1150,
+      "718": 1151
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=east,occupied=true,part=head]",
+    "ids": {
+      "393": 856,
+      "404": 856,
+      "477": 1156,
+      "573": 1156,
+      "718": 1157
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=north,occupied=true,part=head]",
+    "ids": {
+      "393": 844,
+      "404": 844,
+      "477": 1144,
+      "573": 1144,
+      "718": 1145
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=south,occupied=true,part=foot]",
+    "ids": {
+      "393": 849,
+      "404": 849,
+      "477": 1149,
+      "573": 1149,
+      "718": 1150
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=west,occupied=false,part=foot]",
+    "ids": {
+      "393": 855,
+      "404": 855,
+      "477": 1155,
+      "573": 1155,
+      "718": 1156
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=west,occupied=true,part=head]",
+    "ids": {
+      "393": 852,
+      "404": 852,
+      "477": 1152,
+      "573": 1152,
+      "718": 1153
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=east,occupied=false,part=head]",
+    "ids": {
+      "393": 858,
+      "404": 858,
+      "477": 1158,
+      "573": 1158,
+      "718": 1159
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=west,occupied=true,part=foot]",
+    "ids": {
+      "393": 853,
+      "404": 853,
+      "477": 1153,
+      "573": 1153,
+      "718": 1154
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=south,occupied=true,part=head]",
+    "ids": {
+      "393": 848,
+      "404": 848,
+      "477": 1148,
+      "573": 1148,
+      "718": 1149
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=north,occupied=true,part=foot]",
+    "ids": {
+      "393": 845,
+      "404": 845,
+      "477": 1145,
+      "573": 1145,
+      "718": 1146
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=east,occupied=true,part=foot]",
+    "ids": {
+      "393": 857,
+      "404": 857,
+      "477": 1157,
+      "573": 1157,
+      "718": 1158
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=east,occupied=false,part=foot]",
+    "ids": {
+      "393": 859,
+      "404": 859,
+      "477": 1159,
+      "573": 1159,
+      "718": 1160
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=north,occupied=false,part=head]",
+    "ids": {
+      "393": 846,
+      "404": 846,
+      "477": 1146,
+      "573": 1146,
+      "718": 1147
+    }
+  },
+  {
+    "name": "minecraft:pink_bed[facing=north,occupied=false,part=foot]",
+    "ids": {
+      "393": 847,
+      "404": 847,
+      "477": 1147,
+      "573": 1147,
+      "718": 1148
+    }
+  }
+]

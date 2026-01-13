@@ -1,0 +1,170 @@
+[
+  {
+    "name": "minecraft:bee_nest[facing=south,honey_level=4]",
+    "ids": {
+      "573": 11297,
+      "718": 15786
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=west,honey_level=4]",
+    "ids": {
+      "573": 11303,
+      "718": 15792
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=west,honey_level=3]",
+    "ids": {
+      "573": 11302,
+      "718": 15791
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=west,honey_level=0]",
+    "ids": {
+      "573": 11299,
+      "718": 15788
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=south,honey_level=3]",
+    "ids": {
+      "573": 11296,
+      "718": 15785
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=north,honey_level=4]",
+    "ids": {
+      "573": 11291,
+      "718": 15780
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=west,honey_level=5]",
+    "ids": {
+      "573": 11304,
+      "718": 15793
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=north,honey_level=3]",
+    "ids": {
+      "573": 11290,
+      "718": 15779
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=north,honey_level=2]",
+    "ids": {
+      "573": 11289,
+      "718": 15778
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=east,honey_level=5]",
+    "ids": {
+      "573": 11310,
+      "718": 15799
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=south,honey_level=1]",
+    "ids": {
+      "573": 11294,
+      "718": 15783
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=east,honey_level=3]",
+    "ids": {
+      "573": 11308,
+      "718": 15797
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=east,honey_level=0]",
+    "ids": {
+      "573": 11305,
+      "718": 15794
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=south,honey_level=2]",
+    "ids": {
+      "573": 11295,
+      "718": 15784
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=east,honey_level=4]",
+    "ids": {
+      "573": 11309,
+      "718": 15798
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=north,honey_level=1]",
+    "ids": {
+      "573": 11288,
+      "718": 15777
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=east,honey_level=2]",
+    "ids": {
+      "573": 11307,
+      "718": 15796
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=west,honey_level=1]",
+    "ids": {
+      "573": 11300,
+      "718": 15789
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=south,honey_level=5]",
+    "ids": {
+      "573": 11298,
+      "718": 15787
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=north,honey_level=0]",
+    "ids": {
+      "573": 11287,
+      "718": 15776
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=west,honey_level=2]",
+    "ids": {
+      "573": 11301,
+      "718": 15790
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=east,honey_level=1]",
+    "ids": {
+      "573": 11306,
+      "718": 15795
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=south,honey_level=0]",
+    "ids": {
+      "573": 11293,
+      "718": 15782
+    }
+  },
+  {
+    "name": "minecraft:bee_nest[facing=north,honey_level=5]",
+    "ids": {
+      "573": 11292,
+      "718": 15781
+    }
+  }
+]

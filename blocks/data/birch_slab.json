@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:birch_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7270,
+      "4": 2026,
+      "404": 7271,
+      "477": 7777,
+      "573": 7777,
+      "718": 8313
+    }
+  },
+  {
+    "name": "minecraft:birch_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7269,
+      "404": 7270,
+      "477": 7776,
+      "573": 7776,
+      "718": 8312
+    }
+  },
+  {
+    "name": "minecraft:birch_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7273,
+      "404": 7274,
+      "477": 7780,
+      "573": 7780,
+      "718": 8316
+    }
+  },
+  {
+    "name": "minecraft:birch_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7271,
+      "404": 7272,
+      "477": 7778,
+      "573": 7778,
+      "718": 8314
+    }
+  },
+  {
+    "name": "minecraft:birch_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7274,
+      "4": 2002,
+      "404": 7275,
+      "477": 7781,
+      "573": 7781,
+      "718": 8317
+    }
+  },
+  {
+    "name": "minecraft:birch_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7272,
+      "4": 2018,
+      "404": 7273,
+      "477": 7779,
+      "573": 7779,
+      "718": 8315
+    }
+  }
+]

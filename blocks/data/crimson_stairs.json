@@ -1,0 +1,482 @@
+[
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15366
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15362
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15374
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15324
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15325
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15355
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15386
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15379
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15397
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15393
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15320
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15375
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15360
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15342
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15392
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15382
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15343
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15383
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15332
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15341
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15387
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15337
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15350
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15359
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15395
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15385
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15390
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15345
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15384
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15364
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15336
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15361
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15349
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15388
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15338
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15326
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15368
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15391
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15339
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15340
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15335
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15334
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15327
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15333
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15372
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15344
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15371
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15348
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15377
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15373
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15331
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15354
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15319
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15346
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15321
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15353
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 15394
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15329
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 15365
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15376
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15369
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15358
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15398
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15356
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15347
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15370
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15330
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15367
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15381
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15323
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 15363
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15322
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 15389
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 15352
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15378
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 15396
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 15380
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 15357
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 15351
+    }
+  },
+  {
+    "name": "minecraft:crimson_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 15328
+    }
+  }
+]

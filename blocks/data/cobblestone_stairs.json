@@ -1,0 +1,810 @@
+[
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 3233,
+      "404": 3234,
+      "477": 3697,
+      "573": 3697,
+      "718": 3699
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 3207,
+      "404": 3208,
+      "477": 3671,
+      "573": 3671,
+      "718": 3673
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 3194,
+      "404": 3195,
+      "477": 3658,
+      "573": 3658,
+      "718": 3660
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 3225,
+      "404": 3226,
+      "477": 3689,
+      "573": 3689,
+      "718": 3691
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 3218,
+      "404": 3219,
+      "477": 3682,
+      "573": 3682,
+      "718": 3684
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 3203,
+      "404": 3204,
+      "477": 3667,
+      "573": 3667,
+      "718": 3669
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 3254,
+      "404": 3255,
+      "477": 3718,
+      "573": 3718,
+      "718": 3720
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 3234,
+      "404": 3235,
+      "477": 3698,
+      "573": 3698,
+      "718": 3700
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 3224,
+      "404": 3225,
+      "477": 3688,
+      "573": 3688,
+      "718": 3690
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 3221,
+      "404": 3222,
+      "477": 3685,
+      "573": 3685,
+      "718": 3687
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 3256,
+      "404": 3257,
+      "477": 3720,
+      "573": 3720,
+      "718": 3722
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 3231,
+      "404": 3232,
+      "477": 3695,
+      "573": 3695,
+      "718": 3697
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 3209,
+      "404": 3210,
+      "477": 3673,
+      "573": 3673,
+      "718": 3675
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 3202,
+      "404": 3203,
+      "477": 3666,
+      "573": 3666,
+      "718": 3668
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 3252,
+      "404": 3253,
+      "477": 3716,
+      "573": 3716,
+      "718": 3718
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 3251,
+      "404": 3252,
+      "477": 3715,
+      "573": 3715,
+      "718": 3717
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 3268,
+      "404": 3269,
+      "477": 3732,
+      "573": 3732,
+      "718": 3734
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 3249,
+      "404": 3250,
+      "477": 3713,
+      "573": 3713,
+      "718": 3715
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 3259,
+      "404": 3260,
+      "477": 3723,
+      "573": 3723,
+      "718": 3725
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 3229,
+      "404": 3230,
+      "477": 3693,
+      "573": 3693,
+      "718": 3695
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 3212,
+      "404": 3213,
+      "477": 3676,
+      "573": 3676,
+      "718": 3678
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 3214,
+      "404": 3215,
+      "477": 3678,
+      "573": 3678,
+      "718": 3680
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 3220,
+      "4": 1074,
+      "404": 3221,
+      "477": 3684,
+      "573": 3684,
+      "718": 3686
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 3257,
+      "404": 3258,
+      "477": 3721,
+      "573": 3721,
+      "718": 3723
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 3190,
+      "4": 1079,
+      "404": 3191,
+      "477": 3654,
+      "573": 3654,
+      "718": 3656
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 3200,
+      "4": 1075,
+      "404": 3201,
+      "477": 3664,
+      "573": 3664,
+      "718": 3666
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 3227,
+      "404": 3228,
+      "477": 3691,
+      "573": 3691,
+      "718": 3693
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 3189,
+      "404": 3190,
+      "477": 3653,
+      "573": 3653,
+      "718": 3655
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 3201,
+      "404": 3202,
+      "477": 3665,
+      "573": 3665,
+      "718": 3667
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 3205,
+      "404": 3206,
+      "477": 3669,
+      "573": 3669,
+      "718": 3671
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 3265,
+      "404": 3266,
+      "477": 3729,
+      "573": 3729,
+      "718": 3731
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 3261,
+      "404": 3262,
+      "477": 3725,
+      "573": 3725,
+      "718": 3727
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 3215,
+      "404": 3216,
+      "477": 3679,
+      "573": 3679,
+      "718": 3681
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 3197,
+      "404": 3198,
+      "477": 3661,
+      "573": 3661,
+      "718": 3663
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 3253,
+      "404": 3254,
+      "477": 3717,
+      "573": 3717,
+      "718": 3719
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 3264,
+      "404": 3265,
+      "477": 3728,
+      "573": 3728,
+      "718": 3730
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 3216,
+      "404": 3217,
+      "477": 3680,
+      "573": 3680,
+      "718": 3682
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 3230,
+      "4": 1077,
+      "404": 3231,
+      "477": 3694,
+      "573": 3694,
+      "718": 3696
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 3226,
+      "404": 3227,
+      "477": 3690,
+      "573": 3690,
+      "718": 3692
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 3213,
+      "404": 3214,
+      "477": 3677,
+      "573": 3677,
+      "718": 3679
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 3191,
+      "404": 3192,
+      "477": 3655,
+      "573": 3655,
+      "718": 3657
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 3204,
+      "404": 3205,
+      "477": 3668,
+      "573": 3668,
+      "718": 3670
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 3262,
+      "404": 3263,
+      "477": 3726,
+      "573": 3726,
+      "718": 3728
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 3238,
+      "404": 3239,
+      "477": 3702,
+      "573": 3702,
+      "718": 3704
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 3258,
+      "404": 3259,
+      "477": 3722,
+      "573": 3722,
+      "718": 3724
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 3255,
+      "404": 3256,
+      "477": 3719,
+      "573": 3719,
+      "718": 3721
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 3195,
+      "404": 3196,
+      "477": 3659,
+      "573": 3659,
+      "718": 3661
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 3193,
+      "404": 3194,
+      "477": 3657,
+      "573": 3657,
+      "718": 3659
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 3241,
+      "404": 3242,
+      "477": 3705,
+      "573": 3705,
+      "718": 3707
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 3235,
+      "404": 3236,
+      "477": 3699,
+      "573": 3699,
+      "718": 3701
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 3263,
+      "404": 3264,
+      "477": 3727,
+      "573": 3727,
+      "718": 3729
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 3236,
+      "404": 3237,
+      "477": 3700,
+      "573": 3700,
+      "718": 3702
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 3211,
+      "404": 3212,
+      "477": 3675,
+      "573": 3675,
+      "718": 3677
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 3248,
+      "404": 3249,
+      "477": 3712,
+      "573": 3712,
+      "718": 3714
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 3247,
+      "404": 3248,
+      "477": 3711,
+      "573": 3711,
+      "718": 3713
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 3217,
+      "404": 3218,
+      "477": 3681,
+      "573": 3681,
+      "718": 3683
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 3232,
+      "404": 3233,
+      "477": 3696,
+      "573": 3696,
+      "718": 3698
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 3266,
+      "404": 3267,
+      "477": 3730,
+      "573": 3730,
+      "718": 3732
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 3196,
+      "404": 3197,
+      "477": 3660,
+      "573": 3660,
+      "718": 3662
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 3260,
+      "4": 1072,
+      "404": 3261,
+      "477": 3724,
+      "573": 3724,
+      "718": 3726
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 3239,
+      "404": 3240,
+      "477": 3703,
+      "573": 3703,
+      "718": 3705
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 3210,
+      "4": 1078,
+      "404": 3211,
+      "477": 3674,
+      "573": 3674,
+      "718": 3676
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 3237,
+      "404": 3238,
+      "477": 3701,
+      "573": 3701,
+      "718": 3703
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 3219,
+      "404": 3220,
+      "477": 3683,
+      "573": 3683,
+      "718": 3685
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 3228,
+      "404": 3229,
+      "477": 3692,
+      "573": 3692,
+      "718": 3694
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 3206,
+      "404": 3207,
+      "477": 3670,
+      "573": 3670,
+      "718": 3672
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 3199,
+      "404": 3200,
+      "477": 3663,
+      "573": 3663,
+      "718": 3665
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 3245,
+      "404": 3246,
+      "477": 3709,
+      "573": 3709,
+      "718": 3711
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 3250,
+      "4": 1076,
+      "404": 3251,
+      "477": 3714,
+      "573": 3714,
+      "718": 3716
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 3223,
+      "404": 3224,
+      "477": 3687,
+      "573": 3687,
+      "718": 3689
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 3240,
+      "4": 1073,
+      "404": 3241,
+      "477": 3704,
+      "573": 3704,
+      "718": 3706
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 3198,
+      "404": 3199,
+      "477": 3662,
+      "573": 3662,
+      "718": 3664
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 3242,
+      "404": 3243,
+      "477": 3706,
+      "573": 3706,
+      "718": 3708
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 3267,
+      "404": 3268,
+      "477": 3731,
+      "573": 3731,
+      "718": 3733
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 3222,
+      "404": 3223,
+      "477": 3686,
+      "573": 3686,
+      "718": 3688
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 3243,
+      "404": 3244,
+      "477": 3707,
+      "573": 3707,
+      "718": 3709
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 3208,
+      "404": 3209,
+      "477": 3672,
+      "573": 3672,
+      "718": 3674
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 3244,
+      "404": 3245,
+      "477": 3708,
+      "573": 3708,
+      "718": 3710
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 3246,
+      "404": 3247,
+      "477": 3710,
+      "573": 3710,
+      "718": 3712
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 3192,
+      "404": 3193,
+      "477": 3656,
+      "573": 3656,
+      "718": 3658
+    }
+  }
+]

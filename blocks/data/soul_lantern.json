@@ -1,0 +1,14 @@
+[
+  {
+    "name": "minecraft:soul_lantern[hanging=false]",
+    "ids": {
+      "718": 14889
+    }
+  },
+  {
+    "name": "minecraft:soul_lantern[hanging=true]",
+    "ids": {
+      "718": 14888
+    }
+  }
+]

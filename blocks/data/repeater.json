@@ -1,0 +1,674 @@
+[
+  {
+    "name": "minecraft:repeater[delay=1,facing=north,locked=true,powered=true]",
+    "ids": {
+      "393": 3513,
+      "404": 3514,
+      "477": 4017,
+      "573": 4017,
+      "718": 4031
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=south,locked=true,powered=true]",
+    "ids": {
+      "393": 3517,
+      "404": 3518,
+      "477": 4021,
+      "573": 4021,
+      "718": 4035
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=north,locked=false,powered=true]",
+    "ids": {
+      "393": 3531,
+      "4": 1510,
+      "404": 3532,
+      "477": 4035,
+      "573": 4035,
+      "718": 4049
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=east,locked=true,powered=false]",
+    "ids": {
+      "393": 3542,
+      "404": 3543,
+      "477": 4046,
+      "573": 4046,
+      "718": 4060
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=west,locked=true,powered=false]",
+    "ids": {
+      "393": 3554,
+      "404": 3555,
+      "477": 4058,
+      "573": 4058,
+      "718": 4072
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=south,locked=false,powered=true]",
+    "ids": {
+      "393": 3535,
+      "4": 1508,
+      "404": 3536,
+      "477": 4039,
+      "573": 4039,
+      "718": 4053
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=south,locked=true,powered=true]",
+    "ids": {
+      "393": 3549,
+      "404": 3550,
+      "477": 4053,
+      "573": 4053,
+      "718": 4067
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=north,locked=true,powered=true]",
+    "ids": {
+      "393": 3545,
+      "404": 3546,
+      "477": 4049,
+      "573": 4049,
+      "718": 4063
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=east,locked=false,powered=true]",
+    "ids": {
+      "393": 3543,
+      "4": 1511,
+      "404": 3544,
+      "477": 4047,
+      "573": 4047,
+      "718": 4061
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=west,locked=false,powered=false]",
+    "ids": {
+      "393": 3572,
+      "4": 1501,
+      "404": 3573,
+      "477": 4076,
+      "573": 4076,
+      "718": 4090
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=south,locked=false,powered=false]",
+    "ids": {
+      "393": 3520,
+      "4": 1488,
+      "404": 3521,
+      "477": 4024,
+      "573": 4024,
+      "718": 4038
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=north,locked=false,powered=false]",
+    "ids": {
+      "393": 3548,
+      "4": 1498,
+      "404": 3549,
+      "477": 4052,
+      "573": 4052,
+      "718": 4066
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=north,locked=false,powered=false]",
+    "ids": {
+      "393": 3564,
+      "4": 1502,
+      "404": 3565,
+      "477": 4068,
+      "573": 4068,
+      "718": 4082
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=east,locked=true,powered=true]",
+    "ids": {
+      "393": 3557,
+      "404": 3558,
+      "477": 4061,
+      "573": 4061,
+      "718": 4075
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=south,locked=false,powered=true]",
+    "ids": {
+      "393": 3519,
+      "4": 1504,
+      "404": 3520,
+      "477": 4023,
+      "573": 4023,
+      "718": 4037
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=south,locked=false,powered=false]",
+    "ids": {
+      "393": 3552,
+      "4": 1496,
+      "404": 3553,
+      "477": 4056,
+      "573": 4056,
+      "718": 4070
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=east,locked=true,powered=false]",
+    "ids": {
+      "393": 3574,
+      "404": 3575,
+      "477": 4078,
+      "573": 4078,
+      "718": 4092
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=east,locked=false,powered=true]",
+    "ids": {
+      "393": 3575,
+      "4": 1519,
+      "404": 3576,
+      "477": 4079,
+      "573": 4079,
+      "718": 4093
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=south,locked=true,powered=false]",
+    "ids": {
+      "393": 3566,
+      "404": 3567,
+      "477": 4070,
+      "573": 4070,
+      "718": 4084
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=north,locked=true,powered=false]",
+    "ids": {
+      "393": 3562,
+      "404": 3563,
+      "477": 4066,
+      "573": 4066,
+      "718": 4080
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=west,locked=false,powered=true]",
+    "ids": {
+      "393": 3555,
+      "4": 1513,
+      "404": 3556,
+      "477": 4059,
+      "573": 4059,
+      "718": 4073
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=east,locked=false,powered=false]",
+    "ids": {
+      "393": 3560,
+      "4": 1499,
+      "404": 3561,
+      "477": 4064,
+      "573": 4064,
+      "718": 4078
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=north,locked=false,powered=false]",
+    "ids": {
+      "393": 3516,
+      "4": 1490,
+      "404": 3517,
+      "477": 4020,
+      "573": 4020,
+      "718": 4034
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=north,locked=false,powered=true]",
+    "ids": {
+      "393": 3563,
+      "4": 1518,
+      "404": 3564,
+      "477": 4067,
+      "573": 4067,
+      "718": 4081
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=east,locked=false,powered=false]",
+    "ids": {
+      "393": 3528,
+      "4": 1491,
+      "404": 3529,
+      "477": 4032,
+      "573": 4032,
+      "718": 4046
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=east,locked=false,powered=false]",
+    "ids": {
+      "393": 3544,
+      "4": 1495,
+      "404": 3545,
+      "477": 4048,
+      "573": 4048,
+      "718": 4062
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=east,locked=true,powered=true]",
+    "ids": {
+      "393": 3525,
+      "404": 3526,
+      "477": 4029,
+      "573": 4029,
+      "718": 4043
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=south,locked=false,powered=true]",
+    "ids": {
+      "393": 3551,
+      "4": 1512,
+      "404": 3552,
+      "477": 4055,
+      "573": 4055,
+      "718": 4069
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=west,locked=true,powered=true]",
+    "ids": {
+      "393": 3569,
+      "404": 3570,
+      "477": 4073,
+      "573": 4073,
+      "718": 4087
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=east,locked=true,powered=true]",
+    "ids": {
+      "393": 3541,
+      "404": 3542,
+      "477": 4045,
+      "573": 4045,
+      "718": 4059
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=east,locked=false,powered=true]",
+    "ids": {
+      "393": 3527,
+      "4": 1507,
+      "404": 3528,
+      "477": 4031,
+      "573": 4031,
+      "718": 4045
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=east,locked=true,powered=false]",
+    "ids": {
+      "393": 3526,
+      "404": 3527,
+      "477": 4030,
+      "573": 4030,
+      "718": 4044
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=west,locked=false,powered=true]",
+    "ids": {
+      "393": 3571,
+      "4": 1517,
+      "404": 3572,
+      "477": 4075,
+      "573": 4075,
+      "718": 4089
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=north,locked=true,powered=false]",
+    "ids": {
+      "393": 3530,
+      "404": 3531,
+      "477": 4034,
+      "573": 4034,
+      "718": 4048
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=south,locked=true,powered=false]",
+    "ids": {
+      "393": 3534,
+      "404": 3535,
+      "477": 4038,
+      "573": 4038,
+      "718": 4052
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=north,locked=true,powered=true]",
+    "ids": {
+      "393": 3529,
+      "404": 3530,
+      "477": 4033,
+      "573": 4033,
+      "718": 4047
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=east,locked=false,powered=true]",
+    "ids": {
+      "393": 3559,
+      "4": 1515,
+      "404": 3560,
+      "477": 4063,
+      "573": 4063,
+      "718": 4077
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=south,locked=true,powered=true]",
+    "ids": {
+      "393": 3533,
+      "404": 3534,
+      "477": 4037,
+      "573": 4037,
+      "718": 4051
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=north,locked=false,powered=true]",
+    "ids": {
+      "393": 3547,
+      "4": 1514,
+      "404": 3548,
+      "477": 4051,
+      "573": 4051,
+      "718": 4065
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=south,locked=false,powered=false]",
+    "ids": {
+      "393": 3536,
+      "4": 1492,
+      "404": 3537,
+      "477": 4040,
+      "573": 4040,
+      "718": 4054
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=north,locked=true,powered=false]",
+    "ids": {
+      "393": 3514,
+      "404": 3515,
+      "477": 4018,
+      "573": 4018,
+      "718": 4032
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=south,locked=true,powered=false]",
+    "ids": {
+      "393": 3518,
+      "404": 3519,
+      "477": 4022,
+      "573": 4022,
+      "718": 4036
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=east,locked=true,powered=false]",
+    "ids": {
+      "393": 3558,
+      "404": 3559,
+      "477": 4062,
+      "573": 4062,
+      "718": 4076
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=west,locked=true,powered=false]",
+    "ids": {
+      "393": 3538,
+      "404": 3539,
+      "477": 4042,
+      "573": 4042,
+      "718": 4056
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=west,locked=false,powered=true]",
+    "ids": {
+      "393": 3539,
+      "4": 1509,
+      "404": 3540,
+      "477": 4043,
+      "573": 4043,
+      "718": 4057
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=west,locked=false,powered=false]",
+    "ids": {
+      "393": 3524,
+      "4": 1489,
+      "404": 3525,
+      "477": 4028,
+      "573": 4028,
+      "718": 4042
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=west,locked=true,powered=true]",
+    "ids": {
+      "393": 3521,
+      "404": 3522,
+      "477": 4025,
+      "573": 4025,
+      "718": 4039
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=east,locked=true,powered=true]",
+    "ids": {
+      "393": 3573,
+      "404": 3574,
+      "477": 4077,
+      "573": 4077,
+      "718": 4091
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=south,locked=false,powered=true]",
+    "ids": {
+      "393": 3567,
+      "4": 1516,
+      "404": 3568,
+      "477": 4071,
+      "573": 4071,
+      "718": 4085
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=west,locked=true,powered=true]",
+    "ids": {
+      "393": 3537,
+      "404": 3538,
+      "477": 4041,
+      "573": 4041,
+      "718": 4055
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=south,locked=true,powered=true]",
+    "ids": {
+      "393": 3565,
+      "404": 3566,
+      "477": 4069,
+      "573": 4069,
+      "718": 4083
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=north,locked=true,powered=true]",
+    "ids": {
+      "393": 3561,
+      "404": 3562,
+      "477": 4065,
+      "573": 4065,
+      "718": 4079
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=west,locked=true,powered=false]",
+    "ids": {
+      "393": 3570,
+      "404": 3571,
+      "477": 4074,
+      "573": 4074,
+      "718": 4088
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=west,locked=false,powered=false]",
+    "ids": {
+      "393": 3540,
+      "4": 1493,
+      "404": 3541,
+      "477": 4044,
+      "573": 4044,
+      "718": 4058
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=2,facing=north,locked=false,powered=false]",
+    "ids": {
+      "393": 3532,
+      "4": 1494,
+      "404": 3533,
+      "477": 4036,
+      "573": 4036,
+      "718": 4050
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=west,locked=false,powered=false]",
+    "ids": {
+      "393": 3556,
+      "4": 1497,
+      "404": 3557,
+      "477": 4060,
+      "573": 4060,
+      "718": 4074
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=west,locked=true,powered=true]",
+    "ids": {
+      "393": 3553,
+      "404": 3554,
+      "477": 4057,
+      "573": 4057,
+      "718": 4071
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=west,locked=false,powered=true]",
+    "ids": {
+      "393": 3523,
+      "4": 1505,
+      "404": 3524,
+      "477": 4027,
+      "573": 4027,
+      "718": 4041
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=west,locked=true,powered=false]",
+    "ids": {
+      "393": 3522,
+      "404": 3523,
+      "477": 4026,
+      "573": 4026,
+      "718": 4040
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=north,locked=true,powered=false]",
+    "ids": {
+      "393": 3546,
+      "404": 3547,
+      "477": 4050,
+      "573": 4050,
+      "718": 4064
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=3,facing=south,locked=true,powered=false]",
+    "ids": {
+      "393": 3550,
+      "404": 3551,
+      "477": 4054,
+      "573": 4054,
+      "718": 4068
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=1,facing=north,locked=false,powered=true]",
+    "ids": {
+      "393": 3515,
+      "4": 1506,
+      "404": 3516,
+      "477": 4019,
+      "573": 4019,
+      "718": 4033
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=south,locked=false,powered=false]",
+    "ids": {
+      "393": 3568,
+      "4": 1500,
+      "404": 3569,
+      "477": 4072,
+      "573": 4072,
+      "718": 4086
+    }
+  },
+  {
+    "name": "minecraft:repeater[delay=4,facing=east,locked=false,powered=false]",
+    "ids": {
+      "393": 3576,
+      "4": 1503,
+      "404": 3577,
+      "477": 4080,
+      "573": 4080,
+      "718": 4094
+    }
+  }
+]

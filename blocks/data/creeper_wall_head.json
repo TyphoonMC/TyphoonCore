@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:creeper_wall_head[facing=north]",
+    "ids": {
+      "393": 5527,
+      "404": 5528,
+      "477": 6050,
+      "573": 6050,
+      "718": 6586
+    }
+  },
+  {
+    "name": "minecraft:creeper_wall_head[facing=west]",
+    "ids": {
+      "393": 5529,
+      "404": 5530,
+      "477": 6052,
+      "573": 6052,
+      "718": 6588
+    }
+  },
+  {
+    "name": "minecraft:creeper_wall_head[facing=east]",
+    "ids": {
+      "393": 5530,
+      "404": 5531,
+      "477": 6053,
+      "573": 6053,
+      "718": 6589
+    }
+  },
+  {
+    "name": "minecraft:creeper_wall_head[facing=south]",
+    "ids": {
+      "393": 5528,
+      "404": 5529,
+      "477": 6051,
+      "573": 6051,
+      "718": 6587
+    }
+  }
+]

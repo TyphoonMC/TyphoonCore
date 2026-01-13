@@ -1,0 +1,644 @@
+[
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4139,
+      "404": 4140,
+      "477": 4643,
+      "573": 4643,
+      "718": 4657
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4125,
+      "404": 4126,
+      "477": 4629,
+      "573": 4629,
+      "718": 4643
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4146,
+      "404": 4147,
+      "477": 4650,
+      "573": 4650,
+      "718": 4664
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4176,
+      "404": 4177,
+      "477": 4680,
+      "573": 4680,
+      "718": 4694
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4122,
+      "404": 4123,
+      "477": 4626,
+      "573": 4626,
+      "718": 4640
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4168,
+      "404": 4169,
+      "477": 4672,
+      "573": 4672,
+      "718": 4686
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4177,
+      "404": 4178,
+      "477": 4681,
+      "573": 4681,
+      "718": 4695
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4132,
+      "404": 4133,
+      "477": 4636,
+      "573": 4636,
+      "718": 4650
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4119,
+      "404": 4120,
+      "477": 4623,
+      "573": 4623,
+      "718": 4637
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4148,
+      "404": 4149,
+      "477": 4652,
+      "573": 4652,
+      "718": 4666
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4170,
+      "404": 4171,
+      "477": 4674,
+      "573": 4674,
+      "718": 4688
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4130,
+      "404": 4131,
+      "477": 4634,
+      "573": 4634,
+      "718": 4648
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4116,
+      "404": 4117,
+      "477": 4620,
+      "573": 4620,
+      "718": 4634
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4178,
+      "404": 4179,
+      "477": 4682,
+      "573": 4682,
+      "718": 4696
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4159,
+      "404": 4160,
+      "477": 4663,
+      "573": 4663,
+      "718": 4677
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4150,
+      "404": 4151,
+      "477": 4654,
+      "573": 4654,
+      "718": 4668
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4124,
+      "404": 4125,
+      "477": 4628,
+      "573": 4628,
+      "718": 4642
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4172,
+      "404": 4173,
+      "477": 4676,
+      "573": 4676,
+      "718": 4690
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4134,
+      "404": 4135,
+      "477": 4638,
+      "573": 4638,
+      "718": 4652
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4131,
+      "404": 4132,
+      "477": 4635,
+      "573": 4635,
+      "718": 4649
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4166,
+      "404": 4167,
+      "477": 4670,
+      "573": 4670,
+      "718": 4684
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4144,
+      "404": 4145,
+      "477": 4648,
+      "573": 4648,
+      "718": 4662
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4118,
+      "404": 4119,
+      "477": 4622,
+      "573": 4622,
+      "718": 4636
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4135,
+      "404": 4136,
+      "477": 4639,
+      "573": 4639,
+      "718": 4653
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4156,
+      "404": 4157,
+      "477": 4660,
+      "573": 4660,
+      "718": 4674
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4151,
+      "404": 4152,
+      "477": 4655,
+      "573": 4655,
+      "718": 4669
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4157,
+      "404": 4158,
+      "477": 4661,
+      "573": 4661,
+      "718": 4675
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4154,
+      "404": 4155,
+      "477": 4658,
+      "573": 4658,
+      "718": 4672
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4147,
+      "404": 4148,
+      "477": 4651,
+      "573": 4651,
+      "718": 4665
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4175,
+      "404": 4176,
+      "477": 4679,
+      "573": 4679,
+      "718": 4693
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4128,
+      "404": 4129,
+      "477": 4632,
+      "573": 4632,
+      "718": 4646
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4121,
+      "404": 4122,
+      "477": 4625,
+      "573": 4625,
+      "718": 4639
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4129,
+      "404": 4130,
+      "477": 4633,
+      "573": 4633,
+      "718": 4647
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4142,
+      "404": 4143,
+      "477": 4646,
+      "573": 4646,
+      "718": 4660
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4161,
+      "404": 4162,
+      "477": 4665,
+      "573": 4665,
+      "718": 4679
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4153,
+      "404": 4154,
+      "477": 4657,
+      "573": 4657,
+      "718": 4671
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4136,
+      "404": 4137,
+      "477": 4640,
+      "573": 4640,
+      "718": 4654
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4155,
+      "404": 4156,
+      "477": 4659,
+      "573": 4659,
+      "718": 4673
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4152,
+      "404": 4153,
+      "477": 4656,
+      "573": 4656,
+      "718": 4670
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4169,
+      "404": 4170,
+      "477": 4673,
+      "573": 4673,
+      "718": 4687
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4137,
+      "404": 4138,
+      "477": 4641,
+      "573": 4641,
+      "718": 4655
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4163,
+      "404": 4164,
+      "477": 4667,
+      "573": 4667,
+      "718": 4681
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4145,
+      "404": 4146,
+      "477": 4649,
+      "573": 4649,
+      "718": 4663
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4115,
+      "4": 1599,
+      "404": 4116,
+      "477": 4619,
+      "573": 4619,
+      "718": 4633
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4174,
+      "404": 4175,
+      "477": 4678,
+      "573": 4678,
+      "718": 4692
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4171,
+      "404": 4172,
+      "477": 4675,
+      "573": 4675,
+      "718": 4689
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4120,
+      "404": 4121,
+      "477": 4624,
+      "573": 4624,
+      "718": 4638
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4138,
+      "404": 4139,
+      "477": 4642,
+      "573": 4642,
+      "718": 4656
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4117,
+      "404": 4118,
+      "477": 4621,
+      "573": 4621,
+      "718": 4635
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4158,
+      "404": 4159,
+      "477": 4662,
+      "573": 4662,
+      "718": 4676
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4140,
+      "404": 4141,
+      "477": 4644,
+      "573": 4644,
+      "718": 4658
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4173,
+      "404": 4174,
+      "477": 4677,
+      "573": 4677,
+      "718": 4691
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4127,
+      "404": 4128,
+      "477": 4631,
+      "573": 4631,
+      "718": 4645
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4167,
+      "404": 4168,
+      "477": 4671,
+      "573": 4671,
+      "718": 4685
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4141,
+      "404": 4142,
+      "477": 4645,
+      "573": 4645,
+      "718": 4659
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4123,
+      "404": 4124,
+      "477": 4627,
+      "573": 4627,
+      "718": 4641
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4143,
+      "404": 4144,
+      "477": 4647,
+      "573": 4647,
+      "718": 4661
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4162,
+      "404": 4163,
+      "477": 4666,
+      "573": 4666,
+      "718": 4680
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4133,
+      "404": 4134,
+      "477": 4637,
+      "573": 4637,
+      "718": 4651
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4164,
+      "404": 4165,
+      "477": 4668,
+      "573": 4668,
+      "718": 4682
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4149,
+      "4": 1610,
+      "404": 4150,
+      "477": 4653,
+      "573": 4653,
+      "718": 4667
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=true,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4126,
+      "404": 4127,
+      "477": 4630,
+      "573": 4630,
+      "718": 4644
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4165,
+      "404": 4166,
+      "477": 4669,
+      "573": 4669,
+      "718": 4683
+    }
+  },
+  {
+    "name": "minecraft:mushroom_stem[down=false,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4160,
+      "404": 4161,
+      "477": 4664,
+      "573": 4664,
+      "718": 4678
+    }
+  }
+]

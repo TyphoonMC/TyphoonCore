@@ -1,0 +1,658 @@
+[
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6505,
+      "4": 2676,
+      "404": 6506,
+      "477": 7012,
+      "573": 7012,
+      "718": 7548
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6496,
+      "404": 6497,
+      "477": 7003,
+      "573": 7003,
+      "718": 7539
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6520,
+      "404": 6521,
+      "477": 7027,
+      "573": 7027,
+      "718": 7563
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6540,
+      "404": 6541,
+      "477": 7047,
+      "573": 7047,
+      "718": 7583
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6511,
+      "404": 6512,
+      "477": 7018,
+      "573": 7018,
+      "718": 7554
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6497,
+      "4": 2684,
+      "404": 6498,
+      "477": 7004,
+      "573": 7004,
+      "718": 7540
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6537,
+      "4": 2678,
+      "404": 6538,
+      "477": 7044,
+      "573": 7044,
+      "718": 7580
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6542,
+      "404": 6543,
+      "477": 7049,
+      "573": 7049,
+      "718": 7585
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6501,
+      "4": 2680,
+      "404": 6502,
+      "477": 7008,
+      "573": 7008,
+      "718": 7544
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6500,
+      "404": 6501,
+      "477": 7007,
+      "573": 7007,
+      "718": 7543
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6522,
+      "404": 6523,
+      "477": 7029,
+      "573": 7029,
+      "718": 7565
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6528,
+      "404": 6529,
+      "477": 7035,
+      "573": 7035,
+      "718": 7571
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6551,
+      "404": 6552,
+      "477": 7058,
+      "573": 7058,
+      "718": 7594
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6557,
+      "4": 2675,
+      "404": 6558,
+      "477": 7064,
+      "573": 7064,
+      "718": 7600
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6515,
+      "404": 6516,
+      "477": 7022,
+      "573": 7022,
+      "718": 7558
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6498,
+      "404": 6499,
+      "477": 7005,
+      "573": 7005,
+      "718": 7541
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6555,
+      "404": 6556,
+      "477": 7062,
+      "573": 7062,
+      "718": 7598
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6535,
+      "404": 6536,
+      "477": 7042,
+      "573": 7042,
+      "718": 7578
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6514,
+      "404": 6515,
+      "477": 7021,
+      "573": 7021,
+      "718": 7557
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6543,
+      "404": 6544,
+      "477": 7050,
+      "573": 7050,
+      "718": 7586
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6503,
+      "404": 6504,
+      "477": 7010,
+      "573": 7010,
+      "718": 7546
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6506,
+      "404": 6507,
+      "477": 7013,
+      "573": 7013,
+      "718": 7549
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6553,
+      "4": 2679,
+      "404": 6554,
+      "477": 7060,
+      "573": 7060,
+      "718": 7596
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6525,
+      "4": 2673,
+      "404": 6526,
+      "477": 7032,
+      "573": 7032,
+      "718": 7568
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6499,
+      "404": 6500,
+      "477": 7006,
+      "573": 7006,
+      "718": 7542
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6546,
+      "404": 6547,
+      "477": 7053,
+      "573": 7053,
+      "718": 7589
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6534,
+      "404": 6535,
+      "477": 7041,
+      "573": 7041,
+      "718": 7577
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6516,
+      "404": 6517,
+      "477": 7023,
+      "573": 7023,
+      "718": 7559
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6494,
+      "404": 6495,
+      "477": 7001,
+      "573": 7001,
+      "718": 7537
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6539,
+      "404": 6540,
+      "477": 7046,
+      "573": 7046,
+      "718": 7582
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6519,
+      "404": 6520,
+      "477": 7026,
+      "573": 7026,
+      "718": 7562
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6507,
+      "404": 6508,
+      "477": 7014,
+      "573": 7014,
+      "718": 7550
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6552,
+      "404": 6553,
+      "477": 7059,
+      "573": 7059,
+      "718": 7595
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6531,
+      "404": 6532,
+      "477": 7038,
+      "573": 7038,
+      "718": 7574
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6513,
+      "4": 2685,
+      "404": 6514,
+      "477": 7020,
+      "573": 7020,
+      "718": 7556
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6527,
+      "404": 6528,
+      "477": 7034,
+      "573": 7034,
+      "718": 7570
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6518,
+      "404": 6519,
+      "477": 7025,
+      "573": 7025,
+      "718": 7561
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6532,
+      "404": 6533,
+      "477": 7039,
+      "573": 7039,
+      "718": 7575
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6529,
+      "4": 2686,
+      "404": 6530,
+      "477": 7036,
+      "573": 7036,
+      "718": 7572
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6508,
+      "404": 6509,
+      "477": 7015,
+      "573": 7015,
+      "718": 7551
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6502,
+      "404": 6503,
+      "477": 7009,
+      "573": 7009,
+      "718": 7545
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6556,
+      "404": 6557,
+      "477": 7063,
+      "573": 7063,
+      "718": 7599
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6544,
+      "404": 6545,
+      "477": 7051,
+      "573": 7051,
+      "718": 7587
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6533,
+      "4": 2682,
+      "404": 6534,
+      "477": 7040,
+      "573": 7040,
+      "718": 7576
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6504,
+      "404": 6505,
+      "477": 7011,
+      "573": 7011,
+      "718": 7547
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6509,
+      "4": 2672,
+      "404": 6510,
+      "477": 7016,
+      "573": 7016,
+      "718": 7552
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6536,
+      "404": 6537,
+      "477": 7043,
+      "573": 7043,
+      "718": 7579
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6521,
+      "4": 2677,
+      "404": 6522,
+      "477": 7028,
+      "573": 7028,
+      "718": 7564
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6541,
+      "4": 2674,
+      "404": 6542,
+      "477": 7048,
+      "573": 7048,
+      "718": 7584
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6510,
+      "404": 6511,
+      "477": 7017,
+      "573": 7017,
+      "718": 7553
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6550,
+      "404": 6551,
+      "477": 7057,
+      "573": 7057,
+      "718": 7593
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6524,
+      "404": 6525,
+      "477": 7031,
+      "573": 7031,
+      "718": 7567
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6545,
+      "4": 2687,
+      "404": 6546,
+      "477": 7052,
+      "573": 7052,
+      "718": 7588
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6548,
+      "404": 6549,
+      "477": 7055,
+      "573": 7055,
+      "718": 7591
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6554,
+      "404": 6555,
+      "477": 7061,
+      "573": 7061,
+      "718": 7597
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6547,
+      "404": 6548,
+      "477": 7054,
+      "573": 7054,
+      "718": 7590
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6549,
+      "4": 2683,
+      "404": 6550,
+      "477": 7056,
+      "573": 7056,
+      "718": 7592
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6526,
+      "404": 6527,
+      "477": 7033,
+      "573": 7033,
+      "718": 7569
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6523,
+      "404": 6524,
+      "477": 7030,
+      "573": 7030,
+      "718": 7566
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 6517,
+      "4": 2681,
+      "404": 6518,
+      "477": 7024,
+      "573": 7024,
+      "718": 7560
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6530,
+      "404": 6531,
+      "477": 7037,
+      "573": 7037,
+      "718": 7573
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 6538,
+      "404": 6539,
+      "477": 7045,
+      "573": 7045,
+      "718": 7581
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 6512,
+      "404": 6513,
+      "477": 7019,
+      "573": 7019,
+      "718": 7555
+    }
+  },
+  {
+    "name": "minecraft:iron_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 6495,
+      "404": 6496,
+      "477": 7002,
+      "573": 7002,
+      "718": 7538
+    }
+  }
+]

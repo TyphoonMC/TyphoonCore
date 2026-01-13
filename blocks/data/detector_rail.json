@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:detector_rail[powered=false,shape=ascending_west]",
+    "ids": {
+      "393": 1025,
+      "4": 451,
+      "404": 1025,
+      "477": 1325,
+      "573": 1325,
+      "718": 1326
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=true,shape=ascending_west]",
+    "ids": {
+      "393": 1019,
+      "4": 459,
+      "404": 1019,
+      "477": 1319,
+      "573": 1319,
+      "718": 1320
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=true,shape=east_west]",
+    "ids": {
+      "393": 1017,
+      "4": 457,
+      "404": 1017,
+      "477": 1317,
+      "573": 1317,
+      "718": 1318
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=false,shape=ascending_north]",
+    "ids": {
+      "393": 1026,
+      "4": 452,
+      "404": 1026,
+      "477": 1326,
+      "573": 1326,
+      "718": 1327
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=false,shape=ascending_east]",
+    "ids": {
+      "393": 1024,
+      "4": 450,
+      "404": 1024,
+      "477": 1324,
+      "573": 1324,
+      "718": 1325
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=false,shape=east_west]",
+    "ids": {
+      "393": 1023,
+      "4": 449,
+      "404": 1023,
+      "477": 1323,
+      "573": 1323,
+      "718": 1324
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=false,shape=north_south]",
+    "ids": {
+      "393": 1022,
+      "4": 448,
+      "404": 1022,
+      "477": 1322,
+      "573": 1322,
+      "718": 1323
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=false,shape=ascending_south]",
+    "ids": {
+      "393": 1027,
+      "4": 453,
+      "404": 1027,
+      "477": 1327,
+      "573": 1327,
+      "718": 1328
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=true,shape=ascending_south]",
+    "ids": {
+      "393": 1021,
+      "4": 461,
+      "404": 1021,
+      "477": 1321,
+      "573": 1321,
+      "718": 1322
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=true,shape=ascending_east]",
+    "ids": {
+      "393": 1018,
+      "4": 458,
+      "404": 1018,
+      "477": 1318,
+      "573": 1318,
+      "718": 1319
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=true,shape=ascending_north]",
+    "ids": {
+      "393": 1020,
+      "4": 460,
+      "404": 1020,
+      "477": 1320,
+      "573": 1320,
+      "718": 1321
+    }
+  },
+  {
+    "name": "minecraft:detector_rail[powered=true,shape=north_south]",
+    "ids": {
+      "393": 1016,
+      "4": 456,
+      "404": 1016,
+      "477": 1316,
+      "573": 1316,
+      "718": 1317
+    }
+  }
+]

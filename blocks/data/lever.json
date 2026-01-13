@@ -1,0 +1,258 @@
+[
+  {
+    "name": "minecraft:lever[face=ceiling,facing=south,powered=false]",
+    "ids": {
+      "393": 3296,
+      "404": 3297,
+      "477": 3800,
+      "573": 3800,
+      "718": 3802
+    }
+  },
+  {
+    "name": "minecraft:lever[face=wall,facing=north,powered=true]",
+    "ids": {
+      "393": 3285,
+      "4": 1116,
+      "404": 3286,
+      "477": 3789,
+      "573": 3789,
+      "718": 3791
+    }
+  },
+  {
+    "name": "minecraft:lever[face=floor,facing=east,powered=false]",
+    "ids": {
+      "393": 3284,
+      "404": 3285,
+      "477": 3788,
+      "573": 3788,
+      "718": 3790
+    }
+  },
+  {
+    "name": "minecraft:lever[face=floor,facing=west,powered=false]",
+    "ids": {
+      "393": 3282,
+      "4": 1110,
+      "404": 3283,
+      "477": 3786,
+      "573": 3786,
+      "718": 3788
+    }
+  },
+  {
+    "name": "minecraft:lever[face=wall,facing=west,powered=true]",
+    "ids": {
+      "393": 3289,
+      "4": 1114,
+      "404": 3290,
+      "477": 3793,
+      "573": 3793,
+      "718": 3795
+    }
+  },
+  {
+    "name": "minecraft:lever[face=ceiling,facing=west,powered=false]",
+    "ids": {
+      "393": 3298,
+      "4": 1104,
+      "404": 3299,
+      "477": 3802,
+      "573": 3802,
+      "718": 3804
+    }
+  },
+  {
+    "name": "minecraft:lever[face=ceiling,facing=east,powered=true]",
+    "ids": {
+      "393": 3299,
+      "404": 3300,
+      "477": 3803,
+      "573": 3803,
+      "718": 3805
+    }
+  },
+  {
+    "name": "minecraft:lever[face=ceiling,facing=north,powered=false]",
+    "ids": {
+      "393": 3294,
+      "4": 1111,
+      "404": 3295,
+      "477": 3798,
+      "573": 3798,
+      "718": 3800
+    }
+  },
+  {
+    "name": "minecraft:lever[face=floor,facing=east,powered=true]",
+    "ids": {
+      "393": 3283,
+      "404": 3284,
+      "477": 3787,
+      "573": 3787,
+      "718": 3789
+    }
+  },
+  {
+    "name": "minecraft:lever[face=floor,facing=north,powered=true]",
+    "ids": {
+      "393": 3277,
+      "4": 1117,
+      "404": 3278,
+      "477": 3781,
+      "573": 3781,
+      "718": 3783
+    }
+  },
+  {
+    "name": "minecraft:lever[face=ceiling,facing=south,powered=true]",
+    "ids": {
+      "393": 3295,
+      "404": 3296,
+      "477": 3799,
+      "573": 3799,
+      "718": 3801
+    }
+  },
+  {
+    "name": "minecraft:lever[face=floor,facing=north,powered=false]",
+    "ids": {
+      "393": 3278,
+      "4": 1109,
+      "404": 3279,
+      "477": 3782,
+      "573": 3782,
+      "718": 3784
+    }
+  },
+  {
+    "name": "minecraft:lever[face=ceiling,facing=north,powered=true]",
+    "ids": {
+      "393": 3293,
+      "4": 1119,
+      "404": 3294,
+      "477": 3797,
+      "573": 3797,
+      "718": 3799
+    }
+  },
+  {
+    "name": "minecraft:lever[face=ceiling,facing=east,powered=false]",
+    "ids": {
+      "393": 3300,
+      "404": 3301,
+      "477": 3804,
+      "573": 3804,
+      "718": 3806
+    }
+  },
+  {
+    "name": "minecraft:lever[face=wall,facing=north,powered=false]",
+    "ids": {
+      "393": 3286,
+      "4": 1108,
+      "404": 3287,
+      "477": 3790,
+      "573": 3790,
+      "718": 3792
+    }
+  },
+  {
+    "name": "minecraft:lever[face=wall,facing=west,powered=false]",
+    "ids": {
+      "393": 3290,
+      "4": 1106,
+      "404": 3291,
+      "477": 3794,
+      "573": 3794,
+      "718": 3796
+    }
+  },
+  {
+    "name": "minecraft:lever[face=floor,facing=south,powered=false]",
+    "ids": {
+      "393": 3280,
+      "404": 3281,
+      "477": 3784,
+      "573": 3784,
+      "718": 3786
+    }
+  },
+  {
+    "name": "minecraft:lever[face=floor,facing=west,powered=true]",
+    "ids": {
+      "393": 3281,
+      "4": 1118,
+      "404": 3282,
+      "477": 3785,
+      "573": 3785,
+      "718": 3787
+    }
+  },
+  {
+    "name": "minecraft:lever[face=floor,facing=south,powered=true]",
+    "ids": {
+      "393": 3279,
+      "404": 3280,
+      "477": 3783,
+      "573": 3783,
+      "718": 3785
+    }
+  },
+  {
+    "name": "minecraft:lever[face=wall,facing=south,powered=false]",
+    "ids": {
+      "393": 3288,
+      "4": 1107,
+      "404": 3289,
+      "477": 3792,
+      "573": 3792,
+      "718": 3794
+    }
+  },
+  {
+    "name": "minecraft:lever[face=wall,facing=east,powered=true]",
+    "ids": {
+      "393": 3291,
+      "4": 1113,
+      "404": 3292,
+      "477": 3795,
+      "573": 3795,
+      "718": 3797
+    }
+  },
+  {
+    "name": "minecraft:lever[face=wall,facing=east,powered=false]",
+    "ids": {
+      "393": 3292,
+      "4": 1105,
+      "404": 3293,
+      "477": 3796,
+      "573": 3796,
+      "718": 3798
+    }
+  },
+  {
+    "name": "minecraft:lever[face=ceiling,facing=west,powered=true]",
+    "ids": {
+      "393": 3297,
+      "4": 1112,
+      "404": 3298,
+      "477": 3801,
+      "573": 3801,
+      "718": 3803
+    }
+  },
+  {
+    "name": "minecraft:lever[face=wall,facing=south,powered=true]",
+    "ids": {
+      "393": 3287,
+      "4": 1115,
+      "404": 3288,
+      "477": 3791,
+      "573": 3791,
+      "718": 3793
+    }
+  }
+]

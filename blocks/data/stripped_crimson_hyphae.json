@@ -1,0 +1,20 @@
+[
+  {
+    "name": "minecraft:stripped_crimson_hyphae[axis=x]",
+    "ids": {
+      "718": 14984
+    }
+  },
+  {
+    "name": "minecraft:stripped_crimson_hyphae[axis=y]",
+    "ids": {
+      "718": 14985
+    }
+  },
+  {
+    "name": "minecraft:stripped_crimson_hyphae[axis=z]",
+    "ids": {
+      "718": 14986
+    }
+  }
+]

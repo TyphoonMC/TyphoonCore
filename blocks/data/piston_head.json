@@ -1,0 +1,254 @@
+[
+  {
+    "name": "minecraft:piston_head[facing=south,short=true,type=normal]",
+    "ids": {
+      "393": 1067,
+      "404": 1067,
+      "477": 1367,
+      "573": 1367,
+      "718": 1368
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=west,short=true,type=normal]",
+    "ids": {
+      "393": 1071,
+      "404": 1071,
+      "477": 1371,
+      "573": 1371,
+      "718": 1372
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=west,short=false,type=sticky]",
+    "ids": {
+      "393": 1074,
+      "4": 556,
+      "404": 1074,
+      "477": 1374,
+      "573": 1374,
+      "718": 1375
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=up,short=true,type=normal]",
+    "ids": {
+      "393": 1075,
+      "404": 1075,
+      "477": 1375,
+      "573": 1375,
+      "718": 1376
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=down,short=true,type=sticky]",
+    "ids": {
+      "393": 1080,
+      "404": 1080,
+      "477": 1380,
+      "573": 1380,
+      "718": 1381
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=south,short=true,type=sticky]",
+    "ids": {
+      "393": 1068,
+      "404": 1068,
+      "477": 1368,
+      "573": 1368,
+      "718": 1369
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=east,short=true,type=normal]",
+    "ids": {
+      "393": 1063,
+      "404": 1063,
+      "477": 1363,
+      "573": 1363,
+      "718": 1364
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=south,short=false,type=normal]",
+    "ids": {
+      "393": 1069,
+      "4": 547,
+      "404": 1069,
+      "477": 1369,
+      "573": 1369,
+      "718": 1370
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=up,short=false,type=normal]",
+    "ids": {
+      "393": 1077,
+      "4": 545,
+      "404": 1077,
+      "477": 1377,
+      "573": 1377,
+      "718": 1378
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=north,short=false,type=sticky]",
+    "ids": {
+      "393": 1062,
+      "4": 554,
+      "404": 1062,
+      "477": 1362,
+      "573": 1362,
+      "718": 1363
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=north,short=true,type=normal]",
+    "ids": {
+      "393": 1059,
+      "404": 1059,
+      "477": 1359,
+      "573": 1359,
+      "718": 1360
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=east,short=true,type=sticky]",
+    "ids": {
+      "393": 1064,
+      "404": 1064,
+      "477": 1364,
+      "573": 1364,
+      "718": 1365
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=east,short=false,type=normal]",
+    "ids": {
+      "393": 1065,
+      "4": 549,
+      "404": 1065,
+      "477": 1365,
+      "573": 1365,
+      "718": 1366
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=down,short=true,type=normal]",
+    "ids": {
+      "393": 1079,
+      "404": 1079,
+      "477": 1379,
+      "573": 1379,
+      "718": 1380
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=down,short=false,type=sticky]",
+    "ids": {
+      "393": 1082,
+      "4": 552,
+      "404": 1082,
+      "477": 1382,
+      "573": 1382,
+      "718": 1383
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=north,short=true,type=sticky]",
+    "ids": {
+      "393": 1060,
+      "404": 1060,
+      "477": 1360,
+      "573": 1360,
+      "718": 1361
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=up,short=false,type=sticky]",
+    "ids": {
+      "393": 1078,
+      "4": 553,
+      "404": 1078,
+      "477": 1378,
+      "573": 1378,
+      "718": 1379
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=west,short=true,type=sticky]",
+    "ids": {
+      "393": 1072,
+      "404": 1072,
+      "477": 1372,
+      "573": 1372,
+      "718": 1373
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=east,short=false,type=sticky]",
+    "ids": {
+      "393": 1066,
+      "4": 557,
+      "404": 1066,
+      "477": 1366,
+      "573": 1366,
+      "718": 1367
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=down,short=false,type=normal]",
+    "ids": {
+      "393": 1081,
+      "4": 544,
+      "404": 1081,
+      "477": 1381,
+      "573": 1381,
+      "718": 1382
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=north,short=false,type=normal]",
+    "ids": {
+      "393": 1061,
+      "4": 546,
+      "404": 1061,
+      "477": 1361,
+      "573": 1361,
+      "718": 1362
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=up,short=true,type=sticky]",
+    "ids": {
+      "393": 1076,
+      "404": 1076,
+      "477": 1376,
+      "573": 1376,
+      "718": 1377
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=south,short=false,type=sticky]",
+    "ids": {
+      "393": 1070,
+      "4": 555,
+      "404": 1070,
+      "477": 1370,
+      "573": 1370,
+      "718": 1371
+    }
+  },
+  {
+    "name": "minecraft:piston_head[facing=west,short=false,type=normal]",
+    "ids": {
+      "393": 1073,
+      "4": 548,
+      "404": 1073,
+      "477": 1373,
+      "573": 1373,
+      "718": 1374
+    }
+  }
+]

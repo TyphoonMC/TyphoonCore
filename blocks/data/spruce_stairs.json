@@ -1,0 +1,810 @@
+[
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4950,
+      "404": 4951,
+      "477": 5454,
+      "573": 5454,
+      "718": 5470
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4957,
+      "404": 4958,
+      "477": 5461,
+      "573": 5461,
+      "718": 5477
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4952,
+      "404": 4953,
+      "477": 5456,
+      "573": 5456,
+      "718": 5472
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4915,
+      "4": 2146,
+      "404": 4916,
+      "477": 5419,
+      "573": 5419,
+      "718": 5435
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4900,
+      "404": 4901,
+      "477": 5404,
+      "573": 5404,
+      "718": 5420
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4938,
+      "404": 4939,
+      "477": 5442,
+      "573": 5442,
+      "718": 5458
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4922,
+      "404": 4923,
+      "477": 5426,
+      "573": 5426,
+      "718": 5442
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4918,
+      "404": 4919,
+      "477": 5422,
+      "573": 5422,
+      "718": 5438
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4920,
+      "404": 4921,
+      "477": 5424,
+      "573": 5424,
+      "718": 5440
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4942,
+      "404": 4943,
+      "477": 5446,
+      "573": 5446,
+      "718": 5462
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4884,
+      "404": 4885,
+      "477": 5388,
+      "573": 5388,
+      "718": 5404
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4944,
+      "404": 4945,
+      "477": 5448,
+      "573": 5448,
+      "718": 5464
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4917,
+      "404": 4918,
+      "477": 5421,
+      "573": 5421,
+      "718": 5437
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4953,
+      "404": 4954,
+      "477": 5457,
+      "573": 5457,
+      "718": 5473
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4927,
+      "404": 4928,
+      "477": 5431,
+      "573": 5431,
+      "718": 5447
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4935,
+      "4": 2145,
+      "404": 4936,
+      "477": 5439,
+      "573": 5439,
+      "718": 5455
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4961,
+      "404": 4962,
+      "477": 5465,
+      "573": 5465,
+      "718": 5481
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4906,
+      "404": 4907,
+      "477": 5410,
+      "573": 5410,
+      "718": 5426
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4931,
+      "404": 4932,
+      "477": 5435,
+      "573": 5435,
+      "718": 5451
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4934,
+      "404": 4935,
+      "477": 5438,
+      "573": 5438,
+      "718": 5454
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4890,
+      "404": 4891,
+      "477": 5394,
+      "573": 5394,
+      "718": 5410
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4929,
+      "404": 4930,
+      "477": 5433,
+      "573": 5433,
+      "718": 5449
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4955,
+      "4": 2144,
+      "404": 4956,
+      "477": 5459,
+      "573": 5459,
+      "718": 5475
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4913,
+      "404": 4914,
+      "477": 5417,
+      "573": 5417,
+      "718": 5433
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4895,
+      "4": 2147,
+      "404": 4896,
+      "477": 5399,
+      "573": 5399,
+      "718": 5415
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4945,
+      "4": 2148,
+      "404": 4946,
+      "477": 5449,
+      "573": 5449,
+      "718": 5465
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4901,
+      "404": 4902,
+      "477": 5405,
+      "573": 5405,
+      "718": 5421
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4940,
+      "404": 4941,
+      "477": 5444,
+      "573": 5444,
+      "718": 5460
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4960,
+      "404": 4961,
+      "477": 5464,
+      "573": 5464,
+      "718": 5480
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4959,
+      "404": 4960,
+      "477": 5463,
+      "573": 5463,
+      "718": 5479
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4909,
+      "404": 4910,
+      "477": 5413,
+      "573": 5413,
+      "718": 5429
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4941,
+      "404": 4942,
+      "477": 5445,
+      "573": 5445,
+      "718": 5461
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4896,
+      "404": 4897,
+      "477": 5400,
+      "573": 5400,
+      "718": 5416
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4963,
+      "404": 4964,
+      "477": 5467,
+      "573": 5467,
+      "718": 5483
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4962,
+      "404": 4963,
+      "477": 5466,
+      "573": 5466,
+      "718": 5482
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4928,
+      "404": 4929,
+      "477": 5432,
+      "573": 5432,
+      "718": 5448
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4916,
+      "404": 4917,
+      "477": 5420,
+      "573": 5420,
+      "718": 5436
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4958,
+      "404": 4959,
+      "477": 5462,
+      "573": 5462,
+      "718": 5478
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4914,
+      "404": 4915,
+      "477": 5418,
+      "573": 5418,
+      "718": 5434
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4889,
+      "404": 4890,
+      "477": 5393,
+      "573": 5393,
+      "718": 5409
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4926,
+      "404": 4927,
+      "477": 5430,
+      "573": 5430,
+      "718": 5446
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4937,
+      "404": 4938,
+      "477": 5441,
+      "573": 5441,
+      "718": 5457
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4939,
+      "404": 4940,
+      "477": 5443,
+      "573": 5443,
+      "718": 5459
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4925,
+      "4": 2149,
+      "404": 4926,
+      "477": 5429,
+      "573": 5429,
+      "718": 5445
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4933,
+      "404": 4934,
+      "477": 5437,
+      "573": 5437,
+      "718": 5453
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4897,
+      "404": 4898,
+      "477": 5401,
+      "573": 5401,
+      "718": 5417
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4907,
+      "404": 4908,
+      "477": 5411,
+      "573": 5411,
+      "718": 5427
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4887,
+      "404": 4888,
+      "477": 5391,
+      "573": 5391,
+      "718": 5407
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4893,
+      "404": 4894,
+      "477": 5397,
+      "573": 5397,
+      "718": 5413
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4911,
+      "404": 4912,
+      "477": 5415,
+      "573": 5415,
+      "718": 5431
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4891,
+      "404": 4892,
+      "477": 5395,
+      "573": 5395,
+      "718": 5411
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4902,
+      "404": 4903,
+      "477": 5406,
+      "573": 5406,
+      "718": 5422
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4898,
+      "404": 4899,
+      "477": 5402,
+      "573": 5402,
+      "718": 5418
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4951,
+      "404": 4952,
+      "477": 5455,
+      "573": 5455,
+      "718": 5471
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4905,
+      "4": 2150,
+      "404": 4906,
+      "477": 5409,
+      "573": 5409,
+      "718": 5425
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4885,
+      "4": 2151,
+      "404": 4886,
+      "477": 5389,
+      "573": 5389,
+      "718": 5405
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4949,
+      "404": 4950,
+      "477": 5453,
+      "573": 5453,
+      "718": 5469
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4947,
+      "404": 4948,
+      "477": 5451,
+      "573": 5451,
+      "718": 5467
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4924,
+      "404": 4925,
+      "477": 5428,
+      "573": 5428,
+      "718": 5444
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4946,
+      "404": 4947,
+      "477": 5450,
+      "573": 5450,
+      "718": 5466
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4888,
+      "404": 4889,
+      "477": 5392,
+      "573": 5392,
+      "718": 5408
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4932,
+      "404": 4933,
+      "477": 5436,
+      "573": 5436,
+      "718": 5452
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4908,
+      "404": 4909,
+      "477": 5412,
+      "573": 5412,
+      "718": 5428
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4943,
+      "404": 4944,
+      "477": 5447,
+      "573": 5447,
+      "718": 5463
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4892,
+      "404": 4893,
+      "477": 5396,
+      "573": 5396,
+      "718": 5412
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4912,
+      "404": 4913,
+      "477": 5416,
+      "573": 5416,
+      "718": 5432
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4899,
+      "404": 4900,
+      "477": 5403,
+      "573": 5403,
+      "718": 5419
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4923,
+      "404": 4924,
+      "477": 5427,
+      "573": 5427,
+      "718": 5443
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4886,
+      "404": 4887,
+      "477": 5390,
+      "573": 5390,
+      "718": 5406
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4894,
+      "404": 4895,
+      "477": 5398,
+      "573": 5398,
+      "718": 5414
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4930,
+      "404": 4931,
+      "477": 5434,
+      "573": 5434,
+      "718": 5450
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4956,
+      "404": 4957,
+      "477": 5460,
+      "573": 5460,
+      "718": 5476
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4954,
+      "404": 4955,
+      "477": 5458,
+      "573": 5458,
+      "718": 5474
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4936,
+      "404": 4937,
+      "477": 5440,
+      "573": 5440,
+      "718": 5456
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4948,
+      "404": 4949,
+      "477": 5452,
+      "573": 5452,
+      "718": 5468
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4904,
+      "404": 4905,
+      "477": 5408,
+      "573": 5408,
+      "718": 5424
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4921,
+      "404": 4922,
+      "477": 5425,
+      "573": 5425,
+      "718": 5441
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4910,
+      "404": 4911,
+      "477": 5414,
+      "573": 5414,
+      "718": 5430
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4919,
+      "404": 4920,
+      "477": 5423,
+      "573": 5423,
+      "718": 5439
+    }
+  },
+  {
+    "name": "minecraft:spruce_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4903,
+      "404": 4904,
+      "477": 5407,
+      "573": 5407,
+      "718": 5423
+    }
+  }
+]

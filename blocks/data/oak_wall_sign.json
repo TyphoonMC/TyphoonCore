@@ -1,0 +1,74 @@
+[
+  {
+    "name": "minecraft:oak_wall_sign[facing=east,waterlogged=true]",
+    "ids": {
+      "404": 3276,
+      "477": 3739,
+      "573": 3739,
+      "718": 3741
+    }
+  },
+  {
+    "name": "minecraft:oak_wall_sign[facing=west,waterlogged=true]",
+    "ids": {
+      "404": 3274,
+      "477": 3737,
+      "573": 3737,
+      "718": 3739
+    }
+  },
+  {
+    "name": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+    "ids": {
+      "404": 3271,
+      "477": 3734,
+      "573": 3734,
+      "718": 3736
+    }
+  },
+  {
+    "name": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+    "ids": {
+      "404": 3275,
+      "477": 3738,
+      "573": 3738,
+      "718": 3740
+    }
+  },
+  {
+    "name": "minecraft:oak_wall_sign[facing=south,waterlogged=true]",
+    "ids": {
+      "404": 3272,
+      "477": 3735,
+      "573": 3735,
+      "718": 3737
+    }
+  },
+  {
+    "name": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+    "ids": {
+      "404": 3273,
+      "477": 3736,
+      "573": 3736,
+      "718": 3738
+    }
+  },
+  {
+    "name": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+    "ids": {
+      "404": 3277,
+      "477": 3740,
+      "573": 3740,
+      "718": 3742
+    }
+  },
+  {
+    "name": "minecraft:oak_wall_sign[facing=north,waterlogged=true]",
+    "ids": {
+      "404": 3270,
+      "477": 3733,
+      "573": 3733,
+      "718": 3735
+    }
+  }
+]

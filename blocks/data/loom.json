@@ -1,0 +1,34 @@
+[
+  {
+    "name": "minecraft:loom[facing=east]",
+    "ids": {
+      "477": 11134,
+      "573": 11134,
+      "718": 14790
+    }
+  },
+  {
+    "name": "minecraft:loom[facing=south]",
+    "ids": {
+      "477": 11132,
+      "573": 11132,
+      "718": 14788
+    }
+  },
+  {
+    "name": "minecraft:loom[facing=west]",
+    "ids": {
+      "477": 11133,
+      "573": 11133,
+      "718": 14789
+    }
+  },
+  {
+    "name": "minecraft:loom[facing=north]",
+    "ids": {
+      "477": 11131,
+      "573": 11131,
+      "718": 14787
+    }
+  }
+]

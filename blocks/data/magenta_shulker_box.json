@@ -1,0 +1,68 @@
+[
+  {
+    "name": "minecraft:magenta_shulker_box[facing=east]",
+    "ids": {
+      "393": 8230,
+      "4": 3541,
+      "404": 8231,
+      "477": 8755,
+      "573": 8755,
+      "718": 9291
+    }
+  },
+  {
+    "name": "minecraft:magenta_shulker_box[facing=west]",
+    "ids": {
+      "393": 8232,
+      "4": 3540,
+      "404": 8233,
+      "477": 8757,
+      "573": 8757,
+      "718": 9293
+    }
+  },
+  {
+    "name": "minecraft:magenta_shulker_box[facing=south]",
+    "ids": {
+      "393": 8231,
+      "4": 3539,
+      "404": 8232,
+      "477": 8756,
+      "573": 8756,
+      "718": 9292
+    }
+  },
+  {
+    "name": "minecraft:magenta_shulker_box[facing=north]",
+    "ids": {
+      "393": 8229,
+      "4": 3538,
+      "404": 8230,
+      "477": 8754,
+      "573": 8754,
+      "718": 9290
+    }
+  },
+  {
+    "name": "minecraft:magenta_shulker_box[facing=down]",
+    "ids": {
+      "393": 8234,
+      "4": 3536,
+      "404": 8235,
+      "477": 8759,
+      "573": 8759,
+      "718": 9295
+    }
+  },
+  {
+    "name": "minecraft:magenta_shulker_box[facing=up]",
+    "ids": {
+      "393": 8233,
+      "4": 3537,
+      "404": 8234,
+      "477": 8758,
+      "573": 8758,
+      "718": 9294
+    }
+  }
+]

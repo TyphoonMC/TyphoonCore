@@ -1,0 +1,68 @@
+[
+  {
+    "name": "minecraft:light_blue_shulker_box[facing=up]",
+    "ids": {
+      "393": 8239,
+      "4": 3553,
+      "404": 8240,
+      "477": 8764,
+      "573": 8764,
+      "718": 9300
+    }
+  },
+  {
+    "name": "minecraft:light_blue_shulker_box[facing=south]",
+    "ids": {
+      "393": 8237,
+      "4": 3555,
+      "404": 8238,
+      "477": 8762,
+      "573": 8762,
+      "718": 9298
+    }
+  },
+  {
+    "name": "minecraft:light_blue_shulker_box[facing=north]",
+    "ids": {
+      "393": 8235,
+      "4": 3554,
+      "404": 8236,
+      "477": 8760,
+      "573": 8760,
+      "718": 9296
+    }
+  },
+  {
+    "name": "minecraft:light_blue_shulker_box[facing=east]",
+    "ids": {
+      "393": 8236,
+      "4": 3557,
+      "404": 8237,
+      "477": 8761,
+      "573": 8761,
+      "718": 9297
+    }
+  },
+  {
+    "name": "minecraft:light_blue_shulker_box[facing=down]",
+    "ids": {
+      "393": 8240,
+      "4": 3552,
+      "404": 8241,
+      "477": 8765,
+      "573": 8765,
+      "718": 9301
+    }
+  },
+  {
+    "name": "minecraft:light_blue_shulker_box[facing=west]",
+    "ids": {
+      "393": 8238,
+      "4": 3556,
+      "404": 8239,
+      "477": 8763,
+      "573": 8763,
+      "718": 9299
+    }
+  }
+]

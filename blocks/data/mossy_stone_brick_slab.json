@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:mossy_stone_brick_slab[type=double,waterlogged=true]",
+    "ids": {
+      "477": 10269,
+      "573": 10269,
+      "718": 10805
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_slab[type=top,waterlogged=false]",
+    "ids": {
+      "477": 10266,
+      "573": 10266,
+      "718": 10802
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "477": 10267,
+      "573": 10267,
+      "718": 10803
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_slab[type=top,waterlogged=true]",
+    "ids": {
+      "477": 10265,
+      "573": 10265,
+      "718": 10801
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "477": 10268,
+      "573": 10268,
+      "718": 10804
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_slab[type=double,waterlogged=false]",
+    "ids": {
+      "477": 10270,
+      "573": 10270,
+      "718": 10806
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "minecraft:dead_horn_coral[waterlogged=false]",
+    "ids": {
+      "404": 8469,
+      "477": 8993,
+      "573": 8993,
+      "718": 9529
+    }
+  },
+  {
+    "name": "minecraft:dead_horn_coral[waterlogged=true]",
+    "ids": {
+      "404": 8468,
+      "477": 8992,
+      "573": 8992,
+      "718": 9528
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:activator_rail[powered=true,shape=north_south]",
+    "ids": {
+      "393": 5780,
+      "4": 2520,
+      "404": 5781,
+      "477": 6287,
+      "573": 6287,
+      "718": 6823
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=false,shape=north_south]",
+    "ids": {
+      "393": 5786,
+      "4": 2512,
+      "404": 5787,
+      "477": 6293,
+      "573": 6293,
+      "718": 6829
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=false,shape=east_west]",
+    "ids": {
+      "393": 5787,
+      "4": 2513,
+      "404": 5788,
+      "477": 6294,
+      "573": 6294,
+      "718": 6830
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=true,shape=ascending_east]",
+    "ids": {
+      "393": 5782,
+      "4": 2522,
+      "404": 5783,
+      "477": 6289,
+      "573": 6289,
+      "718": 6825
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=true,shape=ascending_north]",
+    "ids": {
+      "393": 5784,
+      "4": 2524,
+      "404": 5785,
+      "477": 6291,
+      "573": 6291,
+      "718": 6827
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=false,shape=ascending_east]",
+    "ids": {
+      "393": 5788,
+      "4": 2514,
+      "404": 5789,
+      "477": 6295,
+      "573": 6295,
+      "718": 6831
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=false,shape=ascending_west]",
+    "ids": {
+      "393": 5789,
+      "4": 2515,
+      "404": 5790,
+      "477": 6296,
+      "573": 6296,
+      "718": 6832
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=true,shape=east_west]",
+    "ids": {
+      "393": 5781,
+      "4": 2521,
+      "404": 5782,
+      "477": 6288,
+      "573": 6288,
+      "718": 6824
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=false,shape=ascending_north]",
+    "ids": {
+      "393": 5790,
+      "4": 2516,
+      "404": 5791,
+      "477": 6297,
+      "573": 6297,
+      "718": 6833
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=true,shape=ascending_south]",
+    "ids": {
+      "393": 5785,
+      "4": 2525,
+      "404": 5786,
+      "477": 6292,
+      "573": 6292,
+      "718": 6828
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=true,shape=ascending_west]",
+    "ids": {
+      "393": 5783,
+      "4": 2523,
+      "404": 5784,
+      "477": 6290,
+      "573": 6290,
+      "718": 6826
+    }
+  },
+  {
+    "name": "minecraft:activator_rail[powered=false,shape=ascending_south]",
+    "ids": {
+      "393": 5791,
+      "4": 2517,
+      "404": 5792,
+      "477": 6298,
+      "573": 6298,
+      "718": 6834
+    }
+  }
+]

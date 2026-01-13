@@ -5,11 +5,11 @@ import (
 	"compress/zlib"
 	"encoding/binary"
 	"fmt"
-	"log"
+	"log/slog"
 	"net"
 	"reflect"
 
-	uuid2 "github.com/TyphoonMC/go.uuid"
+	"github.com/google/uuid"
 	"github.com/seebs/nbt"
 )
 
@@ -215,9 +215,11 @@ type Position struct {
 }
 
 type Location struct {
-	X float64 `json:"x"`
-	Y float64 `json:"y"`
-	Z float64 `json:"z"`
+	X     float64 `json:"x"`
+	Y     float64 `json:"y"`
+	Z     float64 `json:"z"`
+	Yaw   float32 `json:"yaw"`
+	Pitch float32 `json:"pitch"`
 }
 
 func (loc *Location) ToPosition() *Position {
@@ -255,6 +257,22 @@ const (
 	V1_15_2 Protocol = 578
 	V1_16   Protocol = 735
 	V1_16_1 Protocol = 736
+	V1_16_2 Protocol = 751
+	V1_16_3 Protocol = 753
+	V1_16_4 Protocol = 754
+	V1_17   Protocol = 755
+	V1_17_1 Protocol = 756
+	V1_18   Protocol = 757
+	V1_18_2 Protocol = 758
+	V1_19   Protocol = 759
+	V1_19_1 Protocol = 760
+	V1_19_3 Protocol = 761
+	V1_19_4 Protocol = 762
+	V1_20   Protocol = 763
+	V1_20_2 Protocol = 764
+	V1_20_3 Protocol = 765
+	V1_20_5 Protocol = 766
+	V1_21   Protocol = 767
 )
 
 var (
@@ -264,21 +282,16 @@ var (
 		V1_9, V1_9_1, V1_9_2, V1_9_3,
 		V1_10,
 		V1_11, V1_11_1,
-		V1_12, V1_12_1,
-		V1_12_2,
-		V1_13,
-		V1_13_1,
-		V1_13_2,
-		V1_14,
-		V1_14_1,
-		V1_14_2,
-		V1_14_3,
-		V1_14_4,
-		V1_15,
-		V1_15_1,
-		V1_15_2,
-		V1_16,
-		V1_16_1,
+		V1_12, V1_12_1, V1_12_2,
+		V1_13, V1_13_1, V1_13_2,
+		V1_14, V1_14_1, V1_14_2, V1_14_3, V1_14_4,
+		V1_15, V1_15_1, V1_15_2,
+		V1_16, V1_16_1, V1_16_2, V1_16_3, V1_16_4,
+		V1_17, V1_17_1,
+		V1_18, V1_18_2,
+		V1_19, V1_19_1, V1_19_3, V1_19_4,
+		V1_20, V1_20_2, V1_20_3, V1_20_5,
+		V1_21,
 	}
 )
 
@@ -309,18 +322,36 @@ type Player struct {
 	protocol     Protocol
 	inaddr       InAddr
 	name         string
-	uuid         uuid2.UUID
+	uuid         uuid.UUID
 	keepalive    int
 	compression  bool
 	packetsQueue chan Packet
+	location     Location
+	onGround     bool
 }
 
 func (player *Player) GetName() string {
 	return player.name
 }
 
-func (player *Player) GetUUID() uuid2.UUID {
+func (player *Player) GetUUID() uuid.UUID {
 	return player.uuid
+}
+
+func (player *Player) GetLocation() Location {
+	return player.location
+}
+
+func (player *Player) SetLocation(loc Location) {
+	player.location = loc
+}
+
+func (player *Player) IsOnGround() bool {
+	return player.onGround
+}
+
+func (player *Player) SetOnGround(onGround bool) {
+	player.onGround = onGround
 }
 
 func (player *Player) ReadPacket() (packet Packet, err error) {
@@ -350,7 +381,7 @@ func (player *Player) ReadPacketWithoutCompression() (packet Packet, err error) 
 		return
 	} else if packet != nil {
 		if config.Logs {
-			log.Printf("#%d -> %d %s %s", player.id, id, reflect.TypeOf(packet), fmt.Sprint(packet))
+			slog.Debug("packet received", "player", player.id, "id", id, "type", reflect.TypeOf(packet), "data", fmt.Sprint(packet))
 		}
 		packet.Handle(player)
 	}
@@ -389,7 +420,7 @@ func (player *Player) ReadPacketWithCompression() (packet Packet, err error) {
 			return
 		} else if packet != nil {
 			if config.Logs {
-				log.Printf("#%d u-> %d %s %s", player.id, id, reflect.TypeOf(packet), fmt.Sprint(packet))
+				slog.Debug("packet received (uncompressed)", "player", player.id, "id", id, "type", reflect.TypeOf(packet), "data", fmt.Sprint(packet))
 			}
 			packet.Handle(player)
 		}
@@ -425,7 +456,7 @@ func (player *Player) ReadPacketWithCompression() (packet Packet, err error) {
 			return nil, err
 		} else if packet != nil {
 			if config.Logs {
-				log.Printf("#%d c-> %d %s %s", player.id, id, reflect.TypeOf(packet), fmt.Sprint(packet))
+				slog.Debug("packet received (compressed)", "player", player.id, "id", id, "type", reflect.TypeOf(packet), "data", fmt.Sprint(packet))
 			}
 			packet.Handle(player)
 		}
@@ -472,7 +503,7 @@ func (player *Player) WritePacketWithoutCompression(packet Packet) (err error) {
 	player.conn.Write(buff.Bytes())
 
 	if config.Logs {
-		log.Printf("#%d <- %d %s %s", player.id, id, reflect.TypeOf(packet), fmt.Sprint(packet))
+		slog.Debug("packet sent", "player", player.id, "id", id, "type", reflect.TypeOf(packet), "data", fmt.Sprint(packet))
 	}
 	return nil
 }
@@ -524,9 +555,9 @@ func (player *Player) WritePacketWithCompression(packet Packet) (err error) {
 
 	if config.Logs {
 		if buff.Len() < config.Threshold {
-			log.Println("<-u", id, reflect.TypeOf(packet), packet)
+			slog.Debug("packet sent (uncompressed)", "id", id, "type", reflect.TypeOf(packet), "data", packet)
 		} else {
-			log.Println("<-c", id, reflect.TypeOf(packet), packet)
+			slog.Debug("packet sent (compressed)", "id", id, "type", reflect.TypeOf(packet), "data", packet)
 		}
 	}
 	return nil

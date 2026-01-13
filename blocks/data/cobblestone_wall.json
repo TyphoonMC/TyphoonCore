@@ -1,0 +1,2523 @@
+[
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5659
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5889
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5715
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5149,
+      "404": 5150,
+      "477": 5653,
+      "573": 5653
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5750
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5682
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5826
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5741
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5914
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5841
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5796
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5966
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5678
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5911
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5928
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5182,
+      "404": 5183,
+      "477": 5686,
+      "573": 5686
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5798
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5186,
+      "404": 5187,
+      "477": 5690,
+      "573": 5690
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5748
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5156,
+      "404": 5157,
+      "477": 5660,
+      "573": 5660
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5705
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5897
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5934
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5884
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5692
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5169,
+      "404": 5170,
+      "477": 5673,
+      "573": 5673
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5877
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5726
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5801
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5160,
+      "404": 5161,
+      "477": 5664,
+      "573": 5664
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5849
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5869
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5894
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5694
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5918
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5879
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5925
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5977
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5689
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5710
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5975
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5881
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5720
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5147,
+      "404": 5148,
+      "477": 5651,
+      "573": 5651
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5952
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5842
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5687
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5886
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5965
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5190,
+      "404": 5191,
+      "477": 5694,
+      "573": 5694
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5665
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5953
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5903
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5913
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5976
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5714
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5663
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5946
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5905
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5951
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5764
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5846
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5735
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5717
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5887
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5713
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5744
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5738
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5737
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5772
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5941
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5890
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5839
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5759
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5192,
+      "404": 5193,
+      "477": 5696,
+      "573": 5696
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5923
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5143,
+      "404": 5144,
+      "477": 5647,
+      "573": 5647
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5832
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5168,
+      "404": 5169,
+      "477": 5672,
+      "573": 5672
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5799
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5971
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5891
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5761
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5140,
+      "404": 5141,
+      "477": 5644,
+      "573": 5644
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5874
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5188,
+      "404": 5189,
+      "477": 5692,
+      "573": 5692
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5819
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5193,
+      "404": 5194,
+      "477": 5697,
+      "573": 5697
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5860
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5742
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5163,
+      "404": 5164,
+      "477": 5667,
+      "573": 5667
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5674
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5907
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5824
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5695
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5828
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5843
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5667
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5955
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5778
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5883
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5138,
+      "404": 5139,
+      "477": 5642,
+      "573": 5642
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5802
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5675
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5978
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5159,
+      "404": 5160,
+      "477": 5663,
+      "573": 5663
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5783
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5793
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5180,
+      "404": 5181,
+      "477": 5684,
+      "573": 5684
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5765
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5696
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5848
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5866
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5979
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5195,
+      "404": 5196,
+      "477": 5699,
+      "573": 5699
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5691
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5962
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5850
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5150,
+      "404": 5151,
+      "477": 5654,
+      "573": 5654
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5967
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5835
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5671
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5956
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5943
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5763
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5176,
+      "404": 5177,
+      "477": 5680,
+      "573": 5680
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5958
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5178,
+      "404": 5179,
+      "477": 5682,
+      "573": 5682
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5959
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5812
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5815
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5144,
+      "404": 5145,
+      "477": 5648,
+      "573": 5648
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5723
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5739
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5973
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5797
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5670
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5931
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5166,
+      "404": 5167,
+      "477": 5670,
+      "573": 5670
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5658
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5165,
+      "404": 5166,
+      "477": 5669,
+      "573": 5669
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5920
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5174,
+      "404": 5175,
+      "477": 5678,
+      "573": 5678
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5945
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5709
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5910
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5852
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5787
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5789
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5857
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5736
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5901
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5902
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5740
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5814
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5688
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5769
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5734
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5730
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5810
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5664
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5766
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5853
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5870
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5873
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5817
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5809
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5805
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5974
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5749
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5760
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5686
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5863
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5803
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5927
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5960
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5758
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5924
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5864
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5683
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5698
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5851
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5878
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5775
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5191,
+      "404": 5192,
+      "477": 5695,
+      "573": 5695
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5935
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5942
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5755
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5662
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5762
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5831
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5950
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5916
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5707
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5862
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5917
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5672
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5804
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5858
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5838
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5184,
+      "404": 5185,
+      "477": 5688,
+      "573": 5688
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5200,
+      "404": 5201,
+      "477": 5704,
+      "573": 5704
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5909
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5162,
+      "404": 5163,
+      "477": 5666,
+      "573": 5666
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5816
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5899
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5660
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5782
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5142,
+      "404": 5143,
+      "477": 5646,
+      "573": 5646
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5944
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5954
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5167,
+      "404": 5168,
+      "477": 5671,
+      "573": 5671
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5153,
+      "404": 5154,
+      "477": 5657,
+      "573": 5657
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5948
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5158,
+      "404": 5159,
+      "477": 5662,
+      "573": 5662
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5181,
+      "404": 5182,
+      "477": 5685,
+      "573": 5685
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5827
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5706
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5888
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5876
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5751
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5196,
+      "4": 2224,
+      "404": 5197,
+      "477": 5700,
+      "573": 5700
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5790
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5781
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5746
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5151,
+      "404": 5152,
+      "477": 5655,
+      "573": 5655
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5756
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5867
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5189,
+      "404": 5190,
+      "477": 5693,
+      "573": 5693
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5185,
+      "404": 5186,
+      "477": 5689,
+      "573": 5689
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5194,
+      "404": 5195,
+      "477": 5698,
+      "573": 5698
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5880
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5972
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5779
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5699
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5813
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5829
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5904
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5773
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5684
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5868
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5685
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5179,
+      "404": 5180,
+      "477": 5683,
+      "573": 5683
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5716
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5940
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5872
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5146,
+      "404": 5147,
+      "477": 5650,
+      "573": 5650
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5840
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5721
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5722
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5919
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5729
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5732
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5980
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5743
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5900
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5175,
+      "404": 5176,
+      "477": 5679,
+      "573": 5679
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5757
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5657
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5719
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5970
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5939
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5745
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5837
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5885
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5711
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5708
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5949
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5197,
+      "404": 5198,
+      "477": 5701,
+      "573": 5701
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5922
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5700
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5727
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5893
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5969
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5912
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5776
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5847
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5792
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5141,
+      "404": 5142,
+      "477": 5645,
+      "573": 5645
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5145,
+      "404": 5146,
+      "477": 5649,
+      "573": 5649
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5704
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5786
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5963
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5892
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5679
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5784
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5808
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5822
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5669
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5724
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5172,
+      "404": 5173,
+      "477": 5676,
+      "573": 5676
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5702
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5148,
+      "404": 5149,
+      "477": 5652,
+      "573": 5652
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5957
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5199,
+      "404": 5200,
+      "477": 5703,
+      "573": 5703
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5830
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5865
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5183,
+      "404": 5184,
+      "477": 5687,
+      "573": 5687
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5795
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5170,
+      "404": 5171,
+      "477": 5674,
+      "573": 5674
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5895
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5823
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5725
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5834
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5947
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5774
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5690
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5937
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5161,
+      "404": 5162,
+      "477": 5665,
+      "573": 5665
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5882
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5198,
+      "404": 5199,
+      "477": 5702,
+      "573": 5702
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5139,
+      "404": 5140,
+      "477": 5643,
+      "573": 5643
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5177,
+      "404": 5178,
+      "477": 5681,
+      "573": 5681
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5811
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5821
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5908
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5712
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5845
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5693
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5154,
+      "404": 5155,
+      "477": 5658,
+      "573": 5658
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5668
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5930
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5921
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5187,
+      "404": 5188,
+      "477": 5691,
+      "573": 5691
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5676
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5677
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5785
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5718
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5936
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5859
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5856
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5768
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5767
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5844
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5964
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5681
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5728
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5157,
+      "404": 5158,
+      "477": 5661,
+      "573": 5661
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5770
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5896
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5861
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5929
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5854
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5825
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5933
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5938
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5703
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5800
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5833
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5673
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5932
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5137,
+      "404": 5138,
+      "477": 5641,
+      "573": 5641
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5820
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5155,
+      "404": 5156,
+      "477": 5659,
+      "573": 5659
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5898
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 5754
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5753
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5661
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5968
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5915
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5818
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5733
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5961
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5680
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5752
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5855
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5791
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5836
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5926
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5152,
+      "404": 5153,
+      "477": 5656,
+      "573": 5656
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5171,
+      "404": 5172,
+      "477": 5675,
+      "573": 5675
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5871
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5875
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5807
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 5697
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5777
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5806
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5747
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5173,
+      "404": 5174,
+      "477": 5677,
+      "573": 5677
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 5771
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5666
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5701
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5906
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5788
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5164,
+      "404": 5165,
+      "477": 5668,
+      "573": 5668
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 5780
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 5794
+    }
+  },
+  {
+    "name": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 5731
+    }
+  }
+]

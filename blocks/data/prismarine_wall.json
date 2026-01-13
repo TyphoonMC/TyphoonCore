@@ -1,0 +1,2394 @@
+[
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10403,
+      "573": 10403
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11342
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11346
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10423,
+      "573": 10423
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11448
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11372
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11239
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11237
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11437
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11383
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11443
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11395
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11424
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11444
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11491
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11258
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11489
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11205
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11475
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11282
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11353
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11339
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11245
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10429,
+      "573": 10429
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10401,
+      "573": 10401
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11478
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11477
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10456,
+      "573": 10456
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10421,
+      "573": 10421
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11509
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10448,
+      "573": 10448
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11325
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11235
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11271
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10452,
+      "573": 10452
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11260
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11419
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11279
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11417
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11479
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11466
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11299
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11418
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10397,
+      "573": 10397
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11263
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11474
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11482
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11327
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11208
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11462
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11277
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11352
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11210
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11386
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11461
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11470
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11514
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10417,
+      "573": 10417
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11264
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11196
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11370
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11257
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11358
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11227
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10414,
+      "573": 10414
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11288
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10402,
+      "573": 10402
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11296
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11230
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11298
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11305
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11391
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11304
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11251
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10435,
+      "573": 10435
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10431,
+      "573": 10431
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11270
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11313
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11415
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11512
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11427
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11486
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10424,
+      "573": 10424
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11273
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11324
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11402
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11244
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11404
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11405
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11285
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11416
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11409
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11336
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11501
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11362
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11213
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11215
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11331
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11361
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11220
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11468
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11492
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11500
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11308
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11365
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11195
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11398
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11393
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11506
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11371
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11197
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10418,
+      "573": 10418
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10408,
+      "573": 10408
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11507
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11214
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11394
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11291
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11433
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11234
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11212
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11447
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11363
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11399
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10409,
+      "573": 10409
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11374
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11497
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10449,
+      "573": 10449
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11295
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11272
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11401
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11281
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11441
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11508
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11347
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10438,
+      "573": 10438
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11390
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11249
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11309
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11310
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11316
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11442
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11502
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11246
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11218
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11426
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11306
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11485
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10453,
+      "573": 10453
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11490
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11495
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10396,
+      "573": 10396
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10455,
+      "573": 10455
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11406
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11247
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10439,
+      "573": 10439
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11493
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11280
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11379
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11287
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10419,
+      "573": 10419
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10415,
+      "573": 10415
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11496
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10395,
+      "573": 10395
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10458,
+      "573": 10458
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10406,
+      "573": 10406
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11203
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11503
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11480
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11320
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10405,
+      "573": 10405
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11397
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10457,
+      "573": 10457
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11315
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11445
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11209
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11219
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11504
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11191
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11328
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11384
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11469
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11439
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11311
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11319
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11297
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11250
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11438
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11254
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11378
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11343
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11194
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10416,
+      "573": 10416
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11198
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11349
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10425,
+      "573": 10425
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11351
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11473
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11252
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11446
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11484
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11344
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11458
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11261
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10399,
+      "573": 10399
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11276
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11338
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11488
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11262
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11456
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11221
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11440
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11422
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11267
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11274
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11321
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11359
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11330
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11451
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11483
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10420,
+      "573": 10420
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11471
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11345
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11476
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11396
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10413,
+      "573": 10413
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11369
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11265
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11222
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11453
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11481
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10398,
+      "573": 10398
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11414
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11242
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11364
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11202
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11259
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11253
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10410,
+      "573": 10410
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10411,
+      "573": 10411
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11375
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11337
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11389
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10441,
+      "573": 10441
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11201
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11464
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11348
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11255
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11459
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11511
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11472
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11452
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11206
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11373
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11292
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11412
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10446,
+      "573": 10446
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11368
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11238
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10400,
+      "573": 10400
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10428,
+      "573": 10428
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11286
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11408
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11233
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11367
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11232
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11269
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11465
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10422,
+      "573": 10422
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11360
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11217
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10433,
+      "573": 10433
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11334
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11329
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11421
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11323
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11302
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10430,
+      "573": 10430
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11303
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11450
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11199
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11228
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11231
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10451,
+      "573": 10451
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11381
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11455
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11354
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11355
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11307
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11229
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11436
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11513
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10444,
+      "573": 10444
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11366
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11356
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11385
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11435
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11425
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11423
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11275
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11382
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11432
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11200
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11400
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11413
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11498
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11463
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11241
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11388
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11301
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11268
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11350
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11392
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10427,
+      "573": 10427
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11430
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11407
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10437,
+      "573": 10437
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11428
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10404,
+      "573": 10404
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11357
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10436,
+      "573": 10436
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11376
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11266
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10450,
+      "573": 10450
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11192
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11240
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11460
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10447,
+      "573": 10447
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11505
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10442,
+      "573": 10442
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11335
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11380
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11225
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11377
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11289
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11211
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11387
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11300
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11333
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11243
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11341
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10443,
+      "573": 10443
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10440,
+      "573": 10440
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10445,
+      "573": 10445
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11467
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10426,
+      "573": 10426
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11434
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11317
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11193
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11431
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11429
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11494
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11283
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11403
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11411
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11499
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11278
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11293
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11318
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10454,
+      "573": 10454
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11322
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11340
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10434,
+      "573": 10434
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10432,
+      "573": 10432
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11326
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11204
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11487
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11332
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11226
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11314
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11216
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11223
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11207
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11248
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11312
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11224
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11457
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11294
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11284
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11236
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11510
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11256
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11410
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10412,
+      "573": 10412
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11420
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11449
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11290
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11454
+    }
+  },
+  {
+    "name": "minecraft:prismarine_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10407,
+      "573": 10407
+    }
+  }
+]

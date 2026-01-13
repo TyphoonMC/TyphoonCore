@@ -1,0 +1,66 @@
+[
+  {
+    "name": "minecraft:jungle_wall_sign[facing=west,waterlogged=true]",
+    "ids": {
+      "477": 3769,
+      "573": 3769,
+      "718": 3771
+    }
+  },
+  {
+    "name": "minecraft:jungle_wall_sign[facing=east,waterlogged=false]",
+    "ids": {
+      "477": 3772,
+      "573": 3772,
+      "718": 3774
+    }
+  },
+  {
+    "name": "minecraft:jungle_wall_sign[facing=south,waterlogged=true]",
+    "ids": {
+      "477": 3767,
+      "573": 3767,
+      "718": 3769
+    }
+  },
+  {
+    "name": "minecraft:jungle_wall_sign[facing=east,waterlogged=true]",
+    "ids": {
+      "477": 3771,
+      "573": 3771,
+      "718": 3773
+    }
+  },
+  {
+    "name": "minecraft:jungle_wall_sign[facing=north,waterlogged=true]",
+    "ids": {
+      "477": 3765,
+      "573": 3765,
+      "718": 3767
+    }
+  },
+  {
+    "name": "minecraft:jungle_wall_sign[facing=north,waterlogged=false]",
+    "ids": {
+      "477": 3766,
+      "573": 3766,
+      "718": 3768
+    }
+  },
+  {
+    "name": "minecraft:jungle_wall_sign[facing=west,waterlogged=false]",
+    "ids": {
+      "477": 3770,
+      "573": 3770,
+      "718": 3772
+    }
+  },
+  {
+    "name": "minecraft:jungle_wall_sign[facing=south,waterlogged=false]",
+    "ids": {
+      "477": 3768,
+      "573": 3768,
+      "718": 3770
+    }
+  }
+]

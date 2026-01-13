@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:acacia_pressure_plate[powered=false]",
+    "ids": {
+      "393": 3376,
+      "404": 3377,
+      "477": 3880,
+      "573": 3880,
+      "718": 3882
+    }
+  },
+  {
+    "name": "minecraft:acacia_pressure_plate[powered=true]",
+    "ids": {
+      "393": 3375,
+      "404": 3376,
+      "477": 3879,
+      "573": 3879,
+      "718": 3881
+    }
+  }
+]

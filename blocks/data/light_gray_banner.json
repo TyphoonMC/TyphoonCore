@@ -1,0 +1,162 @@
+[
+  {
+    "name": "minecraft:light_gray_banner[rotation=6]",
+    "ids": {
+      "393": 6988,
+      "404": 6989,
+      "477": 7495,
+      "573": 7495,
+      "718": 8031
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=3]",
+    "ids": {
+      "393": 6985,
+      "404": 6986,
+      "477": 7492,
+      "573": 7492,
+      "718": 8028
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=2]",
+    "ids": {
+      "393": 6984,
+      "404": 6985,
+      "477": 7491,
+      "573": 7491,
+      "718": 8027
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=1]",
+    "ids": {
+      "393": 6983,
+      "404": 6984,
+      "477": 7490,
+      "573": 7490,
+      "718": 8026
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=4]",
+    "ids": {
+      "393": 6986,
+      "404": 6987,
+      "477": 7493,
+      "573": 7493,
+      "718": 8029
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=9]",
+    "ids": {
+      "393": 6991,
+      "404": 6992,
+      "477": 7498,
+      "573": 7498,
+      "718": 8034
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=13]",
+    "ids": {
+      "393": 6995,
+      "404": 6996,
+      "477": 7502,
+      "573": 7502,
+      "718": 8038
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=12]",
+    "ids": {
+      "393": 6994,
+      "404": 6995,
+      "477": 7501,
+      "573": 7501,
+      "718": 8037
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=14]",
+    "ids": {
+      "393": 6996,
+      "404": 6997,
+      "477": 7503,
+      "573": 7503,
+      "718": 8039
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=15]",
+    "ids": {
+      "393": 6997,
+      "404": 6998,
+      "477": 7504,
+      "573": 7504,
+      "718": 8040
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=8]",
+    "ids": {
+      "393": 6990,
+      "404": 6991,
+      "477": 7497,
+      "573": 7497,
+      "718": 8033
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=11]",
+    "ids": {
+      "393": 6993,
+      "404": 6994,
+      "477": 7500,
+      "573": 7500,
+      "718": 8036
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=10]",
+    "ids": {
+      "393": 6992,
+      "404": 6993,
+      "477": 7499,
+      "573": 7499,
+      "718": 8035
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=0]",
+    "ids": {
+      "393": 6982,
+      "404": 6983,
+      "477": 7489,
+      "573": 7489,
+      "718": 8025
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=7]",
+    "ids": {
+      "393": 6989,
+      "404": 6990,
+      "477": 7496,
+      "573": 7496,
+      "718": 8032
+    }
+  },
+  {
+    "name": "minecraft:light_gray_banner[rotation=5]",
+    "ids": {
+      "393": 6987,
+      "404": 6988,
+      "477": 7494,
+      "573": 7494,
+      "718": 8030
+    }
+  }
+]

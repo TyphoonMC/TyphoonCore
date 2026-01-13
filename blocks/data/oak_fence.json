@@ -1,0 +1,323 @@
+[
+  {
+    "name": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 3488,
+      "404": 3489,
+      "477": 3992,
+      "573": 3992,
+      "718": 3994
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 3480,
+      "404": 3481,
+      "477": 3984,
+      "573": 3984,
+      "718": 3986
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 3482,
+      "404": 3483,
+      "477": 3986,
+      "573": 3986,
+      "718": 3988
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 3474,
+      "404": 3475,
+      "477": 3978,
+      "573": 3978,
+      "718": 3980
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 3485,
+      "404": 3486,
+      "477": 3989,
+      "573": 3989,
+      "718": 3991
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 3470,
+      "404": 3471,
+      "477": 3974,
+      "573": 3974,
+      "718": 3976
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 3461,
+      "404": 3462,
+      "477": 3965,
+      "573": 3965,
+      "718": 3967
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 3472,
+      "404": 3473,
+      "477": 3976,
+      "573": 3976,
+      "718": 3978
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 3476,
+      "404": 3477,
+      "477": 3980,
+      "573": 3980,
+      "718": 3982
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 3489,
+      "404": 3490,
+      "477": 3993,
+      "573": 3993,
+      "718": 3995
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 3483,
+      "404": 3484,
+      "477": 3987,
+      "573": 3987,
+      "718": 3989
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 3473,
+      "404": 3474,
+      "477": 3977,
+      "573": 3977,
+      "718": 3979
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 3469,
+      "404": 3470,
+      "477": 3973,
+      "573": 3973,
+      "718": 3975
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 3481,
+      "404": 3482,
+      "477": 3985,
+      "573": 3985,
+      "718": 3987
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 3478,
+      "404": 3479,
+      "477": 3982,
+      "573": 3982,
+      "718": 3984
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 3471,
+      "404": 3472,
+      "477": 3975,
+      "573": 3975,
+      "718": 3977
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 3491,
+      "4": 1360,
+      "404": 3492,
+      "477": 3995,
+      "573": 3995,
+      "718": 3997
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 3490,
+      "404": 3491,
+      "477": 3994,
+      "573": 3994,
+      "718": 3996
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 3465,
+      "404": 3466,
+      "477": 3969,
+      "573": 3969,
+      "718": 3971
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 3466,
+      "404": 3467,
+      "477": 3970,
+      "573": 3970,
+      "718": 3972
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 3477,
+      "404": 3478,
+      "477": 3981,
+      "573": 3981,
+      "718": 3983
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 3479,
+      "404": 3480,
+      "477": 3983,
+      "573": 3983,
+      "718": 3985
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 3462,
+      "404": 3463,
+      "477": 3966,
+      "573": 3966,
+      "718": 3968
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 3460,
+      "404": 3461,
+      "477": 3964,
+      "573": 3964,
+      "718": 3966
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 3463,
+      "404": 3464,
+      "477": 3967,
+      "573": 3967,
+      "718": 3969
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 3475,
+      "404": 3476,
+      "477": 3979,
+      "573": 3979,
+      "718": 3981
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 3464,
+      "404": 3465,
+      "477": 3968,
+      "573": 3968,
+      "718": 3970
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 3487,
+      "404": 3488,
+      "477": 3991,
+      "573": 3991,
+      "718": 3993
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 3484,
+      "404": 3485,
+      "477": 3988,
+      "573": 3988,
+      "718": 3990
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 3486,
+      "404": 3487,
+      "477": 3990,
+      "573": 3990,
+      "718": 3992
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 3467,
+      "404": 3468,
+      "477": 3971,
+      "573": 3971,
+      "718": 3973
+    }
+  },
+  {
+    "name": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 3468,
+      "404": 3469,
+      "477": 3972,
+      "573": 3972,
+      "718": 3974
+    }
+  }
+]

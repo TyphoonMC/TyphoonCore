@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_birch_log[axis=z]",
+    "ids": {
+      "393": 95,
+      "404": 95,
+      "477": 95,
+      "573": 95,
+      "718": 96
+    }
+  },
+  {
+    "name": "minecraft:stripped_birch_log[axis=x]",
+    "ids": {
+      "393": 93,
+      "404": 93,
+      "477": 93,
+      "573": 93,
+      "718": 94
+    }
+  },
+  {
+    "name": "minecraft:stripped_birch_log[axis=y]",
+    "ids": {
+      "393": 94,
+      "404": 94,
+      "477": 94,
+      "573": 94,
+      "718": 95
+    }
+  }
+]

@@ -1,0 +1,5138 @@
+[
+  {
+    "name": "minecraft:fire[age=5,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1319,
+      "404": 1320,
+      "477": 1623,
+      "573": 1623,
+      "718": 1624
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1470,
+      "404": 1471,
+      "477": 1774,
+      "573": 1774,
+      "718": 1775
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1206,
+      "404": 1207,
+      "477": 1510,
+      "573": 1510,
+      "718": 1511
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1538,
+      "404": 1539,
+      "477": 1842,
+      "573": 1842,
+      "718": 1843
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1329,
+      "404": 1330,
+      "477": 1633,
+      "573": 1633,
+      "718": 1634
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1180,
+      "404": 1181,
+      "477": 1484,
+      "573": 1484,
+      "718": 1485
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1242,
+      "404": 1243,
+      "477": 1546,
+      "573": 1546,
+      "718": 1547
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1389,
+      "404": 1390,
+      "477": 1693,
+      "573": 1693,
+      "718": 1694
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1230,
+      "4": 818,
+      "404": 1231,
+      "477": 1534,
+      "573": 1534,
+      "718": 1535
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1268,
+      "404": 1269,
+      "477": 1572,
+      "573": 1572,
+      "718": 1573
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1462,
+      "404": 1463,
+      "477": 1766,
+      "573": 1766,
+      "718": 1767
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1443,
+      "404": 1444,
+      "477": 1747,
+      "573": 1747,
+      "718": 1748
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1563,
+      "404": 1564,
+      "477": 1867,
+      "573": 1867,
+      "718": 1868
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1177,
+      "404": 1178,
+      "477": 1481,
+      "573": 1481,
+      "718": 1482
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1385,
+      "404": 1386,
+      "477": 1689,
+      "573": 1689,
+      "718": 1690
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1642,
+      "404": 1643,
+      "477": 1946,
+      "573": 1946,
+      "718": 1947
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1384,
+      "404": 1385,
+      "477": 1688,
+      "573": 1688,
+      "718": 1689
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1237,
+      "404": 1238,
+      "477": 1541,
+      "573": 1541,
+      "718": 1542
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1348,
+      "404": 1349,
+      "477": 1652,
+      "573": 1652,
+      "718": 1653
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1433,
+      "404": 1434,
+      "477": 1737,
+      "573": 1737,
+      "718": 1738
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1226,
+      "404": 1227,
+      "477": 1530,
+      "573": 1530,
+      "718": 1531
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1616,
+      "404": 1617,
+      "477": 1920,
+      "573": 1920,
+      "718": 1921
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1311,
+      "404": 1312,
+      "477": 1615,
+      "573": 1615,
+      "718": 1616
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1523,
+      "404": 1524,
+      "477": 1827,
+      "573": 1827,
+      "718": 1828
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1217,
+      "404": 1218,
+      "477": 1521,
+      "573": 1521,
+      "718": 1522
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1270,
+      "404": 1271,
+      "477": 1574,
+      "573": 1574,
+      "718": 1575
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1525,
+      "404": 1526,
+      "477": 1829,
+      "573": 1829,
+      "718": 1830
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1166,
+      "4": 816,
+      "404": 1167,
+      "477": 1470,
+      "573": 1470,
+      "718": 1471
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1645,
+      "404": 1646,
+      "477": 1949,
+      "573": 1949,
+      "718": 1950
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1585,
+      "404": 1586,
+      "477": 1889,
+      "573": 1889,
+      "718": 1890
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1377,
+      "404": 1378,
+      "477": 1681,
+      "573": 1681,
+      "718": 1682
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1597,
+      "404": 1598,
+      "477": 1901,
+      "573": 1901,
+      "718": 1902
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1586,
+      "404": 1587,
+      "477": 1890,
+      "573": 1890,
+      "718": 1891
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1258,
+      "404": 1259,
+      "477": 1562,
+      "573": 1562,
+      "718": 1563
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1269,
+      "404": 1270,
+      "477": 1573,
+      "573": 1573,
+      "718": 1574
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1572,
+      "404": 1573,
+      "477": 1876,
+      "573": 1876,
+      "718": 1877
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1545,
+      "404": 1546,
+      "477": 1849,
+      "573": 1849,
+      "718": 1850
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1603,
+      "404": 1604,
+      "477": 1907,
+      "573": 1907,
+      "718": 1908
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1632,
+      "404": 1633,
+      "477": 1936,
+      "573": 1936,
+      "718": 1937
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1162,
+      "404": 1163,
+      "477": 1466,
+      "573": 1466,
+      "718": 1467
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1153,
+      "404": 1154,
+      "477": 1457,
+      "573": 1457,
+      "718": 1458
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1346,
+      "404": 1347,
+      "477": 1650,
+      "573": 1650,
+      "718": 1651
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1300,
+      "404": 1301,
+      "477": 1604,
+      "573": 1604,
+      "718": 1605
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1614,
+      "4": 830,
+      "404": 1615,
+      "477": 1918,
+      "573": 1918,
+      "718": 1919
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1633,
+      "404": 1634,
+      "477": 1937,
+      "573": 1937,
+      "718": 1938
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1559,
+      "404": 1560,
+      "477": 1863,
+      "573": 1863,
+      "718": 1864
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1293,
+      "404": 1294,
+      "477": 1597,
+      "573": 1597,
+      "718": 1598
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1323,
+      "404": 1324,
+      "477": 1627,
+      "573": 1627,
+      "718": 1628
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1234,
+      "404": 1235,
+      "477": 1538,
+      "573": 1538,
+      "718": 1539
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1499,
+      "404": 1500,
+      "477": 1803,
+      "573": 1803,
+      "718": 1804
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1267,
+      "404": 1268,
+      "477": 1571,
+      "573": 1571,
+      "718": 1572
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1264,
+      "404": 1265,
+      "477": 1568,
+      "573": 1568,
+      "718": 1569
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1564,
+      "404": 1565,
+      "477": 1868,
+      "573": 1868,
+      "718": 1869
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1403,
+      "404": 1404,
+      "477": 1707,
+      "573": 1707,
+      "718": 1708
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1588,
+      "404": 1589,
+      "477": 1892,
+      "573": 1892,
+      "718": 1893
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1142,
+      "404": 1143,
+      "477": 1446,
+      "573": 1446,
+      "718": 1447
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1494,
+      "404": 1495,
+      "477": 1798,
+      "573": 1798,
+      "718": 1799
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1190,
+      "404": 1191,
+      "477": 1494,
+      "573": 1494,
+      "718": 1495
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1417,
+      "404": 1418,
+      "477": 1721,
+      "573": 1721,
+      "718": 1722
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1448,
+      "404": 1449,
+      "477": 1752,
+      "573": 1752,
+      "718": 1753
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1488,
+      "404": 1489,
+      "477": 1792,
+      "573": 1792,
+      "718": 1793
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1468,
+      "404": 1469,
+      "477": 1772,
+      "573": 1772,
+      "718": 1773
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1516,
+      "404": 1517,
+      "477": 1820,
+      "573": 1820,
+      "718": 1821
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1486,
+      "4": 826,
+      "404": 1487,
+      "477": 1790,
+      "573": 1790,
+      "718": 1791
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1416,
+      "404": 1417,
+      "477": 1720,
+      "573": 1720,
+      "718": 1721
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1449,
+      "404": 1450,
+      "477": 1753,
+      "573": 1753,
+      "718": 1754
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1544,
+      "404": 1545,
+      "477": 1848,
+      "573": 1848,
+      "718": 1849
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1317,
+      "404": 1318,
+      "477": 1621,
+      "573": 1621,
+      "718": 1622
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1266,
+      "404": 1267,
+      "477": 1570,
+      "573": 1570,
+      "718": 1571
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1253,
+      "404": 1254,
+      "477": 1557,
+      "573": 1557,
+      "718": 1558
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1646,
+      "4": 831,
+      "404": 1647,
+      "477": 1950,
+      "573": 1950,
+      "718": 1951
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1405,
+      "404": 1406,
+      "477": 1709,
+      "573": 1709,
+      "718": 1710
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1155,
+      "404": 1156,
+      "477": 1459,
+      "573": 1459,
+      "718": 1460
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1301,
+      "404": 1302,
+      "477": 1605,
+      "573": 1605,
+      "718": 1606
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1309,
+      "404": 1310,
+      "477": 1613,
+      "573": 1613,
+      "718": 1614
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1378,
+      "404": 1379,
+      "477": 1682,
+      "573": 1682,
+      "718": 1683
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1280,
+      "404": 1281,
+      "477": 1584,
+      "573": 1584,
+      "718": 1585
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1458,
+      "404": 1459,
+      "477": 1762,
+      "573": 1762,
+      "718": 1763
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1626,
+      "404": 1627,
+      "477": 1930,
+      "573": 1930,
+      "718": 1931
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1287,
+      "404": 1288,
+      "477": 1591,
+      "573": 1591,
+      "718": 1592
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1639,
+      "404": 1640,
+      "477": 1943,
+      "573": 1943,
+      "718": 1944
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1392,
+      "404": 1393,
+      "477": 1696,
+      "573": 1696,
+      "718": 1697
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1357,
+      "404": 1358,
+      "477": 1661,
+      "573": 1661,
+      "718": 1662
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1390,
+      "4": 823,
+      "404": 1391,
+      "477": 1694,
+      "573": 1694,
+      "718": 1695
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1297,
+      "404": 1298,
+      "477": 1601,
+      "573": 1601,
+      "718": 1602
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1395,
+      "404": 1396,
+      "477": 1699,
+      "573": 1699,
+      "718": 1700
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1157,
+      "404": 1158,
+      "477": 1461,
+      "573": 1461,
+      "718": 1462
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1182,
+      "404": 1183,
+      "477": 1486,
+      "573": 1486,
+      "718": 1487
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1463,
+      "404": 1464,
+      "477": 1767,
+      "573": 1767,
+      "718": 1768
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1509,
+      "404": 1510,
+      "477": 1813,
+      "573": 1813,
+      "718": 1814
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1401,
+      "404": 1402,
+      "477": 1705,
+      "573": 1705,
+      "718": 1706
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1444,
+      "404": 1445,
+      "477": 1748,
+      "573": 1748,
+      "718": 1749
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1136,
+      "404": 1137,
+      "477": 1440,
+      "573": 1440,
+      "718": 1441
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1278,
+      "404": 1279,
+      "477": 1582,
+      "573": 1582,
+      "718": 1583
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1643,
+      "404": 1644,
+      "477": 1947,
+      "573": 1947,
+      "718": 1948
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1139,
+      "404": 1140,
+      "477": 1443,
+      "573": 1443,
+      "718": 1444
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1361,
+      "404": 1362,
+      "477": 1665,
+      "573": 1665,
+      "718": 1666
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1259,
+      "404": 1260,
+      "477": 1563,
+      "573": 1563,
+      "718": 1564
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1446,
+      "404": 1447,
+      "477": 1750,
+      "573": 1750,
+      "718": 1751
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1422,
+      "4": 824,
+      "404": 1423,
+      "477": 1726,
+      "573": 1726,
+      "718": 1727
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1412,
+      "404": 1413,
+      "477": 1716,
+      "573": 1716,
+      "718": 1717
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1178,
+      "404": 1179,
+      "477": 1482,
+      "573": 1482,
+      "718": 1483
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1244,
+      "404": 1245,
+      "477": 1548,
+      "573": 1548,
+      "718": 1549
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1163,
+      "404": 1164,
+      "477": 1467,
+      "573": 1467,
+      "718": 1468
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1627,
+      "404": 1628,
+      "477": 1931,
+      "573": 1931,
+      "718": 1932
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1207,
+      "404": 1208,
+      "477": 1511,
+      "573": 1511,
+      "718": 1512
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1167,
+      "404": 1168,
+      "477": 1471,
+      "573": 1471,
+      "718": 1472
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1420,
+      "404": 1421,
+      "477": 1724,
+      "573": 1724,
+      "718": 1725
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1292,
+      "404": 1293,
+      "477": 1596,
+      "573": 1596,
+      "718": 1597
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1238,
+      "404": 1239,
+      "477": 1542,
+      "573": 1542,
+      "718": 1543
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1313,
+      "404": 1314,
+      "477": 1617,
+      "573": 1617,
+      "718": 1618
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1620,
+      "404": 1621,
+      "477": 1924,
+      "573": 1924,
+      "718": 1925
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1575,
+      "404": 1576,
+      "477": 1879,
+      "573": 1879,
+      "718": 1880
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1220,
+      "404": 1221,
+      "477": 1524,
+      "573": 1524,
+      "718": 1525
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1210,
+      "404": 1211,
+      "477": 1514,
+      "573": 1514,
+      "718": 1515
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1254,
+      "404": 1255,
+      "477": 1558,
+      "573": 1558,
+      "718": 1559
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1634,
+      "404": 1635,
+      "477": 1938,
+      "573": 1938,
+      "718": 1939
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1364,
+      "404": 1365,
+      "477": 1668,
+      "573": 1668,
+      "718": 1669
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1407,
+      "404": 1408,
+      "477": 1711,
+      "573": 1711,
+      "718": 1712
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1548,
+      "404": 1549,
+      "477": 1852,
+      "573": 1852,
+      "718": 1853
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1171,
+      "404": 1172,
+      "477": 1475,
+      "573": 1475,
+      "718": 1476
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1630,
+      "404": 1631,
+      "477": 1934,
+      "573": 1934,
+      "718": 1935
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1168,
+      "404": 1169,
+      "477": 1472,
+      "573": 1472,
+      "718": 1473
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1332,
+      "404": 1333,
+      "477": 1636,
+      "573": 1636,
+      "718": 1637
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1138,
+      "404": 1139,
+      "477": 1442,
+      "573": 1442,
+      "718": 1443
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1222,
+      "404": 1223,
+      "477": 1526,
+      "573": 1526,
+      "718": 1527
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1447,
+      "404": 1448,
+      "477": 1751,
+      "573": 1751,
+      "718": 1752
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1619,
+      "404": 1620,
+      "477": 1923,
+      "573": 1923,
+      "718": 1924
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1469,
+      "404": 1470,
+      "477": 1773,
+      "573": 1773,
+      "718": 1774
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1440,
+      "404": 1441,
+      "477": 1744,
+      "573": 1744,
+      "718": 1745
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1409,
+      "404": 1410,
+      "477": 1713,
+      "573": 1713,
+      "718": 1714
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1526,
+      "404": 1527,
+      "477": 1830,
+      "573": 1830,
+      "718": 1831
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1520,
+      "404": 1521,
+      "477": 1824,
+      "573": 1824,
+      "718": 1825
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1565,
+      "404": 1566,
+      "477": 1869,
+      "573": 1869,
+      "718": 1870
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1454,
+      "4": 825,
+      "404": 1455,
+      "477": 1758,
+      "573": 1758,
+      "718": 1759
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1590,
+      "404": 1591,
+      "477": 1894,
+      "573": 1894,
+      "718": 1895
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1333,
+      "404": 1334,
+      "477": 1637,
+      "573": 1637,
+      "718": 1638
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1315,
+      "404": 1316,
+      "477": 1619,
+      "573": 1619,
+      "718": 1620
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1201,
+      "404": 1202,
+      "477": 1505,
+      "573": 1505,
+      "718": 1506
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1356,
+      "404": 1357,
+      "477": 1660,
+      "573": 1660,
+      "718": 1661
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1365,
+      "404": 1366,
+      "477": 1669,
+      "573": 1669,
+      "718": 1670
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1375,
+      "404": 1376,
+      "477": 1679,
+      "573": 1679,
+      "718": 1680
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1367,
+      "404": 1368,
+      "477": 1671,
+      "573": 1671,
+      "718": 1672
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1225,
+      "404": 1226,
+      "477": 1529,
+      "573": 1529,
+      "718": 1530
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1568,
+      "404": 1569,
+      "477": 1872,
+      "573": 1872,
+      "718": 1873
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1341,
+      "404": 1342,
+      "477": 1645,
+      "573": 1645,
+      "718": 1646
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1202,
+      "404": 1203,
+      "477": 1506,
+      "573": 1506,
+      "718": 1507
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1641,
+      "404": 1642,
+      "477": 1945,
+      "573": 1945,
+      "718": 1946
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1612,
+      "404": 1613,
+      "477": 1916,
+      "573": 1916,
+      "718": 1917
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1595,
+      "404": 1596,
+      "477": 1899,
+      "573": 1899,
+      "718": 1900
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1224,
+      "404": 1225,
+      "477": 1528,
+      "573": 1528,
+      "718": 1529
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1569,
+      "404": 1570,
+      "477": 1873,
+      "573": 1873,
+      "718": 1874
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1148,
+      "404": 1149,
+      "477": 1452,
+      "573": 1452,
+      "718": 1453
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1492,
+      "404": 1493,
+      "477": 1796,
+      "573": 1796,
+      "718": 1797
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1437,
+      "404": 1438,
+      "477": 1741,
+      "573": 1741,
+      "718": 1742
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1176,
+      "404": 1177,
+      "477": 1480,
+      "573": 1480,
+      "718": 1481
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1303,
+      "404": 1304,
+      "477": 1607,
+      "573": 1607,
+      "718": 1608
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1617,
+      "404": 1618,
+      "477": 1921,
+      "573": 1921,
+      "718": 1922
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1432,
+      "404": 1433,
+      "477": 1736,
+      "573": 1736,
+      "718": 1737
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1421,
+      "404": 1422,
+      "477": 1725,
+      "573": 1725,
+      "718": 1726
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1274,
+      "404": 1275,
+      "477": 1578,
+      "573": 1578,
+      "718": 1579
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1294,
+      "4": 820,
+      "404": 1295,
+      "477": 1598,
+      "573": 1598,
+      "718": 1599
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1631,
+      "404": 1632,
+      "477": 1935,
+      "573": 1935,
+      "718": 1936
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1508,
+      "404": 1509,
+      "477": 1812,
+      "573": 1812,
+      "718": 1813
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1383,
+      "404": 1384,
+      "477": 1687,
+      "573": 1687,
+      "718": 1688
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1216,
+      "404": 1217,
+      "477": 1520,
+      "573": 1520,
+      "718": 1521
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1554,
+      "404": 1555,
+      "477": 1858,
+      "573": 1858,
+      "718": 1859
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1247,
+      "404": 1248,
+      "477": 1551,
+      "573": 1551,
+      "718": 1552
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1411,
+      "404": 1412,
+      "477": 1715,
+      "573": 1715,
+      "718": 1716
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1376,
+      "404": 1377,
+      "477": 1680,
+      "573": 1680,
+      "718": 1681
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1223,
+      "404": 1224,
+      "477": 1527,
+      "573": 1527,
+      "718": 1528
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1584,
+      "404": 1585,
+      "477": 1888,
+      "573": 1888,
+      "718": 1889
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1245,
+      "404": 1246,
+      "477": 1549,
+      "573": 1549,
+      "718": 1550
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1260,
+      "404": 1261,
+      "477": 1564,
+      "573": 1564,
+      "718": 1565
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1570,
+      "404": 1571,
+      "477": 1874,
+      "573": 1874,
+      "718": 1875
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1286,
+      "404": 1287,
+      "477": 1590,
+      "573": 1590,
+      "718": 1591
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1518,
+      "4": 827,
+      "404": 1519,
+      "477": 1822,
+      "573": 1822,
+      "718": 1823
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1635,
+      "404": 1636,
+      "477": 1939,
+      "573": 1939,
+      "718": 1940
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1482,
+      "404": 1483,
+      "477": 1786,
+      "573": 1786,
+      "718": 1787
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1483,
+      "404": 1484,
+      "477": 1787,
+      "573": 1787,
+      "718": 1788
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1321,
+      "404": 1322,
+      "477": 1625,
+      "573": 1625,
+      "718": 1626
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1391,
+      "404": 1392,
+      "477": 1695,
+      "573": 1695,
+      "718": 1696
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1345,
+      "404": 1346,
+      "477": 1649,
+      "573": 1649,
+      "718": 1650
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1445,
+      "404": 1446,
+      "477": 1749,
+      "573": 1749,
+      "718": 1750
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1399,
+      "404": 1400,
+      "477": 1703,
+      "573": 1703,
+      "718": 1704
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1240,
+      "404": 1241,
+      "477": 1544,
+      "573": 1544,
+      "718": 1545
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1497,
+      "404": 1498,
+      "477": 1801,
+      "573": 1801,
+      "718": 1802
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1413,
+      "404": 1414,
+      "477": 1717,
+      "573": 1717,
+      "718": 1718
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1485,
+      "404": 1486,
+      "477": 1789,
+      "573": 1789,
+      "718": 1790
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1496,
+      "404": 1497,
+      "477": 1800,
+      "573": 1800,
+      "718": 1801
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1456,
+      "404": 1457,
+      "477": 1760,
+      "573": 1760,
+      "718": 1761
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1320,
+      "404": 1321,
+      "477": 1624,
+      "573": 1624,
+      "718": 1625
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1214,
+      "404": 1215,
+      "477": 1518,
+      "573": 1518,
+      "718": 1519
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1248,
+      "404": 1249,
+      "477": 1552,
+      "573": 1552,
+      "718": 1553
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1308,
+      "404": 1309,
+      "477": 1612,
+      "573": 1612,
+      "718": 1613
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1156,
+      "404": 1157,
+      "477": 1460,
+      "573": 1460,
+      "718": 1461
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1197,
+      "404": 1198,
+      "477": 1501,
+      "573": 1501,
+      "718": 1502
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1143,
+      "404": 1144,
+      "477": 1447,
+      "573": 1447,
+      "718": 1448
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1228,
+      "404": 1229,
+      "477": 1532,
+      "573": 1532,
+      "718": 1533
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1255,
+      "404": 1256,
+      "477": 1559,
+      "573": 1559,
+      "718": 1560
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1622,
+      "404": 1623,
+      "477": 1926,
+      "573": 1926,
+      "718": 1927
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1609,
+      "404": 1610,
+      "477": 1913,
+      "573": 1913,
+      "718": 1914
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1599,
+      "404": 1600,
+      "477": 1903,
+      "573": 1903,
+      "718": 1904
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1252,
+      "404": 1253,
+      "477": 1556,
+      "573": 1556,
+      "718": 1557
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1583,
+      "404": 1584,
+      "477": 1887,
+      "573": 1887,
+      "718": 1888
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1419,
+      "404": 1420,
+      "477": 1723,
+      "573": 1723,
+      "718": 1724
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1246,
+      "404": 1247,
+      "477": 1550,
+      "573": 1550,
+      "718": 1551
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1369,
+      "404": 1370,
+      "477": 1673,
+      "573": 1673,
+      "718": 1674
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1535,
+      "404": 1536,
+      "477": 1839,
+      "573": 1839,
+      "718": 1840
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1451,
+      "404": 1452,
+      "477": 1755,
+      "573": 1755,
+      "718": 1756
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1534,
+      "404": 1535,
+      "477": 1838,
+      "573": 1838,
+      "718": 1839
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1203,
+      "404": 1204,
+      "477": 1507,
+      "573": 1507,
+      "718": 1508
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1272,
+      "404": 1273,
+      "477": 1576,
+      "573": 1576,
+      "718": 1577
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1337,
+      "404": 1338,
+      "477": 1641,
+      "573": 1641,
+      "718": 1642
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1200,
+      "404": 1201,
+      "477": 1504,
+      "573": 1504,
+      "718": 1505
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1404,
+      "404": 1405,
+      "477": 1708,
+      "573": 1708,
+      "718": 1709
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1577,
+      "404": 1578,
+      "477": 1881,
+      "573": 1881,
+      "718": 1882
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1350,
+      "404": 1351,
+      "477": 1654,
+      "573": 1654,
+      "718": 1655
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1498,
+      "404": 1499,
+      "477": 1802,
+      "573": 1802,
+      "718": 1803
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1495,
+      "404": 1496,
+      "477": 1799,
+      "573": 1799,
+      "718": 1800
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1580,
+      "404": 1581,
+      "477": 1884,
+      "573": 1884,
+      "718": 1885
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1316,
+      "404": 1317,
+      "477": 1620,
+      "573": 1620,
+      "718": 1621
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1334,
+      "404": 1335,
+      "477": 1638,
+      "573": 1638,
+      "718": 1639
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1540,
+      "404": 1541,
+      "477": 1844,
+      "573": 1844,
+      "718": 1845
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1271,
+      "404": 1272,
+      "477": 1575,
+      "573": 1575,
+      "718": 1576
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1347,
+      "404": 1348,
+      "477": 1651,
+      "573": 1651,
+      "718": 1652
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1589,
+      "404": 1590,
+      "477": 1893,
+      "573": 1893,
+      "718": 1894
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1503,
+      "404": 1504,
+      "477": 1807,
+      "573": 1807,
+      "718": 1808
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1256,
+      "404": 1257,
+      "477": 1560,
+      "573": 1560,
+      "718": 1561
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1430,
+      "404": 1431,
+      "477": 1734,
+      "573": 1734,
+      "718": 1735
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1522,
+      "404": 1523,
+      "477": 1826,
+      "573": 1826,
+      "718": 1827
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1257,
+      "404": 1258,
+      "477": 1561,
+      "573": 1561,
+      "718": 1562
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1169,
+      "404": 1170,
+      "477": 1473,
+      "573": 1473,
+      "718": 1474
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1552,
+      "404": 1553,
+      "477": 1856,
+      "573": 1856,
+      "718": 1857
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1453,
+      "404": 1454,
+      "477": 1757,
+      "573": 1757,
+      "718": 1758
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1161,
+      "404": 1162,
+      "477": 1465,
+      "573": 1465,
+      "718": 1466
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1625,
+      "404": 1626,
+      "477": 1929,
+      "573": 1929,
+      "718": 1930
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1339,
+      "404": 1340,
+      "477": 1643,
+      "573": 1643,
+      "718": 1644
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1602,
+      "404": 1603,
+      "477": 1906,
+      "573": 1906,
+      "718": 1907
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1371,
+      "404": 1372,
+      "477": 1675,
+      "573": 1675,
+      "718": 1676
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1160,
+      "404": 1161,
+      "477": 1464,
+      "573": 1464,
+      "718": 1465
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1624,
+      "404": 1625,
+      "477": 1928,
+      "573": 1928,
+      "718": 1929
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1591,
+      "404": 1592,
+      "477": 1895,
+      "573": 1895,
+      "718": 1896
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1295,
+      "404": 1296,
+      "477": 1599,
+      "573": 1599,
+      "718": 1600
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1186,
+      "404": 1187,
+      "477": 1490,
+      "573": 1490,
+      "718": 1491
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1644,
+      "404": 1645,
+      "477": 1948,
+      "573": 1948,
+      "718": 1949
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1611,
+      "404": 1612,
+      "477": 1915,
+      "573": 1915,
+      "718": 1916
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1261,
+      "404": 1262,
+      "477": 1565,
+      "573": 1565,
+      "718": 1566
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1137,
+      "404": 1138,
+      "477": 1441,
+      "573": 1441,
+      "718": 1442
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1436,
+      "404": 1437,
+      "477": 1740,
+      "573": 1740,
+      "718": 1741
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1493,
+      "404": 1494,
+      "477": 1797,
+      "573": 1797,
+      "718": 1798
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1360,
+      "404": 1361,
+      "477": 1664,
+      "573": 1664,
+      "718": 1665
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1512,
+      "404": 1513,
+      "477": 1816,
+      "573": 1816,
+      "718": 1817
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1363,
+      "404": 1364,
+      "477": 1667,
+      "573": 1667,
+      "718": 1668
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1187,
+      "404": 1188,
+      "477": 1491,
+      "573": 1491,
+      "718": 1492
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1397,
+      "404": 1398,
+      "477": 1701,
+      "573": 1701,
+      "718": 1702
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1262,
+      "4": 819,
+      "404": 1263,
+      "477": 1566,
+      "573": 1566,
+      "718": 1567
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1144,
+      "404": 1145,
+      "477": 1448,
+      "573": 1448,
+      "718": 1449
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1340,
+      "404": 1341,
+      "477": 1644,
+      "573": 1644,
+      "718": 1645
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1358,
+      "4": 822,
+      "404": 1359,
+      "477": 1662,
+      "573": 1662,
+      "718": 1663
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1149,
+      "404": 1150,
+      "477": 1453,
+      "573": 1453,
+      "718": 1454
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1305,
+      "404": 1306,
+      "477": 1609,
+      "573": 1609,
+      "718": 1610
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1478,
+      "404": 1479,
+      "477": 1782,
+      "573": 1782,
+      "718": 1783
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1299,
+      "404": 1300,
+      "477": 1603,
+      "573": 1603,
+      "718": 1604
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1393,
+      "404": 1394,
+      "477": 1697,
+      "573": 1697,
+      "718": 1698
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1594,
+      "404": 1595,
+      "477": 1898,
+      "573": 1898,
+      "718": 1899
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1296,
+      "404": 1297,
+      "477": 1600,
+      "573": 1600,
+      "718": 1601
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1481,
+      "404": 1482,
+      "477": 1785,
+      "573": 1785,
+      "718": 1786
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1370,
+      "404": 1371,
+      "477": 1674,
+      "573": 1674,
+      "718": 1675
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1196,
+      "404": 1197,
+      "477": 1500,
+      "573": 1500,
+      "718": 1501
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1282,
+      "404": 1283,
+      "477": 1586,
+      "573": 1586,
+      "718": 1587
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1229,
+      "404": 1230,
+      "477": 1533,
+      "573": 1533,
+      "718": 1534
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1396,
+      "404": 1397,
+      "477": 1700,
+      "573": 1700,
+      "718": 1701
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1541,
+      "404": 1542,
+      "477": 1845,
+      "573": 1845,
+      "718": 1846
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1527,
+      "404": 1528,
+      "477": 1831,
+      "573": 1831,
+      "718": 1832
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1386,
+      "404": 1387,
+      "477": 1690,
+      "573": 1690,
+      "718": 1691
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1398,
+      "404": 1399,
+      "477": 1702,
+      "573": 1702,
+      "718": 1703
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1199,
+      "404": 1200,
+      "477": 1503,
+      "573": 1503,
+      "718": 1504
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1592,
+      "404": 1593,
+      "477": 1896,
+      "573": 1896,
+      "718": 1897
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1227,
+      "404": 1228,
+      "477": 1531,
+      "573": 1531,
+      "718": 1532
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1185,
+      "404": 1186,
+      "477": 1489,
+      "573": 1489,
+      "718": 1490
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1208,
+      "404": 1209,
+      "477": 1512,
+      "573": 1512,
+      "718": 1513
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1322,
+      "404": 1323,
+      "477": 1626,
+      "573": 1626,
+      "718": 1627
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1175,
+      "404": 1176,
+      "477": 1479,
+      "573": 1479,
+      "718": 1480
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1302,
+      "404": 1303,
+      "477": 1606,
+      "573": 1606,
+      "718": 1607
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1530,
+      "404": 1531,
+      "477": 1834,
+      "573": 1834,
+      "718": 1835
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1593,
+      "404": 1594,
+      "477": 1897,
+      "573": 1897,
+      "718": 1898
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1571,
+      "404": 1572,
+      "477": 1875,
+      "573": 1875,
+      "718": 1876
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1307,
+      "404": 1308,
+      "477": 1611,
+      "573": 1611,
+      "718": 1612
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1452,
+      "404": 1453,
+      "477": 1756,
+      "573": 1756,
+      "718": 1757
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1170,
+      "404": 1171,
+      "477": 1474,
+      "573": 1474,
+      "718": 1475
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1265,
+      "404": 1266,
+      "477": 1569,
+      "573": 1569,
+      "718": 1570
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1426,
+      "404": 1427,
+      "477": 1730,
+      "573": 1730,
+      "718": 1731
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1183,
+      "404": 1184,
+      "477": 1487,
+      "573": 1487,
+      "718": 1488
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1621,
+      "404": 1622,
+      "477": 1925,
+      "573": 1925,
+      "718": 1926
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1414,
+      "404": 1415,
+      "477": 1718,
+      "573": 1718,
+      "718": 1719
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1474,
+      "404": 1475,
+      "477": 1778,
+      "573": 1778,
+      "718": 1779
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1579,
+      "404": 1580,
+      "477": 1883,
+      "573": 1883,
+      "718": 1884
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1221,
+      "404": 1222,
+      "477": 1525,
+      "573": 1525,
+      "718": 1526
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1502,
+      "404": 1503,
+      "477": 1806,
+      "573": 1806,
+      "718": 1807
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1249,
+      "404": 1250,
+      "477": 1553,
+      "573": 1553,
+      "718": 1554
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1506,
+      "404": 1507,
+      "477": 1810,
+      "573": 1810,
+      "718": 1811
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1192,
+      "404": 1193,
+      "477": 1496,
+      "573": 1496,
+      "718": 1497
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1368,
+      "404": 1369,
+      "477": 1672,
+      "573": 1672,
+      "718": 1673
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1193,
+      "404": 1194,
+      "477": 1497,
+      "573": 1497,
+      "718": 1498
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1555,
+      "404": 1556,
+      "477": 1859,
+      "573": 1859,
+      "718": 1860
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1439,
+      "404": 1440,
+      "477": 1743,
+      "573": 1743,
+      "718": 1744
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1336,
+      "404": 1337,
+      "477": 1640,
+      "573": 1640,
+      "718": 1641
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1273,
+      "404": 1274,
+      "477": 1577,
+      "573": 1577,
+      "718": 1578
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1475,
+      "404": 1476,
+      "477": 1779,
+      "573": 1779,
+      "718": 1780
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1288,
+      "404": 1289,
+      "477": 1592,
+      "573": 1592,
+      "718": 1593
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1289,
+      "404": 1290,
+      "477": 1593,
+      "573": 1593,
+      "718": 1594
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1629,
+      "404": 1630,
+      "477": 1933,
+      "573": 1933,
+      "718": 1934
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1354,
+      "404": 1355,
+      "477": 1658,
+      "573": 1658,
+      "718": 1659
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1374,
+      "404": 1375,
+      "477": 1678,
+      "573": 1678,
+      "718": 1679
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1344,
+      "404": 1345,
+      "477": 1648,
+      "573": 1648,
+      "718": 1649
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1539,
+      "404": 1540,
+      "477": 1843,
+      "573": 1843,
+      "718": 1844
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1213,
+      "404": 1214,
+      "477": 1517,
+      "573": 1517,
+      "718": 1518
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1241,
+      "404": 1242,
+      "477": 1545,
+      "573": 1545,
+      "718": 1546
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1429,
+      "404": 1430,
+      "477": 1733,
+      "573": 1733,
+      "718": 1734
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1342,
+      "404": 1343,
+      "477": 1646,
+      "573": 1646,
+      "718": 1647
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1606,
+      "404": 1607,
+      "477": 1910,
+      "573": 1910,
+      "718": 1911
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1173,
+      "404": 1174,
+      "477": 1477,
+      "573": 1477,
+      "718": 1478
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1351,
+      "404": 1352,
+      "477": 1655,
+      "573": 1655,
+      "718": 1656
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1457,
+      "404": 1458,
+      "477": 1761,
+      "573": 1761,
+      "718": 1762
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1394,
+      "404": 1395,
+      "477": 1698,
+      "573": 1698,
+      "718": 1699
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1188,
+      "404": 1189,
+      "477": 1492,
+      "573": 1492,
+      "718": 1493
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1557,
+      "404": 1558,
+      "477": 1861,
+      "573": 1861,
+      "718": 1862
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1328,
+      "404": 1329,
+      "477": 1632,
+      "573": 1632,
+      "718": 1633
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1331,
+      "404": 1332,
+      "477": 1635,
+      "573": 1635,
+      "718": 1636
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1438,
+      "404": 1439,
+      "477": 1742,
+      "573": 1742,
+      "718": 1743
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1251,
+      "404": 1252,
+      "477": 1555,
+      "573": 1555,
+      "718": 1556
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1507,
+      "404": 1508,
+      "477": 1811,
+      "573": 1811,
+      "718": 1812
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1198,
+      "4": 817,
+      "404": 1199,
+      "477": 1502,
+      "573": 1502,
+      "718": 1503
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1277,
+      "404": 1278,
+      "477": 1581,
+      "573": 1581,
+      "718": 1582
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1553,
+      "404": 1554,
+      "477": 1857,
+      "573": 1857,
+      "718": 1858
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1406,
+      "404": 1407,
+      "477": 1710,
+      "573": 1710,
+      "718": 1711
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1275,
+      "404": 1276,
+      "477": 1579,
+      "573": 1579,
+      "718": 1580
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1531,
+      "404": 1532,
+      "477": 1835,
+      "573": 1835,
+      "718": 1836
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1513,
+      "404": 1514,
+      "477": 1817,
+      "573": 1817,
+      "718": 1818
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1434,
+      "404": 1435,
+      "477": 1738,
+      "573": 1738,
+      "718": 1739
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1551,
+      "404": 1552,
+      "477": 1855,
+      "573": 1855,
+      "718": 1856
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1290,
+      "404": 1291,
+      "477": 1594,
+      "573": 1594,
+      "718": 1595
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1517,
+      "404": 1518,
+      "477": 1821,
+      "573": 1821,
+      "718": 1822
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1150,
+      "404": 1151,
+      "477": 1454,
+      "573": 1454,
+      "718": 1455
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1465,
+      "404": 1466,
+      "477": 1769,
+      "573": 1769,
+      "718": 1770
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1172,
+      "404": 1173,
+      "477": 1476,
+      "573": 1476,
+      "718": 1477
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1338,
+      "404": 1339,
+      "477": 1642,
+      "573": 1642,
+      "718": 1643
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1464,
+      "404": 1465,
+      "477": 1768,
+      "573": 1768,
+      "718": 1769
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1428,
+      "404": 1429,
+      "477": 1732,
+      "573": 1732,
+      "718": 1733
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1636,
+      "404": 1637,
+      "477": 1940,
+      "573": 1940,
+      "718": 1941
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1431,
+      "404": 1432,
+      "477": 1735,
+      "573": 1735,
+      "718": 1736
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1165,
+      "404": 1166,
+      "477": 1469,
+      "573": 1469,
+      "718": 1470
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1480,
+      "404": 1481,
+      "477": 1784,
+      "573": 1784,
+      "718": 1785
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1284,
+      "404": 1285,
+      "477": 1588,
+      "573": 1588,
+      "718": 1589
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1459,
+      "404": 1460,
+      "477": 1763,
+      "573": 1763,
+      "718": 1764
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1514,
+      "404": 1515,
+      "477": 1818,
+      "573": 1818,
+      "718": 1819
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1359,
+      "404": 1360,
+      "477": 1663,
+      "573": 1663,
+      "718": 1664
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1542,
+      "404": 1543,
+      "477": 1846,
+      "573": 1846,
+      "718": 1847
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1243,
+      "404": 1244,
+      "477": 1547,
+      "573": 1547,
+      "718": 1548
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1372,
+      "404": 1373,
+      "477": 1676,
+      "573": 1676,
+      "718": 1677
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1239,
+      "404": 1240,
+      "477": 1543,
+      "573": 1543,
+      "718": 1544
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1576,
+      "404": 1577,
+      "477": 1880,
+      "573": 1880,
+      "718": 1881
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1314,
+      "404": 1315,
+      "477": 1618,
+      "573": 1618,
+      "718": 1619
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1145,
+      "404": 1146,
+      "477": 1449,
+      "573": 1449,
+      "718": 1450
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1304,
+      "404": 1305,
+      "477": 1608,
+      "573": 1608,
+      "718": 1609
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1613,
+      "404": 1614,
+      "477": 1917,
+      "573": 1917,
+      "718": 1918
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1366,
+      "404": 1367,
+      "477": 1670,
+      "573": 1670,
+      "718": 1671
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1455,
+      "404": 1456,
+      "477": 1759,
+      "573": 1759,
+      "718": 1760
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1355,
+      "404": 1356,
+      "477": 1659,
+      "573": 1659,
+      "718": 1660
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1610,
+      "404": 1611,
+      "477": 1914,
+      "573": 1914,
+      "718": 1915
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1418,
+      "404": 1419,
+      "477": 1722,
+      "573": 1722,
+      "718": 1723
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1524,
+      "404": 1525,
+      "477": 1828,
+      "573": 1828,
+      "718": 1829
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1382,
+      "404": 1383,
+      "477": 1686,
+      "573": 1686,
+      "718": 1687
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1607,
+      "404": 1608,
+      "477": 1911,
+      "573": 1911,
+      "718": 1912
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1279,
+      "404": 1280,
+      "477": 1583,
+      "573": 1583,
+      "718": 1584
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1623,
+      "404": 1624,
+      "477": 1927,
+      "573": 1927,
+      "718": 1928
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1487,
+      "404": 1488,
+      "477": 1791,
+      "573": 1791,
+      "718": 1792
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1519,
+      "404": 1520,
+      "477": 1823,
+      "573": 1823,
+      "718": 1824
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1135,
+      "404": 1136,
+      "477": 1439,
+      "573": 1439,
+      "718": 1440
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1349,
+      "404": 1350,
+      "477": 1653,
+      "573": 1653,
+      "718": 1654
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1628,
+      "404": 1629,
+      "477": 1932,
+      "573": 1932,
+      "718": 1933
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1566,
+      "404": 1567,
+      "477": 1870,
+      "573": 1870,
+      "718": 1871
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1211,
+      "404": 1212,
+      "477": 1515,
+      "573": 1515,
+      "718": 1516
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1318,
+      "404": 1319,
+      "477": 1622,
+      "573": 1622,
+      "718": 1623
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1561,
+      "404": 1562,
+      "477": 1865,
+      "573": 1865,
+      "718": 1866
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1233,
+      "404": 1234,
+      "477": 1537,
+      "573": 1537,
+      "718": 1538
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1387,
+      "404": 1388,
+      "477": 1691,
+      "573": 1691,
+      "718": 1692
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1560,
+      "404": 1561,
+      "477": 1864,
+      "573": 1864,
+      "718": 1865
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1147,
+      "404": 1148,
+      "477": 1451,
+      "573": 1451,
+      "718": 1452
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1549,
+      "404": 1550,
+      "477": 1853,
+      "573": 1853,
+      "718": 1854
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1425,
+      "404": 1426,
+      "477": 1729,
+      "573": 1729,
+      "718": 1730
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1562,
+      "404": 1563,
+      "477": 1866,
+      "573": 1866,
+      "718": 1867
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1263,
+      "404": 1264,
+      "477": 1567,
+      "573": 1567,
+      "718": 1568
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1181,
+      "404": 1182,
+      "477": 1485,
+      "573": 1485,
+      "718": 1486
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1510,
+      "404": 1511,
+      "477": 1814,
+      "573": 1814,
+      "718": 1815
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1466,
+      "404": 1467,
+      "477": 1770,
+      "573": 1770,
+      "718": 1771
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1326,
+      "4": 821,
+      "404": 1327,
+      "477": 1630,
+      "573": 1630,
+      "718": 1631
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1327,
+      "404": 1328,
+      "477": 1631,
+      "573": 1631,
+      "718": 1632
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1546,
+      "404": 1547,
+      "477": 1850,
+      "573": 1850,
+      "718": 1851
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1343,
+      "404": 1344,
+      "477": 1647,
+      "573": 1647,
+      "718": 1648
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1637,
+      "404": 1638,
+      "477": 1941,
+      "573": 1941,
+      "718": 1942
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1154,
+      "404": 1155,
+      "477": 1458,
+      "573": 1458,
+      "718": 1459
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1164,
+      "404": 1165,
+      "477": 1468,
+      "573": 1468,
+      "718": 1469
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1515,
+      "404": 1516,
+      "477": 1819,
+      "573": 1819,
+      "718": 1820
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1461,
+      "404": 1462,
+      "477": 1765,
+      "573": 1765,
+      "718": 1766
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1381,
+      "404": 1382,
+      "477": 1685,
+      "573": 1685,
+      "718": 1686
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1306,
+      "404": 1307,
+      "477": 1610,
+      "573": 1610,
+      "718": 1611
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1184,
+      "404": 1185,
+      "477": 1488,
+      "573": 1488,
+      "718": 1489
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1608,
+      "404": 1609,
+      "477": 1912,
+      "573": 1912,
+      "718": 1913
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1600,
+      "404": 1601,
+      "477": 1904,
+      "573": 1904,
+      "718": 1905
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1209,
+      "404": 1210,
+      "477": 1513,
+      "573": 1513,
+      "718": 1514
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1402,
+      "404": 1403,
+      "477": 1706,
+      "573": 1706,
+      "718": 1707
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1250,
+      "404": 1251,
+      "477": 1554,
+      "573": 1554,
+      "718": 1555
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1582,
+      "4": 829,
+      "404": 1583,
+      "477": 1886,
+      "573": 1886,
+      "718": 1887
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1601,
+      "404": 1602,
+      "477": 1905,
+      "573": 1905,
+      "718": 1906
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1191,
+      "404": 1192,
+      "477": 1495,
+      "573": 1495,
+      "718": 1496
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1450,
+      "404": 1451,
+      "477": 1754,
+      "573": 1754,
+      "718": 1755
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1285,
+      "404": 1286,
+      "477": 1589,
+      "573": 1589,
+      "718": 1590
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1605,
+      "404": 1606,
+      "477": 1909,
+      "573": 1909,
+      "718": 1910
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1373,
+      "404": 1374,
+      "477": 1677,
+      "573": 1677,
+      "718": 1678
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1578,
+      "404": 1579,
+      "477": 1882,
+      "573": 1882,
+      "718": 1883
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1335,
+      "404": 1336,
+      "477": 1639,
+      "573": 1639,
+      "718": 1640
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1205,
+      "404": 1206,
+      "477": 1509,
+      "573": 1509,
+      "718": 1510
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1489,
+      "404": 1490,
+      "477": 1793,
+      "573": 1793,
+      "718": 1794
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1362,
+      "404": 1363,
+      "477": 1666,
+      "573": 1666,
+      "718": 1667
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1146,
+      "404": 1147,
+      "477": 1450,
+      "573": 1450,
+      "718": 1451
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1511,
+      "404": 1512,
+      "477": 1815,
+      "573": 1815,
+      "718": 1816
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1195,
+      "404": 1196,
+      "477": 1499,
+      "573": 1499,
+      "718": 1500
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1640,
+      "404": 1641,
+      "477": 1944,
+      "573": 1944,
+      "718": 1945
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1231,
+      "404": 1232,
+      "477": 1535,
+      "573": 1535,
+      "718": 1536
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1476,
+      "404": 1477,
+      "477": 1780,
+      "573": 1780,
+      "718": 1781
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1581,
+      "404": 1582,
+      "477": 1885,
+      "573": 1885,
+      "718": 1886
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1330,
+      "404": 1331,
+      "477": 1634,
+      "573": 1634,
+      "718": 1635
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1152,
+      "404": 1153,
+      "477": 1456,
+      "573": 1456,
+      "718": 1457
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1140,
+      "404": 1141,
+      "477": 1444,
+      "573": 1444,
+      "718": 1445
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1473,
+      "404": 1474,
+      "477": 1777,
+      "573": 1777,
+      "718": 1778
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1276,
+      "404": 1277,
+      "477": 1580,
+      "573": 1580,
+      "718": 1581
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1490,
+      "404": 1491,
+      "477": 1794,
+      "573": 1794,
+      "718": 1795
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1472,
+      "404": 1473,
+      "477": 1776,
+      "573": 1776,
+      "718": 1777
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1291,
+      "404": 1292,
+      "477": 1595,
+      "573": 1595,
+      "718": 1596
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1388,
+      "404": 1389,
+      "477": 1692,
+      "573": 1692,
+      "718": 1693
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1159,
+      "404": 1160,
+      "477": 1463,
+      "573": 1463,
+      "718": 1464
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1537,
+      "404": 1538,
+      "477": 1841,
+      "573": 1841,
+      "718": 1842
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1556,
+      "404": 1557,
+      "477": 1860,
+      "573": 1860,
+      "718": 1861
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1501,
+      "404": 1502,
+      "477": 1805,
+      "573": 1805,
+      "718": 1806
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1235,
+      "404": 1236,
+      "477": 1539,
+      "573": 1539,
+      "718": 1540
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1189,
+      "404": 1190,
+      "477": 1493,
+      "573": 1493,
+      "718": 1494
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1232,
+      "404": 1233,
+      "477": 1536,
+      "573": 1536,
+      "718": 1537
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1324,
+      "404": 1325,
+      "477": 1628,
+      "573": 1628,
+      "718": 1629
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1427,
+      "404": 1428,
+      "477": 1731,
+      "573": 1731,
+      "718": 1732
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1424,
+      "404": 1425,
+      "477": 1728,
+      "573": 1728,
+      "718": 1729
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1151,
+      "404": 1152,
+      "477": 1455,
+      "573": 1455,
+      "718": 1456
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1532,
+      "404": 1533,
+      "477": 1836,
+      "573": 1836,
+      "718": 1837
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1283,
+      "404": 1284,
+      "477": 1587,
+      "573": 1587,
+      "718": 1588
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1536,
+      "404": 1537,
+      "477": 1840,
+      "573": 1840,
+      "718": 1841
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1400,
+      "404": 1401,
+      "477": 1704,
+      "573": 1704,
+      "718": 1705
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1218,
+      "404": 1219,
+      "477": 1522,
+      "573": 1522,
+      "718": 1523
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1504,
+      "404": 1505,
+      "477": 1808,
+      "573": 1808,
+      "718": 1809
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1212,
+      "404": 1213,
+      "477": 1516,
+      "573": 1516,
+      "718": 1517
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1547,
+      "404": 1548,
+      "477": 1851,
+      "573": 1851,
+      "718": 1852
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1174,
+      "404": 1175,
+      "477": 1478,
+      "573": 1478,
+      "718": 1479
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1484,
+      "404": 1485,
+      "477": 1788,
+      "573": 1788,
+      "718": 1789
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1618,
+      "404": 1619,
+      "477": 1922,
+      "573": 1922,
+      "718": 1923
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1596,
+      "404": 1597,
+      "477": 1900,
+      "573": 1900,
+      "718": 1901
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1505,
+      "404": 1506,
+      "477": 1809,
+      "573": 1809,
+      "718": 1810
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1204,
+      "404": 1205,
+      "477": 1508,
+      "573": 1508,
+      "718": 1509
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1529,
+      "404": 1530,
+      "477": 1833,
+      "573": 1833,
+      "718": 1834
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1528,
+      "404": 1529,
+      "477": 1832,
+      "573": 1832,
+      "718": 1833
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1194,
+      "404": 1195,
+      "477": 1498,
+      "573": 1498,
+      "718": 1499
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1491,
+      "404": 1492,
+      "477": 1795,
+      "573": 1795,
+      "718": 1796
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1543,
+      "404": 1544,
+      "477": 1847,
+      "573": 1847,
+      "718": 1848
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1567,
+      "404": 1568,
+      "477": 1871,
+      "573": 1871,
+      "718": 1872
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1471,
+      "404": 1472,
+      "477": 1775,
+      "573": 1775,
+      "718": 1776
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1467,
+      "404": 1468,
+      "477": 1771,
+      "573": 1771,
+      "718": 1772
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1310,
+      "404": 1311,
+      "477": 1614,
+      "573": 1614,
+      "718": 1615
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1158,
+      "404": 1159,
+      "477": 1462,
+      "573": 1462,
+      "718": 1463
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1638,
+      "404": 1639,
+      "477": 1942,
+      "573": 1942,
+      "718": 1943
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1479,
+      "404": 1480,
+      "477": 1783,
+      "573": 1783,
+      "718": 1784
+    }
+  },
+  {
+    "name": "minecraft:fire[age=4,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1281,
+      "404": 1282,
+      "477": 1585,
+      "573": 1585,
+      "718": 1586
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1573,
+      "404": 1574,
+      "477": 1877,
+      "573": 1877,
+      "718": 1878
+    }
+  },
+  {
+    "name": "minecraft:fire[age=0,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1141,
+      "404": 1142,
+      "477": 1445,
+      "573": 1445,
+      "718": 1446
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1423,
+      "404": 1424,
+      "477": 1727,
+      "573": 1727,
+      "718": 1728
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1215,
+      "404": 1216,
+      "477": 1519,
+      "573": 1519,
+      "718": 1520
+    }
+  },
+  {
+    "name": "minecraft:fire[age=15,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1615,
+      "404": 1616,
+      "477": 1919,
+      "573": 1919,
+      "718": 1920
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1435,
+      "404": 1436,
+      "477": 1739,
+      "573": 1739,
+      "718": 1740
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1441,
+      "404": 1442,
+      "477": 1745,
+      "573": 1745,
+      "718": 1746
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1298,
+      "404": 1299,
+      "477": 1602,
+      "573": 1602,
+      "718": 1603
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1477,
+      "404": 1478,
+      "477": 1781,
+      "573": 1781,
+      "718": 1782
+    }
+  },
+  {
+    "name": "minecraft:fire[age=1,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1179,
+      "404": 1180,
+      "477": 1483,
+      "573": 1483,
+      "718": 1484
+    }
+  },
+  {
+    "name": "minecraft:fire[age=10,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1460,
+      "404": 1461,
+      "477": 1764,
+      "573": 1764,
+      "718": 1765
+    }
+  },
+  {
+    "name": "minecraft:fire[age=3,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1236,
+      "404": 1237,
+      "477": 1540,
+      "573": 1540,
+      "718": 1541
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1550,
+      "4": 828,
+      "404": 1551,
+      "477": 1854,
+      "573": 1854,
+      "718": 1855
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1353,
+      "404": 1354,
+      "477": 1657,
+      "573": 1657,
+      "718": 1658
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1408,
+      "404": 1409,
+      "477": 1712,
+      "573": 1712,
+      "718": 1713
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1379,
+      "404": 1380,
+      "477": 1683,
+      "573": 1683,
+      "718": 1684
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1587,
+      "404": 1588,
+      "477": 1891,
+      "573": 1891,
+      "718": 1892
+    }
+  },
+  {
+    "name": "minecraft:fire[age=6,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1352,
+      "404": 1353,
+      "477": 1656,
+      "573": 1656,
+      "718": 1657
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1604,
+      "404": 1605,
+      "477": 1908,
+      "573": 1908,
+      "718": 1909
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 1415,
+      "404": 1416,
+      "477": 1719,
+      "573": 1719,
+      "718": 1720
+    }
+  },
+  {
+    "name": "minecraft:fire[age=2,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 1219,
+      "404": 1220,
+      "477": 1523,
+      "573": 1523,
+      "718": 1524
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 1521,
+      "404": 1522,
+      "477": 1825,
+      "573": 1825,
+      "718": 1826
+    }
+  },
+  {
+    "name": "minecraft:fire[age=7,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1380,
+      "404": 1381,
+      "477": 1684,
+      "573": 1684,
+      "718": 1685
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 1312,
+      "404": 1313,
+      "477": 1616,
+      "573": 1616,
+      "718": 1617
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1558,
+      "404": 1559,
+      "477": 1862,
+      "573": 1862,
+      "718": 1863
+    }
+  },
+  {
+    "name": "minecraft:fire[age=11,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 1500,
+      "404": 1501,
+      "477": 1804,
+      "573": 1804,
+      "718": 1805
+    }
+  },
+  {
+    "name": "minecraft:fire[age=5,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1325,
+      "404": 1326,
+      "477": 1629,
+      "573": 1629,
+      "718": 1630
+    }
+  },
+  {
+    "name": "minecraft:fire[age=8,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1410,
+      "404": 1411,
+      "477": 1714,
+      "573": 1714,
+      "718": 1715
+    }
+  },
+  {
+    "name": "minecraft:fire[age=14,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1598,
+      "404": 1599,
+      "477": 1902,
+      "573": 1902,
+      "718": 1903
+    }
+  },
+  {
+    "name": "minecraft:fire[age=9,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 1442,
+      "404": 1443,
+      "477": 1746,
+      "573": 1746,
+      "718": 1747
+    }
+  },
+  {
+    "name": "minecraft:fire[age=12,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 1533,
+      "404": 1534,
+      "477": 1837,
+      "573": 1837,
+      "718": 1838
+    }
+  },
+  {
+    "name": "minecraft:fire[age=13,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 1574,
+      "404": 1575,
+      "477": 1878,
+      "573": 1878,
+      "718": 1879
+    }
+  }
+]

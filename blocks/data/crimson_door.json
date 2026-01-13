@@ -1,0 +1,386 @@
+[
+  {
+    "name": "minecraft:crimson_door[facing=east,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15576
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15557
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15590
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15537
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15538
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15577
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15549
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15573
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15555
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15585
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15536
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15533
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15565
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15531
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15587
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15554
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15581
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15559
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15582
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15589
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15560
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15545
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15535
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15532
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15566
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15548
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15568
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15583
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15579
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15544
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15556
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15550
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15569
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15528
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15527
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15552
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15539
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15530
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15541
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15529
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15578
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15546
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15564
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15542
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15553
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15572
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15558
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15551
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15586
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15561
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15547
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15570
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=south,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15543
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15584
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15588
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15534
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15574
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15540
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15580
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15567
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15562
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15563
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=west,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15571
+    }
+  },
+  {
+    "name": "minecraft:crimson_door[facing=east,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15575
+    }
+  }
+]

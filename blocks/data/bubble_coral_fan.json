@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:bubble_coral_fan[waterlogged=true]",
+    "ids": {
+      "393": 8558,
+      "404": 8574,
+      "477": 9018,
+      "573": 9018,
+      "718": 9554
+    }
+  },
+  {
+    "name": "minecraft:bubble_coral_fan[waterlogged=false]",
+    "ids": {
+      "393": 8559,
+      "404": 8575,
+      "477": 9019,
+      "573": 9019,
+      "718": 9555
+    }
+  }
+]

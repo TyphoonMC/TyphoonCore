@@ -1,0 +1,66 @@
+[
+  {
+    "name": "minecraft:blast_furnace[facing=south,lit=true]",
+    "ids": {
+      "477": 11157,
+      "573": 11157,
+      "718": 14813
+    }
+  },
+  {
+    "name": "minecraft:blast_furnace[facing=east,lit=true]",
+    "ids": {
+      "477": 11161,
+      "573": 11161,
+      "718": 14817
+    }
+  },
+  {
+    "name": "minecraft:blast_furnace[facing=north,lit=false]",
+    "ids": {
+      "477": 11156,
+      "573": 11156,
+      "718": 14812
+    }
+  },
+  {
+    "name": "minecraft:blast_furnace[facing=north,lit=true]",
+    "ids": {
+      "477": 11155,
+      "573": 11155,
+      "718": 14811
+    }
+  },
+  {
+    "name": "minecraft:blast_furnace[facing=south,lit=false]",
+    "ids": {
+      "477": 11158,
+      "573": 11158,
+      "718": 14814
+    }
+  },
+  {
+    "name": "minecraft:blast_furnace[facing=west,lit=false]",
+    "ids": {
+      "477": 11160,
+      "573": 11160,
+      "718": 14816
+    }
+  },
+  {
+    "name": "minecraft:blast_furnace[facing=west,lit=true]",
+    "ids": {
+      "477": 11159,
+      "573": 11159,
+      "718": 14815
+    }
+  },
+  {
+    "name": "minecraft:blast_furnace[facing=east,lit=false]",
+    "ids": {
+      "477": 11162,
+      "573": 11162,
+      "718": 14818
+    }
+  }
+]

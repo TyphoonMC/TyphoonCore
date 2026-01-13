@@ -4,9 +4,9 @@ import (
 	"compress/zlib"
 	"encoding/binary"
 	"fmt"
-	"log"
+	"log/slog"
 
-	uuid "github.com/TyphoonMC/go.uuid"
+	"github.com/google/uuid"
 	"github.com/seebs/nbt"
 )
 
@@ -20,23 +20,23 @@ type PacketHandshake struct {
 func (packet *PacketHandshake) Read(player *Player, length int) (err error) {
 	protocol, err := player.ReadVarInt()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.Protocol = Protocol(protocol)
 	packet.Address, err = player.ReadStringLimited(config.BufferConfig.HandshakeAddress)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.Port, err = player.ReadUInt16()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	state, err := player.ReadVarInt()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.State = State(state)
@@ -96,7 +96,7 @@ func (packet *PacketStatusResponse) Read(player *Player, length int) (err error)
 func (packet *PacketStatusResponse) Write(player *Player) (err error) {
 	err = player.WriteString(packet.Response)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -113,7 +113,7 @@ type PacketStatusPing struct {
 func (packet *PacketStatusPing) Read(player *Player, length int) (err error) {
 	packet.Time, err = player.ReadUInt64()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -121,7 +121,7 @@ func (packet *PacketStatusPing) Read(player *Player, length int) (err error) {
 func (packet *PacketStatusPing) Write(player *Player) (err error) {
 	err = player.WriteUInt64(packet.Time)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -140,7 +140,7 @@ type PacketLoginStart struct {
 func (packet *PacketLoginStart) Read(player *Player, length int) (err error) {
 	packet.Username, err = player.ReadStringLimited(config.BufferConfig.PlayerName)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -155,14 +155,38 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 		return
 	}
 
-	max_players := config.MaxPlayers
+	player.name = packet.Username
 
+	// PlayerPreLoginEvent - can deny connection
+	preLoginEvent := &PlayerPreLoginEvent{
+		Player:  player,
+		Name:    packet.Username,
+		Address: player.conn.RemoteAddr().String(),
+	}
+	player.core.CallEvent(preLoginEvent)
+
+	if preLoginEvent.IsCancelled() {
+		player.Kick(preLoginEvent.KickReason)
+		return
+	}
+
+	max_players := config.MaxPlayers
 	count := player.core.playerRegistry.GetPlayerCount()
 	if max_players <= count && config.Restricted {
 		player.Kick("Server is full")
+		return
 	}
 
-	player.name = packet.Username
+	// PlayerLoginEvent - can deny connection
+	loginEvent := &PlayerLoginEvent{
+		Player: player,
+	}
+	player.core.CallEvent(loginEvent)
+
+	if loginEvent.IsCancelled() {
+		player.Kick(loginEvent.KickReason)
+		return
+	}
 
 	if config.Compression && player.protocol >= V1_8 {
 		setCompression := PacketSetCompression{config.Threshold}
@@ -194,10 +218,6 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 		player.core.difficulty,
 	})
 
-	/*player.WritePacket(&PacketPlaySpawnPosition{
-		*player.core.world.Spawn.ToPosition(),
-	})*/
-
 	player.WritePacket(&PacketPlayPlayerAbilities{
 		true,
 		true,
@@ -207,8 +227,17 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 		0.1,
 	})
 
+	// Set initial player location
+	player.SetLocation(Location{
+		X:     player.core.world.Spawn.X,
+		Y:     player.core.world.Spawn.Y,
+		Z:     player.core.world.Spawn.Z,
+		Yaw:   0,
+		Pitch: 0,
+	})
+
 	player.core.CallEvent(&PlayerPreJoinEvent{
-		player,
+		Player: player,
 	})
 
 	player.WritePacket(&PacketPlayerPositionLook{
@@ -231,7 +260,7 @@ func (packet *PacketLoginStart) Handle(player *Player) {
 	}
 
 	player.core.CallEvent(&PlayerJoinEvent{
-		player,
+		Player: player,
 	})
 }
 func (packet *PacketLoginStart) Id() (int, Protocol) {
@@ -248,7 +277,7 @@ func (packet *PacketLoginDisconnect) Read(player *Player, length int) (err error
 func (packet *PacketLoginDisconnect) Write(player *Player) (err error) {
 	err = player.WriteString(packet.Component)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -270,19 +299,19 @@ func (packet *PacketLoginSuccess) Write(player *Player) (err error) {
 	if player.protocol >= V1_16 {
 		err = player.WriteUUID(packet.UUID)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	} else {
 		err = player.WriteString(packet.UUID.String())
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	err = player.WriteString(packet.Username)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -302,7 +331,7 @@ func (packet *PacketSetCompression) Read(player *Player, length int) (err error)
 func (packet *PacketSetCompression) Write(player *Player) (err error) {
 	err = player.WriteVarInt(packet.Threshold)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -319,7 +348,7 @@ type PacketPlayChat struct {
 func (packet *PacketPlayChat) Read(player *Player, length int) (err error) {
 	packet.Message, err = player.ReadStringLimited(config.BufferConfig.ChatMessage)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -330,12 +359,24 @@ func (packet *PacketPlayChat) Write(player *Player) (err error) {
 func (packet *PacketPlayChat) Handle(player *Player) {
 	if len(packet.Message) > 0 {
 		if packet.Message[0] != '/' {
-			player.core.CallEvent(&PlayerChatEvent{
-				player,
-				packet.Message,
-			})
+			event := &PlayerChatEvent{
+				Player:  player,
+				Message: packet.Message,
+			}
+			player.core.CallEvent(event)
+			// Chat broadcast is handled by the event listener
 		} else {
-			player.core.onCommand(player, packet.Message[1:len(packet.Message)])
+			// Command
+			cmd := packet.Message[1:]
+			event := &PlayerCommandPreprocessEvent{
+				Player:  player,
+				Command: cmd,
+			}
+			player.core.CallEvent(event)
+
+			if !event.IsCancelled() {
+				player.core.onCommand(player, event.Command)
+			}
 		}
 	}
 }
@@ -353,13 +394,13 @@ func (packet *PacketPlayTabComplete) Read(player *Player, length int) (err error
 func (packet *PacketPlayTabComplete) Write(player *Player) (err error) {
 	err = player.WriteVarInt(len(packet.Matches))
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	for _, s := range packet.Matches {
 		err = player.WriteString(s)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
@@ -379,23 +420,23 @@ type PacketPlayTabCompleteServerbound struct {
 func (packet *PacketPlayTabCompleteServerbound) Read(player *Player, length int) (err error) {
 	packet.Text, err = player.ReadStringLimited(config.BufferConfig.ChatMessage)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.AssumeCommand, err = player.ReadBool()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	hasPosition, err := player.ReadBool()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	if hasPosition {
 		packet.Position, err = player.ReadPosition()
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
@@ -406,8 +447,15 @@ func (packet *PacketPlayTabCompleteServerbound) Write(player *Player) (err error
 }
 func (packet *PacketPlayTabCompleteServerbound) Handle(player *Player) {
 	if len(packet.Text) > 0 {
+		event := &PlayerTabCompleteEvent{
+			Player:      player,
+			Buffer:      packet.Text,
+			Completions: []string{},
+		}
+		player.core.CallEvent(event)
+
 		if packet.Text[0] == '/' {
-			player.core.onTabCommand(player, packet.Text[1:len(packet.Text)])
+			player.core.onTabCommand(player, packet.Text[1:])
 		}
 	}
 }
@@ -422,7 +470,7 @@ type PacketPlayClientStatus struct {
 func (packet *PacketPlayClientStatus) Read(player *Player, length int) (err error) {
 	act, err := player.ReadVarInt()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.Action = ClientStatusAction(act)
@@ -450,20 +498,20 @@ func (packet *PacketPlayMessage) Read(player *Player, length int) (err error) {
 func (packet *PacketPlayMessage) Write(player *Player) (err error) {
 	err = player.WriteString(packet.Component)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	if player.protocol > V1_7_6 {
 		err = player.WriteUInt8(uint8(packet.Position))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if player.protocol >= V1_16 {
 		err = player.WriteUUID(packet.Sender)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
@@ -490,44 +538,44 @@ func (packet *PacketBossBar) Read(player *Player, length int) (err error) {
 func (packet *PacketBossBar) Write(player *Player) (err error) {
 	err = player.WriteUUID(packet.UUID)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteVarInt(int(packet.Action))
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	if packet.Action == BOSSBAR_UPDATE_TITLE || packet.Action == BOSSBAR_ADD {
 		err = player.WriteString(packet.Title)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if packet.Action == BOSSBAR_UPDATE_HEALTH || packet.Action == BOSSBAR_ADD {
 		err = player.WriteFloat32(packet.Health)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if packet.Action == BOSSBAR_UPDATE_STYLE || packet.Action == BOSSBAR_ADD {
 		err = player.WriteVarInt(int(packet.Color))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 		err = player.WriteVarInt(int(packet.Division))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if packet.Action == BOSSBAR_UPDATE_STYLE || packet.Action == BOSSBAR_ADD {
 		err = player.WriteUInt8(packet.Flags)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
@@ -548,13 +596,13 @@ func (packet *PacketPlayServerDifficulty) Read(player *Player, length int) (err 
 func (packet *PacketPlayServerDifficulty) Write(player *Player) (err error) {
 	err = player.WriteUInt8(uint8(packet.Difficulty))
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	if player.protocol >= V1_14 {
 		err = player.WriteBool(false)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
@@ -576,19 +624,19 @@ func (packet *PacketPlayDeclareCommands) Read(player *Player, length int) (err e
 func (packet *PacketPlayDeclareCommands) Write(player *Player) (err error) {
 	err = player.WriteVarInt(len(packet.Nodes))
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	for _, n := range packet.Nodes {
 		err = (&n).writeTo(player)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	err = player.WriteVarInt(packet.RootIndex)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -607,7 +655,7 @@ func (packet *PacketPlayPluginMessage) Read(player *Player, length int) (err err
 	var read int
 	packet.Channel, read, err = player.ReadNStringLimited(20)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 
@@ -615,7 +663,7 @@ func (packet *PacketPlayPluginMessage) Read(player *Player, length int) (err err
 	if player.protocol < V1_8 {
 		sread, err := player.ReadUInt16()
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return err
 		}
 		dataLength = int(sread)
@@ -623,7 +671,7 @@ func (packet *PacketPlayPluginMessage) Read(player *Player, length int) (err err
 
 	packet.Data, err = player.ReadByteArray(dataLength)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -631,26 +679,26 @@ func (packet *PacketPlayPluginMessage) Read(player *Player, length int) (err err
 func (packet *PacketPlayPluginMessage) Write(player *Player) (err error) {
 	err = player.WriteString(packet.Channel)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	if player.protocol < V1_8 {
 		err = player.WriteUInt16(uint16(len(packet.Data)))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return err
 		}
 	}
 	err = player.WriteByteArray(packet.Data)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
 }
 func (packet *PacketPlayPluginMessage) Handle(player *Player) {
 	if packet.Channel == "MC|Brand" || packet.Channel == "minecraft:brand" {
-		log.Printf("%s is using %s client", player.name, string(packet.Data))
+		slog.Info("player client brand", "player", player.name, "client", string(packet.Data))
 		buff := make([]byte, len(player.core.brand)+1)
 		length := binary.PutUvarint(buff, uint64(len(player.core.brand)))
 		copy(buff[length:], []byte(player.core.brand))
@@ -660,8 +708,9 @@ func (packet *PacketPlayPluginMessage) Handle(player *Player) {
 		})*/
 	}
 	player.core.CallEvent(&PluginMessageEvent{
-		packet.Channel,
-		packet.Data,
+		Player:  player,
+		Channel: packet.Channel,
+		Data:    packet.Data,
 	})
 }
 func (packet *PacketPlayPluginMessage) Id() (int, Protocol) {
@@ -678,7 +727,7 @@ func (packet *PacketPlayDisconnect) Read(player *Player, length int) (err error)
 func (packet *PacketPlayDisconnect) Write(player *Player) (err error) {
 	err = player.WriteString(packet.Component)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -705,7 +754,7 @@ func (packet *PacketPlayKeepAlive) Read(player *Player, length int) (err error) 
 		packet.Identifier, err = player.ReadVarInt()
 	}
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -719,7 +768,7 @@ func (packet *PacketPlayKeepAlive) Write(player *Player) (err error) {
 		err = player.WriteVarInt(packet.Identifier)
 	}
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -1062,7 +1111,7 @@ func (packet *PacketPlayChunkData) WriteV1_8(player *Player) (err error) {
 	player.WriteVarInt(16 * 16 * 16 * 2)
 
 	// Write lights
-	for i, _ := range packet.Sections {
+	for i := range packet.Sections {
 		// Check chunk used
 		if (bitmask & (1 << i)) == 0 {
 			continue
@@ -1078,7 +1127,7 @@ func (packet *PacketPlayChunkData) WriteV1_8(player *Player) (err error) {
 
 	// Write sky lights
 	if packet.Dimension == OVERWORLD {
-		for i, _ := range packet.Sections {
+		for i := range packet.Sections {
 			// Check chunk used
 			if (bitmask & (1 << i)) == 0 {
 				continue
@@ -1161,7 +1210,7 @@ func (packet *PacketPlayChunkData) WriteV1_7(player *Player) (err error) {
 	}
 
 	// Write lights
-	for i, _ := range packet.Sections {
+	for i := range packet.Sections {
 		// Check chunk used
 		if (bitmask & (1 << i)) == 0 {
 			continue
@@ -1177,7 +1226,7 @@ func (packet *PacketPlayChunkData) WriteV1_7(player *Player) (err error) {
 
 	// Write sky lights
 	if packet.Dimension == OVERWORLD {
-		for i, _ := range packet.Sections {
+		for i := range packet.Sections {
 			// Check chunk used
 			if (bitmask & (1 << i)) == 0 {
 				continue
@@ -1232,52 +1281,52 @@ func (packet *PacketPlayParticle) Read(player *Player, length int) (err error) {
 func (packet *PacketPlayParticle) Write(player *Player) (err error) {
 	err = player.WriteUInt32(uint32(packet.Type))
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteBool(packet.LongDistance)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.X)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.Y)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.Z)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.OffsetX)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.OffsetY)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.OffsetZ)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.ParticleData)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteUInt32(uint32(packet.Count))
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -1311,36 +1360,36 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 		err = player.WriteUInt32(packet.EntityId)
 	}
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteUInt8(uint8(packet.Gamemode))
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	if player.protocol >= V1_16 {
 		err = player.WriteUInt8(uint8(packet.Gamemode))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if player.protocol < V1_16 {
 		err = player.WriteUInt32(uint32(packet.Dimension.Id))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	} else {
 		err = player.WriteVarInt(1)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 		err = player.WriteString(packet.Dimension.Name)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 
@@ -1352,76 +1401,76 @@ func (packet *PacketPlayJoinGame) Write(player *Player) (err error) {
 
 		err = player.WriteNBTCompound(compound)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 		err = player.WriteString(packet.Dimension.String())
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 		err = player.WriteString("minecraft:overworld")
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if player.protocol < V1_14 {
 		err = player.WriteUInt8(uint8(packet.Difficulty))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if player.protocol >= V1_15 {
 		err = player.WriteUInt64(packet.HashedSeed)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	err = player.WriteUInt8(packet.MaxPlayers)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	if player.protocol < V1_16 {
 		err = player.WriteString(string(packet.LevelType))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if player.protocol >= V1_14 {
 		err = player.WriteVarInt(32)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if player.protocol > V1_7_6 {
 		err = player.WriteBool(packet.ReducedDebug)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if player.protocol >= V1_15 {
 		err = player.WriteBool(packet.EnableRespawnScreen)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
 	if player.protocol >= V1_16 {
 		err = player.WriteBool(packet.IsDebug)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 		err = player.WriteBool(packet.IsFlat)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
@@ -1461,17 +1510,17 @@ func (packet *PacketPlayPlayerAbilities) Write(player *Player) (err error) {
 
 	err = player.WriteUInt8(flags)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.FlyingSpeed)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.FieldOfView)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -1497,46 +1546,46 @@ func (packet *PacketPlayerPositionLook) Read(player *Player, length int) (err er
 func (packet *PacketPlayerPositionLook) Write(player *Player) (err error) {
 	err = player.WriteFloat64(packet.X)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat64(packet.Y)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat64(packet.Z)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.Yaw)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.Pitch)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	if player.protocol == V1_9 {
 		// Send on ground
 		err = player.WriteBool(true)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	} else {
 		err = player.WriteUInt8(packet.Flags)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 		if player.protocol >= V1_9_3 {
 			err = player.WriteVarInt(packet.TeleportId)
 			if err != nil {
-				log.Print(err)
+				slog.Debug("packet error", "error", err)
 				return
 			}
 		}
@@ -1560,17 +1609,17 @@ func (packet *PacketUpdateHealth) Read(player *Player, length int) (err error) {
 func (packet *PacketUpdateHealth) Write(player *Player) (err error) {
 	err = player.WriteFloat32(packet.Health)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteVarInt(packet.Food)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	err = player.WriteFloat32(packet.FoodSaturation)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -1591,23 +1640,23 @@ func (packet *PacketPlaySpawnPosition) Write(player *Player) (err error) {
 	if player.protocol >= V1_8 {
 		err = player.WritePosition(packet.Position)
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	} else {
 		err = player.WriteUInt32(uint32(packet.Position.X))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 		err = player.WriteUInt32(uint32(packet.Position.Y))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 		err = player.WriteUInt32(uint32(packet.Position.Z))
 		if err != nil {
-			log.Print(err)
+			slog.Debug("packet error", "error", err)
 			return
 		}
 	}
@@ -1635,7 +1684,7 @@ func (packet *PacketPlayerListHeaderFooter) Write(player *Player) (err error) {
 	}
 	err = player.WriteString(str)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	if packet.Footer == nil {
@@ -1645,7 +1694,7 @@ func (packet *PacketPlayerListHeaderFooter) Write(player *Player) (err error) {
 	}
 	err = player.WriteString(str)
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	return
@@ -1667,32 +1716,32 @@ type PacketPlayPlayerPosition struct {
 func (packet *PacketPlayPlayerPosition) Read(player *Player, length int) (err error) {
 	packet.X, err = player.ReadFloat64()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.Y, err = player.ReadFloat64()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.Z, err = player.ReadFloat64()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.Yaw, err = player.ReadFloat32()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.Pitch, err = player.ReadFloat32()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.OnGround, err = player.ReadBool()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 
@@ -1702,8 +1751,25 @@ func (packet *PacketPlayPlayerPosition) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayPlayerPosition) Handle(player *Player) {
-	// TODO Dispatch a move event
-	return
+	from := player.GetLocation()
+	to := Location{
+		X:     packet.X,
+		Y:     packet.Y,
+		Z:     packet.Z,
+		Yaw:   packet.Yaw,
+		Pitch: packet.Pitch,
+	}
+
+	event := &PlayerMoveEvent{
+		Player: player,
+		From:   from,
+		To:     to,
+	}
+	player.core.CallEvent(event)
+
+	if !event.IsCancelled() {
+		player.SetLocation(to)
+	}
 }
 func (packet *PacketPlayPlayerPosition) Id() (int, Protocol) {
 	return 0x0D, V1_10
@@ -1718,17 +1784,17 @@ type PacketPlayPlayerLook struct {
 func (packet *PacketPlayPlayerLook) Read(player *Player, length int) (err error) {
 	packet.Yaw, err = player.ReadFloat32()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.Pitch, err = player.ReadFloat32()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 	packet.OnGround, err = player.ReadBool()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 
@@ -1738,8 +1804,26 @@ func (packet *PacketPlayPlayerLook) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayPlayerLook) Handle(player *Player) {
-	// Nothing to handle.
-	return
+	from := player.GetLocation()
+	to := Location{
+		X:     from.X,
+		Y:     from.Y,
+		Z:     from.Z,
+		Yaw:   packet.Yaw,
+		Pitch: packet.Pitch,
+	}
+
+	event := &PlayerMoveEvent{
+		Player: player,
+		From:   from,
+		To:     to,
+	}
+	player.core.CallEvent(event)
+
+	if !event.IsCancelled() {
+		player.SetLocation(to)
+		player.SetOnGround(packet.OnGround)
+	}
 }
 func (packet *PacketPlayPlayerLook) Id() (int, Protocol) {
 	return 0x0E, V1_10
@@ -1752,7 +1836,7 @@ type PacketPlayPlayer struct {
 func (packet *PacketPlayPlayer) Read(player *Player, length int) (err error) {
 	packet.OnGround, err = player.ReadBool()
 	if err != nil {
-		log.Print(err)
+		slog.Debug("packet error", "error", err)
 		return
 	}
 
@@ -1762,8 +1846,7 @@ func (packet *PacketPlayPlayer) Write(player *Player) (err error) {
 	return
 }
 func (packet *PacketPlayPlayer) Handle(player *Player) {
-	// Nothing to handle.
-	return
+	player.SetOnGround(packet.OnGround)
 }
 func (packet *PacketPlayPlayer) Id() (int, Protocol) {
 	return 0x0F, V1_10

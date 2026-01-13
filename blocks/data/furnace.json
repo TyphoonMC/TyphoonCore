@@ -1,0 +1,90 @@
+[
+  {
+    "name": "minecraft:furnace[facing=west,lit=false]",
+    "ids": {
+      "393": 3072,
+      "4": 980,
+      "404": 3073,
+      "477": 3376,
+      "573": 3376,
+      "718": 3378
+    }
+  },
+  {
+    "name": "minecraft:furnace[facing=north,lit=false]",
+    "ids": {
+      "393": 3068,
+      "4": 978,
+      "404": 3069,
+      "477": 3372,
+      "573": 3372,
+      "718": 3374
+    }
+  },
+  {
+    "name": "minecraft:furnace[facing=south,lit=false]",
+    "ids": {
+      "393": 3070,
+      "4": 979,
+      "404": 3071,
+      "477": 3374,
+      "573": 3374,
+      "718": 3376
+    }
+  },
+  {
+    "name": "minecraft:furnace[facing=south,lit=true]",
+    "ids": {
+      "393": 3069,
+      "4": 995,
+      "404": 3070,
+      "477": 3373,
+      "573": 3373,
+      "718": 3375
+    }
+  },
+  {
+    "name": "minecraft:furnace[facing=west,lit=true]",
+    "ids": {
+      "393": 3071,
+      "4": 996,
+      "404": 3072,
+      "477": 3375,
+      "573": 3375,
+      "718": 3377
+    }
+  },
+  {
+    "name": "minecraft:furnace[facing=east,lit=true]",
+    "ids": {
+      "393": 3073,
+      "4": 997,
+      "404": 3074,
+      "477": 3377,
+      "573": 3377,
+      "718": 3379
+    }
+  },
+  {
+    "name": "minecraft:furnace[facing=east,lit=false]",
+    "ids": {
+      "393": 3074,
+      "4": 981,
+      "404": 3075,
+      "477": 3378,
+      "573": 3378,
+      "718": 3380
+    }
+  },
+  {
+    "name": "minecraft:furnace[facing=north,lit=true]",
+    "ids": {
+      "393": 3067,
+      "4": 994,
+      "404": 3068,
+      "477": 3371,
+      "573": 3371,
+      "718": 3373
+    }
+  }
+]

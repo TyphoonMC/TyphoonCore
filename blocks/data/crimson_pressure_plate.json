@@ -1,0 +1,14 @@
+[
+  {
+    "name": "minecraft:crimson_pressure_plate[powered=false]",
+    "ids": {
+      "718": 15060
+    }
+  },
+  {
+    "name": "minecraft:crimson_pressure_plate[powered=true]",
+    "ids": {
+      "718": 15059
+    }
+  }
+]

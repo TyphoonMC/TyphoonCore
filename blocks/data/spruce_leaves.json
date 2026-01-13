@@ -1,0 +1,146 @@
+[
+  {
+    "name": "minecraft:spruce_leaves[distance=3,persistent=true]",
+    "ids": {
+      "393": 162,
+      "404": 162,
+      "477": 162,
+      "573": 162,
+      "718": 163
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=7,persistent=true]",
+    "ids": {
+      "393": 170,
+      "404": 170,
+      "477": 170,
+      "573": 170,
+      "718": 171
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=3,persistent=false]",
+    "ids": {
+      "393": 163,
+      "404": 163,
+      "477": 163,
+      "573": 163,
+      "718": 164
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=6,persistent=true]",
+    "ids": {
+      "393": 168,
+      "404": 168,
+      "477": 168,
+      "573": 168,
+      "718": 169
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=5,persistent=false]",
+    "ids": {
+      "393": 167,
+      "404": 167,
+      "477": 167,
+      "573": 167,
+      "718": 168
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=2,persistent=true]",
+    "ids": {
+      "393": 160,
+      "4": 301,
+      "404": 160,
+      "477": 160,
+      "573": 160,
+      "718": 161
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=7,persistent=false]",
+    "ids": {
+      "393": 171,
+      "404": 171,
+      "477": 171,
+      "573": 171,
+      "718": 172
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=5,persistent=true]",
+    "ids": {
+      "393": 166,
+      "404": 166,
+      "477": 166,
+      "573": 166,
+      "718": 167
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=1,persistent=false]",
+    "ids": {
+      "393": 159,
+      "4": 289,
+      "404": 159,
+      "477": 159,
+      "573": 159,
+      "718": 160
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=2,persistent=false]",
+    "ids": {
+      "393": 161,
+      "4": 297,
+      "404": 161,
+      "477": 161,
+      "573": 161,
+      "718": 162
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=6,persistent=false]",
+    "ids": {
+      "393": 169,
+      "404": 169,
+      "477": 169,
+      "573": 169,
+      "718": 170
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=4,persistent=false]",
+    "ids": {
+      "393": 165,
+      "404": 165,
+      "477": 165,
+      "573": 165,
+      "718": 166
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=1,persistent=true]",
+    "ids": {
+      "393": 158,
+      "4": 293,
+      "404": 158,
+      "477": 158,
+      "573": 158,
+      "718": 159
+    }
+  },
+  {
+    "name": "minecraft:spruce_leaves[distance=4,persistent=true]",
+    "ids": {
+      "393": 164,
+      "404": 164,
+      "477": 164,
+      "573": 164,
+      "718": 165
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_birch_wood[axis=y]",
+    "ids": {
+      "393": 133,
+      "404": 133,
+      "477": 133,
+      "573": 133,
+      "718": 134
+    }
+  },
+  {
+    "name": "minecraft:stripped_birch_wood[axis=x]",
+    "ids": {
+      "393": 132,
+      "404": 132,
+      "477": 132,
+      "573": 132,
+      "718": 133
+    }
+  },
+  {
+    "name": "minecraft:stripped_birch_wood[axis=z]",
+    "ids": {
+      "393": 134,
+      "404": 134,
+      "477": 134,
+      "573": 134,
+      "718": 135
+    }
+  }
+]

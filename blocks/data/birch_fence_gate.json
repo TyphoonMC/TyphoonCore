@@ -1,0 +1,338 @@
+[
+  {
+    "name": "minecraft:birch_fence_gate[facing=east,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 7413,
+      "404": 7414,
+      "477": 7938,
+      "573": 7938,
+      "718": 8474
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=north,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 7389,
+      "404": 7390,
+      "477": 7914,
+      "573": 7914,
+      "718": 8450
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=south,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 7397,
+      "404": 7398,
+      "477": 7922,
+      "573": 7922,
+      "718": 8458
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=west,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 7410,
+      "4": 2949,
+      "404": 7411,
+      "477": 7935,
+      "573": 7935,
+      "718": 8471
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=south,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 7398,
+      "404": 7399,
+      "477": 7923,
+      "573": 7923,
+      "718": 8459
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=west,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 7411,
+      "4": 2953,
+      "404": 7412,
+      "477": 7936,
+      "573": 7936,
+      "718": 8472
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=west,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "393": 7405,
+      "404": 7406,
+      "477": 7930,
+      "573": 7930,
+      "718": 8466
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=east,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 7416,
+      "404": 7417,
+      "477": 7941,
+      "573": 7941,
+      "718": 8477
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=east,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 7417,
+      "4": 2959,
+      "404": 7418,
+      "477": 7942,
+      "573": 7942,
+      "718": 8478
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=north,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 7396,
+      "4": 2946,
+      "404": 7397,
+      "477": 7921,
+      "573": 7921,
+      "718": 8457
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=east,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 7419,
+      "4": 2955,
+      "404": 7420,
+      "477": 7944,
+      "573": 7944,
+      "718": 8480
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=north,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 7394,
+      "4": 2950,
+      "404": 7395,
+      "477": 7919,
+      "573": 7919,
+      "718": 8455
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 7418,
+      "4": 2951,
+      "404": 7419,
+      "477": 7943,
+      "573": 7943,
+      "718": 8479
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=north,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 7395,
+      "4": 2954,
+      "404": 7396,
+      "477": 7920,
+      "573": 7920,
+      "718": 8456
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 7404,
+      "4": 2944,
+      "404": 7405,
+      "477": 7929,
+      "573": 7929,
+      "718": 8465
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=east,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 7415,
+      "404": 7416,
+      "477": 7940,
+      "573": 7940,
+      "718": 8476
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=north,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 7390,
+      "404": 7391,
+      "477": 7915,
+      "573": 7915,
+      "718": 8451
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=north,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 7392,
+      "404": 7393,
+      "477": 7917,
+      "573": 7917,
+      "718": 8453
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=west,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 7407,
+      "404": 7408,
+      "477": 7932,
+      "573": 7932,
+      "718": 8468
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=west,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 7408,
+      "404": 7409,
+      "477": 7933,
+      "573": 7933,
+      "718": 8469
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=south,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "393": 7400,
+      "404": 7401,
+      "477": 7925,
+      "573": 7925,
+      "718": 8461
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=west,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 7412,
+      "4": 2945,
+      "404": 7413,
+      "477": 7937,
+      "573": 7937,
+      "718": 8473
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=west,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 7406,
+      "404": 7407,
+      "477": 7931,
+      "573": 7931,
+      "718": 8467
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=east,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "393": 7414,
+      "404": 7415,
+      "477": 7939,
+      "573": 7939,
+      "718": 8475
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=south,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 7401,
+      "4": 2956,
+      "404": 7402,
+      "477": 7926,
+      "573": 7926,
+      "718": 8462
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=south,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "393": 7402,
+      "4": 2948,
+      "404": 7403,
+      "477": 7927,
+      "573": 7927,
+      "718": 8463
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=south,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "393": 7403,
+      "4": 2952,
+      "404": 7404,
+      "477": 7928,
+      "573": 7928,
+      "718": 8464
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=north,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 7391,
+      "404": 7392,
+      "477": 7916,
+      "573": 7916,
+      "718": 8452
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=north,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 7393,
+      "4": 2958,
+      "404": 7394,
+      "477": 7918,
+      "573": 7918,
+      "718": 8454
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=east,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "393": 7420,
+      "4": 2947,
+      "404": 7421,
+      "477": 7945,
+      "573": 7945,
+      "718": 8481
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=west,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "393": 7409,
+      "4": 2957,
+      "404": 7410,
+      "477": 7934,
+      "573": 7934,
+      "718": 8470
+    }
+  },
+  {
+    "name": "minecraft:birch_fence_gate[facing=south,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "393": 7399,
+      "404": 7400,
+      "477": 7924,
+      "573": 7924,
+      "718": 8460
+    }
+  }
+]

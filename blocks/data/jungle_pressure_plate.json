@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:jungle_pressure_plate[powered=false]",
+    "ids": {
+      "393": 3374,
+      "404": 3375,
+      "477": 3878,
+      "573": 3878,
+      "718": 3880
+    }
+  },
+  {
+    "name": "minecraft:jungle_pressure_plate[powered=true]",
+    "ids": {
+      "393": 3373,
+      "404": 3374,
+      "477": 3877,
+      "573": 3877,
+      "718": 3879
+    }
+  }
+]

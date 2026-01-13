@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:attached_melon_stem[facing=west]",
+    "ids": {
+      "393": 4250,
+      "404": 4251,
+      "477": 4754,
+      "573": 4754,
+      "718": 4770
+    }
+  },
+  {
+    "name": "minecraft:attached_melon_stem[facing=north]",
+    "ids": {
+      "393": 4248,
+      "404": 4249,
+      "477": 4752,
+      "573": 4752,
+      "718": 4768
+    }
+  },
+  {
+    "name": "minecraft:attached_melon_stem[facing=east]",
+    "ids": {
+      "393": 4251,
+      "404": 4252,
+      "477": 4755,
+      "573": 4755,
+      "718": 4771
+    }
+  },
+  {
+    "name": "minecraft:attached_melon_stem[facing=south]",
+    "ids": {
+      "393": 4249,
+      "404": 4250,
+      "477": 4753,
+      "573": 4753,
+      "718": 4769
+    }
+  }
+]

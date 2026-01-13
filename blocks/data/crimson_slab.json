@@ -1,0 +1,38 @@
+[
+  {
+    "name": "minecraft:crimson_slab[type=top,waterlogged=true]",
+    "ids": {
+      "718": 15047
+    }
+  },
+  {
+    "name": "minecraft:crimson_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "718": 15049
+    }
+  },
+  {
+    "name": "minecraft:crimson_slab[type=double,waterlogged=true]",
+    "ids": {
+      "718": 15051
+    }
+  },
+  {
+    "name": "minecraft:crimson_slab[type=double,waterlogged=false]",
+    "ids": {
+      "718": 15052
+    }
+  },
+  {
+    "name": "minecraft:crimson_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "718": 15050
+    }
+  },
+  {
+    "name": "minecraft:crimson_slab[type=top,waterlogged=false]",
+    "ids": {
+      "718": 15048
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:zombie_wall_head[facing=east]",
+    "ids": {
+      "393": 5490,
+      "404": 5491,
+      "477": 6013,
+      "573": 6013,
+      "718": 6549
+    }
+  },
+  {
+    "name": "minecraft:zombie_wall_head[facing=north]",
+    "ids": {
+      "393": 5487,
+      "404": 5488,
+      "477": 6010,
+      "573": 6010,
+      "718": 6546
+    }
+  },
+  {
+    "name": "minecraft:zombie_wall_head[facing=south]",
+    "ids": {
+      "393": 5488,
+      "404": 5489,
+      "477": 6011,
+      "573": 6011,
+      "718": 6547
+    }
+  },
+  {
+    "name": "minecraft:zombie_wall_head[facing=west]",
+    "ids": {
+      "393": 5489,
+      "404": 5490,
+      "477": 6012,
+      "573": 6012,
+      "718": 6548
+    }
+  }
+]

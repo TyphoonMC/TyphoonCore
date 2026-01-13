@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:petrified_oak_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7310,
+      "4": 698,
+      "404": 7311,
+      "477": 7829,
+      "573": 7829,
+      "718": 8365
+    }
+  },
+  {
+    "name": "minecraft:petrified_oak_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7305,
+      "404": 7306,
+      "477": 7824,
+      "573": 7824,
+      "718": 8360
+    }
+  },
+  {
+    "name": "minecraft:petrified_oak_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7309,
+      "404": 7310,
+      "477": 7828,
+      "573": 7828,
+      "718": 8364
+    }
+  },
+  {
+    "name": "minecraft:petrified_oak_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7307,
+      "404": 7308,
+      "477": 7826,
+      "573": 7826,
+      "718": 8362
+    }
+  },
+  {
+    "name": "minecraft:petrified_oak_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7306,
+      "4": 714,
+      "404": 7307,
+      "477": 7825,
+      "573": 7825,
+      "718": 8361
+    }
+  },
+  {
+    "name": "minecraft:petrified_oak_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7308,
+      "4": 706,
+      "404": 7309,
+      "477": 7827,
+      "573": 7827,
+      "718": 8363
+    }
+  }
+]

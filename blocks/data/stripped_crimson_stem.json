@@ -1,0 +1,20 @@
+[
+  {
+    "name": "minecraft:stripped_crimson_stem[axis=x]",
+    "ids": {
+      "718": 14978
+    }
+  },
+  {
+    "name": "minecraft:stripped_crimson_stem[axis=z]",
+    "ids": {
+      "718": 14980
+    }
+  },
+  {
+    "name": "minecraft:stripped_crimson_stem[axis=y]",
+    "ids": {
+      "718": 14979
+    }
+  }
+]

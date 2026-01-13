@@ -1,0 +1,146 @@
+[
+  {
+    "name": "minecraft:acacia_leaves[distance=7,persistent=true]",
+    "ids": {
+      "393": 212,
+      "404": 212,
+      "477": 212,
+      "573": 212,
+      "718": 213
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=3,persistent=true]",
+    "ids": {
+      "393": 204,
+      "404": 204,
+      "477": 204,
+      "573": 204,
+      "718": 205
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=6,persistent=true]",
+    "ids": {
+      "393": 210,
+      "404": 210,
+      "477": 210,
+      "573": 210,
+      "718": 211
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=3,persistent=false]",
+    "ids": {
+      "393": 205,
+      "404": 205,
+      "477": 205,
+      "573": 205,
+      "718": 206
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=5,persistent=false]",
+    "ids": {
+      "393": 209,
+      "404": 209,
+      "477": 209,
+      "573": 209,
+      "718": 210
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=2,persistent=true]",
+    "ids": {
+      "393": 202,
+      "4": 2588,
+      "404": 202,
+      "477": 202,
+      "573": 202,
+      "718": 203
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=7,persistent=false]",
+    "ids": {
+      "393": 213,
+      "404": 213,
+      "477": 213,
+      "573": 213,
+      "718": 214
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=5,persistent=true]",
+    "ids": {
+      "393": 208,
+      "404": 208,
+      "477": 208,
+      "573": 208,
+      "718": 209
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=2,persistent=false]",
+    "ids": {
+      "393": 203,
+      "4": 2584,
+      "404": 203,
+      "477": 203,
+      "573": 203,
+      "718": 204
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=6,persistent=false]",
+    "ids": {
+      "393": 211,
+      "404": 211,
+      "477": 211,
+      "573": 211,
+      "718": 212
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=1,persistent=false]",
+    "ids": {
+      "393": 201,
+      "4": 2576,
+      "404": 201,
+      "477": 201,
+      "573": 201,
+      "718": 202
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=4,persistent=false]",
+    "ids": {
+      "393": 207,
+      "404": 207,
+      "477": 207,
+      "573": 207,
+      "718": 208
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=4,persistent=true]",
+    "ids": {
+      "393": 206,
+      "404": 206,
+      "477": 206,
+      "573": 206,
+      "718": 207
+    }
+  },
+  {
+    "name": "minecraft:acacia_leaves[distance=1,persistent=true]",
+    "ids": {
+      "393": 200,
+      "4": 2580,
+      "404": 200,
+      "477": 200,
+      "573": 200,
+      "718": 201
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "minecraft:fire_coral_wall_fan[facing=east,waterlogged=false]",
+    "ids": {
+      "393": 8535,
+      "404": 8551,
+      "477": 9095,
+      "573": 9095,
+      "718": 9631
+    }
+  },
+  {
+    "name": "minecraft:fire_coral_wall_fan[facing=west,waterlogged=false]",
+    "ids": {
+      "393": 8533,
+      "404": 8549,
+      "477": 9093,
+      "573": 9093,
+      "718": 9629
+    }
+  },
+  {
+    "name": "minecraft:fire_coral_wall_fan[facing=north,waterlogged=true]",
+    "ids": {
+      "393": 8528,
+      "404": 8544,
+      "477": 9088,
+      "573": 9088,
+      "718": 9624
+    }
+  },
+  {
+    "name": "minecraft:fire_coral_wall_fan[facing=south,waterlogged=false]",
+    "ids": {
+      "393": 8531,
+      "404": 8547,
+      "477": 9091,
+      "573": 9091,
+      "718": 9627
+    }
+  },
+  {
+    "name": "minecraft:fire_coral_wall_fan[facing=west,waterlogged=true]",
+    "ids": {
+      "393": 8532,
+      "404": 8548,
+      "477": 9092,
+      "573": 9092,
+      "718": 9628
+    }
+  },
+  {
+    "name": "minecraft:fire_coral_wall_fan[facing=south,waterlogged=true]",
+    "ids": {
+      "393": 8530,
+      "404": 8546,
+      "477": 9090,
+      "573": 9090,
+      "718": 9626
+    }
+  },
+  {
+    "name": "minecraft:fire_coral_wall_fan[facing=east,waterlogged=true]",
+    "ids": {
+      "393": 8534,
+      "404": 8550,
+      "477": 9094,
+      "573": 9094,
+      "718": 9630
+    }
+  },
+  {
+    "name": "minecraft:fire_coral_wall_fan[facing=north,waterlogged=false]",
+    "ids": {
+      "393": 8529,
+      "404": 8545,
+      "477": 9089,
+      "573": 9089,
+      "718": 9625
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:magenta_wall_banner[facing=north]",
+    "ids": {
+      "393": 7118,
+      "404": 7119,
+      "477": 7625,
+      "573": 7625,
+      "718": 8161
+    }
+  },
+  {
+    "name": "minecraft:magenta_wall_banner[facing=south]",
+    "ids": {
+      "393": 7119,
+      "404": 7120,
+      "477": 7626,
+      "573": 7626,
+      "718": 8162
+    }
+  },
+  {
+    "name": "minecraft:magenta_wall_banner[facing=west]",
+    "ids": {
+      "393": 7120,
+      "404": 7121,
+      "477": 7627,
+      "573": 7627,
+      "718": 8163
+    }
+  },
+  {
+    "name": "minecraft:magenta_wall_banner[facing=east]",
+    "ids": {
+      "393": 7121,
+      "404": 7122,
+      "477": 7628,
+      "573": 7628,
+      "718": 8164
+    }
+  }
+]

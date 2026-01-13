@@ -1,0 +1,194 @@
+[
+  {
+    "name": "minecraft:soul_campfire[facing=south,lit=true,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "718": 14931
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=south,lit=true,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "718": 14930
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=north,lit=true,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "718": 14922
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=east,lit=false,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "718": 14952
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=south,lit=false,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "718": 14936
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=west,lit=false,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "718": 14943
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=east,lit=false,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "718": 14953
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=south,lit=true,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "718": 14932
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=north,lit=false,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "718": 14927
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=east,lit=false,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "718": 14950
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=east,lit=true,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "718": 14949
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=north,lit=true,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "718": 14924
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=west,lit=false,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "718": 14945
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=south,lit=true,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "718": 14933
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=north,lit=true,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "718": 14923
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=north,lit=false,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "718": 14929
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=north,lit=false,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "718": 14928
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=south,lit=false,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "718": 14937
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=south,lit=false,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "718": 14935
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=east,lit=true,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "718": 14947
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=west,lit=true,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "718": 14940
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=north,lit=false,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "718": 14926
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=south,lit=false,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "718": 14934
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=north,lit=true,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "718": 14925
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=east,lit=true,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "718": 14948
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=west,lit=true,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "718": 14939
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=west,lit=true,signal_fire=false,waterlogged=false]",
+    "ids": {
+      "718": 14941
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=west,lit=false,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "718": 14942
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=east,lit=false,signal_fire=true,waterlogged=false]",
+    "ids": {
+      "718": 14951
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=east,lit=true,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "718": 14946
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=west,lit=true,signal_fire=true,waterlogged=true]",
+    "ids": {
+      "718": 14938
+    }
+  },
+  {
+    "name": "minecraft:soul_campfire[facing=west,lit=false,signal_fire=false,waterlogged=true]",
+    "ids": {
+      "718": 14944
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:spruce_pressure_plate[powered=true]",
+    "ids": {
+      "393": 3369,
+      "404": 3370,
+      "477": 3873,
+      "573": 3873,
+      "718": 3875
+    }
+  },
+  {
+    "name": "minecraft:spruce_pressure_plate[powered=false]",
+    "ids": {
+      "393": 3370,
+      "404": 3371,
+      "477": 3874,
+      "573": 3874,
+      "718": 3876
+    }
+  }
+]

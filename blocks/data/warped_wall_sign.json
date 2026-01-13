@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:warped_wall_sign[facing=east,waterlogged=false]",
+    "ids": {
+      "718": 15734
+    }
+  },
+  {
+    "name": "minecraft:warped_wall_sign[facing=south,waterlogged=true]",
+    "ids": {
+      "718": 15729
+    }
+  },
+  {
+    "name": "minecraft:warped_wall_sign[facing=north,waterlogged=false]",
+    "ids": {
+      "718": 15728
+    }
+  },
+  {
+    "name": "minecraft:warped_wall_sign[facing=east,waterlogged=true]",
+    "ids": {
+      "718": 15733
+    }
+  },
+  {
+    "name": "minecraft:warped_wall_sign[facing=north,waterlogged=true]",
+    "ids": {
+      "718": 15727
+    }
+  },
+  {
+    "name": "minecraft:warped_wall_sign[facing=south,waterlogged=false]",
+    "ids": {
+      "718": 15730
+    }
+  },
+  {
+    "name": "minecraft:warped_wall_sign[facing=west,waterlogged=false]",
+    "ids": {
+      "718": 15732
+    }
+  },
+  {
+    "name": "minecraft:warped_wall_sign[facing=west,waterlogged=true]",
+    "ids": {
+      "718": 15731
+    }
+  }
+]

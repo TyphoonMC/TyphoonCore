@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:chain_command_block[conditional=false,facing=north]",
+    "ids": {
+      "393": 8182,
+      "4": 3378,
+      "404": 8183,
+      "477": 8707,
+      "573": 8707,
+      "718": 9243
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=true,facing=west]",
+    "ids": {
+      "393": 8179,
+      "4": 3388,
+      "404": 8180,
+      "477": 8704,
+      "573": 8704,
+      "718": 9240
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=true,facing=east]",
+    "ids": {
+      "393": 8177,
+      "4": 3389,
+      "404": 8178,
+      "477": 8702,
+      "573": 8702,
+      "718": 9238
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=false,facing=south]",
+    "ids": {
+      "393": 8184,
+      "4": 3379,
+      "404": 8185,
+      "477": 8709,
+      "573": 8709,
+      "718": 9245
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=true,facing=down]",
+    "ids": {
+      "393": 8181,
+      "4": 3384,
+      "404": 8182,
+      "477": 8706,
+      "573": 8706,
+      "718": 9242
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=true,facing=up]",
+    "ids": {
+      "393": 8180,
+      "4": 3385,
+      "404": 8181,
+      "477": 8705,
+      "573": 8705,
+      "718": 9241
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=false,facing=west]",
+    "ids": {
+      "393": 8185,
+      "4": 3380,
+      "404": 8186,
+      "477": 8710,
+      "573": 8710,
+      "718": 9246
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=true,facing=south]",
+    "ids": {
+      "393": 8178,
+      "4": 3387,
+      "404": 8179,
+      "477": 8703,
+      "573": 8703,
+      "718": 9239
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=false,facing=down]",
+    "ids": {
+      "393": 8187,
+      "4": 3376,
+      "404": 8188,
+      "477": 8712,
+      "573": 8712,
+      "718": 9248
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=false,facing=up]",
+    "ids": {
+      "393": 8186,
+      "4": 3377,
+      "404": 8187,
+      "477": 8711,
+      "573": 8711,
+      "718": 9247
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=false,facing=east]",
+    "ids": {
+      "393": 8183,
+      "4": 3381,
+      "404": 8184,
+      "477": 8708,
+      "573": 8708,
+      "718": 9244
+    }
+  },
+  {
+    "name": "minecraft:chain_command_block[conditional=true,facing=north]",
+    "ids": {
+      "393": 8176,
+      "4": 3386,
+      "404": 8177,
+      "477": 8701,
+      "573": 8701,
+      "718": 9237
+    }
+  }
+]

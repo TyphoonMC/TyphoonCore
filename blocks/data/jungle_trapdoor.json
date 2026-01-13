@@ -1,0 +1,642 @@
+[
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3822,
+      "404": 3823,
+      "477": 4326,
+      "573": 4326,
+      "718": 4340
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3844,
+      "404": 3845,
+      "477": 4348,
+      "573": 4348,
+      "718": 4362
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3797,
+      "404": 3798,
+      "477": 4301,
+      "573": 4301,
+      "718": 4315
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3817,
+      "404": 3818,
+      "477": 4321,
+      "573": 4321,
+      "718": 4335
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3794,
+      "404": 3795,
+      "477": 4298,
+      "573": 4298,
+      "718": 4312
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3796,
+      "404": 3797,
+      "477": 4300,
+      "573": 4300,
+      "718": 4314
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3798,
+      "404": 3799,
+      "477": 4302,
+      "573": 4302,
+      "718": 4316
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3833,
+      "404": 3834,
+      "477": 4337,
+      "573": 4337,
+      "718": 4351
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3805,
+      "404": 3806,
+      "477": 4309,
+      "573": 4309,
+      "718": 4323
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3820,
+      "404": 3821,
+      "477": 4324,
+      "573": 4324,
+      "718": 4338
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3847,
+      "404": 3848,
+      "477": 4351,
+      "573": 4351,
+      "718": 4365
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3801,
+      "404": 3802,
+      "477": 4305,
+      "573": 4305,
+      "718": 4319
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3810,
+      "404": 3811,
+      "477": 4314,
+      "573": 4314,
+      "718": 4328
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3836,
+      "404": 3837,
+      "477": 4340,
+      "573": 4340,
+      "718": 4354
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3831,
+      "404": 3832,
+      "477": 4335,
+      "573": 4335,
+      "718": 4349
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3832,
+      "404": 3833,
+      "477": 4336,
+      "573": 4336,
+      "718": 4350
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3806,
+      "404": 3807,
+      "477": 4310,
+      "573": 4310,
+      "718": 4324
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3800,
+      "404": 3801,
+      "477": 4304,
+      "573": 4304,
+      "718": 4318
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3799,
+      "404": 3800,
+      "477": 4303,
+      "573": 4303,
+      "718": 4317
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3790,
+      "404": 3791,
+      "477": 4294,
+      "573": 4294,
+      "718": 4308
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3840,
+      "404": 3841,
+      "477": 4344,
+      "573": 4344,
+      "718": 4358
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3839,
+      "404": 3840,
+      "477": 4343,
+      "573": 4343,
+      "718": 4357
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3803,
+      "404": 3804,
+      "477": 4307,
+      "573": 4307,
+      "718": 4321
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3786,
+      "404": 3787,
+      "477": 4290,
+      "573": 4290,
+      "718": 4304
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3815,
+      "404": 3816,
+      "477": 4319,
+      "573": 4319,
+      "718": 4333
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3793,
+      "404": 3794,
+      "477": 4297,
+      "573": 4297,
+      "718": 4311
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3814,
+      "404": 3815,
+      "477": 4318,
+      "573": 4318,
+      "718": 4332
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3812,
+      "404": 3813,
+      "477": 4316,
+      "573": 4316,
+      "718": 4330
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3792,
+      "404": 3793,
+      "477": 4296,
+      "573": 4296,
+      "718": 4310
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3841,
+      "404": 3842,
+      "477": 4345,
+      "573": 4345,
+      "718": 4359
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3824,
+      "404": 3825,
+      "477": 4328,
+      "573": 4328,
+      "718": 4342
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3823,
+      "404": 3824,
+      "477": 4327,
+      "573": 4327,
+      "718": 4341
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3785,
+      "404": 3786,
+      "477": 4289,
+      "573": 4289,
+      "718": 4303
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3788,
+      "404": 3789,
+      "477": 4292,
+      "573": 4292,
+      "718": 4306
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3818,
+      "404": 3819,
+      "477": 4322,
+      "573": 4322,
+      "718": 4336
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3809,
+      "404": 3810,
+      "477": 4313,
+      "573": 4313,
+      "718": 4327
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3789,
+      "404": 3790,
+      "477": 4293,
+      "573": 4293,
+      "718": 4307
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3846,
+      "404": 3847,
+      "477": 4350,
+      "573": 4350,
+      "718": 4364
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3837,
+      "404": 3838,
+      "477": 4341,
+      "573": 4341,
+      "718": 4355
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3804,
+      "404": 3805,
+      "477": 4308,
+      "573": 4308,
+      "718": 4322
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3795,
+      "404": 3796,
+      "477": 4299,
+      "573": 4299,
+      "718": 4313
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3807,
+      "404": 3808,
+      "477": 4311,
+      "573": 4311,
+      "718": 4325
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3821,
+      "404": 3822,
+      "477": 4325,
+      "573": 4325,
+      "718": 4339
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3791,
+      "404": 3792,
+      "477": 4295,
+      "573": 4295,
+      "718": 4309
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3845,
+      "404": 3846,
+      "477": 4349,
+      "573": 4349,
+      "718": 4363
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3834,
+      "404": 3835,
+      "477": 4338,
+      "573": 4338,
+      "718": 4352
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3830,
+      "404": 3831,
+      "477": 4334,
+      "573": 4334,
+      "718": 4348
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3825,
+      "404": 3826,
+      "477": 4329,
+      "573": 4329,
+      "718": 4343
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3829,
+      "404": 3830,
+      "477": 4333,
+      "573": 4333,
+      "718": 4347
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3811,
+      "404": 3812,
+      "477": 4315,
+      "573": 4315,
+      "718": 4329
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3828,
+      "404": 3829,
+      "477": 4332,
+      "573": 4332,
+      "718": 4346
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3827,
+      "404": 3828,
+      "477": 4331,
+      "573": 4331,
+      "718": 4345
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3843,
+      "404": 3844,
+      "477": 4347,
+      "573": 4347,
+      "718": 4361
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3816,
+      "404": 3817,
+      "477": 4320,
+      "573": 4320,
+      "718": 4334
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3787,
+      "404": 3788,
+      "477": 4291,
+      "573": 4291,
+      "718": 4305
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3808,
+      "404": 3809,
+      "477": 4312,
+      "573": 4312,
+      "718": 4326
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3835,
+      "404": 3836,
+      "477": 4339,
+      "573": 4339,
+      "718": 4353
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3842,
+      "404": 3843,
+      "477": 4346,
+      "573": 4346,
+      "718": 4360
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3838,
+      "404": 3839,
+      "477": 4342,
+      "573": 4342,
+      "718": 4356
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3802,
+      "404": 3803,
+      "477": 4306,
+      "573": 4306,
+      "718": 4320
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3848,
+      "404": 3849,
+      "477": 4352,
+      "573": 4352,
+      "718": 4366
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3813,
+      "404": 3814,
+      "477": 4317,
+      "573": 4317,
+      "718": 4331
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3826,
+      "404": 3827,
+      "477": 4330,
+      "573": 4330,
+      "718": 4344
+    }
+  },
+  {
+    "name": "minecraft:jungle_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3819,
+      "404": 3820,
+      "477": 4323,
+      "573": 4323,
+      "718": 4337
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:end_stone_brick_slab[type=top,waterlogged=true]",
+    "ids": {
+      "477": 10283,
+      "573": 10283,
+      "718": 10819
+    }
+  },
+  {
+    "name": "minecraft:end_stone_brick_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "477": 10285,
+      "573": 10285,
+      "718": 10821
+    }
+  },
+  {
+    "name": "minecraft:end_stone_brick_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "477": 10286,
+      "573": 10286,
+      "718": 10822
+    }
+  },
+  {
+    "name": "minecraft:end_stone_brick_slab[type=double,waterlogged=true]",
+    "ids": {
+      "477": 10287,
+      "573": 10287,
+      "718": 10823
+    }
+  },
+  {
+    "name": "minecraft:end_stone_brick_slab[type=top,waterlogged=false]",
+    "ids": {
+      "477": 10284,
+      "573": 10284,
+      "718": 10820
+    }
+  },
+  {
+    "name": "minecraft:end_stone_brick_slab[type=double,waterlogged=false]",
+    "ids": {
+      "477": 10288,
+      "573": 10288,
+      "718": 10824
+    }
+  }
+]

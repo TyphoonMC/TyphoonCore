@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:powered_rail[powered=true,shape=north_south]",
+    "ids": {
+      "393": 1004,
+      "4": 440,
+      "404": 1004,
+      "477": 1304,
+      "573": 1304,
+      "718": 1305
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=true,shape=ascending_west]",
+    "ids": {
+      "393": 1007,
+      "4": 443,
+      "404": 1007,
+      "477": 1307,
+      "573": 1307,
+      "718": 1308
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=true,shape=ascending_east]",
+    "ids": {
+      "393": 1006,
+      "4": 442,
+      "404": 1006,
+      "477": 1306,
+      "573": 1306,
+      "718": 1307
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=false,shape=ascending_east]",
+    "ids": {
+      "393": 1012,
+      "4": 434,
+      "404": 1012,
+      "477": 1312,
+      "573": 1312,
+      "718": 1313
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=false,shape=north_south]",
+    "ids": {
+      "393": 1010,
+      "4": 432,
+      "404": 1010,
+      "477": 1310,
+      "573": 1310,
+      "718": 1311
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=true,shape=ascending_south]",
+    "ids": {
+      "393": 1009,
+      "4": 445,
+      "404": 1009,
+      "477": 1309,
+      "573": 1309,
+      "718": 1310
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=true,shape=ascending_north]",
+    "ids": {
+      "393": 1008,
+      "4": 444,
+      "404": 1008,
+      "477": 1308,
+      "573": 1308,
+      "718": 1309
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=false,shape=ascending_north]",
+    "ids": {
+      "393": 1014,
+      "4": 436,
+      "404": 1014,
+      "477": 1314,
+      "573": 1314,
+      "718": 1315
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=false,shape=ascending_west]",
+    "ids": {
+      "393": 1013,
+      "4": 435,
+      "404": 1013,
+      "477": 1313,
+      "573": 1313,
+      "718": 1314
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=false,shape=east_west]",
+    "ids": {
+      "393": 1011,
+      "4": 433,
+      "404": 1011,
+      "477": 1311,
+      "573": 1311,
+      "718": 1312
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=false,shape=ascending_south]",
+    "ids": {
+      "393": 1015,
+      "4": 437,
+      "404": 1015,
+      "477": 1315,
+      "573": 1315,
+      "718": 1316
+    }
+  },
+  {
+    "name": "minecraft:powered_rail[powered=true,shape=east_west]",
+    "ids": {
+      "393": 1005,
+      "4": 441,
+      "404": 1005,
+      "477": 1305,
+      "573": 1305,
+      "718": 1306
+    }
+  }
+]

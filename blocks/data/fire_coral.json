@@ -1,0 +1,26 @@
+[
+  {
+    "name": "minecraft:fire_coral[waterlogged=false]",
+    "ids": {
+      "404": 8477,
+      "477": 9001,
+      "573": 9001,
+      "718": 9537
+    }
+  },
+  {
+    "name": "minecraft:fire_coral",
+    "ids": {
+      "393": 8462
+    }
+  },
+  {
+    "name": "minecraft:fire_coral[waterlogged=true]",
+    "ids": {
+      "404": 8476,
+      "477": 9000,
+      "573": 9000,
+      "718": 9536
+    }
+  }
+]

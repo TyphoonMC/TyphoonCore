@@ -1,0 +1,112 @@
+[
+  {
+    "name": "minecraft:hopper[enabled=true,facing=east]",
+    "ids": {
+      "393": 5689,
+      "4": 2469,
+      "404": 5690,
+      "477": 6196,
+      "573": 6196,
+      "718": 6732
+    }
+  },
+  {
+    "name": "minecraft:hopper[enabled=false,facing=north]",
+    "ids": {
+      "393": 5691,
+      "4": 2474,
+      "404": 5692,
+      "477": 6198,
+      "573": 6198,
+      "718": 6734
+    }
+  },
+  {
+    "name": "minecraft:hopper[enabled=true,facing=north]",
+    "ids": {
+      "393": 5686,
+      "4": 2466,
+      "404": 5687,
+      "477": 6193,
+      "573": 6193,
+      "718": 6729
+    }
+  },
+  {
+    "name": "minecraft:hopper[enabled=false,facing=east]",
+    "ids": {
+      "393": 5694,
+      "4": 2477,
+      "404": 5695,
+      "477": 6201,
+      "573": 6201,
+      "718": 6737
+    }
+  },
+  {
+    "name": "minecraft:hopper[enabled=false,facing=south]",
+    "ids": {
+      "393": 5692,
+      "4": 2475,
+      "404": 5693,
+      "477": 6199,
+      "573": 6199,
+      "718": 6735
+    }
+  },
+  {
+    "name": "minecraft:hopper[enabled=true,facing=south]",
+    "ids": {
+      "393": 5687,
+      "4": 2467,
+      "404": 5688,
+      "477": 6194,
+      "573": 6194,
+      "718": 6730
+    }
+  },
+  {
+    "name": "minecraft:hopper[enabled=true,facing=west]",
+    "ids": {
+      "393": 5688,
+      "4": 2468,
+      "404": 5689,
+      "477": 6195,
+      "573": 6195,
+      "718": 6731
+    }
+  },
+  {
+    "name": "minecraft:hopper[enabled=false,facing=down]",
+    "ids": {
+      "393": 5690,
+      "4": 2472,
+      "404": 5691,
+      "477": 6197,
+      "573": 6197,
+      "718": 6733
+    }
+  },
+  {
+    "name": "minecraft:hopper[enabled=false,facing=west]",
+    "ids": {
+      "393": 5693,
+      "4": 2476,
+      "404": 5694,
+      "477": 6200,
+      "573": 6200,
+      "718": 6736
+    }
+  },
+  {
+    "name": "minecraft:hopper[enabled=true,facing=down]",
+    "ids": {
+      "393": 5685,
+      "4": 2464,
+      "404": 5686,
+      "477": 6192,
+      "573": 6192,
+      "718": 6728
+    }
+  }
+]

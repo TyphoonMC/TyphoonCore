@@ -2,8 +2,7 @@ package typhoon
 
 import (
 	"encoding/json"
-	"io/ioutil"
-	"log"
+	"log/slog"
 	"os"
 	"path/filepath"
 	"strconv"
@@ -474,10 +473,6 @@ func initHacks() {
 		serverbound[V1_16][i+1] = serverbound[V1_15_2][i]
 	}
 
-	// Hack 1.16.1
-	clientbound[V1_16_1] = clientbound[V1_16]
-	serverbound[V1_16_1] = serverbound[V1_16]
-
 	initHackModules()
 }
 
@@ -524,14 +519,14 @@ func loadHackModule(module *HackModule) {
 		}
 
 		registerProtocol(module.Content.Protocol)
-		log.Println("Added", module.Content.Name, "protocol fast support")
+		slog.Info("added protocol support", "name", module.Content.Name)
 	}
 }
 
 func loadHackModuleFile(path string) {
-	raw, err := ioutil.ReadFile(path)
+	raw, err := os.ReadFile(path)
 	if err != nil {
-		log.Fatal("Can't read file", path)
+		slog.Error("cannot read file", "path", path, "error", err)
 		return
 	}
 
@@ -554,7 +549,7 @@ func initHackModules() {
 		return nil
 	})
 	if err != nil {
-		log.Fatal("Can't find modules folder.")
+		slog.Debug("modules folder not found", "error", err)
 	}
 }
 

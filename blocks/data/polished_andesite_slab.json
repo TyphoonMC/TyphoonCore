@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:polished_andesite_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "477": 10321,
+      "573": 10321,
+      "718": 10857
+    }
+  },
+  {
+    "name": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "477": 10322,
+      "573": 10322,
+      "718": 10858
+    }
+  },
+  {
+    "name": "minecraft:polished_andesite_slab[type=top,waterlogged=false]",
+    "ids": {
+      "477": 10320,
+      "573": 10320,
+      "718": 10856
+    }
+  },
+  {
+    "name": "minecraft:polished_andesite_slab[type=double,waterlogged=true]",
+    "ids": {
+      "477": 10323,
+      "573": 10323,
+      "718": 10859
+    }
+  },
+  {
+    "name": "minecraft:polished_andesite_slab[type=double,waterlogged=false]",
+    "ids": {
+      "477": 10324,
+      "573": 10324,
+      "718": 10860
+    }
+  },
+  {
+    "name": "minecraft:polished_andesite_slab[type=top,waterlogged=true]",
+    "ids": {
+      "477": 10319,
+      "573": 10319,
+      "718": 10855
+    }
+  }
+]

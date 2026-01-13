@@ -1,0 +1,810 @@
+[
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4580,
+      "404": 4581,
+      "477": 5084,
+      "573": 5084,
+      "718": 5100
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4563,
+      "404": 4564,
+      "477": 5067,
+      "573": 5067,
+      "718": 5083
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4584,
+      "404": 4585,
+      "477": 5088,
+      "573": 5088,
+      "718": 5104
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4586,
+      "404": 4587,
+      "477": 5090,
+      "573": 5090,
+      "718": 5106
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4550,
+      "404": 4551,
+      "477": 5054,
+      "573": 5054,
+      "718": 5070
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4588,
+      "404": 4589,
+      "477": 5092,
+      "573": 5092,
+      "718": 5108
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4582,
+      "404": 4583,
+      "477": 5086,
+      "573": 5086,
+      "718": 5102
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4528,
+      "404": 4529,
+      "477": 5032,
+      "573": 5032,
+      "718": 5048
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4533,
+      "404": 4534,
+      "477": 5037,
+      "573": 5037,
+      "718": 5053
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4551,
+      "404": 4552,
+      "477": 5055,
+      "573": 5055,
+      "718": 5071
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4589,
+      "4": 1828,
+      "404": 4590,
+      "477": 5093,
+      "573": 5093,
+      "718": 5109
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4554,
+      "404": 4555,
+      "477": 5058,
+      "573": 5058,
+      "718": 5074
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4553,
+      "404": 4554,
+      "477": 5057,
+      "573": 5057,
+      "718": 5073
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4581,
+      "404": 4582,
+      "477": 5085,
+      "573": 5085,
+      "718": 5101
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4532,
+      "404": 4533,
+      "477": 5036,
+      "573": 5036,
+      "718": 5052
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4538,
+      "404": 4539,
+      "477": 5042,
+      "573": 5042,
+      "718": 5058
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4547,
+      "404": 4548,
+      "477": 5051,
+      "573": 5051,
+      "718": 5067
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4607,
+      "404": 4608,
+      "477": 5111,
+      "573": 5111,
+      "718": 5127
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4539,
+      "4": 1827,
+      "404": 4540,
+      "477": 5043,
+      "573": 5043,
+      "718": 5059
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4595,
+      "404": 4596,
+      "477": 5099,
+      "573": 5099,
+      "718": 5115
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4592,
+      "404": 4593,
+      "477": 5096,
+      "573": 5096,
+      "718": 5112
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4587,
+      "404": 4588,
+      "477": 5091,
+      "573": 5091,
+      "718": 5107
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4559,
+      "4": 1826,
+      "404": 4560,
+      "477": 5063,
+      "573": 5063,
+      "718": 5079
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4541,
+      "404": 4542,
+      "477": 5045,
+      "573": 5045,
+      "718": 5061
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4562,
+      "404": 4563,
+      "477": 5066,
+      "573": 5066,
+      "718": 5082
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4556,
+      "404": 4557,
+      "477": 5060,
+      "573": 5060,
+      "718": 5076
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4534,
+      "404": 4535,
+      "477": 5038,
+      "573": 5038,
+      "718": 5054
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4567,
+      "404": 4568,
+      "477": 5071,
+      "573": 5071,
+      "718": 5087
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4579,
+      "4": 1825,
+      "404": 4580,
+      "477": 5083,
+      "573": 5083,
+      "718": 5099
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4558,
+      "404": 4559,
+      "477": 5062,
+      "573": 5062,
+      "718": 5078
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4573,
+      "404": 4574,
+      "477": 5077,
+      "573": 5077,
+      "718": 5093
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4574,
+      "404": 4575,
+      "477": 5078,
+      "573": 5078,
+      "718": 5094
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4544,
+      "404": 4545,
+      "477": 5048,
+      "573": 5048,
+      "718": 5064
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4594,
+      "404": 4595,
+      "477": 5098,
+      "573": 5098,
+      "718": 5114
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4557,
+      "404": 4558,
+      "477": 5061,
+      "573": 5061,
+      "718": 5077
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4600,
+      "404": 4601,
+      "477": 5104,
+      "573": 5104,
+      "718": 5120
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4577,
+      "404": 4578,
+      "477": 5081,
+      "573": 5081,
+      "718": 5097
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4560,
+      "404": 4561,
+      "477": 5064,
+      "573": 5064,
+      "718": 5080
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4602,
+      "404": 4603,
+      "477": 5106,
+      "573": 5106,
+      "718": 5122
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4591,
+      "404": 4592,
+      "477": 5095,
+      "573": 5095,
+      "718": 5111
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4555,
+      "404": 4556,
+      "477": 5059,
+      "573": 5059,
+      "718": 5075
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4561,
+      "404": 4562,
+      "477": 5065,
+      "573": 5065,
+      "718": 5081
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4542,
+      "404": 4543,
+      "477": 5046,
+      "573": 5046,
+      "718": 5062
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4537,
+      "404": 4538,
+      "477": 5041,
+      "573": 5041,
+      "718": 5057
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4569,
+      "4": 1829,
+      "404": 4570,
+      "477": 5073,
+      "573": 5073,
+      "718": 5089
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4576,
+      "404": 4577,
+      "477": 5080,
+      "573": 5080,
+      "718": 5096
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4604,
+      "404": 4605,
+      "477": 5108,
+      "573": 5108,
+      "718": 5124
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4578,
+      "404": 4579,
+      "477": 5082,
+      "573": 5082,
+      "718": 5098
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4601,
+      "404": 4602,
+      "477": 5105,
+      "573": 5105,
+      "718": 5121
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4568,
+      "404": 4569,
+      "477": 5072,
+      "573": 5072,
+      "718": 5088
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4575,
+      "404": 4576,
+      "477": 5079,
+      "573": 5079,
+      "718": 5095
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4552,
+      "404": 4553,
+      "477": 5056,
+      "573": 5056,
+      "718": 5072
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 4597,
+      "404": 4598,
+      "477": 5101,
+      "573": 5101,
+      "718": 5117
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4543,
+      "404": 4544,
+      "477": 5047,
+      "573": 5047,
+      "718": 5063
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4549,
+      "4": 1830,
+      "404": 4550,
+      "477": 5053,
+      "573": 5053,
+      "718": 5069
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4603,
+      "404": 4604,
+      "477": 5107,
+      "573": 5107,
+      "718": 5123
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4540,
+      "404": 4541,
+      "477": 5044,
+      "573": 5044,
+      "718": 5060
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4565,
+      "404": 4566,
+      "477": 5069,
+      "573": 5069,
+      "718": 5085
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4590,
+      "404": 4591,
+      "477": 5094,
+      "573": 5094,
+      "718": 5110
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4606,
+      "404": 4607,
+      "477": 5110,
+      "573": 5110,
+      "718": 5126
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 4572,
+      "404": 4573,
+      "477": 5076,
+      "573": 5076,
+      "718": 5092
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4583,
+      "404": 4584,
+      "477": 5087,
+      "573": 5087,
+      "718": 5103
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4546,
+      "404": 4547,
+      "477": 5050,
+      "573": 5050,
+      "718": 5066
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4531,
+      "404": 4532,
+      "477": 5035,
+      "573": 5035,
+      "718": 5051
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4599,
+      "4": 1824,
+      "404": 4600,
+      "477": 5103,
+      "573": 5103,
+      "718": 5119
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4598,
+      "404": 4599,
+      "477": 5102,
+      "573": 5102,
+      "718": 5118
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 4564,
+      "404": 4565,
+      "477": 5068,
+      "573": 5068,
+      "718": 5084
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 4529,
+      "4": 1831,
+      "404": 4530,
+      "477": 5033,
+      "573": 5033,
+      "718": 5049
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4545,
+      "404": 4546,
+      "477": 5049,
+      "573": 5049,
+      "718": 5065
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4570,
+      "404": 4571,
+      "477": 5074,
+      "573": 5074,
+      "718": 5090
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4566,
+      "404": 4567,
+      "477": 5070,
+      "573": 5070,
+      "718": 5086
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4585,
+      "404": 4586,
+      "477": 5089,
+      "573": 5089,
+      "718": 5105
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 4593,
+      "404": 4594,
+      "477": 5097,
+      "573": 5097,
+      "718": 5113
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 4530,
+      "404": 4531,
+      "477": 5034,
+      "573": 5034,
+      "718": 5050
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 4571,
+      "404": 4572,
+      "477": 5075,
+      "573": 5075,
+      "718": 5091
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4536,
+      "404": 4537,
+      "477": 5040,
+      "573": 5040,
+      "718": 5056
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 4596,
+      "404": 4597,
+      "477": 5100,
+      "573": 5100,
+      "718": 5116
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4605,
+      "404": 4606,
+      "477": 5109,
+      "573": 5109,
+      "718": 5125
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 4548,
+      "404": 4549,
+      "477": 5052,
+      "573": 5052,
+      "718": 5068
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 4535,
+      "404": 4536,
+      "477": 5039,
+      "573": 5039,
+      "718": 5055
+    }
+  }
+]

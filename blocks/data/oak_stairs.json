@@ -1,0 +1,810 @@
+[
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 1649,
+      "4": 855,
+      "404": 1650,
+      "477": 1953,
+      "573": 1953,
+      "718": 1955
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 1726,
+      "404": 1727,
+      "477": 2030,
+      "573": 2030,
+      "718": 2032
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 1650,
+      "404": 1651,
+      "477": 1954,
+      "573": 1954,
+      "718": 1956
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 1720,
+      "404": 1721,
+      "477": 2024,
+      "573": 2024,
+      "718": 2026
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 1677,
+      "404": 1678,
+      "477": 1981,
+      "573": 1981,
+      "718": 1983
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 1698,
+      "404": 1699,
+      "477": 2002,
+      "573": 2002,
+      "718": 2004
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 1705,
+      "404": 1706,
+      "477": 2009,
+      "573": 2009,
+      "718": 2011
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 1715,
+      "404": 1716,
+      "477": 2019,
+      "573": 2019,
+      "718": 2021
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 1713,
+      "404": 1714,
+      "477": 2017,
+      "573": 2017,
+      "718": 2019
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 1708,
+      "404": 1709,
+      "477": 2012,
+      "573": 2012,
+      "718": 2014
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 1696,
+      "404": 1697,
+      "477": 2000,
+      "573": 2000,
+      "718": 2002
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 1686,
+      "404": 1687,
+      "477": 1990,
+      "573": 1990,
+      "718": 1992
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 1653,
+      "404": 1654,
+      "477": 1957,
+      "573": 1957,
+      "718": 1959
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 1670,
+      "404": 1671,
+      "477": 1974,
+      "573": 1974,
+      "718": 1976
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 1682,
+      "404": 1683,
+      "477": 1986,
+      "573": 1986,
+      "718": 1988
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 1694,
+      "404": 1695,
+      "477": 1998,
+      "573": 1998,
+      "718": 2000
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 1727,
+      "404": 1728,
+      "477": 2031,
+      "573": 2031,
+      "718": 2033
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 1681,
+      "404": 1682,
+      "477": 1985,
+      "573": 1985,
+      "718": 1987
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 1704,
+      "404": 1705,
+      "477": 2008,
+      "573": 2008,
+      "718": 2010
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 1709,
+      "4": 852,
+      "404": 1710,
+      "477": 2013,
+      "573": 2013,
+      "718": 2015
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 1654,
+      "404": 1655,
+      "477": 1958,
+      "573": 1958,
+      "718": 1960
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 1711,
+      "404": 1712,
+      "477": 2015,
+      "573": 2015,
+      "718": 2017
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 1667,
+      "404": 1668,
+      "477": 1971,
+      "573": 1971,
+      "718": 1973
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 1718,
+      "404": 1719,
+      "477": 2022,
+      "573": 2022,
+      "718": 2024
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 1722,
+      "404": 1723,
+      "477": 2026,
+      "573": 2026,
+      "718": 2028
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 1685,
+      "404": 1686,
+      "477": 1989,
+      "573": 1989,
+      "718": 1991
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 1701,
+      "404": 1702,
+      "477": 2005,
+      "573": 2005,
+      "718": 2007
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 1663,
+      "404": 1664,
+      "477": 1967,
+      "573": 1967,
+      "718": 1969
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 1657,
+      "404": 1658,
+      "477": 1961,
+      "573": 1961,
+      "718": 1963
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 1669,
+      "4": 854,
+      "404": 1670,
+      "477": 1973,
+      "573": 1973,
+      "718": 1975
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 1721,
+      "404": 1722,
+      "477": 2025,
+      "573": 2025,
+      "718": 2027
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 1702,
+      "404": 1703,
+      "477": 2006,
+      "573": 2006,
+      "718": 2008
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 1660,
+      "404": 1661,
+      "477": 1964,
+      "573": 1964,
+      "718": 1966
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 1651,
+      "404": 1652,
+      "477": 1955,
+      "573": 1955,
+      "718": 1957
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 1672,
+      "404": 1673,
+      "477": 1976,
+      "573": 1976,
+      "718": 1978
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 1662,
+      "404": 1663,
+      "477": 1966,
+      "573": 1966,
+      "718": 1968
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 1719,
+      "4": 848,
+      "404": 1720,
+      "477": 2023,
+      "573": 2023,
+      "718": 2025
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 1680,
+      "404": 1681,
+      "477": 1984,
+      "573": 1984,
+      "718": 1986
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 1675,
+      "404": 1676,
+      "477": 1979,
+      "573": 1979,
+      "718": 1981
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 1666,
+      "404": 1667,
+      "477": 1970,
+      "573": 1970,
+      "718": 1972
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 1673,
+      "404": 1674,
+      "477": 1977,
+      "573": 1977,
+      "718": 1979
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 1717,
+      "404": 1718,
+      "477": 2021,
+      "573": 2021,
+      "718": 2023
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 1700,
+      "404": 1701,
+      "477": 2004,
+      "573": 2004,
+      "718": 2006
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 1712,
+      "404": 1713,
+      "477": 2016,
+      "573": 2016,
+      "718": 2018
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 1658,
+      "404": 1659,
+      "477": 1962,
+      "573": 1962,
+      "718": 1964
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 1707,
+      "404": 1708,
+      "477": 2011,
+      "573": 2011,
+      "718": 2013
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 1688,
+      "404": 1689,
+      "477": 1992,
+      "573": 1992,
+      "718": 1994
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 1661,
+      "404": 1662,
+      "477": 1965,
+      "573": 1965,
+      "718": 1967
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 1714,
+      "404": 1715,
+      "477": 2018,
+      "573": 2018,
+      "718": 2020
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 1665,
+      "404": 1666,
+      "477": 1969,
+      "573": 1969,
+      "718": 1971
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 1725,
+      "404": 1726,
+      "477": 2029,
+      "573": 2029,
+      "718": 2031
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 1656,
+      "404": 1657,
+      "477": 1960,
+      "573": 1960,
+      "718": 1962
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 1648,
+      "404": 1649,
+      "477": 1952,
+      "573": 1952,
+      "718": 1954
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 1687,
+      "404": 1688,
+      "477": 1991,
+      "573": 1991,
+      "718": 1993
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 1679,
+      "4": 850,
+      "404": 1680,
+      "477": 1983,
+      "573": 1983,
+      "718": 1985
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 1652,
+      "404": 1653,
+      "477": 1956,
+      "573": 1956,
+      "718": 1958
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 1689,
+      "4": 853,
+      "404": 1690,
+      "477": 1993,
+      "573": 1993,
+      "718": 1995
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 1671,
+      "404": 1672,
+      "477": 1975,
+      "573": 1975,
+      "718": 1977
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 1706,
+      "404": 1707,
+      "477": 2010,
+      "573": 2010,
+      "718": 2012
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 1683,
+      "404": 1684,
+      "477": 1987,
+      "573": 1987,
+      "718": 1989
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 1655,
+      "404": 1656,
+      "477": 1959,
+      "573": 1959,
+      "718": 1961
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 1699,
+      "4": 849,
+      "404": 1700,
+      "477": 2003,
+      "573": 2003,
+      "718": 2005
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 1692,
+      "404": 1693,
+      "477": 1996,
+      "573": 1996,
+      "718": 1998
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 1684,
+      "404": 1685,
+      "477": 1988,
+      "573": 1988,
+      "718": 1990
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 1690,
+      "404": 1691,
+      "477": 1994,
+      "573": 1994,
+      "718": 1996
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 1697,
+      "404": 1698,
+      "477": 2001,
+      "573": 2001,
+      "718": 2003
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 1723,
+      "404": 1724,
+      "477": 2027,
+      "573": 2027,
+      "718": 2029
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 1664,
+      "404": 1665,
+      "477": 1968,
+      "573": 1968,
+      "718": 1970
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 1676,
+      "404": 1677,
+      "477": 1980,
+      "573": 1980,
+      "718": 1982
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 1724,
+      "404": 1725,
+      "477": 2028,
+      "573": 2028,
+      "718": 2030
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 1668,
+      "404": 1669,
+      "477": 1972,
+      "573": 1972,
+      "718": 1974
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 1693,
+      "404": 1694,
+      "477": 1997,
+      "573": 1997,
+      "718": 1999
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 1659,
+      "4": 851,
+      "404": 1660,
+      "477": 1963,
+      "573": 1963,
+      "718": 1965
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 1695,
+      "404": 1696,
+      "477": 1999,
+      "573": 1999,
+      "718": 2001
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 1703,
+      "404": 1704,
+      "477": 2007,
+      "573": 2007,
+      "718": 2009
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 1678,
+      "404": 1679,
+      "477": 1982,
+      "573": 1982,
+      "718": 1984
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 1710,
+      "404": 1711,
+      "477": 2014,
+      "573": 2014,
+      "718": 2016
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 1674,
+      "404": 1675,
+      "477": 1978,
+      "573": 1978,
+      "718": 1980
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 1716,
+      "404": 1717,
+      "477": 2020,
+      "573": 2020,
+      "718": 2022
+    }
+  },
+  {
+    "name": "minecraft:oak_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 1691,
+      "404": 1692,
+      "477": 1995,
+      "573": 1995,
+      "718": 1997
+    }
+  }
+]

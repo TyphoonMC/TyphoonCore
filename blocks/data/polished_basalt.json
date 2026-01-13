@@ -1,0 +1,20 @@
+[
+  {
+    "name": "minecraft:polished_basalt[axis=z]",
+    "ids": {
+      "718": 4007
+    }
+  },
+  {
+    "name": "minecraft:polished_basalt[axis=x]",
+    "ids": {
+      "718": 4005
+    }
+  },
+  {
+    "name": "minecraft:polished_basalt[axis=y]",
+    "ids": {
+      "718": 4006
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=false,has_bottle_2=false]",
+    "ids": {
+      "393": 4616,
+      "4": 1873,
+      "404": 4617,
+      "477": 5120,
+      "573": 5120,
+      "718": 5136
+    }
+  },
+  {
+    "name": "minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=true,has_bottle_2=true]",
+    "ids": {
+      "393": 4613,
+      "4": 1879,
+      "404": 4614,
+      "477": 5117,
+      "573": 5117,
+      "718": 5133
+    }
+  },
+  {
+    "name": "minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=false,has_bottle_2=true]",
+    "ids": {
+      "393": 4619,
+      "4": 1876,
+      "404": 4620,
+      "477": 5123,
+      "573": 5123,
+      "718": 5139
+    }
+  },
+  {
+    "name": "minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=true,has_bottle_2=true]",
+    "ids": {
+      "393": 4617,
+      "4": 1878,
+      "404": 4618,
+      "477": 5121,
+      "573": 5121,
+      "718": 5137
+    }
+  },
+  {
+    "name": "minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=true,has_bottle_2=false]",
+    "ids": {
+      "393": 4614,
+      "4": 1875,
+      "404": 4615,
+      "477": 5118,
+      "573": 5118,
+      "718": 5134
+    }
+  },
+  {
+    "name": "minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=false,has_bottle_2=true]",
+    "ids": {
+      "393": 4615,
+      "4": 1877,
+      "404": 4616,
+      "477": 5119,
+      "573": 5119,
+      "718": 5135
+    }
+  },
+  {
+    "name": "minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=false,has_bottle_2=false]",
+    "ids": {
+      "393": 4620,
+      "4": 1872,
+      "404": 4621,
+      "477": 5124,
+      "573": 5124,
+      "718": 5140
+    }
+  },
+  {
+    "name": "minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=true,has_bottle_2=false]",
+    "ids": {
+      "393": 4618,
+      "4": 1874,
+      "404": 4619,
+      "477": 5122,
+      "573": 5122,
+      "718": 5138
+    }
+  }
+]

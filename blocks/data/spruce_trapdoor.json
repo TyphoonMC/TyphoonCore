@@ -1,0 +1,642 @@
+[
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3672,
+      "404": 3673,
+      "477": 4176,
+      "573": 4176,
+      "718": 4190
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3701,
+      "404": 3702,
+      "477": 4205,
+      "573": 4205,
+      "718": 4219
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3660,
+      "404": 3661,
+      "477": 4164,
+      "573": 4164,
+      "718": 4178
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3711,
+      "404": 3712,
+      "477": 4215,
+      "573": 4215,
+      "718": 4229
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3675,
+      "404": 3676,
+      "477": 4179,
+      "573": 4179,
+      "718": 4193
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3676,
+      "404": 3677,
+      "477": 4180,
+      "573": 4180,
+      "718": 4194
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3696,
+      "404": 3697,
+      "477": 4200,
+      "573": 4200,
+      "718": 4214
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3713,
+      "404": 3714,
+      "477": 4217,
+      "573": 4217,
+      "718": 4231
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3665,
+      "404": 3666,
+      "477": 4169,
+      "573": 4169,
+      "718": 4183
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3700,
+      "404": 3701,
+      "477": 4204,
+      "573": 4204,
+      "718": 4218
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3685,
+      "404": 3686,
+      "477": 4189,
+      "573": 4189,
+      "718": 4203
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3691,
+      "404": 3692,
+      "477": 4195,
+      "573": 4195,
+      "718": 4209
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3688,
+      "404": 3689,
+      "477": 4192,
+      "573": 4192,
+      "718": 4206
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3707,
+      "404": 3708,
+      "477": 4211,
+      "573": 4211,
+      "718": 4225
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3712,
+      "404": 3713,
+      "477": 4216,
+      "573": 4216,
+      "718": 4230
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3669,
+      "404": 3670,
+      "477": 4173,
+      "573": 4173,
+      "718": 4187
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3664,
+      "404": 3665,
+      "477": 4168,
+      "573": 4168,
+      "718": 4182
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3661,
+      "404": 3662,
+      "477": 4165,
+      "573": 4165,
+      "718": 4179
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3716,
+      "404": 3717,
+      "477": 4220,
+      "573": 4220,
+      "718": 4234
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3678,
+      "404": 3679,
+      "477": 4182,
+      "573": 4182,
+      "718": 4196
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3718,
+      "404": 3719,
+      "477": 4222,
+      "573": 4222,
+      "718": 4236
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3706,
+      "404": 3707,
+      "477": 4210,
+      "573": 4210,
+      "718": 4224
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3662,
+      "404": 3663,
+      "477": 4166,
+      "573": 4166,
+      "718": 4180
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3667,
+      "404": 3668,
+      "477": 4171,
+      "573": 4171,
+      "718": 4185
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3693,
+      "404": 3694,
+      "477": 4197,
+      "573": 4197,
+      "718": 4211
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3694,
+      "404": 3695,
+      "477": 4198,
+      "573": 4198,
+      "718": 4212
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3720,
+      "404": 3721,
+      "477": 4224,
+      "573": 4224,
+      "718": 4238
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3689,
+      "404": 3690,
+      "477": 4193,
+      "573": 4193,
+      "718": 4207
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3710,
+      "404": 3711,
+      "477": 4214,
+      "573": 4214,
+      "718": 4228
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3709,
+      "404": 3710,
+      "477": 4213,
+      "573": 4213,
+      "718": 4227
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3674,
+      "404": 3675,
+      "477": 4178,
+      "573": 4178,
+      "718": 4192
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3705,
+      "404": 3706,
+      "477": 4209,
+      "573": 4209,
+      "718": 4223
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3690,
+      "404": 3691,
+      "477": 4194,
+      "573": 4194,
+      "718": 4208
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3702,
+      "404": 3703,
+      "477": 4206,
+      "573": 4206,
+      "718": 4220
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3683,
+      "404": 3684,
+      "477": 4187,
+      "573": 4187,
+      "718": 4201
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3659,
+      "404": 3660,
+      "477": 4163,
+      "573": 4163,
+      "718": 4177
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3714,
+      "404": 3715,
+      "477": 4218,
+      "573": 4218,
+      "718": 4232
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3657,
+      "404": 3658,
+      "477": 4161,
+      "573": 4161,
+      "718": 4175
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3671,
+      "404": 3672,
+      "477": 4175,
+      "573": 4175,
+      "718": 4189
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3698,
+      "404": 3699,
+      "477": 4202,
+      "573": 4202,
+      "718": 4216
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3699,
+      "404": 3700,
+      "477": 4203,
+      "573": 4203,
+      "718": 4217
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3704,
+      "404": 3705,
+      "477": 4208,
+      "573": 4208,
+      "718": 4222
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3680,
+      "404": 3681,
+      "477": 4184,
+      "573": 4184,
+      "718": 4198
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3708,
+      "404": 3709,
+      "477": 4212,
+      "573": 4212,
+      "718": 4226
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3715,
+      "404": 3716,
+      "477": 4219,
+      "573": 4219,
+      "718": 4233
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3692,
+      "404": 3693,
+      "477": 4196,
+      "573": 4196,
+      "718": 4210
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3670,
+      "404": 3671,
+      "477": 4174,
+      "573": 4174,
+      "718": 4188
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3677,
+      "404": 3678,
+      "477": 4181,
+      "573": 4181,
+      "718": 4195
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3668,
+      "404": 3669,
+      "477": 4172,
+      "573": 4172,
+      "718": 4186
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3666,
+      "404": 3667,
+      "477": 4170,
+      "573": 4170,
+      "718": 4184
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3695,
+      "404": 3696,
+      "477": 4199,
+      "573": 4199,
+      "718": 4213
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3679,
+      "404": 3680,
+      "477": 4183,
+      "573": 4183,
+      "718": 4197
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3697,
+      "404": 3698,
+      "477": 4201,
+      "573": 4201,
+      "718": 4215
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3673,
+      "404": 3674,
+      "477": 4177,
+      "573": 4177,
+      "718": 4191
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "393": 3684,
+      "404": 3685,
+      "477": 4188,
+      "573": 4188,
+      "718": 4202
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3719,
+      "404": 3720,
+      "477": 4223,
+      "573": 4223,
+      "718": 4237
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3686,
+      "404": 3687,
+      "477": 4190,
+      "573": 4190,
+      "718": 4204
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3663,
+      "404": 3664,
+      "477": 4167,
+      "573": 4167,
+      "718": 4181
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3681,
+      "404": 3682,
+      "477": 4185,
+      "573": 4185,
+      "718": 4199
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3658,
+      "404": 3659,
+      "477": 4162,
+      "573": 4162,
+      "718": 4176
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "393": 3682,
+      "404": 3683,
+      "477": 4186,
+      "573": 4186,
+      "718": 4200
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3687,
+      "404": 3688,
+      "477": 4191,
+      "573": 4191,
+      "718": 4205
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "393": 3717,
+      "404": 3718,
+      "477": 4221,
+      "573": 4221,
+      "718": 4235
+    }
+  },
+  {
+    "name": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "393": 3703,
+      "404": 3704,
+      "477": 4207,
+      "573": 4207,
+      "718": 4221
+    }
+  }
+]

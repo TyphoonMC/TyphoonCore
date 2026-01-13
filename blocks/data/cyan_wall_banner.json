@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:cyan_wall_banner[facing=north]",
+    "ids": {
+      "393": 7146,
+      "404": 7147,
+      "477": 7653,
+      "573": 7653,
+      "718": 8189
+    }
+  },
+  {
+    "name": "minecraft:cyan_wall_banner[facing=west]",
+    "ids": {
+      "393": 7148,
+      "404": 7149,
+      "477": 7655,
+      "573": 7655,
+      "718": 8191
+    }
+  },
+  {
+    "name": "minecraft:cyan_wall_banner[facing=south]",
+    "ids": {
+      "393": 7147,
+      "404": 7148,
+      "477": 7654,
+      "573": 7654,
+      "718": 8190
+    }
+  },
+  {
+    "name": "minecraft:cyan_wall_banner[facing=east]",
+    "ids": {
+      "393": 7149,
+      "404": 7150,
+      "477": 7656,
+      "573": 7656,
+      "718": 8192
+    }
+  }
+]

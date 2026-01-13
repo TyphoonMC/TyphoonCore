@@ -1,0 +1,82 @@
+[
+  {
+    "name": "minecraft:sea_pickle[pickles=3,waterlogged=true]",
+    "ids": {
+      "393": 8568,
+      "404": 8584,
+      "477": 9108,
+      "573": 9108,
+      "718": 9644
+    }
+  },
+  {
+    "name": "minecraft:sea_pickle[pickles=3,waterlogged=false]",
+    "ids": {
+      "393": 8569,
+      "404": 8585,
+      "477": 9109,
+      "573": 9109,
+      "718": 9645
+    }
+  },
+  {
+    "name": "minecraft:sea_pickle[pickles=1,waterlogged=false]",
+    "ids": {
+      "393": 8565,
+      "404": 8581,
+      "477": 9105,
+      "573": 9105,
+      "718": 9641
+    }
+  },
+  {
+    "name": "minecraft:sea_pickle[pickles=2,waterlogged=false]",
+    "ids": {
+      "393": 8567,
+      "404": 8583,
+      "477": 9107,
+      "573": 9107,
+      "718": 9643
+    }
+  },
+  {
+    "name": "minecraft:sea_pickle[pickles=1,waterlogged=true]",
+    "ids": {
+      "393": 8564,
+      "404": 8580,
+      "477": 9104,
+      "573": 9104,
+      "718": 9640
+    }
+  },
+  {
+    "name": "minecraft:sea_pickle[pickles=4,waterlogged=false]",
+    "ids": {
+      "393": 8571,
+      "404": 8587,
+      "477": 9111,
+      "573": 9111,
+      "718": 9647
+    }
+  },
+  {
+    "name": "minecraft:sea_pickle[pickles=4,waterlogged=true]",
+    "ids": {
+      "393": 8570,
+      "404": 8586,
+      "477": 9110,
+      "573": 9110,
+      "718": 9646
+    }
+  },
+  {
+    "name": "minecraft:sea_pickle[pickles=2,waterlogged=true]",
+    "ids": {
+      "393": 8566,
+      "404": 8582,
+      "477": 9106,
+      "573": 9106,
+      "718": 9642
+    }
+  }
+]

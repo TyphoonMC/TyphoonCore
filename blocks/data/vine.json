@@ -1,0 +1,338 @@
+[
+  {
+    "name": "minecraft:vine[east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4273,
+      "404": 4274,
+      "477": 4777,
+      "573": 4777,
+      "718": 4793
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4285,
+      "404": 4286,
+      "477": 4789,
+      "573": 4789,
+      "718": 4805
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4276,
+      "404": 4277,
+      "477": 4780,
+      "573": 4780,
+      "718": 4796
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4296,
+      "404": 4297,
+      "477": 4800,
+      "573": 4800,
+      "718": 4816
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4280,
+      "404": 4281,
+      "477": 4784,
+      "573": 4784,
+      "718": 4800
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4288,
+      "404": 4289,
+      "477": 4792,
+      "573": 4792,
+      "718": 4808
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4298,
+      "4": 1698,
+      "404": 4299,
+      "477": 4802,
+      "573": 4802,
+      "718": 4818
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4287,
+      "4": 1701,
+      "404": 4288,
+      "477": 4791,
+      "573": 4791,
+      "718": 4807
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4270,
+      "4": 1711,
+      "404": 4271,
+      "477": 4774,
+      "573": 4774,
+      "718": 4790
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4277,
+      "404": 4278,
+      "477": 4781,
+      "573": 4781,
+      "718": 4797
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4289,
+      "404": 4290,
+      "477": 4793,
+      "573": 4793,
+      "718": 4809
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4272,
+      "404": 4273,
+      "477": 4776,
+      "573": 4776,
+      "718": 4792
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4278,
+      "4": 1707,
+      "404": 4279,
+      "477": 4782,
+      "573": 4782,
+      "718": 4798
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4271,
+      "4": 1709,
+      "404": 4272,
+      "477": 4775,
+      "573": 4775,
+      "718": 4791
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4279,
+      "4": 1705,
+      "404": 4280,
+      "477": 4783,
+      "573": 4783,
+      "718": 4799
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4275,
+      "4": 1708,
+      "404": 4276,
+      "477": 4779,
+      "573": 4779,
+      "718": 4795
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4268,
+      "404": 4269,
+      "477": 4772,
+      "573": 4772,
+      "718": 4788
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4283,
+      "4": 1704,
+      "404": 4284,
+      "477": 4787,
+      "573": 4787,
+      "718": 4803
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4292,
+      "404": 4293,
+      "477": 4796,
+      "573": 4796,
+      "718": 4812
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4282,
+      "4": 1706,
+      "404": 4283,
+      "477": 4786,
+      "573": 4786,
+      "718": 4802
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4291,
+      "4": 1700,
+      "404": 4292,
+      "477": 4795,
+      "573": 4795,
+      "718": 4811
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4293,
+      "404": 4294,
+      "477": 4797,
+      "573": 4797,
+      "718": 4813
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4286,
+      "4": 1703,
+      "404": 4287,
+      "477": 4790,
+      "573": 4790,
+      "718": 4806
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4274,
+      "4": 1710,
+      "404": 4275,
+      "477": 4778,
+      "573": 4778,
+      "718": 4794
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4297,
+      "404": 4298,
+      "477": 4801,
+      "573": 4801,
+      "718": 4817
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4269,
+      "404": 4270,
+      "477": 4773,
+      "573": 4773,
+      "718": 4789
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4290,
+      "4": 1702,
+      "404": 4291,
+      "477": 4794,
+      "573": 4794,
+      "718": 4810
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4299,
+      "4": 1696,
+      "404": 4300,
+      "477": 4803,
+      "573": 4803,
+      "718": 4819
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4295,
+      "4": 1697,
+      "404": 4296,
+      "477": 4799,
+      "573": 4799,
+      "718": 4815
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4294,
+      "4": 1699,
+      "404": 4295,
+      "477": 4798,
+      "573": 4798,
+      "718": 4814
+    }
+  },
+  {
+    "name": "minecraft:vine[east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4281,
+      "404": 4282,
+      "477": 4785,
+      "573": 4785,
+      "718": 4801
+    }
+  },
+  {
+    "name": "minecraft:vine[east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4284,
+      "404": 4285,
+      "477": 4788,
+      "573": 4788,
+      "718": 4804
+    }
+  }
+]

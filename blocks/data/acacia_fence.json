@@ -1,0 +1,323 @@
+[
+  {
+    "name": "minecraft:acacia_fence[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7626,
+      "404": 7627,
+      "477": 8151,
+      "573": 8151,
+      "718": 8687
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7640,
+      "404": 7641,
+      "477": 8165,
+      "573": 8165,
+      "718": 8701
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7613,
+      "404": 7614,
+      "477": 8138,
+      "573": 8138,
+      "718": 8674
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7619,
+      "404": 7620,
+      "477": 8144,
+      "573": 8144,
+      "718": 8680
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7615,
+      "404": 7616,
+      "477": 8140,
+      "573": 8140,
+      "718": 8676
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7633,
+      "404": 7634,
+      "477": 8158,
+      "573": 8158,
+      "718": 8694
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7623,
+      "404": 7624,
+      "477": 8148,
+      "573": 8148,
+      "718": 8684
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7638,
+      "404": 7639,
+      "477": 8163,
+      "573": 8163,
+      "718": 8699
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7635,
+      "404": 7636,
+      "477": 8160,
+      "573": 8160,
+      "718": 8696
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7625,
+      "404": 7626,
+      "477": 8150,
+      "573": 8150,
+      "718": 8686
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7616,
+      "404": 7617,
+      "477": 8141,
+      "573": 8141,
+      "718": 8677
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7629,
+      "404": 7630,
+      "477": 8154,
+      "573": 8154,
+      "718": 8690
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7627,
+      "404": 7628,
+      "477": 8152,
+      "573": 8152,
+      "718": 8688
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7641,
+      "404": 7642,
+      "477": 8166,
+      "573": 8166,
+      "718": 8702
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7620,
+      "404": 7621,
+      "477": 8145,
+      "573": 8145,
+      "718": 8681
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7617,
+      "404": 7618,
+      "477": 8142,
+      "573": 8142,
+      "718": 8678
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7636,
+      "404": 7637,
+      "477": 8161,
+      "573": 8161,
+      "718": 8697
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7643,
+      "404": 7644,
+      "477": 8168,
+      "573": 8168,
+      "718": 8704
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7622,
+      "404": 7623,
+      "477": 8147,
+      "573": 8147,
+      "718": 8683
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7644,
+      "4": 3072,
+      "404": 7645,
+      "477": 8169,
+      "573": 8169,
+      "718": 8705
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7637,
+      "404": 7638,
+      "477": 8162,
+      "573": 8162,
+      "718": 8698
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7614,
+      "404": 7615,
+      "477": 8139,
+      "573": 8139,
+      "718": 8675
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7631,
+      "404": 7632,
+      "477": 8156,
+      "573": 8156,
+      "718": 8692
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7618,
+      "404": 7619,
+      "477": 8143,
+      "573": 8143,
+      "718": 8679
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7628,
+      "404": 7629,
+      "477": 8153,
+      "573": 8153,
+      "718": 8689
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7621,
+      "404": 7622,
+      "477": 8146,
+      "573": 8146,
+      "718": 8682
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7642,
+      "404": 7643,
+      "477": 8167,
+      "573": 8167,
+      "718": 8703
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7634,
+      "404": 7635,
+      "477": 8159,
+      "573": 8159,
+      "718": 8695
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7639,
+      "404": 7640,
+      "477": 8164,
+      "573": 8164,
+      "718": 8700
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7632,
+      "404": 7633,
+      "477": 8157,
+      "573": 8157,
+      "718": 8693
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7624,
+      "404": 7625,
+      "477": 8149,
+      "573": 8149,
+      "718": 8685
+    }
+  },
+  {
+    "name": "minecraft:acacia_fence[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7630,
+      "404": 7631,
+      "477": 8155,
+      "573": 8155,
+      "718": 8691
+    }
+  }
+]

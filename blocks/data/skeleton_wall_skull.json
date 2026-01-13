@@ -1,0 +1,46 @@
+[
+  {
+    "name": "minecraft:skeleton_wall_skull[facing=east]",
+    "ids": {
+      "393": 5450,
+      "4": 2309,
+      "404": 5451,
+      "477": 5973,
+      "573": 5973,
+      "718": 6509
+    }
+  },
+  {
+    "name": "minecraft:skeleton_wall_skull[facing=north]",
+    "ids": {
+      "393": 5447,
+      "4": 2314,
+      "404": 5448,
+      "477": 5970,
+      "573": 5970,
+      "718": 6506
+    }
+  },
+  {
+    "name": "minecraft:skeleton_wall_skull[facing=south]",
+    "ids": {
+      "393": 5448,
+      "4": 2307,
+      "404": 5449,
+      "477": 5971,
+      "573": 5971,
+      "718": 6507
+    }
+  },
+  {
+    "name": "minecraft:skeleton_wall_skull[facing=west]",
+    "ids": {
+      "393": 5449,
+      "4": 2316,
+      "404": 5450,
+      "477": 5972,
+      "573": 5972,
+      "718": 6508
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "name": "minecraft:acacia_sign[rotation=11,waterlogged=false]",
+    "ids": {
+      "477": 3498,
+      "573": 3498,
+      "718": 3500
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=3,waterlogged=false]",
+    "ids": {
+      "477": 3482,
+      "573": 3482,
+      "718": 3484
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=1,waterlogged=false]",
+    "ids": {
+      "477": 3478,
+      "573": 3478,
+      "718": 3480
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=12,waterlogged=true]",
+    "ids": {
+      "477": 3499,
+      "573": 3499,
+      "718": 3501
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=0,waterlogged=false]",
+    "ids": {
+      "477": 3476,
+      "573": 3476,
+      "718": 3478
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=6,waterlogged=true]",
+    "ids": {
+      "477": 3487,
+      "573": 3487,
+      "718": 3489
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=11,waterlogged=true]",
+    "ids": {
+      "477": 3497,
+      "573": 3497,
+      "718": 3499
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=0,waterlogged=true]",
+    "ids": {
+      "477": 3475,
+      "573": 3475,
+      "718": 3477
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=14,waterlogged=true]",
+    "ids": {
+      "477": 3503,
+      "573": 3503,
+      "718": 3505
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=5,waterlogged=false]",
+    "ids": {
+      "477": 3486,
+      "573": 3486,
+      "718": 3488
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=4,waterlogged=true]",
+    "ids": {
+      "477": 3483,
+      "573": 3483,
+      "718": 3485
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=7,waterlogged=true]",
+    "ids": {
+      "477": 3489,
+      "573": 3489,
+      "718": 3491
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=15,waterlogged=false]",
+    "ids": {
+      "477": 3506,
+      "573": 3506,
+      "718": 3508
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=6,waterlogged=false]",
+    "ids": {
+      "477": 3488,
+      "573": 3488,
+      "718": 3490
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=4,waterlogged=false]",
+    "ids": {
+      "477": 3484,
+      "573": 3484,
+      "718": 3486
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=8,waterlogged=true]",
+    "ids": {
+      "477": 3491,
+      "573": 3491,
+      "718": 3493
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=1,waterlogged=true]",
+    "ids": {
+      "477": 3477,
+      "573": 3477,
+      "718": 3479
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=2,waterlogged=true]",
+    "ids": {
+      "477": 3479,
+      "573": 3479,
+      "718": 3481
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=9,waterlogged=true]",
+    "ids": {
+      "477": 3493,
+      "573": 3493,
+      "718": 3495
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=15,waterlogged=true]",
+    "ids": {
+      "477": 3505,
+      "573": 3505,
+      "718": 3507
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=3,waterlogged=true]",
+    "ids": {
+      "477": 3481,
+      "573": 3481,
+      "718": 3483
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=13,waterlogged=false]",
+    "ids": {
+      "477": 3502,
+      "573": 3502,
+      "718": 3504
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=13,waterlogged=true]",
+    "ids": {
+      "477": 3501,
+      "573": 3501,
+      "718": 3503
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=7,waterlogged=false]",
+    "ids": {
+      "477": 3490,
+      "573": 3490,
+      "718": 3492
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=10,waterlogged=false]",
+    "ids": {
+      "477": 3496,
+      "573": 3496,
+      "718": 3498
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=8,waterlogged=false]",
+    "ids": {
+      "477": 3492,
+      "573": 3492,
+      "718": 3494
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=5,waterlogged=true]",
+    "ids": {
+      "477": 3485,
+      "573": 3485,
+      "718": 3487
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=12,waterlogged=false]",
+    "ids": {
+      "477": 3500,
+      "573": 3500,
+      "718": 3502
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=10,waterlogged=true]",
+    "ids": {
+      "477": 3495,
+      "573": 3495,
+      "718": 3497
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=14,waterlogged=false]",
+    "ids": {
+      "477": 3504,
+      "573": 3504,
+      "718": 3506
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=2,waterlogged=false]",
+    "ids": {
+      "477": 3480,
+      "573": 3480,
+      "718": 3482
+    }
+  },
+  {
+    "name": "minecraft:acacia_sign[rotation=9,waterlogged=false]",
+    "ids": {
+      "477": 3494,
+      "573": 3494,
+      "718": 3496
+    }
+  }
+]

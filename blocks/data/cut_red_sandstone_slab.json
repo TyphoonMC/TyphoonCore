@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:cut_red_sandstone_slab[type=double,waterlogged=false]",
+    "ids": {
+      "477": 7871,
+      "573": 7871,
+      "718": 8407
+    }
+  },
+  {
+    "name": "minecraft:cut_red_sandstone_slab[type=double,waterlogged=true]",
+    "ids": {
+      "477": 7870,
+      "573": 7870,
+      "718": 8406
+    }
+  },
+  {
+    "name": "minecraft:cut_red_sandstone_slab[type=top,waterlogged=false]",
+    "ids": {
+      "477": 7867,
+      "573": 7867,
+      "718": 8403
+    }
+  },
+  {
+    "name": "minecraft:cut_red_sandstone_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "477": 7869,
+      "573": 7869,
+      "718": 8405
+    }
+  },
+  {
+    "name": "minecraft:cut_red_sandstone_slab[type=top,waterlogged=true]",
+    "ids": {
+      "477": 7866,
+      "573": 7866,
+      "718": 8402
+    }
+  },
+  {
+    "name": "minecraft:cut_red_sandstone_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "477": 7868,
+      "573": 7868,
+      "718": 8404
+    }
+  }
+]

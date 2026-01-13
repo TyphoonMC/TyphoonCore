@@ -1,0 +1,354 @@
+[
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=12]",
+    "ids": {
+      "393": 5679,
+      "4": 2428,
+      "404": 5680,
+      "477": 6186,
+      "573": 6186,
+      "718": 6722
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=13]",
+    "ids": {
+      "393": 5680,
+      "4": 2429,
+      "404": 5681,
+      "477": 6187,
+      "573": 6187,
+      "718": 6723
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=0]",
+    "ids": {
+      "393": 5651,
+      "4": 2848,
+      "404": 5652,
+      "477": 6158,
+      "573": 6158,
+      "718": 6694
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=5]",
+    "ids": {
+      "393": 5672,
+      "4": 2421,
+      "404": 5673,
+      "477": 6179,
+      "573": 6179,
+      "718": 6715
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=7]",
+    "ids": {
+      "393": 5674,
+      "4": 2423,
+      "404": 5675,
+      "477": 6181,
+      "573": 6181,
+      "718": 6717
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=14]",
+    "ids": {
+      "393": 5665,
+      "4": 2862,
+      "404": 5666,
+      "477": 6172,
+      "573": 6172,
+      "718": 6708
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=15]",
+    "ids": {
+      "393": 5682,
+      "4": 2431,
+      "404": 5683,
+      "477": 6189,
+      "573": 6189,
+      "718": 6725
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=1]",
+    "ids": {
+      "393": 5668,
+      "4": 2417,
+      "404": 5669,
+      "477": 6175,
+      "573": 6175,
+      "718": 6711
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=0]",
+    "ids": {
+      "393": 5667,
+      "4": 2416,
+      "404": 5668,
+      "477": 6174,
+      "573": 6174,
+      "718": 6710
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=6]",
+    "ids": {
+      "393": 5657,
+      "4": 2854,
+      "404": 5658,
+      "477": 6164,
+      "573": 6164,
+      "718": 6700
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=14]",
+    "ids": {
+      "393": 5681,
+      "4": 2430,
+      "404": 5682,
+      "477": 6188,
+      "573": 6188,
+      "718": 6724
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=2]",
+    "ids": {
+      "393": 5669,
+      "4": 2418,
+      "404": 5670,
+      "477": 6176,
+      "573": 6176,
+      "718": 6712
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=9]",
+    "ids": {
+      "393": 5676,
+      "4": 2425,
+      "404": 5677,
+      "477": 6183,
+      "573": 6183,
+      "718": 6719
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=5]",
+    "ids": {
+      "393": 5656,
+      "4": 2853,
+      "404": 5657,
+      "477": 6163,
+      "573": 6163,
+      "718": 6699
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=13]",
+    "ids": {
+      "393": 5664,
+      "4": 2861,
+      "404": 5665,
+      "477": 6171,
+      "573": 6171,
+      "718": 6707
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=12]",
+    "ids": {
+      "393": 5663,
+      "4": 2860,
+      "404": 5664,
+      "477": 6170,
+      "573": 6170,
+      "718": 6706
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=9]",
+    "ids": {
+      "393": 5660,
+      "4": 2857,
+      "404": 5661,
+      "477": 6167,
+      "573": 6167,
+      "718": 6703
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=8]",
+    "ids": {
+      "393": 5659,
+      "4": 2856,
+      "404": 5660,
+      "477": 6166,
+      "573": 6166,
+      "718": 6702
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=8]",
+    "ids": {
+      "393": 5675,
+      "4": 2424,
+      "404": 5676,
+      "477": 6182,
+      "573": 6182,
+      "718": 6718
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=10]",
+    "ids": {
+      "393": 5661,
+      "4": 2858,
+      "404": 5662,
+      "477": 6168,
+      "573": 6168,
+      "718": 6704
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=10]",
+    "ids": {
+      "393": 5677,
+      "4": 2426,
+      "404": 5678,
+      "477": 6184,
+      "573": 6184,
+      "718": 6720
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=3]",
+    "ids": {
+      "393": 5654,
+      "4": 2851,
+      "404": 5655,
+      "477": 6161,
+      "573": 6161,
+      "718": 6697
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=15]",
+    "ids": {
+      "393": 5666,
+      "4": 2863,
+      "404": 5667,
+      "477": 6173,
+      "573": 6173,
+      "718": 6709
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=2]",
+    "ids": {
+      "393": 5653,
+      "4": 2850,
+      "404": 5654,
+      "477": 6160,
+      "573": 6160,
+      "718": 6696
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=7]",
+    "ids": {
+      "393": 5658,
+      "4": 2855,
+      "404": 5659,
+      "477": 6165,
+      "573": 6165,
+      "718": 6701
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=11]",
+    "ids": {
+      "393": 5678,
+      "4": 2427,
+      "404": 5679,
+      "477": 6185,
+      "573": 6185,
+      "718": 6721
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=6]",
+    "ids": {
+      "393": 5673,
+      "4": 2422,
+      "404": 5674,
+      "477": 6180,
+      "573": 6180,
+      "718": 6716
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=3]",
+    "ids": {
+      "393": 5670,
+      "4": 2419,
+      "404": 5671,
+      "477": 6177,
+      "573": 6177,
+      "718": 6713
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=11]",
+    "ids": {
+      "393": 5662,
+      "4": 2859,
+      "404": 5663,
+      "477": 6169,
+      "573": 6169,
+      "718": 6705
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=false,power=4]",
+    "ids": {
+      "393": 5671,
+      "4": 2420,
+      "404": 5672,
+      "477": 6178,
+      "573": 6178,
+      "718": 6714
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=1]",
+    "ids": {
+      "393": 5652,
+      "4": 2849,
+      "404": 5653,
+      "477": 6159,
+      "573": 6159,
+      "718": 6695
+    }
+  },
+  {
+    "name": "minecraft:daylight_detector[inverted=true,power=4]",
+    "ids": {
+      "393": 5655,
+      "4": 2852,
+      "404": 5656,
+      "477": 6162,
+      "573": 6162,
+      "718": 6698
+    }
+  }
+]

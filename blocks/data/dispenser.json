@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:dispenser[facing=north,triggered=false]",
+    "ids": {
+      "393": 234,
+      "4": 370,
+      "404": 234,
+      "477": 234,
+      "573": 234,
+      "718": 235
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=down,triggered=true]",
+    "ids": {
+      "393": 243,
+      "4": 376,
+      "404": 243,
+      "477": 243,
+      "573": 243,
+      "718": 244
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=south,triggered=true]",
+    "ids": {
+      "393": 237,
+      "4": 379,
+      "404": 237,
+      "477": 237,
+      "573": 237,
+      "718": 238
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=south,triggered=false]",
+    "ids": {
+      "393": 238,
+      "4": 371,
+      "404": 238,
+      "477": 238,
+      "573": 238,
+      "718": 239
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=down,triggered=false]",
+    "ids": {
+      "393": 244,
+      "4": 368,
+      "404": 244,
+      "477": 244,
+      "573": 244,
+      "718": 245
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=up,triggered=false]",
+    "ids": {
+      "393": 242,
+      "4": 369,
+      "404": 242,
+      "477": 242,
+      "573": 242,
+      "718": 243
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=west,triggered=false]",
+    "ids": {
+      "393": 240,
+      "4": 372,
+      "404": 240,
+      "477": 240,
+      "573": 240,
+      "718": 241
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=up,triggered=true]",
+    "ids": {
+      "393": 241,
+      "4": 377,
+      "404": 241,
+      "477": 241,
+      "573": 241,
+      "718": 242
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=west,triggered=true]",
+    "ids": {
+      "393": 239,
+      "4": 380,
+      "404": 239,
+      "477": 239,
+      "573": 239,
+      "718": 240
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=east,triggered=true]",
+    "ids": {
+      "393": 235,
+      "4": 381,
+      "404": 235,
+      "477": 235,
+      "573": 235,
+      "718": 236
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=east,triggered=false]",
+    "ids": {
+      "393": 236,
+      "4": 373,
+      "404": 236,
+      "477": 236,
+      "573": 236,
+      "718": 237
+    }
+  },
+  {
+    "name": "minecraft:dispenser[facing=north,triggered=true]",
+    "ids": {
+      "393": 233,
+      "4": 378,
+      "404": 233,
+      "477": 233,
+      "573": 233,
+      "718": 234
+    }
+  }
+]

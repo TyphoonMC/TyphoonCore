@@ -1,0 +1,66 @@
+[
+  {
+    "name": "minecraft:spruce_wall_sign[facing=north,waterlogged=false]",
+    "ids": {
+      "477": 3742,
+      "573": 3742,
+      "718": 3744
+    }
+  },
+  {
+    "name": "minecraft:spruce_wall_sign[facing=south,waterlogged=true]",
+    "ids": {
+      "477": 3743,
+      "573": 3743,
+      "718": 3745
+    }
+  },
+  {
+    "name": "minecraft:spruce_wall_sign[facing=east,waterlogged=true]",
+    "ids": {
+      "477": 3747,
+      "573": 3747,
+      "718": 3749
+    }
+  },
+  {
+    "name": "minecraft:spruce_wall_sign[facing=north,waterlogged=true]",
+    "ids": {
+      "477": 3741,
+      "573": 3741,
+      "718": 3743
+    }
+  },
+  {
+    "name": "minecraft:spruce_wall_sign[facing=south,waterlogged=false]",
+    "ids": {
+      "477": 3744,
+      "573": 3744,
+      "718": 3746
+    }
+  },
+  {
+    "name": "minecraft:spruce_wall_sign[facing=west,waterlogged=false]",
+    "ids": {
+      "477": 3746,
+      "573": 3746,
+      "718": 3748
+    }
+  },
+  {
+    "name": "minecraft:spruce_wall_sign[facing=west,waterlogged=true]",
+    "ids": {
+      "477": 3745,
+      "573": 3745,
+      "718": 3747
+    }
+  },
+  {
+    "name": "minecraft:spruce_wall_sign[facing=east,waterlogged=false]",
+    "ids": {
+      "477": 3748,
+      "573": 3748,
+      "718": 3750
+    }
+  }
+]

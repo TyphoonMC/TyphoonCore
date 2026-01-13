@@ -1,0 +1,178 @@
+[
+  {
+    "name": "minecraft:comparator[facing=north,mode=compare,powered=false]",
+    "ids": {
+      "393": 5636,
+      "4": 2386,
+      "404": 5637,
+      "477": 6143,
+      "573": 6143,
+      "718": 6679
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=south,mode=compare,powered=true]",
+    "ids": {
+      "393": 5639,
+      "4": 2392,
+      "404": 5640,
+      "477": 6146,
+      "573": 6146,
+      "718": 6682
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=east,mode=compare,powered=true]",
+    "ids": {
+      "393": 5647,
+      "4": 2411,
+      "404": 5648,
+      "477": 6154,
+      "573": 6154,
+      "718": 6690
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=east,mode=subtract,powered=false]",
+    "ids": {
+      "393": 5650,
+      "4": 2391,
+      "404": 5651,
+      "477": 6157,
+      "573": 6157,
+      "718": 6693
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=north,mode=compare,powered=true]",
+    "ids": {
+      "393": 5635,
+      "4": 2394,
+      "404": 5636,
+      "477": 6142,
+      "573": 6142,
+      "718": 6678
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=west,mode=compare,powered=true]",
+    "ids": {
+      "393": 5643,
+      "4": 2393,
+      "404": 5644,
+      "477": 6150,
+      "573": 6150,
+      "718": 6686
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=north,mode=subtract,powered=true]",
+    "ids": {
+      "393": 5637,
+      "4": 2414,
+      "404": 5638,
+      "477": 6144,
+      "573": 6144,
+      "718": 6680
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=west,mode=subtract,powered=false]",
+    "ids": {
+      "393": 5646,
+      "4": 2389,
+      "404": 5647,
+      "477": 6153,
+      "573": 6153,
+      "718": 6689
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=east,mode=compare,powered=false]",
+    "ids": {
+      "393": 5648,
+      "4": 2403,
+      "404": 5649,
+      "477": 6155,
+      "573": 6155,
+      "718": 6691
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=south,mode=compare,powered=false]",
+    "ids": {
+      "393": 5640,
+      "4": 2384,
+      "404": 5641,
+      "477": 6147,
+      "573": 6147,
+      "718": 6683
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=south,mode=subtract,powered=false]",
+    "ids": {
+      "393": 5642,
+      "4": 2388,
+      "404": 5643,
+      "477": 6149,
+      "573": 6149,
+      "718": 6685
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=east,mode=subtract,powered=true]",
+    "ids": {
+      "393": 5649,
+      "4": 2399,
+      "404": 5650,
+      "477": 6156,
+      "573": 6156,
+      "718": 6692
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=west,mode=subtract,powered=true]",
+    "ids": {
+      "393": 5645,
+      "4": 2397,
+      "404": 5646,
+      "477": 6152,
+      "573": 6152,
+      "718": 6688
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=north,mode=subtract,powered=false]",
+    "ids": {
+      "393": 5638,
+      "4": 2406,
+      "404": 5639,
+      "477": 6145,
+      "573": 6145,
+      "718": 6681
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=south,mode=subtract,powered=true]",
+    "ids": {
+      "393": 5641,
+      "4": 2412,
+      "404": 5642,
+      "477": 6148,
+      "573": 6148,
+      "718": 6684
+    }
+  },
+  {
+    "name": "minecraft:comparator[facing=west,mode=compare,powered=false]",
+    "ids": {
+      "393": 5644,
+      "4": 2385,
+      "404": 5645,
+      "477": 6151,
+      "573": 6151,
+      "718": 6687
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "minecraft:warped_button[face=ceiling,facing=east,powered=false]",
+    "ids": {
+      "718": 15526
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=wall,facing=east,powered=true]",
+    "ids": {
+      "718": 15517
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=floor,facing=north,powered=true]",
+    "ids": {
+      "718": 15503
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=wall,facing=west,powered=true]",
+    "ids": {
+      "718": 15515
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=wall,facing=south,powered=false]",
+    "ids": {
+      "718": 15514
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=wall,facing=south,powered=true]",
+    "ids": {
+      "718": 15513
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=floor,facing=south,powered=false]",
+    "ids": {
+      "718": 15506
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=wall,facing=north,powered=false]",
+    "ids": {
+      "718": 15512
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=floor,facing=north,powered=false]",
+    "ids": {
+      "718": 15504
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=ceiling,facing=south,powered=false]",
+    "ids": {
+      "718": 15522
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=wall,facing=north,powered=true]",
+    "ids": {
+      "718": 15511
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=ceiling,facing=south,powered=true]",
+    "ids": {
+      "718": 15521
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=floor,facing=west,powered=false]",
+    "ids": {
+      "718": 15508
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=floor,facing=east,powered=false]",
+    "ids": {
+      "718": 15510
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=ceiling,facing=north,powered=false]",
+    "ids": {
+      "718": 15520
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=ceiling,facing=west,powered=false]",
+    "ids": {
+      "718": 15524
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=floor,facing=south,powered=true]",
+    "ids": {
+      "718": 15505
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=ceiling,facing=east,powered=true]",
+    "ids": {
+      "718": 15525
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=floor,facing=west,powered=true]",
+    "ids": {
+      "718": 15507
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=floor,facing=east,powered=true]",
+    "ids": {
+      "718": 15509
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=ceiling,facing=west,powered=true]",
+    "ids": {
+      "718": 15523
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=ceiling,facing=north,powered=true]",
+    "ids": {
+      "718": 15519
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=wall,facing=west,powered=false]",
+    "ids": {
+      "718": 15516
+    }
+  },
+  {
+    "name": "minecraft:warped_button[face=wall,facing=east,powered=false]",
+    "ids": {
+      "718": 15518
+    }
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "name": "minecraft:jigsaw[orientation=down_west]",
+    "ids": {
+      "718": 15742
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[facing=west]",
+    "ids": {
+      "477": 11259,
+      "573": 11275
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=up_east]",
+    "ids": {
+      "718": 15743
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[facing=up]",
+    "ids": {
+      "477": 11260,
+      "573": 11276
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[facing=north]",
+    "ids": {
+      "477": 11256,
+      "573": 11272
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[facing=south]",
+    "ids": {
+      "477": 11258,
+      "573": 11274
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=down_east]",
+    "ids": {
+      "718": 15739
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=down_north]",
+    "ids": {
+      "718": 15740
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=up_south]",
+    "ids": {
+      "718": 15745
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=south_up]",
+    "ids": {
+      "718": 15750
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[facing=east]",
+    "ids": {
+      "477": 11257,
+      "573": 11273
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=north_up]",
+    "ids": {
+      "718": 15749
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=west_up]",
+    "ids": {
+      "718": 15747
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=up_west]",
+    "ids": {
+      "718": 15746
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=up_north]",
+    "ids": {
+      "718": 15744
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[facing=down]",
+    "ids": {
+      "477": 11261,
+      "573": 11277
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=down_south]",
+    "ids": {
+      "718": 15741
+    }
+  },
+  {
+    "name": "minecraft:jigsaw[orientation=east_up]",
+    "ids": {
+      "718": 15748
+    }
+  }
+]

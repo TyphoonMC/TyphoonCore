@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:stone_brick_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7324,
+      "4": 717,
+      "404": 7325,
+      "477": 7843,
+      "573": 7843,
+      "718": 8379
+    }
+  },
+  {
+    "name": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7326,
+      "4": 709,
+      "404": 7327,
+      "477": 7845,
+      "573": 7845,
+      "718": 8381
+    }
+  },
+  {
+    "name": "minecraft:stone_brick_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7323,
+      "404": 7324,
+      "477": 7842,
+      "573": 7842,
+      "718": 8378
+    }
+  },
+  {
+    "name": "minecraft:stone_brick_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7328,
+      "4": 693,
+      "404": 7329,
+      "477": 7847,
+      "573": 7847,
+      "718": 8383
+    }
+  },
+  {
+    "name": "minecraft:stone_brick_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7325,
+      "404": 7326,
+      "477": 7844,
+      "573": 7844,
+      "718": 8380
+    }
+  },
+  {
+    "name": "minecraft:stone_brick_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7327,
+      "404": 7328,
+      "477": 7846,
+      "573": 7846,
+      "718": 8382
+    }
+  }
+]

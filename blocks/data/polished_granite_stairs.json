@@ -1,0 +1,642 @@
+[
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9179,
+      "573": 9179,
+      "718": 9715
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9139,
+      "573": 9139,
+      "718": 9675
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9204,
+      "573": 9204,
+      "718": 9740
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9183,
+      "573": 9183,
+      "718": 9719
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9150,
+      "573": 9150,
+      "718": 9686
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9200,
+      "573": 9200,
+      "718": 9736
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9135,
+      "573": 9135,
+      "718": 9671
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9166,
+      "573": 9166,
+      "718": 9702
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9164,
+      "573": 9164,
+      "718": 9700
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9184,
+      "573": 9184,
+      "718": 9720
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9163,
+      "573": 9163,
+      "718": 9699
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9172,
+      "573": 9172,
+      "718": 9708
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9168,
+      "573": 9168,
+      "718": 9704
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9158,
+      "573": 9158,
+      "718": 9694
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9143,
+      "573": 9143,
+      "718": 9679
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9198,
+      "573": 9198,
+      "718": 9734
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9136,
+      "573": 9136,
+      "718": 9672
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9187,
+      "573": 9187,
+      "718": 9723
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9144,
+      "573": 9144,
+      "718": 9680
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9171,
+      "573": 9171,
+      "718": 9707
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9175,
+      "573": 9175,
+      "718": 9711
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9211,
+      "573": 9211,
+      "718": 9747
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9138,
+      "573": 9138,
+      "718": 9674
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9145,
+      "573": 9145,
+      "718": 9681
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9170,
+      "573": 9170,
+      "718": 9706
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9149,
+      "573": 9149,
+      "718": 9685
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9146,
+      "573": 9146,
+      "718": 9682
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9161,
+      "573": 9161,
+      "718": 9697
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9182,
+      "573": 9182,
+      "718": 9718
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9154,
+      "573": 9154,
+      "718": 9690
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9199,
+      "573": 9199,
+      "718": 9735
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9167,
+      "573": 9167,
+      "718": 9703
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9173,
+      "573": 9173,
+      "718": 9709
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9133,
+      "573": 9133,
+      "718": 9669
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9134,
+      "573": 9134,
+      "718": 9670
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9192,
+      "573": 9192,
+      "718": 9728
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9212,
+      "573": 9212,
+      "718": 9748
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9140,
+      "573": 9140,
+      "718": 9676
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9174,
+      "573": 9174,
+      "718": 9710
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "477": 9194,
+      "573": 9194,
+      "718": 9730
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9206,
+      "573": 9206,
+      "718": 9742
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9137,
+      "573": 9137,
+      "718": 9673
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9190,
+      "573": 9190,
+      "718": 9726
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9141,
+      "573": 9141,
+      "718": 9677
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9195,
+      "573": 9195,
+      "718": 9731
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9162,
+      "573": 9162,
+      "718": 9698
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9185,
+      "573": 9185,
+      "718": 9721
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9196,
+      "573": 9196,
+      "718": 9732
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9209,
+      "573": 9209,
+      "718": 9745
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9186,
+      "573": 9186,
+      "718": 9722
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9180,
+      "573": 9180,
+      "718": 9716
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9147,
+      "573": 9147,
+      "718": 9683
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9210,
+      "573": 9210,
+      "718": 9746
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9203,
+      "573": 9203,
+      "718": 9739
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9156,
+      "573": 9156,
+      "718": 9692
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9181,
+      "573": 9181,
+      "718": 9717
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9148,
+      "573": 9148,
+      "718": 9684
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9155,
+      "573": 9155,
+      "718": 9691
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9152,
+      "573": 9152,
+      "718": 9688
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9142,
+      "573": 9142,
+      "718": 9678
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "477": 9202,
+      "573": 9202,
+      "718": 9738
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9197,
+      "573": 9197,
+      "718": 9733
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9159,
+      "573": 9159,
+      "718": 9695
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9157,
+      "573": 9157,
+      "718": 9693
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9207,
+      "573": 9207,
+      "718": 9743
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9153,
+      "573": 9153,
+      "718": 9689
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9201,
+      "573": 9201,
+      "718": 9737
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "477": 9160,
+      "573": 9160,
+      "718": 9696
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9178,
+      "573": 9178,
+      "718": 9714
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9191,
+      "573": 9191,
+      "718": 9727
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9169,
+      "573": 9169,
+      "718": 9705
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9205,
+      "573": 9205,
+      "718": 9741
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "477": 9165,
+      "573": 9165,
+      "718": 9701
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "477": 9177,
+      "573": 9177,
+      "718": 9713
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "477": 9189,
+      "573": 9189,
+      "718": 9725
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9208,
+      "573": 9208,
+      "718": 9744
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "477": 9188,
+      "573": 9188,
+      "718": 9724
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "477": 9151,
+      "573": 9151,
+      "718": 9687
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "477": 9176,
+      "573": 9176,
+      "718": 9712
+    }
+  },
+  {
+    "name": "minecraft:polished_granite_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "477": 9193,
+      "573": 9193,
+      "718": 9729
+    }
+  }
+]

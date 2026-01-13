@@ -1,0 +1,65 @@
+[
+  {
+    "name": "minecraft:nether_brick_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 7334,
+      "4": 702,
+      "404": 7335,
+      "477": 7853,
+      "573": 7853,
+      "718": 8389
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 7329,
+      "404": 7330,
+      "477": 7848,
+      "573": 7848,
+      "718": 8384
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 7333,
+      "404": 7334,
+      "477": 7852,
+      "573": 7852,
+      "718": 8388
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 7330,
+      "4": 718,
+      "404": 7331,
+      "477": 7849,
+      "573": 7849,
+      "718": 8385
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 7332,
+      "4": 710,
+      "404": 7333,
+      "477": 7851,
+      "573": 7851,
+      "718": 8387
+    }
+  },
+  {
+    "name": "minecraft:nether_brick_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 7331,
+      "404": 7332,
+      "477": 7850,
+      "573": 7850,
+      "718": 8386
+    }
+  }
+]

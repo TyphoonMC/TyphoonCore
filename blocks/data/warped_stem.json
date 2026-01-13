@@ -1,0 +1,20 @@
+[
+  {
+    "name": "minecraft:warped_stem[axis=x]",
+    "ids": {
+      "718": 14958
+    }
+  },
+  {
+    "name": "minecraft:warped_stem[axis=z]",
+    "ids": {
+      "718": 14960
+    }
+  },
+  {
+    "name": "minecraft:warped_stem[axis=y]",
+    "ids": {
+      "718": 14959
+    }
+  }
+]

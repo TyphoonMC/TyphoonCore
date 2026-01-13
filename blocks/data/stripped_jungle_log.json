@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_jungle_log[axis=z]",
+    "ids": {
+      "393": 98,
+      "404": 98,
+      "477": 98,
+      "573": 98,
+      "718": 99
+    }
+  },
+  {
+    "name": "minecraft:stripped_jungle_log[axis=y]",
+    "ids": {
+      "393": 97,
+      "404": 97,
+      "477": 97,
+      "573": 97,
+      "718": 98
+    }
+  },
+  {
+    "name": "minecraft:stripped_jungle_log[axis=x]",
+    "ids": {
+      "393": 96,
+      "404": 96,
+      "477": 96,
+      "573": 96,
+      "718": 97
+    }
+  }
+]

@@ -1,0 +1,1946 @@
+[
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16153
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16103
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16191
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15925
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16145
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16130
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16098
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16049
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16018
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16077
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16165
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16242
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16177
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16178
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15929
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16096
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16057
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16102
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15922
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16239
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16142
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16108
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15940
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16159
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16000
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15989
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15968
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15924
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16110
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15942
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15944
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16040
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16200
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16237
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16170
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16173
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16072
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16107
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16001
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16199
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16231
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16020
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16058
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16208
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16195
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16048
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15969
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15921
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16031
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16214
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16187
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15952
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16129
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16074
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15965
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16059
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16121
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16050
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16013
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16149
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16036
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16014
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16125
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16019
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16186
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16067
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16198
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16088
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15999
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16206
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16185
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16168
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16233
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16236
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15937
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16035
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16209
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16022
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16174
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16092
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15992
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16045
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16222
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15959
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16128
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15945
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16119
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15933
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15936
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16041
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16213
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16111
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15986
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15995
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16138
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16097
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16155
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15974
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16224
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16230
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16063
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15954
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15987
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15934
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16011
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16215
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16156
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16003
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16126
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15972
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16205
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15964
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16044
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16176
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16091
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16207
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15982
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16131
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15990
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16075
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16238
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15971
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16232
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16061
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15970
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16225
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16042
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15996
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16120
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15997
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16053
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16146
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16109
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16184
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15983
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15927
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16211
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16025
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16100
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16090
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16122
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15979
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16094
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16226
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15957
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15928
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16162
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15984
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16016
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16083
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16009
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16062
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16021
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16054
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15960
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16212
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16180
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16015
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16144
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15920
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16105
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16151
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16190
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16188
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15967
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16089
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15998
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16203
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15938
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15948
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16027
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16106
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16175
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16081
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16051
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16148
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16087
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16010
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16004
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16202
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16055
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16229
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16235
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16115
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16132
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15958
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16056
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15930
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16167
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16028
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15991
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15950
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16157
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16005
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15978
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16134
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16220
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16172
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16076
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16201
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16171
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16071
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16034
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16163
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16033
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15963
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16043
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16193
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16219
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15955
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16113
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16127
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16026
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16101
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15923
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16123
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16112
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15946
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16143
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16060
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16068
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16124
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15932
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16216
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15981
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16082
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15976
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16210
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16182
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16046
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16037
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16136
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16064
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15935
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16086
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16154
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16164
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16070
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16080
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16139
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15961
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16183
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16078
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16116
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16029
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15953
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15962
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16196
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16217
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16099
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16166
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15941
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15951
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16169
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15994
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16069
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16024
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16189
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15975
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16218
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16133
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16047
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 15988
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15947
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15949
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16008
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16161
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16152
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16073
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 15966
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16135
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16227
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16192
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16140
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15931
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16032
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15926
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16223
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16052
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16221
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16228
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16197
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15943
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16158
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16160
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15956
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16095
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16023
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16147
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16017
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16030
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16117
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15985
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 15977
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16084
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16179
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16240
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15993
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16243
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16181
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16234
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16002
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16006
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16141
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16079
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 15939
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16085
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16114
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16194
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16039
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16150
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 15973
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16118
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16038
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16065
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16012
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16104
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16007
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16204
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16137
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16093
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 15980
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16066
+    }
+  },
+  {
+    "name": "minecraft:blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16241
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "minecraft:basalt[axis=z]",
+    "ids": {
+      "718": 4004
+    }
+  },
+  {
+    "name": "minecraft:basalt[axis=x]",
+    "ids": {
+      "718": 4002
+    }
+  },
+  {
+    "name": "minecraft:basalt[axis=y]",
+    "ids": {
+      "718": 4003
+    }
+  }
+]

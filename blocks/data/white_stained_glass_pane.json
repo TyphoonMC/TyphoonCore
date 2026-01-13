@@ -1,0 +1,323 @@
+[
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5839,
+      "404": 5840,
+      "477": 6346,
+      "573": 6346,
+      "718": 6882
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5835,
+      "404": 5836,
+      "477": 6342,
+      "573": 6342,
+      "718": 6878
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5845,
+      "404": 5846,
+      "477": 6352,
+      "573": 6352,
+      "718": 6888
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5820,
+      "404": 5821,
+      "477": 6327,
+      "573": 6327,
+      "718": 6863
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5837,
+      "404": 5838,
+      "477": 6344,
+      "573": 6344,
+      "718": 6880
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5849,
+      "404": 5850,
+      "477": 6356,
+      "573": 6356,
+      "718": 6892
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5826,
+      "404": 5827,
+      "477": 6333,
+      "573": 6333,
+      "718": 6869
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5831,
+      "404": 5832,
+      "477": 6338,
+      "573": 6338,
+      "718": 6874
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5830,
+      "404": 5831,
+      "477": 6337,
+      "573": 6337,
+      "718": 6873
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5823,
+      "404": 5824,
+      "477": 6330,
+      "573": 6330,
+      "718": 6866
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5847,
+      "404": 5848,
+      "477": 6354,
+      "573": 6354,
+      "718": 6890
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5850,
+      "404": 5851,
+      "477": 6357,
+      "573": 6357,
+      "718": 6893
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5829,
+      "404": 5830,
+      "477": 6336,
+      "573": 6336,
+      "718": 6872
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5846,
+      "404": 5847,
+      "477": 6353,
+      "573": 6353,
+      "718": 6889
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5821,
+      "404": 5822,
+      "477": 6328,
+      "573": 6328,
+      "718": 6864
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5824,
+      "404": 5825,
+      "477": 6331,
+      "573": 6331,
+      "718": 6867
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5825,
+      "404": 5826,
+      "477": 6332,
+      "573": 6332,
+      "718": 6868
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5848,
+      "404": 5849,
+      "477": 6355,
+      "573": 6355,
+      "718": 6891
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5838,
+      "404": 5839,
+      "477": 6345,
+      "573": 6345,
+      "718": 6881
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5840,
+      "404": 5841,
+      "477": 6347,
+      "573": 6347,
+      "718": 6883
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5851,
+      "4": 2560,
+      "404": 5852,
+      "477": 6358,
+      "573": 6358,
+      "718": 6894
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5833,
+      "404": 5834,
+      "477": 6340,
+      "573": 6340,
+      "718": 6876
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5842,
+      "404": 5843,
+      "477": 6349,
+      "573": 6349,
+      "718": 6885
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5832,
+      "404": 5833,
+      "477": 6339,
+      "573": 6339,
+      "718": 6875
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5843,
+      "404": 5844,
+      "477": 6350,
+      "573": 6350,
+      "718": 6886
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5834,
+      "404": 5835,
+      "477": 6341,
+      "573": 6341,
+      "718": 6877
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 5827,
+      "404": 5828,
+      "477": 6334,
+      "573": 6334,
+      "718": 6870
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 5822,
+      "404": 5823,
+      "477": 6329,
+      "573": 6329,
+      "718": 6865
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5836,
+      "404": 5837,
+      "477": 6343,
+      "573": 6343,
+      "718": 6879
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 5841,
+      "404": 5842,
+      "477": 6348,
+      "573": 6348,
+      "718": 6884
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5844,
+      "404": 5845,
+      "477": 6351,
+      "573": 6351,
+      "718": 6887
+    }
+  },
+  {
+    "name": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 5828,
+      "404": 5829,
+      "477": 6335,
+      "573": 6335,
+      "718": 6871
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "minecraft:prismarine_brick_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "393": 6809,
+      "404": 6810,
+      "477": 7316,
+      "573": 7316,
+      "718": 7852
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_slab[type=top,waterlogged=false]",
+    "ids": {
+      "393": 6808,
+      "404": 6809,
+      "477": 7315,
+      "573": 7315,
+      "718": 7851
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_slab[type=double,waterlogged=true]",
+    "ids": {
+      "393": 6811,
+      "404": 6812,
+      "477": 7318,
+      "573": 7318,
+      "718": 7854
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_slab[type=top,waterlogged=true]",
+    "ids": {
+      "393": 6807,
+      "404": 6808,
+      "477": 7314,
+      "573": 7314,
+      "718": 7850
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_slab[type=double,waterlogged=false]",
+    "ids": {
+      "393": 6812,
+      "404": 6813,
+      "477": 7319,
+      "573": 7319,
+      "718": 7855
+    }
+  },
+  {
+    "name": "minecraft:prismarine_brick_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "393": 6810,
+      "404": 6811,
+      "477": 7317,
+      "573": 7317,
+      "718": 7853
+    }
+  }
+]

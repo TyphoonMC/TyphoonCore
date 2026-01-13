@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:dead_tube_coral_fan[waterlogged=false]",
+    "ids": {
+      "393": 8545,
+      "404": 8561,
+      "477": 9005,
+      "573": 9005,
+      "718": 9541
+    }
+  },
+  {
+    "name": "minecraft:dead_tube_coral_fan[waterlogged=true]",
+    "ids": {
+      "393": 8544,
+      "404": 8560,
+      "477": 9004,
+      "573": 9004,
+      "718": 9540
+    }
+  }
+]

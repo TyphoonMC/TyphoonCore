@@ -1,0 +1,386 @@
+[
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15127
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15181
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15155
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15167
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15129
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15189
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15174
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15131
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15134
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15157
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15152
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15164
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15138
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15153
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15184
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15132
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15188
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15186
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15159
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15133
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15179
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15154
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15158
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15146
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15168
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15160
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15137
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15145
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15190
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15147
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15180
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15175
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15141
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15177
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15136
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=top,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15148
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15128
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15149
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=top,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15163
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15151
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15162
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15139
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15143
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15150
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15165
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15135
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15156
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15171
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15185
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15182
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15170
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15140
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=bottom,open=false,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15172
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15161
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15166
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=bottom,open=false,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15187
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15178
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15169
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=south,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15144
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=top,open=true,powered=true,waterlogged=false]",
+    "ids": {
+      "718": 15176
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15130
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=true]",
+    "ids": {
+      "718": 15173
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
+    "ids": {
+      "718": 15142
+    }
+  },
+  {
+    "name": "minecraft:crimson_trapdoor[facing=east,half=bottom,open=true,powered=true,waterlogged=true]",
+    "ids": {
+      "718": 15183
+    }
+  }
+]

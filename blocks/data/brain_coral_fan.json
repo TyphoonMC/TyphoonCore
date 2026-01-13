@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:brain_coral_fan[waterlogged=true]",
+    "ids": {
+      "393": 8556,
+      "404": 8572,
+      "477": 9016,
+      "573": 9016,
+      "718": 9552
+    }
+  },
+  {
+    "name": "minecraft:brain_coral_fan[waterlogged=false]",
+    "ids": {
+      "393": 8557,
+      "404": 8573,
+      "477": 9017,
+      "573": 9017,
+      "718": 9553
+    }
+  }
+]

@@ -1,0 +1,654 @@
+[
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7971,
+      "404": 7972,
+      "477": 8496,
+      "573": 8496,
+      "718": 9032
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7954,
+      "404": 7955,
+      "477": 8479,
+      "573": 8479,
+      "718": 9015
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7947,
+      "404": 7948,
+      "477": 8472,
+      "573": 8472,
+      "718": 9008
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7978,
+      "4": 3158,
+      "404": 7979,
+      "477": 8503,
+      "573": 8503,
+      "718": 9039
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7984,
+      "4": 3160,
+      "404": 7985,
+      "477": 8509,
+      "573": 8509,
+      "718": 9045
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7965,
+      "404": 7966,
+      "477": 8490,
+      "573": 8490,
+      "718": 9026
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7962,
+      "4": 3157,
+      "404": 7963,
+      "477": 8487,
+      "573": 8487,
+      "718": 9023
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7949,
+      "404": 7950,
+      "477": 8474,
+      "573": 8474,
+      "718": 9010
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7961,
+      "404": 7962,
+      "477": 8486,
+      "573": 8486,
+      "718": 9022
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7944,
+      "404": 7945,
+      "477": 8469,
+      "573": 8469,
+      "718": 9005
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7992,
+      "404": 7993,
+      "477": 8517,
+      "573": 8517,
+      "718": 9053
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7941,
+      "404": 7942,
+      "477": 8466,
+      "573": 8466,
+      "718": 9002
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7956,
+      "404": 7957,
+      "477": 8481,
+      "573": 8481,
+      "718": 9017
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7953,
+      "404": 7954,
+      "477": 8478,
+      "573": 8478,
+      "718": 9014
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7977,
+      "404": 7978,
+      "477": 8502,
+      "573": 8502,
+      "718": 9038
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7945,
+      "404": 7946,
+      "477": 8470,
+      "573": 8470,
+      "718": 9006
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7985,
+      "404": 7986,
+      "477": 8510,
+      "573": 8510,
+      "718": 9046
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7986,
+      "404": 7987,
+      "477": 8511,
+      "573": 8511,
+      "718": 9047
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7976,
+      "404": 7977,
+      "477": 8501,
+      "573": 8501,
+      "718": 9037
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7939,
+      "404": 7940,
+      "477": 8464,
+      "573": 8464,
+      "718": 9000
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7996,
+      "4": 3152,
+      "404": 7997,
+      "477": 8521,
+      "573": 8521,
+      "718": 9057
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7987,
+      "4": 3163,
+      "404": 7988,
+      "477": 8512,
+      "573": 8512,
+      "718": 9048
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7963,
+      "404": 7964,
+      "477": 8488,
+      "573": 8488,
+      "718": 9024
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7959,
+      "404": 7960,
+      "477": 8484,
+      "573": 8484,
+      "718": 9020
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7946,
+      "4": 3159,
+      "404": 7947,
+      "477": 8471,
+      "573": 8471,
+      "718": 9007
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7990,
+      "404": 7991,
+      "477": 8515,
+      "573": 8515,
+      "718": 9051
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7968,
+      "404": 7969,
+      "477": 8493,
+      "573": 8493,
+      "718": 9029
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7955,
+      "404": 7956,
+      "477": 8480,
+      "573": 8480,
+      "718": 9016
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7958,
+      "404": 7959,
+      "477": 8483,
+      "573": 8483,
+      "718": 9019
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7950,
+      "404": 7951,
+      "477": 8475,
+      "573": 8475,
+      "718": 9011
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7951,
+      "404": 7952,
+      "477": 8476,
+      "573": 8476,
+      "718": 9012
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7948,
+      "4": 3155,
+      "404": 7949,
+      "477": 8473,
+      "573": 8473,
+      "718": 9009
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7969,
+      "404": 7970,
+      "477": 8494,
+      "573": 8494,
+      "718": 9030
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7943,
+      "404": 7944,
+      "477": 8468,
+      "573": 8468,
+      "718": 9004
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7991,
+      "404": 7992,
+      "477": 8516,
+      "573": 8516,
+      "718": 9052
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7942,
+      "404": 7943,
+      "477": 8467,
+      "573": 8467,
+      "718": 9003
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7973,
+      "404": 7974,
+      "477": 8498,
+      "573": 8498,
+      "718": 9034
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7972,
+      "404": 7973,
+      "477": 8497,
+      "573": 8497,
+      "718": 9033
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7974,
+      "404": 7975,
+      "477": 8499,
+      "573": 8499,
+      "718": 9035
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7982,
+      "404": 7983,
+      "477": 8507,
+      "573": 8507,
+      "718": 9043
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7979,
+      "404": 7980,
+      "477": 8504,
+      "573": 8504,
+      "718": 9040
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7938,
+      "404": 7939,
+      "477": 8463,
+      "573": 8463,
+      "718": 8999
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7933,
+      "404": 7934,
+      "477": 8458,
+      "573": 8458,
+      "718": 8994
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7970,
+      "404": 7971,
+      "477": 8495,
+      "573": 8495,
+      "718": 9031
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7983,
+      "4": 3162,
+      "404": 7984,
+      "477": 8508,
+      "573": 8508,
+      "718": 9044
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7975,
+      "404": 7976,
+      "477": 8500,
+      "573": 8500,
+      "718": 9036
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7934,
+      "404": 7935,
+      "477": 8459,
+      "573": 8459,
+      "718": 8995
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7957,
+      "404": 7958,
+      "477": 8482,
+      "573": 8482,
+      "718": 9018
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7995,
+      "404": 7996,
+      "477": 8520,
+      "573": 8520,
+      "718": 9056
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7935,
+      "404": 7936,
+      "477": 8460,
+      "573": 8460,
+      "718": 8996
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7964,
+      "4": 3153,
+      "404": 7965,
+      "477": 8489,
+      "573": 8489,
+      "718": 9025
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7952,
+      "404": 7953,
+      "477": 8477,
+      "573": 8477,
+      "718": 9013
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7960,
+      "404": 7961,
+      "477": 8485,
+      "573": 8485,
+      "718": 9021
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7966,
+      "404": 7967,
+      "477": 8491,
+      "573": 8491,
+      "718": 9027
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7980,
+      "4": 3154,
+      "404": 7981,
+      "477": 8505,
+      "573": 8505,
+      "718": 9041
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7936,
+      "404": 7937,
+      "477": 8461,
+      "573": 8461,
+      "718": 8997
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7981,
+      "404": 7982,
+      "477": 8506,
+      "573": 8506,
+      "718": 9042
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7940,
+      "404": 7941,
+      "477": 8465,
+      "573": 8465,
+      "718": 9001
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7994,
+      "4": 3156,
+      "404": 7995,
+      "477": 8519,
+      "573": 8519,
+      "718": 9055
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7988,
+      "4": 3161,
+      "404": 7989,
+      "477": 8513,
+      "573": 8513,
+      "718": 9049
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7989,
+      "404": 7990,
+      "477": 8514,
+      "573": 8514,
+      "718": 9050
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7967,
+      "404": 7968,
+      "477": 8492,
+      "573": 8492,
+      "718": 9028
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7993,
+      "404": 7994,
+      "477": 8518,
+      "573": 8518,
+      "718": 9054
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_door[facing=north,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7937,
+      "404": 7938,
+      "477": 8462,
+      "573": 8462,
+      "718": 8998
+    }
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "name": "minecraft:jungle_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7584,
+      "404": 7585,
+      "477": 8109,
+      "573": 8109,
+      "718": 8645
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7582,
+      "404": 7583,
+      "477": 8107,
+      "573": 8107,
+      "718": 8643
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7604,
+      "404": 7605,
+      "477": 8129,
+      "573": 8129,
+      "718": 8665
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7609,
+      "404": 7610,
+      "477": 8134,
+      "573": 8134,
+      "718": 8670
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7611,
+      "404": 7612,
+      "477": 8136,
+      "573": 8136,
+      "718": 8672
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7595,
+      "404": 7596,
+      "477": 8120,
+      "573": 8120,
+      "718": 8656
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7585,
+      "404": 7586,
+      "477": 8110,
+      "573": 8110,
+      "718": 8646
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7588,
+      "404": 7589,
+      "477": 8113,
+      "573": 8113,
+      "718": 8649
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7597,
+      "404": 7598,
+      "477": 8122,
+      "573": 8122,
+      "718": 8658
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7605,
+      "404": 7606,
+      "477": 8130,
+      "573": 8130,
+      "718": 8666
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7599,
+      "404": 7600,
+      "477": 8124,
+      "573": 8124,
+      "718": 8660
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7586,
+      "404": 7587,
+      "477": 8111,
+      "573": 8111,
+      "718": 8647
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7598,
+      "404": 7599,
+      "477": 8123,
+      "573": 8123,
+      "718": 8659
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7603,
+      "404": 7604,
+      "477": 8128,
+      "573": 8128,
+      "718": 8664
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7606,
+      "404": 7607,
+      "477": 8131,
+      "573": 8131,
+      "718": 8667
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7587,
+      "404": 7588,
+      "477": 8112,
+      "573": 8112,
+      "718": 8648
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7608,
+      "404": 7609,
+      "477": 8133,
+      "573": 8133,
+      "718": 8669
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7583,
+      "404": 7584,
+      "477": 8108,
+      "573": 8108,
+      "718": 8644
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7594,
+      "404": 7595,
+      "477": 8119,
+      "573": 8119,
+      "718": 8655
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7601,
+      "404": 7602,
+      "477": 8126,
+      "573": 8126,
+      "718": 8662
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7591,
+      "404": 7592,
+      "477": 8116,
+      "573": 8116,
+      "718": 8652
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7592,
+      "404": 7593,
+      "477": 8117,
+      "573": 8117,
+      "718": 8653
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7600,
+      "404": 7601,
+      "477": 8125,
+      "573": 8125,
+      "718": 8661
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7581,
+      "404": 7582,
+      "477": 8106,
+      "573": 8106,
+      "718": 8642
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7612,
+      "4": 3040,
+      "404": 7613,
+      "477": 8137,
+      "573": 8137,
+      "718": 8673
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7589,
+      "404": 7590,
+      "477": 8114,
+      "573": 8114,
+      "718": 8650
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7610,
+      "404": 7611,
+      "477": 8135,
+      "573": 8135,
+      "718": 8671
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7590,
+      "404": 7591,
+      "477": 8115,
+      "573": 8115,
+      "718": 8651
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "393": 7607,
+      "404": 7608,
+      "477": 8132,
+      "573": 8132,
+      "718": 8668
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "393": 7602,
+      "404": 7603,
+      "477": 8127,
+      "573": 8127,
+      "718": 8663
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "393": 7593,
+      "404": 7594,
+      "477": 8118,
+      "573": 8118,
+      "718": 8654
+    }
+  },
+  {
+    "name": "minecraft:jungle_fence[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "393": 7596,
+      "404": 7597,
+      "477": 8121,
+      "573": 8121,
+      "718": 8657
+    }
+  }
+]

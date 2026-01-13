@@ -1,0 +1,98 @@
+[
+  {
+    "name": "minecraft:barrel[facing=up,open=true]",
+    "ids": {
+      "477": 11143,
+      "573": 11143,
+      "718": 14799
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=south,open=true]",
+    "ids": {
+      "477": 11139,
+      "573": 11139,
+      "718": 14795
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=west,open=true]",
+    "ids": {
+      "477": 11141,
+      "573": 11141,
+      "718": 14797
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=east,open=false]",
+    "ids": {
+      "477": 11138,
+      "573": 11138,
+      "718": 14794
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=north,open=false]",
+    "ids": {
+      "477": 11136,
+      "573": 11136,
+      "718": 14792
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=down,open=false]",
+    "ids": {
+      "477": 11146,
+      "573": 11146,
+      "718": 14802
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=south,open=false]",
+    "ids": {
+      "477": 11140,
+      "573": 11140,
+      "718": 14796
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=up,open=false]",
+    "ids": {
+      "477": 11144,
+      "573": 11144,
+      "718": 14800
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=down,open=true]",
+    "ids": {
+      "477": 11145,
+      "573": 11145,
+      "718": 14801
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=west,open=false]",
+    "ids": {
+      "477": 11142,
+      "573": 11142,
+      "718": 14798
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=east,open=true]",
+    "ids": {
+      "477": 11137,
+      "573": 11137,
+      "718": 14793
+    }
+  },
+  {
+    "name": "minecraft:barrel[facing=north,open=true]",
+    "ids": {
+      "477": 11135,
+      "573": 11135,
+      "718": 14791
+    }
+  }
+]

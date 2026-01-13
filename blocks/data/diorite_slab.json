@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minecraft:diorite_slab[type=double,waterlogged=true]",
+    "ids": {
+      "477": 10329,
+      "573": 10329,
+      "718": 10865
+    }
+  },
+  {
+    "name": "minecraft:diorite_slab[type=top,waterlogged=false]",
+    "ids": {
+      "477": 10326,
+      "573": 10326,
+      "718": 10862
+    }
+  },
+  {
+    "name": "minecraft:diorite_slab[type=double,waterlogged=false]",
+    "ids": {
+      "477": 10330,
+      "573": 10330,
+      "718": 10866
+    }
+  },
+  {
+    "name": "minecraft:diorite_slab[type=top,waterlogged=true]",
+    "ids": {
+      "477": 10325,
+      "573": 10325,
+      "718": 10861
+    }
+  },
+  {
+    "name": "minecraft:diorite_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "477": 10328,
+      "573": 10328,
+      "718": 10864
+    }
+  },
+  {
+    "name": "minecraft:diorite_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "477": 10327,
+      "573": 10327,
+      "718": 10863
+    }
+  }
+]

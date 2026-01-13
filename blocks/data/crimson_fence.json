@@ -1,0 +1,194 @@
+[
+  {
+    "name": "minecraft:crimson_fence[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15088
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15066
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15090
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15083
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15069
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15072
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15065
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15071
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15086
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15089
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15070
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15077
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15080
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15075
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15085
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15087
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15092
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15079
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15093
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15064
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15091
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15078
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15063
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15067
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15073
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15094
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15068
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15084
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15074
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15081
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15082
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15076
+    }
+  }
+]

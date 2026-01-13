@@ -1,0 +1,386 @@
+[
+  {
+    "name": "minecraft:warped_door[facing=north,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15594
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15603
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15604
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15636
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15638
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15620
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15610
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15625
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15614
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15608
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15643
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15628
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15607
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15649
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15623
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15613
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15597
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15617
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15632
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15595
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15652
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15647
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15619
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15634
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15593
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15637
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15630
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15624
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15598
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15639
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15645
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15642
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15591
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15641
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15621
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15605
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15654
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15651
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15631
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15600
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15596
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15602
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15633
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15618
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15611
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15612
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15601
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15622
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15650
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15653
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15627
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "718": 15629
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "718": 15626
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15615
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15648
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15592
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15616
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "718": 15644
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "718": 15640
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15646
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "718": 15606
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=north,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "718": 15599
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=south,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "718": 15609
+    }
+  },
+  {
+    "name": "minecraft:warped_door[facing=west,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "718": 15635
+    }
+  }
+]

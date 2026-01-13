@@ -1,0 +1,654 @@
+[
+  {
+    "name": "minecraft:iron_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 3348,
+      "4": 1142,
+      "404": 3349,
+      "477": 3852,
+      "573": 3852,
+      "718": 3854
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 3344,
+      "404": 3345,
+      "477": 3848,
+      "573": 3848,
+      "718": 3850
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 3315,
+      "404": 3316,
+      "477": 3819,
+      "573": 3819,
+      "718": 3821
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 3360,
+      "404": 3361,
+      "477": 3864,
+      "573": 3864,
+      "718": 3866
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 3326,
+      "404": 3327,
+      "477": 3830,
+      "573": 3830,
+      "718": 3832
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 3328,
+      "404": 3329,
+      "477": 3832,
+      "573": 3832,
+      "718": 3834
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 3350,
+      "4": 1138,
+      "404": 3351,
+      "477": 3854,
+      "573": 3854,
+      "718": 3856
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 3317,
+      "404": 3318,
+      "477": 3821,
+      "573": 3821,
+      "718": 3823
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 3339,
+      "404": 3340,
+      "477": 3843,
+      "573": 3843,
+      "718": 3845
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 3309,
+      "404": 3310,
+      "477": 3813,
+      "573": 3813,
+      "718": 3815
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 3351,
+      "404": 3352,
+      "477": 3855,
+      "573": 3855,
+      "718": 3857
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 3306,
+      "404": 3307,
+      "477": 3810,
+      "573": 3810,
+      "718": 3812
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 3355,
+      "404": 3356,
+      "477": 3859,
+      "573": 3859,
+      "718": 3861
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 3364,
+      "4": 1140,
+      "404": 3365,
+      "477": 3868,
+      "573": 3868,
+      "718": 3870
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 3314,
+      "404": 3315,
+      "477": 3818,
+      "573": 3818,
+      "718": 3820
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 3334,
+      "4": 1137,
+      "404": 3335,
+      "477": 3838,
+      "573": 3838,
+      "718": 3840
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 3349,
+      "404": 3350,
+      "477": 3853,
+      "573": 3853,
+      "718": 3855
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 3362,
+      "404": 3363,
+      "477": 3866,
+      "573": 3866,
+      "718": 3868
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 3321,
+      "404": 3322,
+      "477": 3825,
+      "573": 3825,
+      "718": 3827
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 3311,
+      "404": 3312,
+      "477": 3815,
+      "573": 3815,
+      "718": 3817
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 3319,
+      "404": 3320,
+      "477": 3823,
+      "573": 3823,
+      "718": 3825
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 3331,
+      "404": 3332,
+      "477": 3835,
+      "573": 3835,
+      "718": 3837
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 3310,
+      "404": 3311,
+      "477": 3814,
+      "573": 3814,
+      "718": 3816
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 3322,
+      "404": 3323,
+      "477": 3826,
+      "573": 3826,
+      "718": 3828
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 3329,
+      "404": 3330,
+      "477": 3833,
+      "573": 3833,
+      "718": 3835
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 3335,
+      "404": 3336,
+      "477": 3839,
+      "573": 3839,
+      "718": 3841
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 3330,
+      "404": 3331,
+      "477": 3834,
+      "573": 3834,
+      "718": 3836
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 3353,
+      "4": 1146,
+      "404": 3354,
+      "477": 3857,
+      "573": 3857,
+      "718": 3859
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 3333,
+      "404": 3334,
+      "477": 3837,
+      "573": 3837,
+      "718": 3839
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 3337,
+      "404": 3338,
+      "477": 3841,
+      "573": 3841,
+      "718": 3843
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 3325,
+      "404": 3326,
+      "477": 3829,
+      "573": 3829,
+      "718": 3831
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 3356,
+      "404": 3357,
+      "477": 3860,
+      "573": 3860,
+      "718": 3862
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 3323,
+      "404": 3324,
+      "477": 3827,
+      "573": 3827,
+      "718": 3829
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 3303,
+      "404": 3304,
+      "477": 3807,
+      "573": 3807,
+      "718": 3809
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 3327,
+      "404": 3328,
+      "477": 3831,
+      "573": 3831,
+      "718": 3833
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 3352,
+      "404": 3353,
+      "477": 3856,
+      "573": 3856,
+      "718": 3858
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 3354,
+      "4": 1144,
+      "404": 3355,
+      "477": 3858,
+      "573": 3858,
+      "718": 3860
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 3341,
+      "404": 3342,
+      "477": 3845,
+      "573": 3845,
+      "718": 3847
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 3320,
+      "404": 3321,
+      "477": 3824,
+      "573": 3824,
+      "718": 3826
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 3336,
+      "404": 3337,
+      "477": 3840,
+      "573": 3840,
+      "718": 3842
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 3358,
+      "4": 1145,
+      "404": 3359,
+      "477": 3862,
+      "573": 3862,
+      "718": 3864
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 3313,
+      "404": 3314,
+      "477": 3817,
+      "573": 3817,
+      "718": 3819
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 3363,
+      "404": 3364,
+      "477": 3867,
+      "573": 3867,
+      "718": 3869
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 3324,
+      "404": 3325,
+      "477": 3828,
+      "573": 3828,
+      "718": 3830
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 3332,
+      "4": 1141,
+      "404": 3333,
+      "477": 3836,
+      "573": 3836,
+      "718": 3838
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 3307,
+      "404": 3308,
+      "477": 3811,
+      "573": 3811,
+      "718": 3813
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 3357,
+      "4": 1147,
+      "404": 3358,
+      "477": 3861,
+      "573": 3861,
+      "718": 3863
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 3338,
+      "404": 3339,
+      "477": 3842,
+      "573": 3842,
+      "718": 3844
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 3347,
+      "404": 3348,
+      "477": 3851,
+      "573": 3851,
+      "718": 3853
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 3304,
+      "404": 3305,
+      "477": 3808,
+      "573": 3808,
+      "718": 3810
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 3340,
+      "404": 3341,
+      "477": 3844,
+      "573": 3844,
+      "718": 3846
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 3342,
+      "404": 3343,
+      "477": 3846,
+      "573": 3846,
+      "718": 3848
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 3359,
+      "404": 3360,
+      "477": 3863,
+      "573": 3863,
+      "718": 3865
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 3312,
+      "404": 3313,
+      "477": 3816,
+      "573": 3816,
+      "718": 3818
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 3345,
+      "404": 3346,
+      "477": 3849,
+      "573": 3849,
+      "718": 3851
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 3361,
+      "404": 3362,
+      "477": 3865,
+      "573": 3865,
+      "718": 3867
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 3308,
+      "404": 3309,
+      "477": 3812,
+      "573": 3812,
+      "718": 3814
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 3346,
+      "404": 3347,
+      "477": 3850,
+      "573": 3850,
+      "718": 3852
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 3316,
+      "4": 1143,
+      "404": 3317,
+      "477": 3820,
+      "573": 3820,
+      "718": 3822
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 3366,
+      "4": 1136,
+      "404": 3367,
+      "477": 3870,
+      "573": 3870,
+      "718": 3872
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=east,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 3365,
+      "404": 3366,
+      "477": 3869,
+      "573": 3869,
+      "718": 3871
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 3318,
+      "4": 1139,
+      "404": 3319,
+      "477": 3822,
+      "573": 3822,
+      "718": 3824
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=north,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 3305,
+      "404": 3306,
+      "477": 3809,
+      "573": 3809,
+      "718": 3811
+    }
+  },
+  {
+    "name": "minecraft:iron_door[facing=west,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 3343,
+      "404": 3344,
+      "477": 3847,
+      "573": 3847,
+      "718": 3849
+    }
+  }
+]

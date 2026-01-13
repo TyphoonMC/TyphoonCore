@@ -1,0 +1,66 @@
+[
+  {
+    "name": "minecraft:dark_oak_wall_sign[facing=north,waterlogged=false]",
+    "ids": {
+      "477": 3774,
+      "573": 3774,
+      "718": 3776
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_wall_sign[facing=north,waterlogged=true]",
+    "ids": {
+      "477": 3773,
+      "573": 3773,
+      "718": 3775
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_wall_sign[facing=west,waterlogged=false]",
+    "ids": {
+      "477": 3778,
+      "573": 3778,
+      "718": 3780
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_wall_sign[facing=south,waterlogged=true]",
+    "ids": {
+      "477": 3775,
+      "573": 3775,
+      "718": 3777
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_wall_sign[facing=south,waterlogged=false]",
+    "ids": {
+      "477": 3776,
+      "573": 3776,
+      "718": 3778
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_wall_sign[facing=east,waterlogged=true]",
+    "ids": {
+      "477": 3779,
+      "573": 3779,
+      "718": 3781
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_wall_sign[facing=west,waterlogged=true]",
+    "ids": {
+      "477": 3777,
+      "573": 3777,
+      "718": 3779
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_wall_sign[facing=east,waterlogged=false]",
+    "ids": {
+      "477": 3780,
+      "573": 3780,
+      "718": 3782
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:attached_pumpkin_stem[facing=west]",
+    "ids": {
+      "393": 4246,
+      "404": 4247,
+      "477": 4750,
+      "573": 4750,
+      "718": 4766
+    }
+  },
+  {
+    "name": "minecraft:attached_pumpkin_stem[facing=east]",
+    "ids": {
+      "393": 4247,
+      "404": 4248,
+      "477": 4751,
+      "573": 4751,
+      "718": 4767
+    }
+  },
+  {
+    "name": "minecraft:attached_pumpkin_stem[facing=north]",
+    "ids": {
+      "393": 4244,
+      "404": 4245,
+      "477": 4748,
+      "573": 4748,
+      "718": 4764
+    }
+  },
+  {
+    "name": "minecraft:attached_pumpkin_stem[facing=south]",
+    "ids": {
+      "393": 4245,
+      "404": 4246,
+      "477": 4749,
+      "573": 4749,
+      "718": 4765
+    }
+  }
+]

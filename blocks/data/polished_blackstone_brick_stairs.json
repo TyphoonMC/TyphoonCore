@@ -1,0 +1,482 @@
+[
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 16285
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 16263
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 16297
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 16331
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 16292
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 16268
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 16284
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 16267
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 16339
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 16265
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 16295
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 16321
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 16313
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 16330
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 16337
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 16329
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 16333
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 16274
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 16282
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 16302
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 16310
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 16298
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 16280
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 16317
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 16312
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 16338
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 16328
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 16269
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 16293
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 16281
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 16318
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 16262
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 16270
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 16279
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 16327
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 16271
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 16325
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 16277
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 16307
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 16319
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 16301
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 16320
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 16260
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "718": 16287
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 16306
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 16264
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 16336
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 16308
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 16315
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 16288
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 16296
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 16266
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 16324
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 16303
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 16283
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 16332
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 16322
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 16275
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 16305
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 16261
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "718": 16278
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 16290
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 16311
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 16294
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 16304
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "718": 16291
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 16323
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "718": 16272
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 16289
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "718": 16300
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 16309
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 16314
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 16276
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 16316
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "718": 16273
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "718": 16334
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "718": 16299
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 16326
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "718": 16335
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "718": 16286
+    }
+  }
+]

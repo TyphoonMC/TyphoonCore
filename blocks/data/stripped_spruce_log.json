@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_spruce_log[axis=x]",
+    "ids": {
+      "393": 90,
+      "404": 90,
+      "477": 90,
+      "573": 90,
+      "718": 91
+    }
+  },
+  {
+    "name": "minecraft:stripped_spruce_log[axis=y]",
+    "ids": {
+      "393": 91,
+      "404": 91,
+      "477": 91,
+      "573": 91,
+      "718": 92
+    }
+  },
+  {
+    "name": "minecraft:stripped_spruce_log[axis=z]",
+    "ids": {
+      "393": 92,
+      "404": 92,
+      "477": 92,
+      "573": 92,
+      "718": 93
+    }
+  }
+]

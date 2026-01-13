@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:respawn_anchor[charges=1]",
+    "ids": {
+      "718": 15830
+    }
+  },
+  {
+    "name": "minecraft:respawn_anchor[charges=2]",
+    "ids": {
+      "718": 15831
+    }
+  },
+  {
+    "name": "minecraft:respawn_anchor[charges=4]",
+    "ids": {
+      "718": 15833
+    }
+  },
+  {
+    "name": "minecraft:respawn_anchor[charges=3]",
+    "ids": {
+      "718": 15832
+    }
+  },
+  {
+    "name": "minecraft:respawn_anchor[charges=0]",
+    "ids": {
+      "718": 15829
+    }
+  }
+]

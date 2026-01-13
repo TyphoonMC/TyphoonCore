@@ -1,0 +1,242 @@
+[
+  {
+    "name": "minecraft:jungle_button[face=ceiling,facing=east,powered=true]",
+    "ids": {
+      "393": 5397,
+      "404": 5398,
+      "477": 5904,
+      "573": 5904,
+      "718": 6440
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=wall,facing=west,powered=false]",
+    "ids": {
+      "393": 5388,
+      "404": 5389,
+      "477": 5895,
+      "573": 5895,
+      "718": 6431
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=wall,facing=east,powered=false]",
+    "ids": {
+      "393": 5390,
+      "404": 5391,
+      "477": 5897,
+      "573": 5897,
+      "718": 6433
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=ceiling,facing=east,powered=false]",
+    "ids": {
+      "393": 5398,
+      "404": 5399,
+      "477": 5905,
+      "573": 5905,
+      "718": 6441
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=wall,facing=west,powered=true]",
+    "ids": {
+      "393": 5387,
+      "404": 5388,
+      "477": 5894,
+      "573": 5894,
+      "718": 6430
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=ceiling,facing=north,powered=true]",
+    "ids": {
+      "393": 5391,
+      "404": 5392,
+      "477": 5898,
+      "573": 5898,
+      "718": 6434
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=floor,facing=west,powered=true]",
+    "ids": {
+      "393": 5379,
+      "404": 5380,
+      "477": 5886,
+      "573": 5886,
+      "718": 6422
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=floor,facing=south,powered=true]",
+    "ids": {
+      "393": 5377,
+      "404": 5378,
+      "477": 5884,
+      "573": 5884,
+      "718": 6420
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=floor,facing=east,powered=true]",
+    "ids": {
+      "393": 5381,
+      "404": 5382,
+      "477": 5888,
+      "573": 5888,
+      "718": 6424
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=floor,facing=south,powered=false]",
+    "ids": {
+      "393": 5378,
+      "404": 5379,
+      "477": 5885,
+      "573": 5885,
+      "718": 6421
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=floor,facing=north,powered=false]",
+    "ids": {
+      "393": 5376,
+      "404": 5377,
+      "477": 5883,
+      "573": 5883,
+      "718": 6419
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=ceiling,facing=west,powered=false]",
+    "ids": {
+      "393": 5396,
+      "404": 5397,
+      "477": 5903,
+      "573": 5903,
+      "718": 6439
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=floor,facing=east,powered=false]",
+    "ids": {
+      "393": 5382,
+      "404": 5383,
+      "477": 5889,
+      "573": 5889,
+      "718": 6425
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=ceiling,facing=north,powered=false]",
+    "ids": {
+      "393": 5392,
+      "404": 5393,
+      "477": 5899,
+      "573": 5899,
+      "718": 6435
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=wall,facing=north,powered=true]",
+    "ids": {
+      "393": 5383,
+      "404": 5384,
+      "477": 5890,
+      "573": 5890,
+      "718": 6426
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=floor,facing=west,powered=false]",
+    "ids": {
+      "393": 5380,
+      "404": 5381,
+      "477": 5887,
+      "573": 5887,
+      "718": 6423
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=ceiling,facing=south,powered=true]",
+    "ids": {
+      "393": 5393,
+      "404": 5394,
+      "477": 5900,
+      "573": 5900,
+      "718": 6436
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=wall,facing=south,powered=false]",
+    "ids": {
+      "393": 5386,
+      "404": 5387,
+      "477": 5893,
+      "573": 5893,
+      "718": 6429
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=wall,facing=south,powered=true]",
+    "ids": {
+      "393": 5385,
+      "404": 5386,
+      "477": 5892,
+      "573": 5892,
+      "718": 6428
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=wall,facing=north,powered=false]",
+    "ids": {
+      "393": 5384,
+      "404": 5385,
+      "477": 5891,
+      "573": 5891,
+      "718": 6427
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=ceiling,facing=south,powered=false]",
+    "ids": {
+      "393": 5394,
+      "404": 5395,
+      "477": 5901,
+      "573": 5901,
+      "718": 6437
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=wall,facing=east,powered=true]",
+    "ids": {
+      "393": 5389,
+      "404": 5390,
+      "477": 5896,
+      "573": 5896,
+      "718": 6432
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=floor,facing=north,powered=true]",
+    "ids": {
+      "393": 5375,
+      "404": 5376,
+      "477": 5882,
+      "573": 5882,
+      "718": 6418
+    }
+  },
+  {
+    "name": "minecraft:jungle_button[face=ceiling,facing=west,powered=true]",
+    "ids": {
+      "393": 5395,
+      "404": 5396,
+      "477": 5902,
+      "573": 5902,
+      "718": 6438
+    }
+  }
+]

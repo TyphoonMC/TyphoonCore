@@ -1,0 +1,38 @@
+[
+  {
+    "name": "minecraft:blackstone_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "718": 16247
+    }
+  },
+  {
+    "name": "minecraft:blackstone_slab[type=top,waterlogged=true]",
+    "ids": {
+      "718": 16244
+    }
+  },
+  {
+    "name": "minecraft:blackstone_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "718": 16246
+    }
+  },
+  {
+    "name": "minecraft:blackstone_slab[type=top,waterlogged=false]",
+    "ids": {
+      "718": 16245
+    }
+  },
+  {
+    "name": "minecraft:blackstone_slab[type=double,waterlogged=false]",
+    "ids": {
+      "718": 16249
+    }
+  },
+  {
+    "name": "minecraft:blackstone_slab[type=double,waterlogged=true]",
+    "ids": {
+      "718": 16248
+    }
+  }
+]

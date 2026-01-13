@@ -1,0 +1,653 @@
+[
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4034,
+      "404": 4035,
+      "477": 4538,
+      "573": 4538,
+      "718": 4552
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4003,
+      "404": 4004,
+      "477": 4507,
+      "573": 4507,
+      "718": 4521
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4048,
+      "4": 1589,
+      "404": 4049,
+      "477": 4552,
+      "573": 4552,
+      "718": 4566
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4031,
+      "404": 4032,
+      "477": 4535,
+      "573": 4535,
+      "718": 4549
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4047,
+      "4": 1588,
+      "404": 4048,
+      "477": 4551,
+      "573": 4551,
+      "718": 4565
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4004,
+      "404": 4005,
+      "477": 4508,
+      "573": 4508,
+      "718": 4522
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4015,
+      "404": 4016,
+      "477": 4519,
+      "573": 4519,
+      "718": 4533
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4042,
+      "404": 4043,
+      "477": 4546,
+      "573": 4546,
+      "718": 4560
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 3989,
+      "404": 3990,
+      "477": 4493,
+      "573": 4493,
+      "718": 4507
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4041,
+      "404": 4042,
+      "477": 4545,
+      "573": 4545,
+      "718": 4559
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4046,
+      "404": 4047,
+      "477": 4550,
+      "573": 4550,
+      "718": 4564
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 3988,
+      "404": 3989,
+      "477": 4492,
+      "573": 4492,
+      "718": 4506
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4012,
+      "404": 4013,
+      "477": 4516,
+      "573": 4516,
+      "718": 4530
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 3991,
+      "404": 3992,
+      "477": 4495,
+      "573": 4495,
+      "718": 4509
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4017,
+      "404": 4018,
+      "477": 4521,
+      "573": 4521,
+      "718": 4535
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=false,south=false,up=true,west=true]",
+    "ids": {
+      "393": 3999,
+      "404": 4000,
+      "477": 4503,
+      "573": 4503,
+      "718": 4517
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4044,
+      "4": 1592,
+      "404": 4045,
+      "477": 4548,
+      "573": 4548,
+      "718": 4562
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4000,
+      "404": 4001,
+      "477": 4504,
+      "573": 4504,
+      "718": 4518
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 3987,
+      "4": 1598,
+      "404": 3988,
+      "477": 4491,
+      "573": 4491,
+      "718": 4505
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4020,
+      "404": 4021,
+      "477": 4524,
+      "573": 4524,
+      "718": 4538
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4033,
+      "404": 4034,
+      "477": 4537,
+      "573": 4537,
+      "718": 4551
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4011,
+      "404": 4012,
+      "477": 4515,
+      "573": 4515,
+      "718": 4529
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4014,
+      "404": 4015,
+      "477": 4518,
+      "573": 4518,
+      "718": 4532
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 3994,
+      "404": 3995,
+      "477": 4498,
+      "573": 4498,
+      "718": 4512
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4013,
+      "404": 4014,
+      "477": 4517,
+      "573": 4517,
+      "718": 4531
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4007,
+      "404": 4008,
+      "477": 4511,
+      "573": 4511,
+      "718": 4525
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4030,
+      "404": 4031,
+      "477": 4534,
+      "573": 4534,
+      "718": 4548
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4038,
+      "404": 4039,
+      "477": 4542,
+      "573": 4542,
+      "718": 4556
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4001,
+      "404": 4002,
+      "477": 4505,
+      "573": 4505,
+      "718": 4519
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 3992,
+      "404": 3993,
+      "477": 4496,
+      "573": 4496,
+      "718": 4510
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 3990,
+      "404": 3991,
+      "477": 4494,
+      "573": 4494,
+      "718": 4508
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4023,
+      "404": 4024,
+      "477": 4527,
+      "573": 4527,
+      "718": 4541
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=false,south=true,up=false,west=false]",
+    "ids": {
+      "393": 3998,
+      "404": 3999,
+      "477": 4502,
+      "573": 4502,
+      "718": 4516
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4026,
+      "404": 4027,
+      "477": 4530,
+      "573": 4530,
+      "718": 4544
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 3996,
+      "404": 3997,
+      "477": 4500,
+      "573": 4500,
+      "718": 4514
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4025,
+      "404": 4026,
+      "477": 4529,
+      "573": 4529,
+      "718": 4543
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 3995,
+      "404": 3996,
+      "477": 4499,
+      "573": 4499,
+      "718": 4513
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4021,
+      "404": 4022,
+      "477": 4525,
+      "573": 4525,
+      "718": 4539
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=true,south=false,up=true,west=true]",
+    "ids": {
+      "393": 4039,
+      "4": 1585,
+      "404": 4040,
+      "477": 4543,
+      "573": 4543,
+      "718": 4557
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4043,
+      "4": 1591,
+      "404": 4044,
+      "477": 4547,
+      "573": 4547,
+      "718": 4561
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4049,
+      "404": 4050,
+      "477": 4553,
+      "573": 4553,
+      "718": 4567
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4008,
+      "404": 4009,
+      "477": 4512,
+      "573": 4512,
+      "718": 4526
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4040,
+      "4": 1586,
+      "404": 4041,
+      "477": 4544,
+      "573": 4544,
+      "718": 4558
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4022,
+      "404": 4023,
+      "477": 4526,
+      "573": 4526,
+      "718": 4540
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=true,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4036,
+      "404": 4037,
+      "477": 4540,
+      "573": 4540,
+      "718": 4554
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4002,
+      "404": 4003,
+      "477": 4506,
+      "573": 4506,
+      "718": 4520
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4050,
+      "4": 1597,
+      "404": 4051,
+      "477": 4554,
+      "573": 4554,
+      "718": 4568
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4029,
+      "404": 4030,
+      "477": 4533,
+      "573": 4533,
+      "718": 4547
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4035,
+      "404": 4036,
+      "477": 4539,
+      "573": 4539,
+      "718": 4553
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4032,
+      "4": 1590,
+      "404": 4033,
+      "477": 4536,
+      "573": 4536,
+      "718": 4550
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4005,
+      "404": 4006,
+      "477": 4509,
+      "573": 4509,
+      "718": 4523
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=false,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4016,
+      "404": 4017,
+      "477": 4520,
+      "573": 4520,
+      "718": 4534
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4045,
+      "404": 4046,
+      "477": 4549,
+      "573": 4549,
+      "718": 4563
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=true,south=true,up=false,west=false]",
+    "ids": {
+      "393": 4006,
+      "404": 4007,
+      "477": 4510,
+      "573": 4510,
+      "718": 4524
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=true,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4019,
+      "404": 4020,
+      "477": 4523,
+      "573": 4523,
+      "718": 4537
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=true,south=false,up=true,west=false]",
+    "ids": {
+      "393": 4024,
+      "4": 1587,
+      "404": 4025,
+      "477": 4528,
+      "573": 4528,
+      "718": 4542
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=false,south=true,up=false,west=true]",
+    "ids": {
+      "393": 3997,
+      "404": 3998,
+      "477": 4501,
+      "573": 4501,
+      "718": 4515
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=false,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4018,
+      "404": 4019,
+      "477": 4522,
+      "573": 4522,
+      "718": 4536
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 4009,
+      "404": 4010,
+      "477": 4513,
+      "573": 4513,
+      "718": 4527
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=false,north=true,south=true,up=false,west=true]",
+    "ids": {
+      "393": 4037,
+      "404": 4038,
+      "477": 4541,
+      "573": 4541,
+      "718": 4555
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=true,north=true,south=false,up=false,west=true]",
+    "ids": {
+      "393": 3993,
+      "404": 3994,
+      "477": 4497,
+      "573": 4497,
+      "718": 4511
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=true,east=false,north=true,south=false,up=false,west=false]",
+    "ids": {
+      "393": 4010,
+      "404": 4011,
+      "477": 4514,
+      "573": 4514,
+      "718": 4528
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=false,south=true,up=true,west=true]",
+    "ids": {
+      "393": 4027,
+      "404": 4028,
+      "477": 4531,
+      "573": 4531,
+      "718": 4545
+    }
+  },
+  {
+    "name": "minecraft:brown_mushroom_block[down=false,east=true,north=false,south=true,up=true,west=false]",
+    "ids": {
+      "393": 4028,
+      "4": 1593,
+      "404": 4029,
+      "477": 4532,
+      "573": 4532,
+      "718": 4546
+    }
+  }
+]

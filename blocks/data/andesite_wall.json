@@ -1,0 +1,2394 @@
+[
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13317
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10839,
+      "573": 10839
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13165
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10808,
+      "573": 10808
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13377
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10779,
+      "573": 10779
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13258
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13309
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13306
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13396
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13278
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13253
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13350
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13162
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13365
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13198
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13280
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13294
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13183
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13367
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13226
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13266
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13204
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13208
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13250
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13442
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13216
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13176
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10805,
+      "573": 10805
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13424
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13441
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10789,
+      "573": 10789
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13285
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13179
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13333
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13140
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13373
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13326
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13292
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13254
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13420
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10833,
+      "573": 10833
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13282
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13397
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10780,
+      "573": 10780
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13180
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13240
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10784,
+      "573": 10784
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13297
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13349
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13372
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13410
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13222
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13231
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13327
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13157
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13243
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10834,
+      "573": 10834
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13219
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13184
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13304
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13412
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13141
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13298
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13435
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13230
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13199
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13207
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10781,
+      "573": 10781
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13314
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10790,
+      "573": 10790
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13325
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13172
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13257
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13421
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10816,
+      "573": 10816
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13300
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13197
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13338
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13362
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13411
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13203
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10793,
+      "573": 10793
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13247
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13425
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13287
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10829,
+      "573": 10829
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13417
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13335
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10820,
+      "573": 10820
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13426
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13390
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13383
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13400
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13366
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13290
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13316
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13416
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13234
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13146
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13293
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13302
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13310
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13150
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13321
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13220
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13337
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13433
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10810,
+      "573": 10810
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13211
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10798,
+      "573": 10798
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13434
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13245
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10840,
+      "573": 10840
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13289
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13399
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13221
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13415
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13283
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10795,
+      "573": 10795
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13345
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13318
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13437
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13227
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13153
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13344
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13431
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13284
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13235
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13369
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13322
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13449
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13380
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13439
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13445
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13195
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13393
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13274
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13214
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13291
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13223
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13385
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13413
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13370
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13237
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13261
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13430
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13394
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10831,
+      "573": 10831
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13401
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13167
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13149
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10838,
+      "573": 10838
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13229
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10799,
+      "573": 10799
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13233
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10825,
+      "573": 10825
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13328
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13451
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13151
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13177
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13443
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13307
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10803,
+      "573": 10803
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13446
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13200
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13427
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13271
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10841,
+      "573": 10841
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10787,
+      "573": 10787
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13206
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13264
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13201
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10819,
+      "573": 10819
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13174
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13352
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13190
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13169
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13456
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10817,
+      "573": 10817
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13418
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13398
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10792,
+      "573": 10792
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10815,
+      "573": 10815
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13364
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13209
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13269
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13168
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13164
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13348
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10837,
+      "573": 10837
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13276
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10821,
+      "573": 10821
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13263
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10828,
+      "573": 10828
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13329
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13286
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13295
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13147
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13356
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13299
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13178
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13453
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13323
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13166
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10812,
+      "573": 10812
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13187
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13419
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13382
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13384
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13423
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13340
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13156
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13265
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13205
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13215
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10796,
+      "573": 10796
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13244
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13296
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13181
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13447
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13371
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13217
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13357
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13438
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13255
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10809,
+      "573": 10809
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13395
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10823,
+      "573": 10823
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13376
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13202
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13347
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10783,
+      "573": 10783
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13248
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13210
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13194
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13155
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13450
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13225
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13267
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13218
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13270
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13186
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13152
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13406
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10830,
+      "573": 10830
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13351
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13251
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10800,
+      "573": 10800
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13381
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13241
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13330
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13135
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13428
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13242
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13392
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13154
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13368
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13288
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10818,
+      "573": 10818
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13414
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13236
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13163
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13389
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13378
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13256
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13239
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13405
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13171
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13185
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13404
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13191
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13275
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13301
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13448
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10827,
+      "573": 10827
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13193
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13148
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13429
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13320
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13232
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13331
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13391
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13360
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13379
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10832,
+      "573": 10832
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13342
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10806,
+      "573": 10806
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10826,
+      "573": 10826
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13334
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13279
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13142
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13182
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10842,
+      "573": 10842
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13408
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13374
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13224
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13375
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13145
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13402
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13346
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13138
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13144
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13159
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13252
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13432
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13324
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10822,
+      "573": 10822
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13358
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13422
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13387
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13139
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13305
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13407
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13188
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10814,
+      "573": 10814
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13336
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10788,
+      "573": 10788
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13173
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10811,
+      "573": 10811
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13189
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13332
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13175
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13409
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13228
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10802,
+      "573": 10802
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10785,
+      "573": 10785
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13454
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13312
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13143
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13403
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10804,
+      "573": 10804
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13355
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13238
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13137
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13260
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13308
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13213
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13361
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13268
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10797,
+      "573": 10797
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13158
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13196
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10801,
+      "573": 10801
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13341
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10836,
+      "573": 10836
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13455
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13160
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13343
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13315
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13281
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13249
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13354
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10791,
+      "573": 10791
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13388
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13353
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13457
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13311
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13212
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13246
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13273
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13192
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10782,
+      "573": 10782
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13452
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13272
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13363
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10835,
+      "573": 10835
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13262
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13359
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13458
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13170
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13436
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10813,
+      "573": 10813
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13440
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13303
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10824,
+      "573": 10824
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13313
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 13161
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13259
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10786,
+      "573": 10786
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 13444
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13319
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 13339
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10807,
+      "573": 10807
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 13136
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 13386
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 13277
+    }
+  },
+  {
+    "name": "minecraft:andesite_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10794,
+      "573": 10794
+    }
+  }
+]

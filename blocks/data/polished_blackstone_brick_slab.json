@@ -1,0 +1,38 @@
+[
+  {
+    "name": "minecraft:polished_blackstone_brick_slab[type=top,waterlogged=true]",
+    "ids": {
+      "718": 16254
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "718": 16256
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_slab[type=double,waterlogged=false]",
+    "ids": {
+      "718": 16259
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "718": 16257
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_slab[type=double,waterlogged=true]",
+    "ids": {
+      "718": 16258
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_slab[type=top,waterlogged=false]",
+    "ids": {
+      "718": 16255
+    }
+  }
+]

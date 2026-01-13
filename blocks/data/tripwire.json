@@ -1,0 +1,1290 @@
+[
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=false,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4765,
+      "404": 4766,
+      "477": 5269,
+      "573": 5269,
+      "718": 5285
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4872,
+      "404": 4873,
+      "477": 5376,
+      "573": 5376,
+      "718": 5392
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=true,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4761,
+      "404": 4762,
+      "477": 5265,
+      "573": 5265,
+      "718": 5281
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=true,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4808,
+      "404": 4809,
+      "477": 5312,
+      "573": 5312,
+      "718": 5328
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4839,
+      "404": 4840,
+      "477": 5343,
+      "573": 5343,
+      "718": 5359
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4836,
+      "404": 4837,
+      "477": 5340,
+      "573": 5340,
+      "718": 5356
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4824,
+      "404": 4825,
+      "477": 5328,
+      "573": 5328,
+      "718": 5344
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=true,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4805,
+      "404": 4806,
+      "477": 5309,
+      "573": 5309,
+      "718": 5325
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4861,
+      "404": 4862,
+      "477": 5365,
+      "573": 5365,
+      "718": 5381
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4881,
+      "404": 4882,
+      "477": 5385,
+      "573": 5385,
+      "718": 5401
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=true,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4806,
+      "404": 4807,
+      "477": 5310,
+      "573": 5310,
+      "718": 5326
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4870,
+      "404": 4871,
+      "477": 5374,
+      "573": 5374,
+      "718": 5390
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=false,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4769,
+      "404": 4770,
+      "477": 5273,
+      "573": 5273,
+      "718": 5289
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=true,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4759,
+      "404": 4760,
+      "477": 5263,
+      "573": 5263,
+      "718": 5279
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=false,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4768,
+      "404": 4769,
+      "477": 5272,
+      "573": 5272,
+      "718": 5288
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=true,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4772,
+      "404": 4773,
+      "477": 5276,
+      "573": 5276,
+      "718": 5292
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4849,
+      "404": 4850,
+      "477": 5353,
+      "573": 5353,
+      "718": 5369
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4851,
+      "404": 4852,
+      "477": 5355,
+      "573": 5355,
+      "718": 5371
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=true,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4807,
+      "404": 4808,
+      "477": 5311,
+      "573": 5311,
+      "718": 5327
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4844,
+      "404": 4845,
+      "477": 5348,
+      "573": 5348,
+      "718": 5364
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=true,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4787,
+      "404": 4788,
+      "477": 5291,
+      "573": 5291,
+      "718": 5307
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=true,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4804,
+      "404": 4805,
+      "477": 5308,
+      "573": 5308,
+      "718": 5324
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4835,
+      "404": 4836,
+      "477": 5339,
+      "573": 5339,
+      "718": 5355
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4854,
+      "404": 4855,
+      "477": 5358,
+      "573": 5358,
+      "718": 5374
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4875,
+      "404": 4876,
+      "477": 5379,
+      "573": 5379,
+      "718": 5395
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4817,
+      "404": 4818,
+      "477": 5321,
+      "573": 5321,
+      "718": 5337
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4831,
+      "404": 4832,
+      "477": 5335,
+      "573": 5335,
+      "718": 5351
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4813,
+      "404": 4814,
+      "477": 5317,
+      "573": 5317,
+      "718": 5333
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4828,
+      "404": 4829,
+      "477": 5332,
+      "573": 5332,
+      "718": 5348
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4830,
+      "404": 4831,
+      "477": 5334,
+      "573": 5334,
+      "718": 5350
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=true,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4773,
+      "404": 4774,
+      "477": 5277,
+      "573": 5277,
+      "718": 5293
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4866,
+      "404": 4867,
+      "477": 5370,
+      "573": 5370,
+      "718": 5386
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4877,
+      "404": 4878,
+      "477": 5381,
+      "573": 5381,
+      "718": 5397
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4862,
+      "404": 4863,
+      "477": 5366,
+      "573": 5366,
+      "718": 5382
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=true,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4790,
+      "404": 4791,
+      "477": 5294,
+      "573": 5294,
+      "718": 5310
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4786,
+      "4": 2126,
+      "404": 4787,
+      "477": 5290,
+      "573": 5290,
+      "718": 5306
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4785,
+      "404": 4786,
+      "477": 5289,
+      "573": 5289,
+      "718": 5305
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=true,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4791,
+      "404": 4792,
+      "477": 5295,
+      "573": 5295,
+      "718": 5311
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4829,
+      "404": 4830,
+      "477": 5333,
+      "573": 5333,
+      "718": 5349
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=false,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4801,
+      "404": 4802,
+      "477": 5305,
+      "573": 5305,
+      "718": 5321
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4867,
+      "404": 4868,
+      "477": 5371,
+      "573": 5371,
+      "718": 5387
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4879,
+      "404": 4880,
+      "477": 5383,
+      "573": 5383,
+      "718": 5399
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4871,
+      "404": 4872,
+      "477": 5375,
+      "573": 5375,
+      "718": 5391
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=true,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4792,
+      "404": 4793,
+      "477": 5296,
+      "573": 5296,
+      "718": 5312
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=true,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4771,
+      "404": 4772,
+      "477": 5275,
+      "573": 5275,
+      "718": 5291
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4843,
+      "404": 4844,
+      "477": 5347,
+      "573": 5347,
+      "718": 5363
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4845,
+      "404": 4846,
+      "477": 5349,
+      "573": 5349,
+      "718": 5365
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4858,
+      "404": 4859,
+      "477": 5362,
+      "573": 5362,
+      "718": 5378
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=true,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4775,
+      "404": 4776,
+      "477": 5279,
+      "573": 5279,
+      "718": 5295
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=true,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4789,
+      "404": 4790,
+      "477": 5293,
+      "573": 5293,
+      "718": 5309
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=true,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4794,
+      "404": 4795,
+      "477": 5298,
+      "573": 5298,
+      "718": 5314
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=true,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4793,
+      "404": 4794,
+      "477": 5297,
+      "573": 5297,
+      "718": 5313
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4848,
+      "404": 4849,
+      "477": 5352,
+      "573": 5352,
+      "718": 5368
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4860,
+      "404": 4861,
+      "477": 5364,
+      "573": 5364,
+      "718": 5380
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=true,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4778,
+      "404": 4779,
+      "477": 5282,
+      "573": 5282,
+      "718": 5298
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4827,
+      "404": 4828,
+      "477": 5331,
+      "573": 5331,
+      "718": 5347
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=false,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4766,
+      "404": 4767,
+      "477": 5270,
+      "573": 5270,
+      "718": 5286
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4781,
+      "404": 4782,
+      "477": 5285,
+      "573": 5285,
+      "718": 5301
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=false,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4800,
+      "404": 4801,
+      "477": 5304,
+      "573": 5304,
+      "718": 5320
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4838,
+      "404": 4839,
+      "477": 5342,
+      "573": 5342,
+      "718": 5358
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4880,
+      "404": 4881,
+      "477": 5384,
+      "573": 5384,
+      "718": 5400
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=true,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4788,
+      "404": 4789,
+      "477": 5292,
+      "573": 5292,
+      "718": 5308
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4784,
+      "404": 4785,
+      "477": 5288,
+      "573": 5288,
+      "718": 5304
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4816,
+      "404": 4817,
+      "477": 5320,
+      "573": 5320,
+      "718": 5336
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4812,
+      "404": 4813,
+      "477": 5316,
+      "573": 5316,
+      "718": 5332
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4780,
+      "404": 4781,
+      "477": 5284,
+      "573": 5284,
+      "718": 5300
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4859,
+      "404": 4860,
+      "477": 5363,
+      "573": 5363,
+      "718": 5379
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4783,
+      "404": 4784,
+      "477": 5287,
+      "573": 5287,
+      "718": 5303
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4876,
+      "404": 4877,
+      "477": 5380,
+      "573": 5380,
+      "718": 5396
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4865,
+      "404": 4866,
+      "477": 5369,
+      "573": 5369,
+      "718": 5385
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4857,
+      "404": 4858,
+      "477": 5361,
+      "573": 5361,
+      "718": 5377
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=false,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4797,
+      "404": 4798,
+      "477": 5301,
+      "573": 5301,
+      "718": 5317
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4820,
+      "404": 4821,
+      "477": 5324,
+      "573": 5324,
+      "718": 5340
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4822,
+      "404": 4823,
+      "477": 5326,
+      "573": 5326,
+      "718": 5342
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4833,
+      "404": 4834,
+      "477": 5337,
+      "573": 5337,
+      "718": 5353
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=false,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4767,
+      "404": 4768,
+      "477": 5271,
+      "573": 5271,
+      "718": 5287
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4863,
+      "404": 4864,
+      "477": 5367,
+      "573": 5367,
+      "718": 5383
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=true,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4756,
+      "404": 4757,
+      "477": 5260,
+      "573": 5260,
+      "718": 5276
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4782,
+      "4": 2125,
+      "404": 4783,
+      "477": 5286,
+      "573": 5286,
+      "718": 5302
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4814,
+      "4": 2117,
+      "404": 4815,
+      "477": 5318,
+      "573": 5318,
+      "718": 5334
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=true,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4757,
+      "404": 4758,
+      "477": 5261,
+      "573": 5261,
+      "718": 5277
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4868,
+      "404": 4869,
+      "477": 5372,
+      "573": 5372,
+      "718": 5388
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4850,
+      "4": 2122,
+      "404": 4851,
+      "477": 5354,
+      "573": 5354,
+      "718": 5370
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4840,
+      "404": 4841,
+      "477": 5344,
+      "573": 5344,
+      "718": 5360
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=false,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4799,
+      "404": 4800,
+      "477": 5303,
+      "573": 5303,
+      "718": 5319
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=false,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4798,
+      "404": 4799,
+      "477": 5302,
+      "573": 5302,
+      "718": 5318
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=true,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4803,
+      "404": 4804,
+      "477": 5307,
+      "573": 5307,
+      "718": 5323
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=false,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4796,
+      "404": 4797,
+      "477": 5300,
+      "573": 5300,
+      "718": 5316
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=true,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4776,
+      "404": 4777,
+      "477": 5280,
+      "573": 5280,
+      "718": 5296
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4846,
+      "4": 2123,
+      "404": 4847,
+      "477": 5350,
+      "573": 5350,
+      "718": 5366
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=true,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4809,
+      "404": 4810,
+      "477": 5313,
+      "573": 5313,
+      "718": 5329
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4811,
+      "404": 4812,
+      "477": 5315,
+      "573": 5315,
+      "718": 5331
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4815,
+      "404": 4816,
+      "477": 5319,
+      "573": 5319,
+      "718": 5335
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=false,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4802,
+      "404": 4803,
+      "477": 5306,
+      "573": 5306,
+      "718": 5322
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=true,north=false,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4795,
+      "404": 4796,
+      "477": 5299,
+      "573": 5299,
+      "718": 5315
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4821,
+      "404": 4822,
+      "477": 5325,
+      "573": 5325,
+      "718": 5341
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4873,
+      "404": 4874,
+      "477": 5377,
+      "573": 5377,
+      "718": 5393
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=true,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4777,
+      "404": 4778,
+      "477": 5281,
+      "573": 5281,
+      "718": 5297
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=true,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4755,
+      "404": 4756,
+      "477": 5259,
+      "573": 5259,
+      "718": 5275
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4855,
+      "404": 4856,
+      "477": 5359,
+      "573": 5359,
+      "718": 5375
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=false,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4770,
+      "404": 4771,
+      "477": 5274,
+      "573": 5274,
+      "718": 5290
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4841,
+      "404": 4842,
+      "477": 5345,
+      "573": 5345,
+      "718": 5361
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=true,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4762,
+      "404": 4763,
+      "477": 5266,
+      "573": 5266,
+      "718": 5282
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4852,
+      "404": 4853,
+      "477": 5356,
+      "573": 5356,
+      "718": 5372
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=true,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4760,
+      "404": 4761,
+      "477": 5264,
+      "573": 5264,
+      "718": 5280
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4847,
+      "404": 4848,
+      "477": 5351,
+      "573": 5351,
+      "718": 5367
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4779,
+      "404": 4780,
+      "477": 5283,
+      "573": 5283,
+      "718": 5299
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4869,
+      "404": 4870,
+      "477": 5373,
+      "573": 5373,
+      "718": 5389
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4874,
+      "404": 4875,
+      "477": 5378,
+      "573": 5378,
+      "718": 5394
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=false,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4763,
+      "404": 4764,
+      "477": 5267,
+      "573": 5267,
+      "718": 5283
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=false,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4864,
+      "404": 4865,
+      "477": 5368,
+      "573": 5368,
+      "718": 5384
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=false,powered=true,south=true,west=false]",
+    "ids": {
+      "393": 4764,
+      "404": 4765,
+      "477": 5268,
+      "573": 5268,
+      "718": 5284
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=true,south=true,west=true]",
+    "ids": {
+      "393": 4819,
+      "404": 4820,
+      "477": 5323,
+      "573": 5323,
+      "718": 5339
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=true,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4774,
+      "404": 4775,
+      "477": 5278,
+      "573": 5278,
+      "718": 5294
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4834,
+      "404": 4835,
+      "477": 5338,
+      "573": 5338,
+      "718": 5354
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=false,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4832,
+      "404": 4833,
+      "477": 5336,
+      "573": 5336,
+      "718": 5352
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=true,east=true,north=true,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4758,
+      "404": 4759,
+      "477": 5262,
+      "573": 5262,
+      "718": 5278
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=false,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4818,
+      "4": 2116,
+      "404": 4819,
+      "477": 5322,
+      "573": 5322,
+      "718": 5338
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=false]",
+    "ids": {
+      "393": 4878,
+      "4": 2115,
+      "404": 4879,
+      "477": 5382,
+      "573": 5382,
+      "718": 5398
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4853,
+      "404": 4854,
+      "477": 5357,
+      "573": 5357,
+      "718": 5373
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4842,
+      "404": 4843,
+      "477": 5346,
+      "573": 5346,
+      "718": 5362
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=false,south=true,west=true]",
+    "ids": {
+      "393": 4823,
+      "404": 4824,
+      "477": 5327,
+      "573": 5327,
+      "718": 5343
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=true,north=true,powered=false,south=true,west=false]",
+    "ids": {
+      "393": 4856,
+      "404": 4857,
+      "477": 5360,
+      "573": 5360,
+      "718": 5376
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4882,
+      "4": 2112,
+      "404": 4883,
+      "477": 5386,
+      "573": 5386,
+      "718": 5402
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=true,south=false,west=true]",
+    "ids": {
+      "393": 4837,
+      "404": 4838,
+      "477": 5341,
+      "573": 5341,
+      "718": 5357
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=false,south=false,west=true]",
+    "ids": {
+      "393": 4825,
+      "404": 4826,
+      "477": 5329,
+      "573": 5329,
+      "718": 5345
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4826,
+      "404": 4827,
+      "477": 5330,
+      "573": 5330,
+      "718": 5346
+    }
+  },
+  {
+    "name": "minecraft:tripwire[attached=true,disarmed=false,east=false,north=true,powered=false,south=false,west=false]",
+    "ids": {
+      "393": 4810,
+      "404": 4811,
+      "477": 5314,
+      "573": 5314,
+      "718": 5330
+    }
+  }
+]

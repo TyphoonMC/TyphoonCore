@@ -1,0 +1,90 @@
+[
+  {
+    "name": "minecraft:redstone_wall_torch[facing=south,lit=true]",
+    "ids": {
+      "393": 3385,
+      "4": 1219,
+      "404": 3386,
+      "477": 3889,
+      "573": 3889,
+      "718": 3891
+    }
+  },
+  {
+    "name": "minecraft:redstone_wall_torch[facing=west,lit=true]",
+    "ids": {
+      "393": 3387,
+      "4": 1218,
+      "404": 3388,
+      "477": 3891,
+      "573": 3891,
+      "718": 3893
+    }
+  },
+  {
+    "name": "minecraft:redstone_wall_torch[facing=north,lit=true]",
+    "ids": {
+      "393": 3383,
+      "4": 1220,
+      "404": 3384,
+      "477": 3887,
+      "573": 3887,
+      "718": 3889
+    }
+  },
+  {
+    "name": "minecraft:redstone_wall_torch[facing=north,lit=false]",
+    "ids": {
+      "393": 3384,
+      "4": 1204,
+      "404": 3385,
+      "477": 3888,
+      "573": 3888,
+      "718": 3890
+    }
+  },
+  {
+    "name": "minecraft:redstone_wall_torch[facing=east,lit=true]",
+    "ids": {
+      "393": 3389,
+      "4": 1217,
+      "404": 3390,
+      "477": 3893,
+      "573": 3893,
+      "718": 3895
+    }
+  },
+  {
+    "name": "minecraft:redstone_wall_torch[facing=east,lit=false]",
+    "ids": {
+      "393": 3390,
+      "4": 1201,
+      "404": 3391,
+      "477": 3894,
+      "573": 3894,
+      "718": 3896
+    }
+  },
+  {
+    "name": "minecraft:redstone_wall_torch[facing=west,lit=false]",
+    "ids": {
+      "393": 3388,
+      "4": 1202,
+      "404": 3389,
+      "477": 3892,
+      "573": 3892,
+      "718": 3894
+    }
+  },
+  {
+    "name": "minecraft:redstone_wall_torch[facing=south,lit=false]",
+    "ids": {
+      "393": 3386,
+      "4": 1203,
+      "404": 3387,
+      "477": 3890,
+      "573": 3890,
+      "718": 3892
+    }
+  }
+]

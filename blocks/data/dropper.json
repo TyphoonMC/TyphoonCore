@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:dropper[facing=west,triggered=false]",
+    "ids": {
+      "393": 5799,
+      "4": 2532,
+      "404": 5800,
+      "477": 6306,
+      "573": 6306,
+      "718": 6842
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=north,triggered=false]",
+    "ids": {
+      "393": 5793,
+      "4": 2530,
+      "404": 5794,
+      "477": 6300,
+      "573": 6300,
+      "718": 6836
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=south,triggered=false]",
+    "ids": {
+      "393": 5797,
+      "4": 2531,
+      "404": 5798,
+      "477": 6304,
+      "573": 6304,
+      "718": 6840
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=up,triggered=false]",
+    "ids": {
+      "393": 5801,
+      "4": 2529,
+      "404": 5802,
+      "477": 6308,
+      "573": 6308,
+      "718": 6844
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=down,triggered=false]",
+    "ids": {
+      "393": 5803,
+      "4": 2528,
+      "404": 5804,
+      "477": 6310,
+      "573": 6310,
+      "718": 6846
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=down,triggered=true]",
+    "ids": {
+      "393": 5802,
+      "4": 2536,
+      "404": 5803,
+      "477": 6309,
+      "573": 6309,
+      "718": 6845
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=north,triggered=true]",
+    "ids": {
+      "393": 5792,
+      "4": 2538,
+      "404": 5793,
+      "477": 6299,
+      "573": 6299,
+      "718": 6835
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=west,triggered=true]",
+    "ids": {
+      "393": 5798,
+      "4": 2540,
+      "404": 5799,
+      "477": 6305,
+      "573": 6305,
+      "718": 6841
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=up,triggered=true]",
+    "ids": {
+      "393": 5800,
+      "4": 2537,
+      "404": 5801,
+      "477": 6307,
+      "573": 6307,
+      "718": 6843
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=east,triggered=false]",
+    "ids": {
+      "393": 5795,
+      "4": 2533,
+      "404": 5796,
+      "477": 6302,
+      "573": 6302,
+      "718": 6838
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=east,triggered=true]",
+    "ids": {
+      "393": 5794,
+      "4": 2541,
+      "404": 5795,
+      "477": 6301,
+      "573": 6301,
+      "718": 6837
+    }
+  },
+  {
+    "name": "minecraft:dropper[facing=south,triggered=true]",
+    "ids": {
+      "393": 5796,
+      "4": 2539,
+      "404": 5797,
+      "477": 6303,
+      "573": 6303,
+      "718": 6839
+    }
+  }
+]

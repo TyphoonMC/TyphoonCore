@@ -3,13 +3,14 @@ package typhoon
 import (
 	"bytes"
 	"errors"
+	"os"
+
 	blocks2 "github.com/TyphoonMC/TyphoonCore/blocks"
 	"github.com/seebs/nbt"
-	"io/ioutil"
 )
 
 func LoadSchematic(file string) (*Map, error) {
-	dat, err := ioutil.ReadFile(file)
+	dat, err := os.ReadFile(file)
 	if err != nil {
 		return nil, err
 	}
@@ -36,7 +37,7 @@ func LoadSchematic(file string) (*Map, error) {
 	length := int(c["Length"].(nbt.Short))
 
 	m := &Map{
-		Location{0, 0, 0},
+		Location{X: 0, Y: 0, Z: 0},
 		END,
 		make([]*Chunk, 0),
 	}

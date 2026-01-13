@@ -1,0 +1,2394 @@
+[
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12158
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11992
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12135
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11995
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11967
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11848
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11842
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12077
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10524,
+      "573": 10524
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12010
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11867
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12063
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10535,
+      "573": 10535
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12126
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11895
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11986
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11954
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12109
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10578,
+      "573": 10578
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12005
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12081
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11948
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11870
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12033
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11931
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12087
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11961
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12006
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12060
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12120
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12108
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11932
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11859
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12020
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10543,
+      "573": 10543
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11951
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11888
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11976
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11939
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12025
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12090
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10541,
+      "573": 10541
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10525,
+      "573": 10525
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11943
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10566,
+      "573": 10566
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10569,
+      "573": 10569
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11904
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11960
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12162
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10548,
+      "573": 10548
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11839
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11962
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12150
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12007
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10549,
+      "573": 10549
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10551,
+      "573": 10551
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11942
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12021
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11882
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11914
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10527,
+      "573": 10527
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11983
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10528,
+      "573": 10528
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11912
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12002
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11854
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12018
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12123
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11950
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11973
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12092
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11883
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12107
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11999
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12110
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12147
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12149
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12136
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12094
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11885
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10558,
+      "573": 10558
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12070
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11998
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12125
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11890
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11884
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11959
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10532,
+      "573": 10532
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12031
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12045
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11947
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11896
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12142
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12024
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10544,
+      "573": 10544
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11921
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10545,
+      "573": 10545
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11917
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11908
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11900
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11850
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11936
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11911
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12055
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11930
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10568,
+      "573": 10568
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11906
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12141
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11937
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11938
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11858
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12106
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12004
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12085
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10563,
+      "573": 10563
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11972
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10579,
+      "573": 10579
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12043
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11949
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10552,
+      "573": 10552
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10575,
+      "573": 10575
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12089
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10531,
+      "573": 10531
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10559,
+      "573": 10559
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10557,
+      "573": 10557
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12151
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12065
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12105
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12064
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11988
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11953
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12061
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12129
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12012
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12030
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12137
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11982
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12122
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11920
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12068
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12139
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12084
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11996
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12022
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12133
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12144
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12023
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11898
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11863
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10539,
+      "573": 10539
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11866
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12096
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11975
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12051
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12154
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12072
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12073
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11871
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11952
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11887
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12124
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10554,
+      "573": 10554
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12053
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12159
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11844
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12058
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12047
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11929
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12079
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11934
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11857
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11847
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12036
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12016
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10538,
+      "573": 10538
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11856
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11872
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12054
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12131
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11971
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12130
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11862
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11905
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=false,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10547,
+      "573": 10547
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12032
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11977
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10586,
+      "573": 10586
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12001
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11946
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11956
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12044
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12097
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12098
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12019
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11974
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12000
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10550,
+      "573": 10550
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10553,
+      "573": 10553
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12143
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12076
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12074
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11902
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12134
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12100
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10533,
+      "573": 10533
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12066
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10536,
+      "573": 10536
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10576,
+      "573": 10576
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12056
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12118
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11916
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10537,
+      "573": 10537
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=false,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10585,
+      "573": 10585
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12121
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11901
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11925
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12071
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12115
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11864
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12011
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12015
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12145
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12146
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11881
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11853
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12152
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12014
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12095
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11919
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11990
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11970
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12027
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11987
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10526,
+      "573": 10526
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12041
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10584,
+      "573": 10584
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11892
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11994
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11915
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12059
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11965
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11922
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=false,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10570,
+      "573": 10570
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11852
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11993
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11841
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11918
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12062
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12148
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12103
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11893
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12050
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12111
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11877
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11910
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12026
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12003
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12091
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11880
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12128
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10542,
+      "573": 10542
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10571,
+      "573": 10571
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10583,
+      "573": 10583
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12040
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12067
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11843
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12119
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10546,
+      "573": 10546
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11966
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12057
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11913
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11846
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10572,
+      "573": 10572
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11963
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11940
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11978
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12035
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12038
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12029
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12114
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10573,
+      "573": 10573
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=false,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10540,
+      "573": 10540
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11935
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11897
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10561,
+      "573": 10561
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11928
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11989
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11964
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11969
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=true,up=false,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10560,
+      "573": 10560
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11889
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12104
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10565,
+      "573": 10565
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11945
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10523,
+      "573": 10523
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10529,
+      "573": 10529
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12048
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=false,up=false,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10567,
+      "573": 10567
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12037
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10582,
+      "573": 10582
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11874
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11944
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10564,
+      "573": 10564
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11886
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=true,up=false,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10577,
+      "573": 10577
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11941
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12046
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12082
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11840
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11861
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=true,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10574,
+      "573": 10574
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11985
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11933
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11980
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12083
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11855
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12156
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12088
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11875
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12093
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10562,
+      "573": 10562
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11926
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12116
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11924
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11865
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12017
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=false,up=true,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10534,
+      "573": 10534
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12086
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12160
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11903
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12075
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12069
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11927
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12049
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11868
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12080
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12034
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11849
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12039
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12140
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=true]",
+    "ids": {
+      "477": 10555,
+      "573": 10555
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=false,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10580,
+      "573": 10580
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12112
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11845
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12153
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12113
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12028
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12101
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11869
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12161
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11878
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12009
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11981
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11991
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11997
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11873
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11984
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12157
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12042
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11955
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11909
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12127
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11876
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11907
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11957
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11891
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11899
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11923
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 11894
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12117
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 11958
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 11979
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 12013
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 12099
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=true,south=true,up=true,waterlogged=true,west=false]",
+    "ids": {
+      "477": 10556,
+      "573": 10556
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 11851
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12132
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 12052
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 11879
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11860
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 12008
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 12155
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 11968
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12078
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=false,north=false,south=false,up=true,waterlogged=false,west=true]",
+    "ids": {
+      "477": 10581,
+      "573": 10581
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12138
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=true,north=true,south=true,up=false,waterlogged=false,west=false]",
+    "ids": {
+      "477": 10530,
+      "573": 10530
+    }
+  },
+  {
+    "name": "minecraft:mossy_stone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 12102
+    }
+  }
+]

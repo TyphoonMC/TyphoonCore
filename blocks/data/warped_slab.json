@@ -1,0 +1,38 @@
+[
+  {
+    "name": "minecraft:warped_slab[type=top,waterlogged=true]",
+    "ids": {
+      "718": 15053
+    }
+  },
+  {
+    "name": "minecraft:warped_slab[type=bottom,waterlogged=true]",
+    "ids": {
+      "718": 15055
+    }
+  },
+  {
+    "name": "minecraft:warped_slab[type=top,waterlogged=false]",
+    "ids": {
+      "718": 15054
+    }
+  },
+  {
+    "name": "minecraft:warped_slab[type=bottom,waterlogged=false]",
+    "ids": {
+      "718": 15056
+    }
+  },
+  {
+    "name": "minecraft:warped_slab[type=double,waterlogged=false]",
+    "ids": {
+      "718": 15058
+    }
+  },
+  {
+    "name": "minecraft:warped_slab[type=double,waterlogged=true]",
+    "ids": {
+      "718": 15057
+    }
+  }
+]

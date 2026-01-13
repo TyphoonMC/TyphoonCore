@@ -1,0 +1,810 @@
+[
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6406,
+      "404": 6407,
+      "477": 6913,
+      "573": 6913,
+      "718": 7449
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6410,
+      "404": 6411,
+      "477": 6917,
+      "573": 6917,
+      "718": 7453
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6338,
+      "404": 6339,
+      "477": 6845,
+      "573": 6845,
+      "718": 7381
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6364,
+      "404": 6365,
+      "477": 6871,
+      "573": 6871,
+      "718": 7407
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6344,
+      "404": 6345,
+      "477": 6851,
+      "573": 6851,
+      "718": 7387
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6382,
+      "404": 6383,
+      "477": 6889,
+      "573": 6889,
+      "718": 7425
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6402,
+      "404": 6403,
+      "477": 6909,
+      "573": 6909,
+      "718": 7445
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6359,
+      "404": 6360,
+      "477": 6866,
+      "573": 6866,
+      "718": 7402
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6339,
+      "404": 6340,
+      "477": 6846,
+      "573": 6846,
+      "718": 7382
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6393,
+      "4": 2612,
+      "404": 6394,
+      "477": 6900,
+      "573": 6900,
+      "718": 7436
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6365,
+      "404": 6366,
+      "477": 6872,
+      "573": 6872,
+      "718": 7408
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6334,
+      "404": 6335,
+      "477": 6841,
+      "573": 6841,
+      "718": 7377
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6358,
+      "404": 6359,
+      "477": 6865,
+      "573": 6865,
+      "718": 7401
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6396,
+      "404": 6397,
+      "477": 6903,
+      "573": 6903,
+      "718": 7439
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6363,
+      "4": 2610,
+      "404": 6364,
+      "477": 6870,
+      "573": 6870,
+      "718": 7406
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6355,
+      "404": 6356,
+      "477": 6862,
+      "573": 6862,
+      "718": 7398
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6366,
+      "404": 6367,
+      "477": 6873,
+      "573": 6873,
+      "718": 7409
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6381,
+      "404": 6382,
+      "477": 6888,
+      "573": 6888,
+      "718": 7424
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6370,
+      "404": 6371,
+      "477": 6877,
+      "573": 6877,
+      "718": 7413
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6385,
+      "404": 6386,
+      "477": 6892,
+      "573": 6892,
+      "718": 7428
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6374,
+      "404": 6375,
+      "477": 6881,
+      "573": 6881,
+      "718": 7417
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6335,
+      "404": 6336,
+      "477": 6842,
+      "573": 6842,
+      "718": 7378
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6336,
+      "404": 6337,
+      "477": 6843,
+      "573": 6843,
+      "718": 7379
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6356,
+      "404": 6357,
+      "477": 6863,
+      "573": 6863,
+      "718": 7399
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6340,
+      "404": 6341,
+      "477": 6847,
+      "573": 6847,
+      "718": 7383
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6360,
+      "404": 6361,
+      "477": 6867,
+      "573": 6867,
+      "718": 7403
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6394,
+      "404": 6395,
+      "477": 6901,
+      "573": 6901,
+      "718": 7437
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6397,
+      "404": 6398,
+      "477": 6904,
+      "573": 6904,
+      "718": 7440
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6353,
+      "4": 2614,
+      "404": 6354,
+      "477": 6860,
+      "573": 6860,
+      "718": 7396
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6333,
+      "4": 2615,
+      "404": 6334,
+      "477": 6840,
+      "573": 6840,
+      "718": 7376
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6351,
+      "404": 6352,
+      "477": 6858,
+      "573": 6858,
+      "718": 7394
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6367,
+      "404": 6368,
+      "477": 6874,
+      "573": 6874,
+      "718": 7410
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6407,
+      "404": 6408,
+      "477": 6914,
+      "573": 6914,
+      "718": 7450
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6408,
+      "404": 6409,
+      "477": 6915,
+      "573": 6915,
+      "718": 7451
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6357,
+      "404": 6358,
+      "477": 6864,
+      "573": 6864,
+      "718": 7400
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6388,
+      "404": 6389,
+      "477": 6895,
+      "573": 6895,
+      "718": 7431
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6399,
+      "404": 6400,
+      "477": 6906,
+      "573": 6906,
+      "718": 7442
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6342,
+      "404": 6343,
+      "477": 6849,
+      "573": 6849,
+      "718": 7385
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6349,
+      "404": 6350,
+      "477": 6856,
+      "573": 6856,
+      "718": 7392
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6378,
+      "404": 6379,
+      "477": 6885,
+      "573": 6885,
+      "718": 7421
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6332,
+      "404": 6333,
+      "477": 6839,
+      "573": 6839,
+      "718": 7375
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6361,
+      "404": 6362,
+      "477": 6868,
+      "573": 6868,
+      "718": 7404
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6343,
+      "4": 2611,
+      "404": 6344,
+      "477": 6850,
+      "573": 6850,
+      "718": 7386
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6405,
+      "404": 6406,
+      "477": 6912,
+      "573": 6912,
+      "718": 7448
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6371,
+      "404": 6372,
+      "477": 6878,
+      "573": 6878,
+      "718": 7414
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6395,
+      "404": 6396,
+      "477": 6902,
+      "573": 6902,
+      "718": 7438
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6347,
+      "404": 6348,
+      "477": 6854,
+      "573": 6854,
+      "718": 7390
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6398,
+      "404": 6399,
+      "477": 6905,
+      "573": 6905,
+      "718": 7441
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6411,
+      "404": 6412,
+      "477": 6918,
+      "573": 6918,
+      "718": 7454
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6380,
+      "404": 6381,
+      "477": 6887,
+      "573": 6887,
+      "718": 7423
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6392,
+      "404": 6393,
+      "477": 6899,
+      "573": 6899,
+      "718": 7435
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6346,
+      "404": 6347,
+      "477": 6853,
+      "573": 6853,
+      "718": 7389
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6390,
+      "404": 6391,
+      "477": 6897,
+      "573": 6897,
+      "718": 7433
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6341,
+      "404": 6342,
+      "477": 6848,
+      "573": 6848,
+      "718": 7384
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6350,
+      "404": 6351,
+      "477": 6857,
+      "573": 6857,
+      "718": 7393
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6401,
+      "404": 6402,
+      "477": 6908,
+      "573": 6908,
+      "718": 7444
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6386,
+      "404": 6387,
+      "477": 6893,
+      "573": 6893,
+      "718": 7429
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6387,
+      "404": 6388,
+      "477": 6894,
+      "573": 6894,
+      "718": 7430
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6352,
+      "404": 6353,
+      "477": 6859,
+      "573": 6859,
+      "718": 7395
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6368,
+      "404": 6369,
+      "477": 6875,
+      "573": 6875,
+      "718": 7411
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6345,
+      "404": 6346,
+      "477": 6852,
+      "573": 6852,
+      "718": 7388
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6337,
+      "404": 6338,
+      "477": 6844,
+      "573": 6844,
+      "718": 7380
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 6348,
+      "404": 6349,
+      "477": 6855,
+      "573": 6855,
+      "718": 7391
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 6376,
+      "404": 6377,
+      "477": 6883,
+      "573": 6883,
+      "718": 7419
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 6391,
+      "404": 6392,
+      "477": 6898,
+      "573": 6898,
+      "718": 7434
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 6377,
+      "404": 6378,
+      "477": 6884,
+      "573": 6884,
+      "718": 7420
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6383,
+      "4": 2609,
+      "404": 6384,
+      "477": 6890,
+      "573": 6890,
+      "718": 7426
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6409,
+      "404": 6410,
+      "477": 6916,
+      "573": 6916,
+      "718": 7452
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6389,
+      "404": 6390,
+      "477": 6896,
+      "573": 6896,
+      "718": 7432
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6372,
+      "404": 6373,
+      "477": 6879,
+      "573": 6879,
+      "718": 7415
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6373,
+      "4": 2613,
+      "404": 6374,
+      "477": 6880,
+      "573": 6880,
+      "718": 7416
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6369,
+      "404": 6370,
+      "477": 6876,
+      "573": 6876,
+      "718": 7412
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 6400,
+      "404": 6401,
+      "477": 6907,
+      "573": 6907,
+      "718": 7443
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 6403,
+      "4": 2608,
+      "404": 6404,
+      "477": 6910,
+      "573": 6910,
+      "718": 7446
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 6375,
+      "404": 6376,
+      "477": 6882,
+      "573": 6882,
+      "718": 7418
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6384,
+      "404": 6385,
+      "477": 6891,
+      "573": 6891,
+      "718": 7427
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6404,
+      "404": 6405,
+      "477": 6911,
+      "573": 6911,
+      "718": 7447
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 6379,
+      "404": 6380,
+      "477": 6886,
+      "573": 6886,
+      "718": 7422
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 6362,
+      "404": 6363,
+      "477": 6869,
+      "573": 6869,
+      "718": 7405
+    }
+  },
+  {
+    "name": "minecraft:acacia_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 6354,
+      "404": 6355,
+      "477": 6861,
+      "573": 6861,
+      "718": 7397
+    }
+  }
+]

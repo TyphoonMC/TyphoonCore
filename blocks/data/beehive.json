@@ -1,0 +1,170 @@
+[
+  {
+    "name": "minecraft:beehive[facing=east,honey_level=0]",
+    "ids": {
+      "573": 11329,
+      "718": 15818
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=north,honey_level=4]",
+    "ids": {
+      "573": 11315,
+      "718": 15804
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=east,honey_level=1]",
+    "ids": {
+      "573": 11330,
+      "718": 15819
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=south,honey_level=5]",
+    "ids": {
+      "573": 11322,
+      "718": 15811
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=west,honey_level=2]",
+    "ids": {
+      "573": 11325,
+      "718": 15814
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=east,honey_level=5]",
+    "ids": {
+      "573": 11334,
+      "718": 15823
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=north,honey_level=5]",
+    "ids": {
+      "573": 11316,
+      "718": 15805
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=south,honey_level=4]",
+    "ids": {
+      "573": 11321,
+      "718": 15810
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=south,honey_level=3]",
+    "ids": {
+      "573": 11320,
+      "718": 15809
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=north,honey_level=0]",
+    "ids": {
+      "573": 11311,
+      "718": 15800
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=west,honey_level=1]",
+    "ids": {
+      "573": 11324,
+      "718": 15813
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=north,honey_level=1]",
+    "ids": {
+      "573": 11312,
+      "718": 15801
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=east,honey_level=2]",
+    "ids": {
+      "573": 11331,
+      "718": 15820
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=north,honey_level=3]",
+    "ids": {
+      "573": 11314,
+      "718": 15803
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=west,honey_level=5]",
+    "ids": {
+      "573": 11328,
+      "718": 15817
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=south,honey_level=1]",
+    "ids": {
+      "573": 11318,
+      "718": 15807
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=south,honey_level=0]",
+    "ids": {
+      "573": 11317,
+      "718": 15806
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=west,honey_level=4]",
+    "ids": {
+      "573": 11327,
+      "718": 15816
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=east,honey_level=3]",
+    "ids": {
+      "573": 11332,
+      "718": 15821
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=west,honey_level=0]",
+    "ids": {
+      "573": 11323,
+      "718": 15812
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=south,honey_level=2]",
+    "ids": {
+      "573": 11319,
+      "718": 15808
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=east,honey_level=4]",
+    "ids": {
+      "573": 11333,
+      "718": 15822
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=west,honey_level=3]",
+    "ids": {
+      "573": 11326,
+      "718": 15815
+    }
+  },
+  {
+    "name": "minecraft:beehive[facing=north,honey_level=2]",
+    "ids": {
+      "573": 11313,
+      "718": 15802
+    }
+  }
+]

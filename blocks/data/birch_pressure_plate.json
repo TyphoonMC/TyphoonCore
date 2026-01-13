@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:birch_pressure_plate[powered=false]",
+    "ids": {
+      "393": 3372,
+      "404": 3373,
+      "477": 3876,
+      "573": 3876,
+      "718": 3878
+    }
+  },
+  {
+    "name": "minecraft:birch_pressure_plate[powered=true]",
+    "ids": {
+      "393": 3371,
+      "404": 3372,
+      "477": 3875,
+      "573": 3875,
+      "718": 3877
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "name": "minecraft:stone_button[face=floor,facing=north,powered=true]",
+    "ids": {
+      "393": 3391,
+      "4": 1245,
+      "404": 3392,
+      "477": 3895,
+      "573": 3895,
+      "718": 3897
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=wall,facing=north,powered=false]",
+    "ids": {
+      "393": 3400,
+      "4": 1236,
+      "404": 3401,
+      "477": 3904,
+      "573": 3904,
+      "718": 3906
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=ceiling,facing=south,powered=false]",
+    "ids": {
+      "393": 3410,
+      "404": 3411,
+      "477": 3914,
+      "573": 3914,
+      "718": 3916
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=wall,facing=west,powered=false]",
+    "ids": {
+      "393": 3404,
+      "4": 1234,
+      "404": 3405,
+      "477": 3908,
+      "573": 3908,
+      "718": 3910
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=wall,facing=east,powered=false]",
+    "ids": {
+      "393": 3406,
+      "4": 1233,
+      "404": 3407,
+      "477": 3910,
+      "573": 3910,
+      "718": 3912
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=ceiling,facing=north,powered=false]",
+    "ids": {
+      "393": 3408,
+      "4": 1232,
+      "404": 3409,
+      "477": 3912,
+      "573": 3912,
+      "718": 3914
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=wall,facing=west,powered=true]",
+    "ids": {
+      "393": 3403,
+      "4": 1242,
+      "404": 3404,
+      "477": 3907,
+      "573": 3907,
+      "718": 3909
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=floor,facing=north,powered=false]",
+    "ids": {
+      "393": 3392,
+      "4": 1237,
+      "404": 3393,
+      "477": 3896,
+      "573": 3896,
+      "718": 3898
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=floor,facing=west,powered=true]",
+    "ids": {
+      "393": 3395,
+      "404": 3396,
+      "477": 3899,
+      "573": 3899,
+      "718": 3901
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=wall,facing=north,powered=true]",
+    "ids": {
+      "393": 3399,
+      "4": 1244,
+      "404": 3400,
+      "477": 3903,
+      "573": 3903,
+      "718": 3905
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=ceiling,facing=west,powered=true]",
+    "ids": {
+      "393": 3411,
+      "404": 3412,
+      "477": 3915,
+      "573": 3915,
+      "718": 3917
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=wall,facing=south,powered=true]",
+    "ids": {
+      "393": 3401,
+      "4": 1243,
+      "404": 3402,
+      "477": 3905,
+      "573": 3905,
+      "718": 3907
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=wall,facing=east,powered=true]",
+    "ids": {
+      "393": 3405,
+      "4": 1241,
+      "404": 3406,
+      "477": 3909,
+      "573": 3909,
+      "718": 3911
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=ceiling,facing=north,powered=true]",
+    "ids": {
+      "393": 3407,
+      "4": 1240,
+      "404": 3408,
+      "477": 3911,
+      "573": 3911,
+      "718": 3913
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=floor,facing=south,powered=true]",
+    "ids": {
+      "393": 3393,
+      "404": 3394,
+      "477": 3897,
+      "573": 3897,
+      "718": 3899
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=ceiling,facing=south,powered=true]",
+    "ids": {
+      "393": 3409,
+      "404": 3410,
+      "477": 3913,
+      "573": 3913,
+      "718": 3915
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=wall,facing=south,powered=false]",
+    "ids": {
+      "393": 3402,
+      "4": 1235,
+      "404": 3403,
+      "477": 3906,
+      "573": 3906,
+      "718": 3908
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=floor,facing=east,powered=false]",
+    "ids": {
+      "393": 3398,
+      "404": 3399,
+      "477": 3902,
+      "573": 3902,
+      "718": 3904
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=floor,facing=east,powered=true]",
+    "ids": {
+      "393": 3397,
+      "404": 3398,
+      "477": 3901,
+      "573": 3901,
+      "718": 3903
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=floor,facing=south,powered=false]",
+    "ids": {
+      "393": 3394,
+      "404": 3395,
+      "477": 3898,
+      "573": 3898,
+      "718": 3900
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=ceiling,facing=west,powered=false]",
+    "ids": {
+      "393": 3412,
+      "404": 3413,
+      "477": 3916,
+      "573": 3916,
+      "718": 3918
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=ceiling,facing=east,powered=true]",
+    "ids": {
+      "393": 3413,
+      "404": 3414,
+      "477": 3917,
+      "573": 3917,
+      "718": 3919
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=ceiling,facing=east,powered=false]",
+    "ids": {
+      "393": 3414,
+      "404": 3415,
+      "477": 3918,
+      "573": 3918,
+      "718": 3920
+    }
+  },
+  {
+    "name": "minecraft:stone_button[face=floor,facing=west,powered=false]",
+    "ids": {
+      "393": 3396,
+      "404": 3397,
+      "477": 3900,
+      "573": 3900,
+      "718": 3902
+    }
+  }
+]

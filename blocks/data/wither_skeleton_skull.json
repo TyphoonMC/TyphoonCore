@@ -1,0 +1,162 @@
+[
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=10]",
+    "ids": {
+      "393": 5481,
+      "404": 5482,
+      "477": 5984,
+      "573": 5984,
+      "718": 6520
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=3]",
+    "ids": {
+      "393": 5474,
+      "404": 5475,
+      "477": 5977,
+      "573": 5977,
+      "718": 6513
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=5]",
+    "ids": {
+      "393": 5476,
+      "404": 5477,
+      "477": 5979,
+      "573": 5979,
+      "718": 6515
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=14]",
+    "ids": {
+      "393": 5485,
+      "404": 5486,
+      "477": 5988,
+      "573": 5988,
+      "718": 6524
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=8]",
+    "ids": {
+      "393": 5479,
+      "404": 5480,
+      "477": 5982,
+      "573": 5982,
+      "718": 6518
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=15]",
+    "ids": {
+      "393": 5486,
+      "404": 5487,
+      "477": 5989,
+      "573": 5989,
+      "718": 6525
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=12]",
+    "ids": {
+      "393": 5483,
+      "404": 5484,
+      "477": 5986,
+      "573": 5986,
+      "718": 6522
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=4]",
+    "ids": {
+      "393": 5475,
+      "404": 5476,
+      "477": 5978,
+      "573": 5978,
+      "718": 6514
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=6]",
+    "ids": {
+      "393": 5477,
+      "404": 5478,
+      "477": 5980,
+      "573": 5980,
+      "718": 6516
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=9]",
+    "ids": {
+      "393": 5480,
+      "404": 5481,
+      "477": 5983,
+      "573": 5983,
+      "718": 6519
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=1]",
+    "ids": {
+      "393": 5472,
+      "404": 5473,
+      "477": 5975,
+      "573": 5975,
+      "718": 6511
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=13]",
+    "ids": {
+      "393": 5484,
+      "404": 5485,
+      "477": 5987,
+      "573": 5987,
+      "718": 6523
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=7]",
+    "ids": {
+      "393": 5478,
+      "404": 5479,
+      "477": 5981,
+      "573": 5981,
+      "718": 6517
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=0]",
+    "ids": {
+      "393": 5471,
+      "404": 5472,
+      "477": 5974,
+      "573": 5974,
+      "718": 6510
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=2]",
+    "ids": {
+      "393": 5473,
+      "404": 5474,
+      "477": 5976,
+      "573": 5976,
+      "718": 6512
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_skull[rotation=11]",
+    "ids": {
+      "393": 5482,
+      "404": 5483,
+      "477": 5985,
+      "573": 5985,
+      "718": 6521
+    }
+  }
+]

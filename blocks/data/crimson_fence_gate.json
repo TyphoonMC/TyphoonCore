@@ -1,0 +1,194 @@
+[
+  {
+    "name": "minecraft:crimson_fence_gate[facing=north,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "718": 15260
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=south,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "718": 15267
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=south,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "718": 15265
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=west,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "718": 15274
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=south,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "718": 15270
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=west,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "718": 15276
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=north,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "718": 15258
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=south,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "718": 15269
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=north,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "718": 15255
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=west,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "718": 15271
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=east,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "718": 15282
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=east,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "718": 15284
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=south,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "718": 15263
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=north,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "718": 15256
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=south,in_wall=false,open=true,powered=false]",
+    "ids": {
+      "718": 15268
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=east,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "718": 15285
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=south,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "718": 15264
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=west,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "718": 15272
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=north,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "718": 15262
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=east,in_wall=true,open=true,powered=true]",
+    "ids": {
+      "718": 15279
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=north,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "718": 15261
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=south,in_wall=true,open=false,powered=false]",
+    "ids": {
+      "718": 15266
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=east,in_wall=true,open=true,powered=false]",
+    "ids": {
+      "718": 15280
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=east,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "718": 15281
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=east,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "718": 15283
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=north,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "718": 15257
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=west,in_wall=true,open=false,powered=true]",
+    "ids": {
+      "718": 15273
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=west,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "718": 15275
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=west,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "718": 15278
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=east,in_wall=false,open=false,powered=false]",
+    "ids": {
+      "718": 15286
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=north,in_wall=false,open=true,powered=true]",
+    "ids": {
+      "718": 15259
+    }
+  },
+  {
+    "name": "minecraft:crimson_fence_gate[facing=west,in_wall=false,open=false,powered=true]",
+    "ids": {
+      "718": 15277
+    }
+  }
+]

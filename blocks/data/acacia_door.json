@@ -1,0 +1,654 @@
+[
+  {
+    "name": "minecraft:acacia_door[facing=south,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7887,
+      "404": 7888,
+      "477": 8412,
+      "573": 8412,
+      "718": 8948
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7917,
+      "404": 7918,
+      "477": 8442,
+      "573": 8442,
+      "718": 8978
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7883,
+      "404": 7884,
+      "477": 8408,
+      "573": 8408,
+      "718": 8944
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7911,
+      "404": 7912,
+      "477": 8436,
+      "573": 8436,
+      "718": 8972
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7932,
+      "4": 3136,
+      "404": 7933,
+      "477": 8457,
+      "573": 8457,
+      "718": 8993
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7892,
+      "404": 7893,
+      "477": 8417,
+      "573": 8417,
+      "718": 8953
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7881,
+      "404": 7882,
+      "477": 8406,
+      "573": 8406,
+      "718": 8942
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7914,
+      "4": 3142,
+      "404": 7915,
+      "477": 8439,
+      "573": 8439,
+      "718": 8975
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7899,
+      "404": 7900,
+      "477": 8424,
+      "573": 8424,
+      "718": 8960
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7909,
+      "404": 7910,
+      "477": 8434,
+      "573": 8434,
+      "718": 8970
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7886,
+      "404": 7887,
+      "477": 8411,
+      "573": 8411,
+      "718": 8947
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7906,
+      "404": 7907,
+      "477": 8431,
+      "573": 8431,
+      "718": 8967
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7929,
+      "404": 7930,
+      "477": 8454,
+      "573": 8454,
+      "718": 8990
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7896,
+      "404": 7897,
+      "477": 8421,
+      "573": 8421,
+      "718": 8957
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7890,
+      "404": 7891,
+      "477": 8415,
+      "573": 8415,
+      "718": 8951
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7869,
+      "404": 7870,
+      "477": 8394,
+      "573": 8394,
+      "718": 8930
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7874,
+      "404": 7875,
+      "477": 8399,
+      "573": 8399,
+      "718": 8935
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7880,
+      "404": 7881,
+      "477": 8405,
+      "573": 8405,
+      "718": 8941
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7919,
+      "4": 3146,
+      "404": 7920,
+      "477": 8444,
+      "573": 8444,
+      "718": 8980
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7902,
+      "404": 7903,
+      "477": 8427,
+      "573": 8427,
+      "718": 8963
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7895,
+      "404": 7896,
+      "477": 8420,
+      "573": 8420,
+      "718": 8956
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7873,
+      "404": 7874,
+      "477": 8398,
+      "573": 8398,
+      "718": 8934
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7884,
+      "4": 3139,
+      "404": 7885,
+      "477": 8409,
+      "573": 8409,
+      "718": 8945
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7930,
+      "4": 3140,
+      "404": 7931,
+      "477": 8455,
+      "573": 8455,
+      "718": 8991
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7897,
+      "404": 7898,
+      "477": 8422,
+      "573": 8422,
+      "718": 8958
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7910,
+      "404": 7911,
+      "477": 8435,
+      "573": 8435,
+      "718": 8971
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7871,
+      "404": 7872,
+      "477": 8396,
+      "573": 8396,
+      "718": 8932
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7912,
+      "404": 7913,
+      "477": 8437,
+      "573": 8437,
+      "718": 8973
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7915,
+      "404": 7916,
+      "477": 8440,
+      "573": 8440,
+      "718": 8976
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7924,
+      "4": 3145,
+      "404": 7925,
+      "477": 8449,
+      "573": 8449,
+      "718": 8985
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7900,
+      "4": 3137,
+      "404": 7901,
+      "477": 8425,
+      "573": 8425,
+      "718": 8961
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7916,
+      "4": 3138,
+      "404": 7917,
+      "477": 8441,
+      "573": 8441,
+      "718": 8977
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7923,
+      "4": 3147,
+      "404": 7924,
+      "477": 8448,
+      "573": 8448,
+      "718": 8984
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7898,
+      "4": 3141,
+      "404": 7899,
+      "477": 8423,
+      "573": 8423,
+      "718": 8959
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7888,
+      "404": 7889,
+      "477": 8413,
+      "573": 8413,
+      "718": 8949
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7901,
+      "404": 7902,
+      "477": 8426,
+      "573": 8426,
+      "718": 8962
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7920,
+      "4": 3144,
+      "404": 7921,
+      "477": 8445,
+      "573": 8445,
+      "718": 8981
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7872,
+      "404": 7873,
+      "477": 8397,
+      "573": 8397,
+      "718": 8933
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7882,
+      "4": 3143,
+      "404": 7883,
+      "477": 8407,
+      "573": 8407,
+      "718": 8943
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7927,
+      "404": 7928,
+      "477": 8452,
+      "573": 8452,
+      "718": 8988
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=upper,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7885,
+      "404": 7886,
+      "477": 8410,
+      "573": 8410,
+      "718": 8946
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7921,
+      "404": 7922,
+      "477": 8446,
+      "573": 8446,
+      "718": 8982
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7878,
+      "404": 7879,
+      "477": 8403,
+      "573": 8403,
+      "718": 8939
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=upper,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7903,
+      "404": 7904,
+      "477": 8428,
+      "573": 8428,
+      "718": 8964
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7875,
+      "404": 7876,
+      "477": 8400,
+      "573": 8400,
+      "718": 8936
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7889,
+      "404": 7890,
+      "477": 8414,
+      "573": 8414,
+      "718": 8950
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7925,
+      "404": 7926,
+      "477": 8450,
+      "573": 8450,
+      "718": 8986
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7891,
+      "404": 7892,
+      "477": 8416,
+      "573": 8416,
+      "718": 8952
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=lower,hinge=left,open=false,powered=true]",
+    "ids": {
+      "393": 7879,
+      "404": 7880,
+      "477": 8404,
+      "573": 8404,
+      "718": 8940
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=lower,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7913,
+      "404": 7914,
+      "477": 8438,
+      "573": 8438,
+      "718": 8974
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7928,
+      "404": 7929,
+      "477": 8453,
+      "573": 8453,
+      "718": 8989
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7931,
+      "404": 7932,
+      "477": 8456,
+      "573": 8456,
+      "718": 8992
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7877,
+      "404": 7878,
+      "477": 8402,
+      "573": 8402,
+      "718": 8938
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=upper,hinge=right,open=false,powered=true]",
+    "ids": {
+      "393": 7907,
+      "404": 7908,
+      "477": 8432,
+      "573": 8432,
+      "718": 8968
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=upper,hinge=left,open=false,powered=false]",
+    "ids": {
+      "393": 7904,
+      "404": 7905,
+      "477": 8429,
+      "573": 8429,
+      "718": 8965
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7876,
+      "404": 7877,
+      "477": 8401,
+      "573": 8401,
+      "718": 8937
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7870,
+      "404": 7871,
+      "477": 8395,
+      "573": 8395,
+      "718": 8931
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7918,
+      "404": 7919,
+      "477": 8443,
+      "573": 8443,
+      "718": 8979
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=true,powered=false]",
+    "ids": {
+      "393": 7922,
+      "404": 7923,
+      "477": 8447,
+      "573": 8447,
+      "718": 8983
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7894,
+      "404": 7895,
+      "477": 8419,
+      "573": 8419,
+      "718": 8955
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=true,powered=false]",
+    "ids": {
+      "393": 7926,
+      "404": 7927,
+      "477": 8451,
+      "573": 8451,
+      "718": 8987
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=south,half=lower,hinge=left,open=true,powered=true]",
+    "ids": {
+      "393": 7893,
+      "404": 7894,
+      "477": 8418,
+      "573": 8418,
+      "718": 8954
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=upper,hinge=right,open=false,powered=false]",
+    "ids": {
+      "393": 7908,
+      "404": 7909,
+      "477": 8433,
+      "573": 8433,
+      "718": 8969
+    }
+  },
+  {
+    "name": "minecraft:acacia_door[facing=west,half=upper,hinge=right,open=true,powered=true]",
+    "ids": {
+      "393": 7905,
+      "404": 7906,
+      "477": 8430,
+      "573": 8430,
+      "718": 8966
+    }
+  }
+]

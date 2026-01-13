@@ -1,0 +1,26 @@
+[
+  {
+    "name": "minecraft:soul_wall_torch[facing=north]",
+    "ids": {
+      "718": 4009
+    }
+  },
+  {
+    "name": "minecraft:soul_wall_torch[facing=east]",
+    "ids": {
+      "718": 4012
+    }
+  },
+  {
+    "name": "minecraft:soul_wall_torch[facing=south]",
+    "ids": {
+      "718": 4010
+    }
+  },
+  {
+    "name": "minecraft:soul_wall_torch[facing=west]",
+    "ids": {
+      "718": 4011
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_jungle_wood[axis=z]",
+    "ids": {
+      "393": 137,
+      "404": 137,
+      "477": 137,
+      "573": 137,
+      "718": 138
+    }
+  },
+  {
+    "name": "minecraft:stripped_jungle_wood[axis=x]",
+    "ids": {
+      "393": 135,
+      "404": 135,
+      "477": 135,
+      "573": 135,
+      "718": 136
+    }
+  },
+  {
+    "name": "minecraft:stripped_jungle_wood[axis=y]",
+    "ids": {
+      "393": 136,
+      "404": 136,
+      "477": 136,
+      "573": 136,
+      "718": 137
+    }
+  }
+]

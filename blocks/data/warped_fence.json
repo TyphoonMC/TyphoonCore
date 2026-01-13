@@ -1,0 +1,194 @@
+[
+  {
+    "name": "minecraft:warped_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15098
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15097
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15108
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15122
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15119
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=true,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15114
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=false,south=true,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15106
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15113
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15100
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=true,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15116
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15124
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15112
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15121
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=false,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15103
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15101
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15095
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15096
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15110
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15102
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15099
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15109
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15125
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=false,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15126
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15123
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=true,south=false,waterlogged=false,west=false]",
+    "ids": {
+      "718": 15118
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=true,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15115
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=true,south=true,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15111
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=false,south=true,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15105
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15120
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=false,north=true,south=false,waterlogged=false,west=true]",
+    "ids": {
+      "718": 15117
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=false,south=true,waterlogged=true,west=false]",
+    "ids": {
+      "718": 15104
+    }
+  },
+  {
+    "name": "minecraft:warped_fence[east=true,north=false,south=false,waterlogged=true,west=true]",
+    "ids": {
+      "718": 15107
+    }
+  }
+]

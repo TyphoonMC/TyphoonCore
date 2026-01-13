@@ -1,0 +1,66 @@
+[
+  {
+    "name": "minecraft:smoker[facing=west,lit=true]",
+    "ids": {
+      "477": 11151,
+      "573": 11151,
+      "718": 14807
+    }
+  },
+  {
+    "name": "minecraft:smoker[facing=north,lit=true]",
+    "ids": {
+      "477": 11147,
+      "573": 11147,
+      "718": 14803
+    }
+  },
+  {
+    "name": "minecraft:smoker[facing=south,lit=true]",
+    "ids": {
+      "477": 11149,
+      "573": 11149,
+      "718": 14805
+    }
+  },
+  {
+    "name": "minecraft:smoker[facing=east,lit=false]",
+    "ids": {
+      "477": 11154,
+      "573": 11154,
+      "718": 14810
+    }
+  },
+  {
+    "name": "minecraft:smoker[facing=east,lit=true]",
+    "ids": {
+      "477": 11153,
+      "573": 11153,
+      "718": 14809
+    }
+  },
+  {
+    "name": "minecraft:smoker[facing=north,lit=false]",
+    "ids": {
+      "477": 11148,
+      "573": 11148,
+      "718": 14804
+    }
+  },
+  {
+    "name": "minecraft:smoker[facing=south,lit=false]",
+    "ids": {
+      "477": 11150,
+      "573": 11150,
+      "718": 14806
+    }
+  },
+  {
+    "name": "minecraft:smoker[facing=west,lit=false]",
+    "ids": {
+      "477": 11152,
+      "573": 11152,
+      "718": 14808
+    }
+  }
+]

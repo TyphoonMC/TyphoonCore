@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:wither_skeleton_wall_skull[facing=west]",
+    "ids": {
+      "393": 5469,
+      "404": 5470,
+      "477": 5992,
+      "573": 5992,
+      "718": 6528
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_wall_skull[facing=east]",
+    "ids": {
+      "393": 5470,
+      "404": 5471,
+      "477": 5993,
+      "573": 5993,
+      "718": 6529
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_wall_skull[facing=north]",
+    "ids": {
+      "393": 5467,
+      "404": 5468,
+      "477": 5990,
+      "573": 5990,
+      "718": 6526
+    }
+  },
+  {
+    "name": "minecraft:wither_skeleton_wall_skull[facing=south]",
+    "ids": {
+      "393": 5468,
+      "404": 5469,
+      "477": 5991,
+      "573": 5991,
+      "718": 6527
+    }
+  }
+]

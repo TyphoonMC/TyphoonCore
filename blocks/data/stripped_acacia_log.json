@@ -1,0 +1,32 @@
+[
+  {
+    "name": "minecraft:stripped_acacia_log[axis=z]",
+    "ids": {
+      "393": 101,
+      "404": 101,
+      "477": 101,
+      "573": 101,
+      "718": 102
+    }
+  },
+  {
+    "name": "minecraft:stripped_acacia_log[axis=y]",
+    "ids": {
+      "393": 100,
+      "404": 100,
+      "477": 100,
+      "573": 100,
+      "718": 101
+    }
+  },
+  {
+    "name": "minecraft:stripped_acacia_log[axis=x]",
+    "ids": {
+      "393": 99,
+      "404": 99,
+      "477": 99,
+      "573": 99,
+      "718": 100
+    }
+  }
+]

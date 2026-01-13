@@ -1,0 +1,134 @@
+[
+  {
+    "name": "minecraft:moving_piston[facing=east,type=sticky]",
+    "ids": {
+      "393": 1102,
+      "4": 589,
+      "404": 1102,
+      "477": 1402,
+      "573": 1402,
+      "718": 1403
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=north,type=normal]",
+    "ids": {
+      "393": 1099,
+      "4": 578,
+      "404": 1099,
+      "477": 1399,
+      "573": 1399,
+      "718": 1400
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=west,type=normal]",
+    "ids": {
+      "393": 1105,
+      "4": 580,
+      "404": 1105,
+      "477": 1405,
+      "573": 1405,
+      "718": 1406
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=down,type=normal]",
+    "ids": {
+      "393": 1109,
+      "4": 576,
+      "404": 1109,
+      "477": 1409,
+      "573": 1409,
+      "718": 1410
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=down,type=sticky]",
+    "ids": {
+      "393": 1110,
+      "4": 584,
+      "404": 1110,
+      "477": 1410,
+      "573": 1410,
+      "718": 1411
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=north,type=sticky]",
+    "ids": {
+      "393": 1100,
+      "4": 586,
+      "404": 1100,
+      "477": 1400,
+      "573": 1400,
+      "718": 1401
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=up,type=sticky]",
+    "ids": {
+      "393": 1108,
+      "4": 585,
+      "404": 1108,
+      "477": 1408,
+      "573": 1408,
+      "718": 1409
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=up,type=normal]",
+    "ids": {
+      "393": 1107,
+      "4": 577,
+      "404": 1107,
+      "477": 1407,
+      "573": 1407,
+      "718": 1408
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=south,type=sticky]",
+    "ids": {
+      "393": 1104,
+      "4": 587,
+      "404": 1104,
+      "477": 1404,
+      "573": 1404,
+      "718": 1405
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=east,type=normal]",
+    "ids": {
+      "393": 1101,
+      "4": 581,
+      "404": 1101,
+      "477": 1401,
+      "573": 1401,
+      "718": 1402
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=west,type=sticky]",
+    "ids": {
+      "393": 1106,
+      "4": 588,
+      "404": 1106,
+      "477": 1406,
+      "573": 1406,
+      "718": 1407
+    }
+  },
+  {
+    "name": "minecraft:moving_piston[facing=south,type=normal]",
+    "ids": {
+      "393": 1103,
+      "4": 579,
+      "404": 1103,
+      "477": 1403,
+      "573": 1403,
+      "718": 1404
+    }
+  }
+]

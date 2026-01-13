@@ -19,50 +19,55 @@ func newPlayerRegistry() *PlayerRegistry {
 func (player *Player) register() {
 	reg := player.core.playerRegistry
 	reg.playersMutex.Lock()
+	defer reg.playersMutex.Unlock()
 	reg.players[player.id] = player
 	reg.playersCount++
-	reg.playersMutex.Unlock()
 }
 
 func (player *Player) unregister() {
 	reg := player.core.playerRegistry
 	reg.playersMutex.Lock()
+	defer reg.playersMutex.Unlock()
 	if _, ok := reg.players[player.id]; ok {
 		reg.playersCount--
 	}
 	delete(reg.players, player.id)
-	reg.playersMutex.Unlock()
 }
 
 func (registry *PlayerRegistry) ForEachPlayer(fn func(player *Player)) {
-	registry.playersMutex.Lock()
+	registry.playersMutex.RLock()
+	defer registry.playersMutex.RUnlock()
 	for _, player := range registry.players {
 		fn(player)
 	}
-	registry.playersMutex.Unlock()
 }
 
 func (registry *PlayerRegistry) ForEachPlayerAsync(fn func(player *Player)) {
+	registry.playersMutex.RLock()
+	var wg sync.WaitGroup
 	for _, player := range registry.players {
-		go fn(player)
+		wg.Add(1)
+		go func(p *Player) {
+			defer wg.Done()
+			fn(p)
+		}(player)
 	}
+	registry.playersMutex.RUnlock()
+	wg.Wait()
 }
 
 func (registry *PlayerRegistry) GetPlayerCount() int {
 	registry.playersMutex.RLock()
-	i := registry.playersCount
-	registry.playersMutex.RUnlock()
-	return i
+	defer registry.playersMutex.RUnlock()
+	return registry.playersCount
 }
 
 func (registry *PlayerRegistry) GetPlayers() []*Player {
 	registry.playersMutex.RLock()
-	players := make([]*Player, len(registry.players))
-	i := 0
+	defer registry.playersMutex.RUnlock()
+	players := make([]*Player, 0, len(registry.players))
 	for _, pl := range registry.players {
-		players[i] = pl
-		i++
+		players = append(players, pl)
 	}
-	registry.playersMutex.RUnlock()
 	return players
 }

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "minecraft:dragon_wall_head[facing=east]",
+    "ids": {
+      "393": 5550,
+      "404": 5551,
+      "477": 6073,
+      "573": 6073,
+      "718": 6609
+    }
+  },
+  {
+    "name": "minecraft:dragon_wall_head[facing=south]",
+    "ids": {
+      "393": 5548,
+      "404": 5549,
+      "477": 6071,
+      "573": 6071,
+      "718": 6607
+    }
+  },
+  {
+    "name": "minecraft:dragon_wall_head[facing=north]",
+    "ids": {
+      "393": 5547,
+      "404": 5548,
+      "477": 6070,
+      "573": 6070,
+      "718": 6606
+    }
+  },
+  {
+    "name": "minecraft:dragon_wall_head[facing=west]",
+    "ids": {
+      "393": 5549,
+      "404": 5550,
+      "477": 6072,
+      "573": 6072,
+      "718": 6608
+    }
+  }
+]

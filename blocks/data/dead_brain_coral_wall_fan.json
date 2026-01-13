@@ -1,0 +1,82 @@
+[
+  {
+    "name": "minecraft:dead_brain_coral_wall_fan[facing=west,waterlogged=false]",
+    "ids": {
+      "393": 8477,
+      "404": 8493,
+      "477": 9037,
+      "573": 9037,
+      "718": 9573
+    }
+  },
+  {
+    "name": "minecraft:dead_brain_coral_wall_fan[facing=south,waterlogged=true]",
+    "ids": {
+      "393": 8474,
+      "404": 8490,
+      "477": 9034,
+      "573": 9034,
+      "718": 9570
+    }
+  },
+  {
+    "name": "minecraft:dead_brain_coral_wall_fan[facing=north,waterlogged=false]",
+    "ids": {
+      "393": 8473,
+      "404": 8489,
+      "477": 9033,
+      "573": 9033,
+      "718": 9569
+    }
+  },
+  {
+    "name": "minecraft:dead_brain_coral_wall_fan[facing=east,waterlogged=true]",
+    "ids": {
+      "393": 8478,
+      "404": 8494,
+      "477": 9038,
+      "573": 9038,
+      "718": 9574
+    }
+  },
+  {
+    "name": "minecraft:dead_brain_coral_wall_fan[facing=east,waterlogged=false]",
+    "ids": {
+      "393": 8479,
+      "404": 8495,
+      "477": 9039,
+      "573": 9039,
+      "718": 9575
+    }
+  },
+  {
+    "name": "minecraft:dead_brain_coral_wall_fan[facing=north,waterlogged=true]",
+    "ids": {
+      "393": 8472,
+      "404": 8488,
+      "477": 9032,
+      "573": 9032,
+      "718": 9568
+    }
+  },
+  {
+    "name": "minecraft:dead_brain_coral_wall_fan[facing=south,waterlogged=false]",
+    "ids": {
+      "393": 8475,
+      "404": 8491,
+      "477": 9035,
+      "573": 9035,
+      "718": 9571
+    }
+  },
+  {
+    "name": "minecraft:dead_brain_coral_wall_fan[facing=west,waterlogged=true]",
+    "ids": {
+      "393": 8476,
+      "404": 8492,
+      "477": 9036,
+      "573": 9036,
+      "718": 9572
+    }
+  }
+]

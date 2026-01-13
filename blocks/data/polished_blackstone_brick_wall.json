@@ -1,0 +1,1946 @@
+[
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16617
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16613
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16450
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16460
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16545
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16614
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16637
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16576
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16536
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16560
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16373
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16526
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16529
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16363
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16389
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16416
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16506
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16484
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16629
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16423
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16497
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16521
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16558
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16347
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16647
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16355
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16598
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16578
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16651
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16568
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16594
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16494
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16507
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16501
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16518
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16414
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16520
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16618
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16430
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16381
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16608
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16451
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16606
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16378
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16541
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16349
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16505
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16544
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16569
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16661
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16402
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16500
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16449
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16447
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16361
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16632
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16364
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16653
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16472
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16531
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16621
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16480
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16424
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16399
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16376
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16469
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16585
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16385
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16626
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16564
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16586
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16546
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16415
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16425
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16459
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16400
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16470
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16580
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16566
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16474
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16537
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16426
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16644
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16552
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16625
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16645
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16571
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16362
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16384
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16535
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16563
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16570
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16652
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16592
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16590
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16565
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16342
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16439
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16419
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16341
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16517
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16522
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16561
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16485
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16616
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16588
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16523
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16562
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16604
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16432
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16467
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16639
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16530
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16370
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16412
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16631
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16463
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16348
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16455
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16369
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16610
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16375
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16496
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16392
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16600
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16350
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16508
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16421
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16659
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16461
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16556
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16603
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16587
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16394
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16374
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16650
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16478
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16540
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16366
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16352
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16491
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16547
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16346
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16372
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16481
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16615
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16345
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16390
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16411
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16655
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16410
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16465
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16435
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16427
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16553
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16591
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16396
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16550
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16538
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16354
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16510
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16582
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16371
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16405
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16513
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16475
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16493
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16393
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16539
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16452
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16440
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16557
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16605
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16607
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16458
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16609
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16612
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16388
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16597
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16413
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16340
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16509
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16391
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16577
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16654
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16511
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16382
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16512
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16503
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16596
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16498
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16479
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16431
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16567
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16456
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16433
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16573
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16643
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16555
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16620
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16358
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16525
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16516
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16656
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16499
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16492
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16519
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16551
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16581
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16641
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16611
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16584
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16397
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16471
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16527
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16380
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16473
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16640
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16437
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16466
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16438
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16579
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16622
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16404
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16575
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16401
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16351
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16367
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16548
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16368
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16628
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16663
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16543
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16633
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16660
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16648
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16623
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16634
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16489
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16445
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16476
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16443
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16428
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16642
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16601
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16408
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16619
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16468
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16377
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16662
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16599
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16357
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16407
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16572
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16638
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16487
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16528
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16434
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16383
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16409
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16524
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16379
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16657
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16533
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16453
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16343
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16514
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16636
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16574
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16658
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16602
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16490
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16483
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16353
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16417
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16457
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16344
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16462
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16418
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16595
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16444
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16386
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16360
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16583
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16387
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16365
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16532
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16454
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16359
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16488
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16502
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16446
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16422
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=tall,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16589
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16403
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16436
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16495
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16624
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16477
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16429
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16542
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16486
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=tall,up=false,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16627
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16554
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16442
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=none,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16420
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16559
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16395
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16441
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16448
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16464
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16635
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=false,west=none]",
+    "ids": {
+      "718": 16649
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=tall]",
+    "ids": {
+      "718": 16549
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=tall,up=false,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16515
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=tall,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16406
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16356
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=true,west=low]",
+    "ids": {
+      "718": 16593
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=low,south=low,up=false,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16504
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16398
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=none,south=tall,up=false,waterlogged=false,west=low]",
+    "ids": {
+      "718": 16482
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=low,north=tall,south=low,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16534
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=low,up=false,waterlogged=true,west=none]",
+    "ids": {
+      "718": 16646
+    }
+  },
+  {
+    "name": "minecraft:polished_blackstone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=true,west=tall]",
+    "ids": {
+      "718": 16630
+    }
+  }
+]

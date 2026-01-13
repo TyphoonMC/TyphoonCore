@@ -1,0 +1,20 @@
+[
+  {
+    "name": "minecraft:stripped_warped_hyphae[axis=z]",
+    "ids": {
+      "718": 14969
+    }
+  },
+  {
+    "name": "minecraft:stripped_warped_hyphae[axis=y]",
+    "ids": {
+      "718": 14968
+    }
+  },
+  {
+    "name": "minecraft:stripped_warped_hyphae[axis=x]",
+    "ids": {
+      "718": 14967
+    }
+  }
+]

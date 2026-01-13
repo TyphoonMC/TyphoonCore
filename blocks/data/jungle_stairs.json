@@ -1,0 +1,810 @@
+[
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5080,
+      "404": 5081,
+      "477": 5584,
+      "573": 5584,
+      "718": 5600
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5098,
+      "404": 5099,
+      "477": 5602,
+      "573": 5602,
+      "718": 5618
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5054,
+      "404": 5055,
+      "477": 5558,
+      "573": 5558,
+      "718": 5574
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5116,
+      "404": 5117,
+      "477": 5620,
+      "573": 5620,
+      "718": 5636
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5102,
+      "404": 5103,
+      "477": 5606,
+      "573": 5606,
+      "718": 5622
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5096,
+      "404": 5097,
+      "477": 5600,
+      "573": 5600,
+      "718": 5616
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5061,
+      "404": 5062,
+      "477": 5565,
+      "573": 5565,
+      "718": 5581
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5087,
+      "404": 5088,
+      "477": 5591,
+      "573": 5591,
+      "718": 5607
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5103,
+      "404": 5104,
+      "477": 5607,
+      "573": 5607,
+      "718": 5623
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5095,
+      "4": 2177,
+      "404": 5096,
+      "477": 5599,
+      "573": 5599,
+      "718": 5615
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5083,
+      "404": 5084,
+      "477": 5587,
+      "573": 5587,
+      "718": 5603
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5059,
+      "404": 5060,
+      "477": 5563,
+      "573": 5563,
+      "718": 5579
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5089,
+      "404": 5090,
+      "477": 5593,
+      "573": 5593,
+      "718": 5609
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5117,
+      "404": 5118,
+      "477": 5621,
+      "573": 5621,
+      "718": 5637
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5046,
+      "404": 5047,
+      "477": 5550,
+      "573": 5550,
+      "718": 5566
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5063,
+      "404": 5064,
+      "477": 5567,
+      "573": 5567,
+      "718": 5583
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5079,
+      "404": 5080,
+      "477": 5583,
+      "573": 5583,
+      "718": 5599
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5114,
+      "404": 5115,
+      "477": 5618,
+      "573": 5618,
+      "718": 5634
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5105,
+      "4": 2180,
+      "404": 5106,
+      "477": 5609,
+      "573": 5609,
+      "718": 5625
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5058,
+      "404": 5059,
+      "477": 5562,
+      "573": 5562,
+      "718": 5578
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5062,
+      "404": 5063,
+      "477": 5566,
+      "573": 5566,
+      "718": 5582
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5113,
+      "404": 5114,
+      "477": 5617,
+      "573": 5617,
+      "718": 5633
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5099,
+      "404": 5100,
+      "477": 5603,
+      "573": 5603,
+      "718": 5619
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5057,
+      "404": 5058,
+      "477": 5561,
+      "573": 5561,
+      "718": 5577
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5070,
+      "404": 5071,
+      "477": 5574,
+      "573": 5574,
+      "718": 5590
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5075,
+      "4": 2178,
+      "404": 5076,
+      "477": 5579,
+      "573": 5579,
+      "718": 5595
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5108,
+      "404": 5109,
+      "477": 5612,
+      "573": 5612,
+      "718": 5628
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5107,
+      "404": 5108,
+      "477": 5611,
+      "573": 5611,
+      "718": 5627
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5092,
+      "404": 5093,
+      "477": 5596,
+      "573": 5596,
+      "718": 5612
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5084,
+      "404": 5085,
+      "477": 5588,
+      "573": 5588,
+      "718": 5604
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5074,
+      "404": 5075,
+      "477": 5578,
+      "573": 5578,
+      "718": 5594
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5097,
+      "404": 5098,
+      "477": 5601,
+      "573": 5601,
+      "718": 5617
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5081,
+      "404": 5082,
+      "477": 5585,
+      "573": 5585,
+      "718": 5601
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5115,
+      "4": 2176,
+      "404": 5116,
+      "477": 5619,
+      "573": 5619,
+      "718": 5635
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5100,
+      "404": 5101,
+      "477": 5604,
+      "573": 5604,
+      "718": 5620
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5069,
+      "404": 5070,
+      "477": 5573,
+      "573": 5573,
+      "718": 5589
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5120,
+      "404": 5121,
+      "477": 5624,
+      "573": 5624,
+      "718": 5640
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5111,
+      "404": 5112,
+      "477": 5615,
+      "573": 5615,
+      "718": 5631
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5044,
+      "404": 5045,
+      "477": 5548,
+      "573": 5548,
+      "718": 5564
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5055,
+      "4": 2179,
+      "404": 5056,
+      "477": 5559,
+      "573": 5559,
+      "718": 5575
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5073,
+      "404": 5074,
+      "477": 5577,
+      "573": 5577,
+      "718": 5593
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5109,
+      "404": 5110,
+      "477": 5613,
+      "573": 5613,
+      "718": 5629
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5065,
+      "4": 2182,
+      "404": 5066,
+      "477": 5569,
+      "573": 5569,
+      "718": 5585
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5045,
+      "4": 2183,
+      "404": 5046,
+      "477": 5549,
+      "573": 5549,
+      "718": 5565
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5056,
+      "404": 5057,
+      "477": 5560,
+      "573": 5560,
+      "718": 5576
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5088,
+      "404": 5089,
+      "477": 5592,
+      "573": 5592,
+      "718": 5608
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5122,
+      "404": 5123,
+      "477": 5626,
+      "573": 5626,
+      "718": 5642
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5076,
+      "404": 5077,
+      "477": 5580,
+      "573": 5580,
+      "718": 5596
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5106,
+      "404": 5107,
+      "477": 5610,
+      "573": 5610,
+      "718": 5626
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5052,
+      "404": 5053,
+      "477": 5556,
+      "573": 5556,
+      "718": 5572
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5118,
+      "404": 5119,
+      "477": 5622,
+      "573": 5622,
+      "718": 5638
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5072,
+      "404": 5073,
+      "477": 5576,
+      "573": 5576,
+      "718": 5592
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5048,
+      "404": 5049,
+      "477": 5552,
+      "573": 5552,
+      "718": 5568
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5068,
+      "404": 5069,
+      "477": 5572,
+      "573": 5572,
+      "718": 5588
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5093,
+      "404": 5094,
+      "477": 5597,
+      "573": 5597,
+      "718": 5613
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5067,
+      "404": 5068,
+      "477": 5571,
+      "573": 5571,
+      "718": 5587
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5086,
+      "404": 5087,
+      "477": 5590,
+      "573": 5590,
+      "718": 5606
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5047,
+      "404": 5048,
+      "477": 5551,
+      "573": 5551,
+      "718": 5567
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5053,
+      "404": 5054,
+      "477": 5557,
+      "573": 5557,
+      "718": 5573
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]",
+    "ids": {
+      "393": 5077,
+      "404": 5078,
+      "477": 5581,
+      "573": 5581,
+      "718": 5597
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5064,
+      "404": 5065,
+      "477": 5568,
+      "573": 5568,
+      "718": 5584
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=true]",
+    "ids": {
+      "393": 5078,
+      "404": 5079,
+      "477": 5582,
+      "573": 5582,
+      "718": 5598
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5071,
+      "404": 5072,
+      "477": 5575,
+      "573": 5575,
+      "718": 5591
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5049,
+      "404": 5050,
+      "477": 5553,
+      "573": 5553,
+      "718": 5569
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5082,
+      "404": 5083,
+      "477": 5586,
+      "573": 5586,
+      "718": 5602
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5101,
+      "404": 5102,
+      "477": 5605,
+      "573": 5605,
+      "718": 5621
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5051,
+      "404": 5052,
+      "477": 5555,
+      "573": 5555,
+      "718": 5571
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5121,
+      "404": 5122,
+      "477": 5625,
+      "573": 5625,
+      "718": 5641
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=south,half=top,shape=inner_left,waterlogged=true]",
+    "ids": {
+      "393": 5066,
+      "404": 5067,
+      "477": 5570,
+      "573": 5570,
+      "718": 5586
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]",
+    "ids": {
+      "393": 5091,
+      "404": 5092,
+      "477": 5595,
+      "573": 5595,
+      "718": 5611
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=bottom,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5094,
+      "404": 5095,
+      "477": 5598,
+      "573": 5598,
+      "718": 5614
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5110,
+      "404": 5111,
+      "477": 5614,
+      "573": 5614,
+      "718": 5630
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]",
+    "ids": {
+      "393": 5123,
+      "404": 5124,
+      "477": 5627,
+      "573": 5627,
+      "718": 5643
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5050,
+      "404": 5051,
+      "477": 5554,
+      "573": 5554,
+      "718": 5570
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=straight,waterlogged=true]",
+    "ids": {
+      "393": 5104,
+      "404": 5105,
+      "477": 5608,
+      "573": 5608,
+      "718": 5624
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]",
+    "ids": {
+      "393": 5119,
+      "404": 5120,
+      "477": 5623,
+      "573": 5623,
+      "718": 5639
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=east,half=top,shape=outer_right,waterlogged=true]",
+    "ids": {
+      "393": 5112,
+      "404": 5113,
+      "477": 5616,
+      "573": 5616,
+      "718": 5632
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5090,
+      "404": 5091,
+      "477": 5594,
+      "573": 5594,
+      "718": 5610
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=true]",
+    "ids": {
+      "393": 5060,
+      "404": 5061,
+      "477": 5564,
+      "573": 5564,
+      "718": 5580
+    }
+  },
+  {
+    "name": "minecraft:jungle_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+    "ids": {
+      "393": 5085,
+      "4": 2181,
+      "404": 5086,
+      "477": 5589,
+      "573": 5589,
+      "718": 5605
+    }
+  }
+]

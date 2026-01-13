@@ -1,0 +1,66 @@
+[
+  {
+    "name": "minecraft:acacia_wall_sign[facing=west,waterlogged=false]",
+    "ids": {
+      "477": 3762,
+      "573": 3762,
+      "718": 3764
+    }
+  },
+  {
+    "name": "minecraft:acacia_wall_sign[facing=south,waterlogged=false]",
+    "ids": {
+      "477": 3760,
+      "573": 3760,
+      "718": 3762
+    }
+  },
+  {
+    "name": "minecraft:acacia_wall_sign[facing=north,waterlogged=true]",
+    "ids": {
+      "477": 3757,
+      "573": 3757,
+      "718": 3759
+    }
+  },
+  {
+    "name": "minecraft:acacia_wall_sign[facing=east,waterlogged=true]",
+    "ids": {
+      "477": 3763,
+      "573": 3763,
+      "718": 3765
+    }
+  },
+  {
+    "name": "minecraft:acacia_wall_sign[facing=south,waterlogged=true]",
+    "ids": {
+      "477": 3759,
+      "573": 3759,
+      "718": 3761
+    }
+  },
+  {
+    "name": "minecraft:acacia_wall_sign[facing=north,waterlogged=false]",
+    "ids": {
+      "477": 3758,
+      "573": 3758,
+      "718": 3760
+    }
+  },
+  {
+    "name": "minecraft:acacia_wall_sign[facing=east,waterlogged=false]",
+    "ids": {
+      "477": 3764,
+      "573": 3764,
+      "718": 3766
+    }
+  },
+  {
+    "name": "minecraft:acacia_wall_sign[facing=west,waterlogged=true]",
+    "ids": {
+      "477": 3761,
+      "573": 3761,
+      "718": 3763
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "minecraft:dark_oak_pressure_plate[powered=false]",
+    "ids": {
+      "393": 3378,
+      "404": 3379,
+      "477": 3882,
+      "573": 3882,
+      "718": 3884
+    }
+  },
+  {
+    "name": "minecraft:dark_oak_pressure_plate[powered=true]",
+    "ids": {
+      "393": 3377,
+      "404": 3378,
+      "477": 3881,
+      "573": 3881,
+      "718": 3883
+    }
+  }
+]
